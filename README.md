@@ -12,7 +12,7 @@
 
 > A curated list of awesome Magento 2 Extensions & Resources
 
-- [What is an awesome list?](awesome.md)
+- [What is an awesome list?](https://github.com/sindresorhus/awesome/blob/master/awesome.md)
 - [Contribution guide](contributing.md)
 
 
