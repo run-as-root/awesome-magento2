@@ -37,9 +37,9 @@ You might be interested in the [Awesome List for Magento 1](https://github.com/D
 - [staempfli/magento2-code-generator](https://github.com/staempfli/magento2-code-generator)
 
 ## Extensions
-- [staempfli/magento2-module-image-resizer](https://github.com/staempfli/magento2-module-image-resizer)
+<!--- [staempfli/magento2-module-image-resizer](https://github.com/staempfli/magento2-module-image-resizer)
 - [staempfli/magento2-module-pdf](https://github.com/staempfli/magento2-module-pdf)
-- [staempfli/magento2-module-spreadsheet](https://github.com/staempfli/magento2-module-spreadsheet)
+- [staempfli/magento2-module-spreadsheet](https://github.com/staempfli/magento2-module-spreadsheet)-->
 
 ### Open Source
 
