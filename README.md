@@ -1,5 +1,15 @@
 # Awesome Magento 2
 
+## Contents
+
+- [Tools](#tools)
+- [Extensions](#extensions)
+- [Blogs](#blogs)
+- [Learning](#learning)
+- [Platforms](#platforms)
+- [Official Resources](#official)
+
+
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 <h1 align="center">
@@ -18,15 +28,6 @@
 
 You might be interested in the [Awesome List for Magento 1](https://github.com/DavidLambauer/awesome-magento) as well.
 
-
-## Contents
-
-- [Tools](#tools)
-- [Extensions](#extensions)
-- [Blogs](#blogs)
-- [Learning](#learning)
-- [Platforms](#platforms)
-- [Official Resources](#official)
 
 ## Tools
 
