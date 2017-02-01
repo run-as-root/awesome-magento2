@@ -101,4 +101,4 @@ Thanks [Anna Völkl](https://github.com/avoelkl) & [Sander Mangel](https://githu
 - [Magento Official Website](https://www.magento.com)
 - [Magento Developer Documentation](http://devdocs.magento.com/)
 - [Magento Forum](https://community.magento.com/)
-
+- [Magento Github Repository](https://github.com/magento/magento2)
