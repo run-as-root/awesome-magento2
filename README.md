@@ -12,7 +12,7 @@
 
 > A curated list of awesome Magento 2 Extensions & Resources
 
-- [What is an awesome list?](awesome.md)
+- [What is an awesome list?](https://github.com/sindresorhus/awesome/blob/master/awesome.md)
 - [Contribution guide](contributing.md)
 
 
@@ -41,6 +41,23 @@ You might be interested in the [Awesome List for Magento 1](https://github.com/D
 - [staempfli/magento2-module-pdf](https://github.com/staempfli/magento2-module-pdf)
 - [staempfli/magento2-module-spreadsheet](https://github.com/staempfli/magento2-module-spreadsheet)
 
+### Open Source
+
+#### CLI
+
+- [Config ImportExport](https://github.com/semaio/Magento2-ConfigImportExport)
+
+#### Require Dev (Tests are not mandatory for this section)
+
+- [Codesniffer](https://github.com/magento-ecg/coding-standard)
+- [Whoops Exceptions](https://github.com/yireo/Yireo_Whoops)
+- [Developer Toolbar](https://github.com/mgtcommerce/Mgt_Developertoolbar) 
+
+#### Language Packs (Tests are not mandatory for this section)
+
+- [ru_RU](https://packagist.org/packages/etws/magento-language-ru_ru)
+- [de_DE](https://github.com/splendidinternet/Magento2_German_LocalePack_de_DE)
+
 
 ## Blogs
 
@@ -58,6 +75,7 @@ You might be interested in the [Awesome List for Magento 1](https://github.com/D
 ## Platforms
 
 - [Commercehero](https://commercehero.io/)
+- [StackExchange](http://magento.stackexchange.com/)	
 
 ## Official Resources
 
