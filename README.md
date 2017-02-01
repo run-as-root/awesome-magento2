@@ -34,12 +34,12 @@ You might be interested in the [Awesome List for Magento 1](https://github.com/D
 - [Pestle](https://github.com/astorm/pestle)
 - [Documentation Search for Alfred](https://github.com/DavidLambauer/Alfred-Workflow-Magento-2-DevDocs-Search)
 - [Mage2Gen](https://mage2gen.com/)
+- [staempfli/magento2-code-generator](https://github.com/staempfli/magento2-code-generator)
 
 ## Extensions
-- [staempfli/magento2-module-image-resizer](https://github.com/staempfli/magento2-module-image-resizer) Magento 2 Module to add simple image resizing capabilities in all blocks and .phtml templates
-- [staempfli/magento2-module-pdf](https://github.com/staempfli/magento2-module-pdf) Magento 2 Module for creating PDF's based on wkhtmltopdf
-- [staempfli/magento2-module-spreadsheet](https://github.com/staempfli/magento2-module-spreadsheet) Magento 2 Module for parsing xlsx, xlsm and csv files from Excel
-- [staempfli/magento2-code-generator](https://github.com/staempfli/magento2-code-generator) Code generator for Magento 2 Edit
+- [staempfli/magento2-module-image-resizer](https://github.com/staempfli/magento2-module-image-resizer)
+- [staempfli/magento2-module-pdf](https://github.com/staempfli/magento2-module-pdf)
+- [staempfli/magento2-module-spreadsheet](https://github.com/staempfli/magento2-module-spreadsheet)
 
 
 ## Blogs
@@ -50,6 +50,7 @@ You might be interested in the [Awesome List for Magento 1](https://github.com/D
 - [Atwix](https://www.atwix.com/blog/)
 - [Max Pronko's Devletter](https://maxpronko.us13.list-manage.com/subscribe/post?u=1522a03b7b9e6dea003fad97a&id=dc6b454824)
 - [MageTalk](http://magetalk.com/)
+- [Marcel Hauri](https://blog.hauri.me/)
 
 ## Learning
 - [Vinai Kopp Mage2Katas](https://www.youtube.com/channel/UCRFDWo7jTlrpEsJxzc7WyPw)
