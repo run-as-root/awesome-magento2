@@ -56,4 +56,5 @@ You might be interested in the [Awesome List for Magento 1](https://github.com/D
 
 - [Magento Official Website](https://www.magento.com)
 - [Magento Developer Documentation](http://devdocs.magento.com/)
+- [Magento Forum](https://community.magento.com/)
 
