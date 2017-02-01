@@ -43,6 +43,7 @@ You might be interested in the [Awesome List for Magento 1](https://github.com/D
 - [Alan Storm](http://alanstorm.com/category/magento-2/)
 - [inchoo](http://inchoo.net/category/magento-2/)
 - [Atwix](https://www.atwix.com/blog/)
+- [Max Pronko's Devletter](https://maxpronko.us13.list-manage.com/subscribe/post?u=1522a03b7b9e6dea003fad97a&id=dc6b454824)
 
 
 ## Learning
