@@ -16,6 +16,9 @@
 - [Contribution guide](contributing.md)
 
 
+You might be interested in the [Awesome List for Magento 1](https://github.com/DavidLambauer/awesome-magento) as well.
+
+
 ## Contents
 
 - [Tools](#tools)
