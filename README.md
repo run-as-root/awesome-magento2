@@ -43,11 +43,12 @@ You might be interested in the [Awesome List for Magento 1](https://github.com/D
 
 - [Config ImportExport](https://github.com/semaio/Magento2-ConfigImportExport)
 
-#### Require Dev
+#### Require Dev (Tests are not mandatory for this section)
 
 - [Whoops Exceptions](https://github.com/yireo/Yireo_Whoops)
+- [Developer Toolbar](https://github.com/mgtcommerce/Mgt_Developertoolbar) 
 
-#### Language Packs
+#### Language Packs (Tests are not mandatory for this section)
 
 - [ru_RU](https://packagist.org/packages/etws/magento-language-ru_ru)
 - [de_DE](https://github.com/splendidinternet/Magento2_German_LocalePack_de_DE)
