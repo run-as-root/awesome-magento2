@@ -36,7 +36,11 @@ You might be interested in the [Awesome List for Magento 1](https://github.com/D
 - [Mage2Gen](https://mage2gen.com/)
 
 ## Extensions
-- Be the first one, who adds an awesome extension!
+- [staempfli/magento2-module-image-resizer](https://github.com/staempfli/magento2-module-image-resizer) Magento 2 Module to add simple image resizing capabilities in all blocks and .phtml templates
+- [staempfli/magento2-module-pdf](https://github.com/staempfli/magento2-module-pdf) Magento 2 Module for creating PDF's based on wkhtmltopdf
+- [staempfli/magento2-module-spreadsheet](https://github.com/staempfli/magento2-module-spreadsheet) Magento 2 Module for parsing xlsx, xlsm and csv files from Excel
+- [staempfli/magento2-code-generator](https://github.com/staempfli/magento2-code-generator) Code generator for Magento 2 Edit
+
 
 ## Blogs
 
