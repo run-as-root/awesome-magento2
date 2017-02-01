@@ -36,6 +36,11 @@ You might be interested in the [Awesome List for Magento 1](https://github.com/D
 - [Mage2Gen](https://mage2gen.com/)
 
 ## Extensions
+
+### Open Source
+
+#### CLI
+
 - [Config ImportExport](https://github.com/semaio/Magento2-ConfigImportExport)
 
 ## Blogs
