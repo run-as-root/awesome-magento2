@@ -90,6 +90,9 @@ Thanks [Anna Völkl](https://github.com/avoelkl) & [Sander Mangel](https://githu
 - [Vinai Kopp Mage2Katas](https://www.youtube.com/channel/UCRFDWo7jTlrpEsJxzc7WyPw)
 
 ### MageTitans MCR 2016
+
+Thanks for sharing the Talks [MageTitans MCR](http://www.magetitans.co.uk/)
+
 - [Jon Woodall - Welcome Remarks](https://www.youtube.com/watch?v=D2DDMgazdAQ&list=PLwB4Uz_0hoVMOnBRS49ICbNWOU5jhNNWC&index=1)
 - [Jonathan Bowers - UKFast](https://www.youtube.com/watch?v=oI5Q-qnew6g&list=PLwB4Uz_0hoVMOnBRS49ICbNWOU5jhNNWC&index=2)
 - [Ben Guest Host Prank](https://www.youtube.com/watch?v=p4f0fT1bA0c&list=PLwB4Uz_0hoVMOnBRS49ICbNWOU5jhNNWC&index=3)
