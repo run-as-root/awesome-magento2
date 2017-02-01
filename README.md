@@ -33,6 +33,7 @@ You might be interested in the [Awesome List for Magento 1](https://github.com/D
 - [n98-magerun2](http://magerun.net/)
 - [Pestle](https://github.com/astorm/pestle)
 - [Documentation Search for Alfred](https://github.com/DavidLambauer/Alfred-Workflow-Magento-2-DevDocs-Search)
+- [Mage2Gen](https://mage2gen.com/)
 
 ## Extensions
 - Be the first one, who adds an awesome extension!
@@ -44,7 +45,7 @@ You might be interested in the [Awesome List for Magento 1](https://github.com/D
 - [inchoo](http://inchoo.net/category/magento-2/)
 - [Atwix](https://www.atwix.com/blog/)
 - [Max Pronko's Devletter](https://maxpronko.us13.list-manage.com/subscribe/post?u=1522a03b7b9e6dea003fad97a&id=dc6b454824)
-
+- [MageTalk](http://magetalk.com/)
 
 ## Learning
 - [Vinai Kopp Mage2Katas](https://www.youtube.com/channel/UCRFDWo7jTlrpEsJxzc7WyPw)
