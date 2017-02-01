@@ -2,18 +2,6 @@
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-## Contents
-
-- [Tools](#tools)
-- [Extensions](#extensions)
-- [Blogs](#blogs)
-- [Learning](#learning)
-- [Platforms](#platforms)
-- [Official Resources](#official)
-
-
-
-
 <h1 align="center">
 	<br>
 	<img width="300" src="https://github.com/DavidLambauer/awesome-magento2/blob/master/media/awesome-magento-logo.png" alt="awesome magento2 logo">
@@ -29,6 +17,16 @@
 
 
 You might be interested in the [Awesome List for Magento 1](https://github.com/DavidLambauer/awesome-magento) as well.
+
+
+## Contents
+
+- [Tools](#tools)
+- [Extensions](#extensions)
+- [Blogs](#blogs)
+- [Learning](#learning)
+- [Platforms](#platforms)
+- [Official Resources](#official)
 
 
 ## Tools
