@@ -19,21 +19,39 @@
 
 ## Contents
 
+- [Tools](#tools)
 - [Extensions](#extensions)
 - [Blogs](#blogs)
 - [Learning](#learning)
-- [Jobs](#jobs)
+- [Platforms](#platforms)
 - [Official Resources](#official)
 
+## Tools
+
+- [n98-magerun2](http://magerun.net/)
+- [Pestle](https://github.com/astorm/pestle)
+- [Documentation Search for Alfred](https://github.com/DavidLambauer/Alfred-Workflow-Magento-2-DevDocs-Search)
 
 ## Extensions
+- Be the first one, who adds an awesome extension!
 
 ## Blogs
 
+- [dev98](https://dev98.de/)
+- [Alan Storm](http://alanstorm.com/category/magento-2/)
+- [inchoo](http://inchoo.net/category/magento-2/)
+- [Atwix](https://www.atwix.com/blog/)
+
+
 ## Learning
+- [Vinai Kopp Mage2Katas](https://www.youtube.com/channel/UCRFDWo7jTlrpEsJxzc7WyPw)
 
 ## Platforms
 
 - [Commercehero](https://commercehero.io/)
 
 ## Official Resources
+
+- [Magento Official Website](https://www.magento.com)
+- [Magento Developer Documentation](http://devdocs.magento.com/)
+
