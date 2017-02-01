@@ -69,6 +69,7 @@ You might be interested in the [Awesome List for Magento 1](https://github.com/D
 ## Platforms
 
 - [Commercehero](https://commercehero.io/)
+- [StackExchange](http://magento.stackexchange.com/)	
 
 ## Official Resources
 
