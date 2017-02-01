@@ -57,7 +57,8 @@ You might be interested in the [Awesome List for Magento 1](https://github.com/D
 
 - [ru_RU](https://packagist.org/packages/etws/magento-language-ru_ru)
 - [de_DE](https://github.com/splendidinternet/Magento2_German_LocalePack_de_DE)
-
+- [de_CH](https://github.com/staempfli/magento2-language-de-ch)
+- [fr_FR](https://github.com/Imaginaerum/magento2-language-fr-fr)
 
 ## Blogs
 
