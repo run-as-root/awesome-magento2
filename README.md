@@ -32,7 +32,7 @@
 
 ## Learning
 
-## Plat	forms
+## Platforms
 
 - [Commercehero](https://commercehero.io/)
 
