@@ -4,7 +4,7 @@
 
 <h1 align="center">
 	<br>
-	<img width="400" src="https://github.com/DavidLambauer/awesome-magento2/blob/master/media/awesome-magento-logo.png" alt="awesome magento2 logo">
+	<img width="300" src="https://github.com/DavidLambauer/awesome-magento2/blob/master/media/awesome-magento-logo.png" alt="awesome magento2 logo">
 	<br>
 	<br>
 	<br>
