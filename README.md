@@ -68,6 +68,10 @@ You might be interested in the [Awesome List for Magento 1](https://github.com/D
 - [Max Pronko's Devletter](https://maxpronko.us13.list-manage.com/subscribe/post?u=1522a03b7b9e6dea003fad97a&id=dc6b454824)
 - [MageTalk](http://magetalk.com/)
 - [Marcel Hauri](https://blog.hauri.me/)
+- [Fabian Schmengler](https://www.schmengler-se.de/)
+- [integer_net blog](https://www.integer-net.com/blog/)
+- [Anna Völkl](http://anna.voelkl.at/)
+- [Rebecca L Troth](http://rebeccatroth.co.uk/)
 
 ## Learning
 - [Vinai Kopp Mage2Katas](https://www.youtube.com/channel/UCRFDWo7jTlrpEsJxzc7WyPw)
