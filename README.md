@@ -45,6 +45,7 @@ You might be interested in the [Awesome List for Magento 1](https://github.com/D
 
 #### Require Dev (Tests are not mandatory for this section)
 
+- [Codesniffer](https://github.com/magento-ecg/coding-standard)
 - [Whoops Exceptions](https://github.com/yireo/Yireo_Whoops)
 - [Developer Toolbar](https://github.com/mgtcommerce/Mgt_Developertoolbar) 
 
