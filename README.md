@@ -31,8 +31,11 @@ You might be interested in the [Awesome List for Magento 1](https://github.com/D
 ## Tools
 
 - [n98-magerun2](http://magerun.net/)
-- [Pestle](https://github.com/astorm/pestle)
 - [Documentation Search for Alfred](https://github.com/DavidLambauer/Alfred-Workflow-Magento-2-DevDocs-Search)
+
+### Code Generation
+
+- [Pestle](https://github.com/astorm/pestle)
 - [Mage2Gen](https://mage2gen.com/)
 - [staempfli/magento2-code-generator](https://github.com/staempfli/magento2-code-generator)
 
