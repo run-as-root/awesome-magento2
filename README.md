@@ -87,27 +87,13 @@ Thanks [Anna Völkl](https://github.com/avoelkl) & [Sander Mangel](https://githu
 ## Learning
 - [Vinai Kopp Mage2Katas](https://www.youtube.com/channel/UCRFDWo7jTlrpEsJxzc7WyPw)
 - [Max Bucknell Magento 2 Javascript](https://www.youtube.com/watch?v=tHxebA-jOSo)
+- [MageTitans Italia 2016](https://www.youtube.com/playlist?list=PLwB4Uz_0hoVP3Fm_c4HfNPK5JdRD6DIDl)
+- [MageTitans USA/Texas 2016](https://www.youtube.com/playlist?list=PLwB4Uz_0hoVOLU7LPRNL4lAmJeAv7HQ-b)
+- [MageTitans MCR 2016](https://www.youtube.com/playlist?list=PLwB4Uz_0hoVMOnBRS49ICbNWOU5jhNNWC)
 
-### MageTitans MCR 2016
 
-Thanks for sharing the Talks [MageTitans MCR](http://www.magetitans.co.uk/)
+Thanks for sharing the Talks [MageTitans](http://www.magetitans.co.uk/)
 
-- [Jon Woodall - Welcome Remarks](https://www.youtube.com/watch?v=D2DDMgazdAQ&list=PLwB4Uz_0hoVMOnBRS49ICbNWOU5jhNNWC&index=1)
-- [Jonathan Bowers - UKFast](https://www.youtube.com/watch?v=oI5Q-qnew6g&list=PLwB4Uz_0hoVMOnBRS49ICbNWOU5jhNNWC&index=2)
-- [Ben Guest Host Prank](https://www.youtube.com/watch?v=p4f0fT1bA0c&list=PLwB4Uz_0hoVMOnBRS49ICbNWOU5jhNNWC&index=3)
-- [Fabian Schmengler - Porting A Complex Extension To Magento 2](https://www.youtube.com/watch?list=PLwB4Uz_0hoVMOnBRS49ICbNWOU5jhNNWC&v=fm_yvS6cZe8)
-- [Vinai Kopp - Stories from the Other Side](https://www.youtube.com/watch?v=BhyEbk5bv1c&list=PLwB4Uz_0hoVMOnBRS49ICbNWOU5jhNNWC&index=5)
-- [Tony Brown - An Optimisation Story](https://www.youtube.com/watch?list=PLwB4Uz_0hoVMOnBRS49ICbNWOU5jhNNWC&v=GLJ85ppV2Hk)
-- [Max Bucknell - Present & Future of Front-End Development in Magento 2](https://www.youtube.com/watch?list=PLwB4Uz_0hoVMOnBRS49ICbNWOU5jhNNWC&v=C-mGM7RBs0U)
-- [James Cowie - Object(ivly) thinking](https://www.youtube.com/watch?list=PLwB4Uz_0hoVMOnBRS49ICbNWOU5jhNNWC&v=btH5DJ6P_OU)
-- [Vitaly Korotun - Building complex forms with Magento 2 UI Components](https://www.youtube.com/watch?v=95_Sw2zX8Cc)
-- [Fabrizio Branca - Redundancy Rocks. Redundancy Rocks](https://www.youtube.com/watch?list=PLwB4Uz_0hoVMOnBRS49ICbNWOU5jhNNWC&v=roFZhYtl4qA)
-- [Anna Volkl - Secure Input and Output Handling](https://www.youtube.com/watch?list=PLwB4Uz_0hoVMOnBRS49ICbNWOU5jhNNWC&v=b2LdJiPMXWY)
-- [Max Pronko - Ups and Downs of Real Projects based on Magento 2](https://www.youtube.com/watch?v=WNrWEAgJIfg&index=12&list=PLwB4Uz_0hoVMOnBRS49ICbNWOU5jhNNWC)
-- [Tadhg Bowe - Migrating Data from Magento 1 to Magento 2](https://www.youtube.com/watch?v=8oBYKGzEVTk&index=13&list=PLwB4Uz_0hoVMOnBRS49ICbNWOU5jhNNWC) :toilet:
-- [Rebecca Troth - Magento is for life, not just for Christmas](https://www.youtube.com/watch?v=DQ_AajuiSHA&index=14&list=PLwB4Uz_0hoVMOnBRS49ICbNWOU5jhNNWC)
-- [Nils Preuß - Evolution of the Core Import Interface](https://www.youtube.com/watch?v=Py5U3vuMBW8&list=PLwB4Uz_0hoVMOnBRS49ICbNWOU5jhNNWC&index=15)
-- [Jason Woosley - Community Engagement 2.0](https://www.youtube.com/watch?v=1iKCw24cHa0&index=16&list=PLwB4Uz_0hoVMOnBRS49ICbNWOU5jhNNWC)
 
 ## Platforms
 
