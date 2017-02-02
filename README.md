@@ -41,9 +41,7 @@ You might be interested in the [Awesome List for Magento 1](https://github.com/D
 - [staempfli/magento2-code-generator](https://github.com/staempfli/magento2-code-generator)
 
 ## Extensions
-<!--- [staempfli/magento2-module-image-resizer](https://github.com/staempfli/magento2-module-image-resizer)
-- [staempfli/magento2-module-pdf](https://github.com/staempfli/magento2-module-pdf)
-- [staempfli/magento2-module-spreadsheet](https://github.com/staempfli/magento2-module-spreadsheet)-->
+
 
 ### Open Source
 
@@ -88,6 +86,7 @@ Thanks [Anna Völkl](https://github.com/avoelkl) & [Sander Mangel](https://githu
 
 ## Learning
 - [Vinai Kopp Mage2Katas](https://www.youtube.com/channel/UCRFDWo7jTlrpEsJxzc7WyPw)
+- [Max Bucknell Magento 2 Javascript](https://www.youtube.com/watch?v=tHxebA-jOSo)
 
 ### MageTitans MCR 2016
 
@@ -114,6 +113,7 @@ Thanks for sharing the Talks [MageTitans MCR](http://www.magetitans.co.uk/)
 
 - [Commercehero](https://commercehero.io/)
 - [StackExchange](http://magento.stackexchange.com/)	
+- [Magetalk](http://magetalk.com/)
 
 ## Official Resources
 
@@ -121,3 +121,15 @@ Thanks for sharing the Talks [MageTitans MCR](http://www.magetitans.co.uk/)
 - [Magento Developer Documentation](http://devdocs.magento.com/)
 - [Magento Forum](https://community.magento.com/)
 - [Magento Github Repository](https://github.com/magento/magento2)
+
+
+## Uninspected Resources
+
+!!!WARNING - The following resources haven't been sorted, categorized, approved or inspected yet.!!!
+
+To add these resources, help to make the single resource better and better until it's awesome. Most of them just need some minor improvements, like adding Unit Tests or improve the Readme.
+
+- [staempfli/magento2-module-image-resizer](https://github.com/staempfli/magento2-module-image-resizer)
+- [staempfli/magento2-module-pdf](https://github.com/staempfli/magento2-module-pdf)
+- [staempfli/magento2-module-spreadsheet](https://github.com/staempfli/magento2-module-spreadsheet)	
+
