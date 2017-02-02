@@ -43,12 +43,8 @@ You might be interested in the [Awesome List for Magento 1](https://github.com/D
 
 ### Open Source
 
-#### CLI
-
-- [Config ImportExport](https://github.com/semaio/Magento2-ConfigImportExport)
-
 #### Require Dev (Tests are not mandatory for this section)
-
+- [Config ImportExport](https://github.com/semaio/Magento2-ConfigImportExport)
 - [Codesniffer](https://github.com/magento-ecg/coding-standard)
 - [Whoops Exceptions](https://github.com/yireo/Yireo_Whoops)
 - [Developer Toolbar](https://github.com/mgtcommerce/Mgt_Developertoolbar) 
