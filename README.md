@@ -103,11 +103,11 @@ Thanks [MageTitans](http://www.magetitans.co.uk/) for sharing the Talks on YouTu
 - [Magento Github Repository](https://github.com/magento/magento2)
 
 
-## Uninspected Resources
+## COOL BUT NOT AWESOME YET! 
 
-!!!WARNING - The following resources haven't been sorted, categorized, approved or inspected yet.!!!
+!!!WARNING - The following resources haven't been sorted, categorized, approved, tested, documented or inspected yet.!!!
 
-To add these resources, help to make the single resource better and better until it's awesome. Most of them just need some minor improvements, like adding Unit Tests or improve the Readme.
+To add these resources to the list, help to make the specific resource better and better until it's awesome. Most of them just need some minor improvements, like adding Unit Tests or improve the Readme.
 
 - [staempfli/magento2-module-image-resizer](https://github.com/staempfli/magento2-module-image-resizer)
 - [staempfli/magento2-module-pdf](https://github.com/staempfli/magento2-module-pdf)
