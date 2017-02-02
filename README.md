@@ -112,4 +112,4 @@ To add these resources, help to make the single resource better and better until
 - [staempfli/magento2-module-image-resizer](https://github.com/staempfli/magento2-module-image-resizer)
 - [staempfli/magento2-module-pdf](https://github.com/staempfli/magento2-module-pdf)
 - [staempfli/magento2-module-spreadsheet](https://github.com/staempfli/magento2-module-spreadsheet)	
-
+- [Firebear Import/Export](https://github.com/firebearstudio/importexport)
