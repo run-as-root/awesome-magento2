@@ -90,7 +90,7 @@ Thanks [Anna Völkl](https://github.com/avoelkl) & [Sander Mangel](https://githu
 - [MageTitans MCR 2016](https://www.youtube.com/playlist?list=PLwB4Uz_0hoVMOnBRS49ICbNWOU5jhNNWC)
 
 
-Thanks for sharing the Talks [MageTitans](http://www.magetitans.co.uk/)
+Thanks [MageTitans](http://www.magetitans.co.uk/) for sharing the Talks on YouTube.
 
 
 ## Platforms
