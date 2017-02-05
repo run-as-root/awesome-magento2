@@ -65,6 +65,10 @@ You might be interested in the [Awesome List for Magento 1](https://github.com/D
 
 Thanks [Anna Völkl](https://github.com/avoelkl) & [Sander Mangel](https://github.com/sandermangel) for collecting all the language packs! 
 
+#### Search 
+
+- [Algolia Search Interation](https://github.com/algolia/algoliasearch-magento-2)
+
 ## Blogs
 
 - [dev98](https://dev98.de/)
