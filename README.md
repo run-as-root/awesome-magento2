@@ -26,7 +26,6 @@ You might be interested in the [Awesome List for Magento 1](https://github.com/D
 - [Platforms](#platforms)
 - [Official Resources](#official)
 
-
 ## Tools
 
 - [n98-magerun2](http://magerun.net/)
@@ -68,6 +67,10 @@ Thanks [Anna Völkl](https://github.com/avoelkl) & [Sander Mangel](https://githu
 #### Search 
 
 - [Algolia Search Interation](https://github.com/algolia/algoliasearch-magento-2)
+
+#### CMS 
+
+- [Mageplaza Blog Extension](https://github.com/mageplaza/magento-2-blog-extension)
 
 ## Blogs
 
