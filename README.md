@@ -26,7 +26,7 @@ You might be interested in the [Awesome List for Magento 1](https://github.com/D
 - [Platforms](#platforms)
 - [Official Resources](#official)
 
-## Tools
+## Tools 
 
 - [n98-magerun2](http://magerun.net/)
 - [Documentation Search for Alfred](https://github.com/DavidLambauer/Alfred-Workflow-Magento-2-DevDocs-Search)
@@ -53,18 +53,18 @@ You might be interested in the [Awesome List for Magento 1](https://github.com/D
 
 - [ru_RU](https://packagist.org/packages/etws/magento-language-ru_ru) :ru:
 - [de_DE](https://github.com/splendidinternet/Magento2_German_LocalePack_de_DE) :de:
-- [de_CH](https://github.com/staempfli/magento2-language-de-ch)
+- [de_CH](https://github.com/staempfli/magento2-language-de-ch) 🇨🇭
 - [fr_FR](https://github.com/Imaginaerum/magento2-language-fr-fr) :fr:
-- [da_DK](https://magentodanmark.dk/) 
+- [da_DK](https://magentodanmark.dk/) 🇩🇰
 - [es_ES](https://github.com/eusonlito/magento2-language-es_es) :es:
 - [it_IT](https://github.com/antoniocarboni/magento2-traduzione-italiana) :it:
-- [nl_NL](https://bitbucket.org/creaminternet/language-nl_nl.git)
-- [pl_PL](https://github.com/SnowdogApps/magento2-pl_pl) 
+- [nl_NL](https://bitbucket.org/creaminternet/language-nl_nl.git) 🇳🇱
+- [pl_PL](https://github.com/SnowdogApps/magento2-pl_pl) 🇵🇱
 - [tr_TR](https://github.com/hidonet/magento2-language-tr_tr) :tr:
-- [ro_RO](https://github.com/EaDesgin/magento2-romanian-language-pack)
-- [fi_FL](https://github.com/mageplaza/magento-2-finnish-language-pack)
-- [ko_KR](https://github.com/mageplaza/magento-2-korean-language-pack)
-- [sk_SK](https://github.com/mageplaza/magento-2-slovak-language-pack)
+- [ro_RO](https://github.com/EaDesgin/magento2-romanian-language-pack) 🇷🇴
+- [fi_FL](https://github.com/mageplaza/magento-2-finnish-language-pack) 🇫🇮
+- [ko_KR](https://github.com/mageplaza/magento-2-korean-language-pack) 🇰🇷
+- [sk_SK](https://github.com/mageplaza/magento-2-slovak-language-pack) 🇸🇰
 
 Thanks [Anna Völkl](https://github.com/avoelkl) & [Sander Mangel](https://github.com/sandermangel) for collecting all the language packs! 
 
@@ -80,11 +80,15 @@ Thanks [Anna Völkl](https://github.com/avoelkl) & [Sander Mangel](https://githu
 
 - [MagePlaza Seo](https://github.com/mageplaza/magento-2-seo-extension)
 - [Magemonkey Mailchimp Integration](https://github.com/ebizmarts/magento2-magemonkey)
+- [staempfli/magento2-module-pdf](https://github.com/staempfli/magento2-module-pdf)
 
 #### Adminhtml / Backend
 
 - [Customer Force Login](https://github.com/bitExpert/magento2-force-login)
 - [Checkout Tester](https://github.com/yireo/Yireo_CheckoutTester2)
+- [Firebear Import/Export](https://github.com/firebearstudio/importexport)
+- [staempfli/magento2-module-image-resizer](https://github.com/staempfli/magento2-module-image-resizer)
+- [staempfli/magento2-module-spreadsheet](https://github.com/staempfli/magento2-module-spreadsheet)	
 
 ## Blogs
 
@@ -125,14 +129,3 @@ Thanks [MageTitans](http://www.magetitans.co.uk/) for sharing the Talks on YouTu
 - [Magento Github Repository](https://github.com/magento/magento2)
 - [Magento PHP CS Fixer](https://github.com/magento/marketplace-eqp)
 
-
-## COOL BUT NOT AWESOME YET! 
-
-!!!WARNING - The following resources haven't been sorted, categorized, approved, tested, documented or inspected yet.!!!
-
-To add these resources to the list, help to make the specific resource better and better until it's awesome. Most of them just need some minor improvements, like adding Unit Tests or improve the Readme.
-
-- [staempfli/magento2-module-image-resizer](https://github.com/staempfli/magento2-module-image-resizer)
-- [staempfli/magento2-module-pdf](https://github.com/staempfli/magento2-module-pdf)
-- [staempfli/magento2-module-spreadsheet](https://github.com/staempfli/magento2-module-spreadsheet)	
-- [Firebear Import/Export](https://github.com/firebearstudio/importexport)
