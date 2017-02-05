@@ -47,6 +47,7 @@ You might be interested in the [Awesome List for Magento 1](https://github.com/D
 - [Codesniffer](https://github.com/magento-ecg/coding-standard)
 - [Whoops Exceptions](https://github.com/yireo/Yireo_Whoops)
 - [Developer Toolbar](https://github.com/mgtcommerce/Mgt_Developertoolbar) 
+- [Advanced Template Hints](https://github.com/ho-nl/magento2-Ho_Templatehints)
 
 #### Language Packs (Tests are not mandatory for this section)
 
@@ -61,6 +62,9 @@ You might be interested in the [Awesome List for Magento 1](https://github.com/D
 - [pl_PL](https://github.com/SnowdogApps/magento2-pl_pl) 
 - [tr_TR](https://github.com/hidonet/magento2-language-tr_tr) :tr:
 - [ro_RO](https://github.com/EaDesgin/magento2-romanian-language-pack)
+- [fi_FL](https://github.com/mageplaza/magento-2-finnish-language-pack)
+- [ko_KR](https://github.com/mageplaza/magento-2-korean-language-pack)
+- [sk_SK](https://github.com/mageplaza/magento-2-slovak-language-pack)
 
 Thanks [Anna Völkl](https://github.com/avoelkl) & [Sander Mangel](https://github.com/sandermangel) for collecting all the language packs! 
 
@@ -71,6 +75,16 @@ Thanks [Anna Völkl](https://github.com/avoelkl) & [Sander Mangel](https://githu
 #### CMS 
 
 - [Mageplaza Blog Extension](https://github.com/mageplaza/magento-2-blog-extension)
+
+#### Marketing
+
+- [MagePlaza Seo](https://github.com/mageplaza/magento-2-seo-extension)
+- [Magemonkey Mailchimp Integration](https://github.com/ebizmarts/magento2-magemonkey)
+
+#### Adminhtml / Backend
+
+- [Customer Force Login](https://github.com/bitExpert/magento2-force-login)
+- [Checkout Tester](https://github.com/yireo/Yireo_CheckoutTester2)
 
 ## Blogs
 
