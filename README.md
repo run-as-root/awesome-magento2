@@ -129,4 +129,5 @@ Thanks [MageTitans](http://www.magetitans.co.uk/) for sharing the Talks on YouTu
 - [Magento Github Repository](https://github.com/magento/magento2)
 - [Magento PHP CS Fixer](https://github.com/magento/marketplace-eqp)
 - [Magento Blog](https://blog.magento.com)
+- [Magento Developer Blog](https://community.magento.com/t5/Magento-DevBlog/bg-p/devblog?nobounce=)
 
