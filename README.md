@@ -117,9 +117,9 @@ Thanks [MageTitans](http://www.magetitans.co.uk/) for sharing the Talks on YouTu
 
 ## Platforms
 
-- [Commercehero](https://commercehero.io/)
+- [Commercehero.io](https://commercehero.io/)
 - [StackExchange](http://magento.stackexchange.com/)	
-- [Magetalk](http://magetalk.com/)
+- [MageTalk: A Magento Community Podcast](http://magetalk.com/)
 
 ## Official Resources
 
