@@ -39,7 +39,6 @@ You might be interested in the [Awesome List for Magento 1](https://github.com/D
 
 ## Extensions
 
-
 ### Open Source
 
 #### Require Dev (Tests are not mandatory for this section)
@@ -89,6 +88,11 @@ Thanks [Anna Völkl](https://github.com/avoelkl) & [Sander Mangel](https://githu
 - [Firebear Import/Export](https://github.com/firebearstudio/importexport)
 - [staempfli/magento2-module-image-resizer](https://github.com/staempfli/magento2-module-image-resizer)
 - [staempfli/magento2-module-spreadsheet](https://github.com/staempfli/magento2-module-spreadsheet)	
+
+
+### Proprietary
+
+- [Commercebug Debugging Extension](http://store.pulsestorm.net/products/commerce-bug-3) 
 
 ## Blogs
 
