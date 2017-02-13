@@ -128,4 +128,5 @@ Thanks [MageTitans](http://www.magetitans.co.uk/) for sharing the Talks on YouTu
 - [Magento Forum](https://community.magento.com/)
 - [Magento Github Repository](https://github.com/magento/magento2)
 - [Magento PHP CS Fixer](https://github.com/magento/marketplace-eqp)
+- [Magento Blog](https://blog.magento.com)
 
