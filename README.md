@@ -92,7 +92,7 @@ Thanks [Anna Völkl](https://github.com/avoelkl) & [Sander Mangel](https://githu
 
 ### Proprietary
 
-- [Commercebug Debugging Extension](http://store.pulsestorm.net/products/commerce-bug-3) 
+- [Commercebug Debugging Extension - $99.95](http://store.pulsestorm.net/products/commerce-bug-3) 
 
 ## Blogs
 
