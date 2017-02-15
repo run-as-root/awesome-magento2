@@ -107,6 +107,9 @@ Thanks [Anna Völkl](https://github.com/avoelkl) & [Sander Mangel](https://githu
 - [integer_net blog](https://www.integer-net.com/blog/)
 - [Anna Völkl](http://anna.voelkl.at/)
 - [Rebecca L Troth](http://rebeccatroth.co.uk/)
+- [Alan Kent](https://alankent.me/)
+- [FireBear Studio](https://firebearstudio.com/blog)
+- [Pierrefay](https://www.pierrefay.com/en/tag/magento2.html)
 
 ## Learning
 - [Vinai Kopp Mage2Katas](https://www.youtube.com/channel/UCRFDWo7jTlrpEsJxzc7WyPw)
