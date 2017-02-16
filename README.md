@@ -26,7 +26,7 @@ You might be interested in the [Awesome List for Magento 1](https://github.com/D
 - [Platforms](#platforms)
 - [Official Resources](#official)
 
-## Tools 
+## Tools
 
 - [n98-magerun2](http://magerun.net/)
 - [Documentation Search for Alfred](https://github.com/DavidLambauer/Alfred-Workflow-Magento-2-DevDocs-Search)
@@ -45,7 +45,7 @@ You might be interested in the [Awesome List for Magento 1](https://github.com/D
 - [Config ImportExport](https://github.com/semaio/Magento2-ConfigImportExport)
 - [Codesniffer](https://github.com/magento-ecg/coding-standard)
 - [Whoops Exceptions](https://github.com/yireo/Yireo_Whoops)
-- [Developer Toolbar](https://github.com/mgtcommerce/Mgt_Developertoolbar) 
+- [Developer Toolbar](https://github.com/mgtcommerce/Mgt_Developertoolbar)
 - [Advanced Template Hints](https://github.com/ho-nl/magento2-Ho_Templatehints)
 
 #### Language Packs (Tests are not mandatory for this section)
@@ -64,14 +64,15 @@ You might be interested in the [Awesome List for Magento 1](https://github.com/D
 - [fi_FL](https://github.com/mageplaza/magento-2-finnish-language-pack) 🇫🇮
 - [ko_KR](https://github.com/mageplaza/magento-2-korean-language-pack) 🇰🇷
 - [sk_SK](https://github.com/mageplaza/magento-2-slovak-language-pack) 🇸🇰
+- [sl_SI](https://github.com/symfony-si/magento2-sl_si) 🇸🇮
 
-Thanks [Anna Völkl](https://github.com/avoelkl) & [Sander Mangel](https://github.com/sandermangel) for collecting all the language packs! 
+Thanks [Anna Völkl](https://github.com/avoelkl) & [Sander Mangel](https://github.com/sandermangel) for collecting all the language packs!
 
-#### Search 
+#### Search
 
 - [Algolia Search Interation](https://github.com/algolia/algoliasearch-magento-2)
 
-#### CMS 
+#### CMS
 
 - [Mageplaza Blog Extension](https://github.com/mageplaza/magento-2-blog-extension)
 
@@ -87,12 +88,12 @@ Thanks [Anna Völkl](https://github.com/avoelkl) & [Sander Mangel](https://githu
 - [Checkout Tester](https://github.com/yireo/Yireo_CheckoutTester2)
 - [Firebear Import/Export](https://github.com/firebearstudio/importexport)
 - [staempfli/magento2-module-image-resizer](https://github.com/staempfli/magento2-module-image-resizer)
-- [staempfli/magento2-module-spreadsheet](https://github.com/staempfli/magento2-module-spreadsheet)	
+- [staempfli/magento2-module-spreadsheet](https://github.com/staempfli/magento2-module-spreadsheet)
 
 
 ### Proprietary
 
-- [Commercebug Debugging Extension - $99.95](http://store.pulsestorm.net/products/commerce-bug-3) 
+- [Commercebug Debugging Extension - $99.95](http://store.pulsestorm.net/products/commerce-bug-3)
 
 ## Blogs
 
@@ -125,7 +126,7 @@ Thanks [MageTitans](http://www.magetitans.co.uk/) for sharing the Talks on YouTu
 ## Platforms
 
 - [Commercehero.io](https://commercehero.io/)
-- [StackExchange](http://magento.stackexchange.com/)	
+- [StackExchange](http://magento.stackexchange.com/)
 - [MageTalk: A Magento Community Podcast](http://magetalk.com/)
 
 ## Official Resources
