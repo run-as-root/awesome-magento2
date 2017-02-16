@@ -71,6 +71,7 @@ Thanks [Anna Völkl](https://github.com/avoelkl) & [Sander Mangel](https://githu
 #### Search
 
 - [Algolia Search Interation](https://github.com/algolia/algoliasearch-magento-2)
+- [Elastic Suite Integration](https://github.com/Smile-SA/elasticsuite/)
 
 #### CMS
 
