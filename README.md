@@ -28,54 +28,54 @@ You might be interested in the [Awesome List for Magento 1](https://github.com/D
 
 ## Tools
 
-- [n98-magerun2](http://magerun.net/)
-- [Documentation Search for Alfred](https://github.com/DavidLambauer/Alfred-Workflow-Magento-2-DevDocs-Search)
+- [n98-magerun2](http://magerun.net/) - The CLI Swiss Army Knife for Magento 2.
+- [Documentation Search for Alfred](https://github.com/DavidLambauer/Alfred-Workflow-Magento-2-DevDocs-Search) - Easily integrate the official Magento 2 Search into your Alfred Workflows.
 
 ### Code Generation
 
-- [Pestle](https://github.com/astorm/pestle)
-- [Mage2Gen](https://mage2gen.com/)
-- [staempfli/magento2-code-generator](https://github.com/staempfli/magento2-code-generator)
+- [Pestle](https://github.com/astorm/pestle) - Code Generation Tool by Alan Storm.
+- [Mage2Gen](https://mage2gen.com/) - Online Module Creator.
+- [Magento 2 Code Generator](https://github.com/staempfli/magento2-code-generator) - Code Generator by Marcel Hauri.
 
 ## Extensions
 
 ### Open Source
 
 #### Require Dev (Tests are not mandatory for this section)
-- [Config ImportExport](https://github.com/semaio/Magento2-ConfigImportExport)
-- [Codesniffer](https://github.com/magento-ecg/coding-standard)
-- [Whoops Exceptions](https://github.com/yireo/Yireo_Whoops)
-- [Developer Toolbar](https://github.com/mgtcommerce/Mgt_Developertoolbar)
-- [Advanced Template Hints](https://github.com/ho-nl/magento2-Ho_Templatehints)
+- [Config ImportExport](https://github.com/semaio/Magento2-ConfigImportExport) - CLI Based Config Management.
+- [Codesniffer](https://github.com/magento-ecg/coding-standard) - Magento 2 Codesniffer.
+- [Whoops Exceptions](https://github.com/yireo/Yireo_Whoops) - PHP Exceptions for Cool Kids in Magento 2.
+- [Developer Toolbar](https://github.com/mgtcommerce/Mgt_Developertoolbar) - Magento 2 Developer Toolbar.
+- [Advanced Template Hints](https://github.com/ho-nl/magento2-Ho_Templatehints) - Magento 2 Template Hints Helper.
 
 #### Language Packs (Tests are not mandatory for this section)
 
-- [ru_RU](https://packagist.org/packages/etws/magento-language-ru_ru) :ru:
-- [de_DE](https://github.com/splendidinternet/Magento2_German_LocalePack_de_DE) :de:
-- [de_CH](https://github.com/staempfli/magento2-language-de-ch) 🇨🇭
-- [fr_FR](https://github.com/Imaginaerum/magento2-language-fr-fr) :fr:
-- [da_DK](https://magentodanmark.dk/) 🇩🇰
-- [es_ES](https://github.com/eusonlito/magento2-language-es_es) :es:
-- [it_IT](https://github.com/antoniocarboni/magento2-traduzione-italiana) :it:
-- [nl_NL](https://bitbucket.org/creaminternet/language-nl_nl.git) 🇳🇱
-- [pl_PL](https://github.com/SnowdogApps/magento2-pl_pl) 🇵🇱
-- [tr_TR](https://github.com/hidonet/magento2-language-tr_tr) :tr:
-- [ro_RO](https://github.com/EaDesgin/magento2-romanian-language-pack) 🇷🇴
-- [fi_FL](https://github.com/mageplaza/magento-2-finnish-language-pack) 🇫🇮
-- [ko_KR](https://github.com/mageplaza/magento-2-korean-language-pack) 🇰🇷
-- [sk_SK](https://github.com/mageplaza/magento-2-slovak-language-pack) 🇸🇰
-- [sl_SI](https://github.com/symfony-si/magento2-sl_si) 🇸🇮
+- [ru_RU](https://packagist.org/packages/etws/magento-language-ru_ru) :ru: - Russian Language Package.
+- [de_DE](https://github.com/splendidinternet/Magento2_German_LocalePack_de_DE) :de: - German Language Package.
+- [de_CH](https://github.com/staempfli/magento2-language-de-ch) 🇨🇭 - Swiss Language Package.
+- [fr_FR](https://github.com/Imaginaerum/magento2-language-fr-fr) :fr: - French Language Package.
+- [da_DK](https://magentodanmark.dk/) 🇩🇰 - Danish Language Package.
+- [es_ES](https://github.com/eusonlito/magento2-language-es_es) :es: - Spanish Language Package.
+- [it_IT](https://github.com/antoniocarboni/magento2-traduzione-italiana) :it: - Italian Language Package.
+- [nl_NL](https://bitbucket.org/creaminternet/language-nl_nl.git) 🇳🇱 - Dutch Language Package.
+- [pl_PL](https://github.com/SnowdogApps/magento2-pl_pl) 🇵🇱 - Polish Language Package.
+- [tr_TR](https://github.com/hidonet/magento2-language-tr_tr) :tr: - Turkish Language Package.
+- [ro_RO](https://github.com/EaDesgin/magento2-romanian-language-pack) 🇷🇴 - Romanian Language Package.
+- [fi_FL](https://github.com/mageplaza/magento-2-finnish-language-pack) 🇫🇮 - Finnish Language Package.
+- [ko_KR](https://github.com/mageplaza/magento-2-korean-language-pack) 🇰🇷 - Korean Language Package.
+- [sk_SK](https://github.com/mageplaza/magento-2-slovak-language-pack) 🇸🇰 - Slovakian Language Package.
+- [sl_SI](https://github.com/symfony-si/magento2-sl_si) 🇸🇮 - Slovenian Language Package.
 
 Thanks [Anna Völkl](https://github.com/avoelkl) & [Sander Mangel](https://github.com/sandermangel) for collecting all the language packs!
 
 #### Search
 
-- [Algolia Search Interation](https://github.com/algolia/algoliasearch-magento-2)
-- [Elastic Suite Integration](https://github.com/Smile-SA/elasticsuite/)
+- [Algolia Search Integration](https://github.com/algolia/algoliasearch-magento-2) - Algolia Search(SaaS) Integration.
+- [Elastic Suite Integration](https://github.com/Smile-SA/elasticsuite/) - Elastic Suite Integration.
 
 #### CMS
 
-- [Mageplaza Blog Extension](https://github.com/mageplaza/magento-2-blog-extension)
+- [Mageplaza Blog Extension](https://github.com/mageplaza/magento-2-blog-extension) - Simple, but well working Blog Extension.
 
 #### Marketing
 
