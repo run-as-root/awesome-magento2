@@ -35,7 +35,7 @@ You might be interested in the [Awesome List for Magento 1](https://github.com/D
 
 - [Pestle](https://github.com/astorm/pestle) - Code Generation Tool by Alan Storm.
 - [Mage2Gen](https://mage2gen.com/) - Online Module Creator.
-- [Magento 2 Code Generator](https://github.com/staempfli/magento2-code-generator) - Code Generator by Marcel Hauri.
+- [Magento 2 Code Generator](https://github.com/staempfli/magento2-code-generator) - Code Generator by Juan Alonso.
 
 ## Extensions
 
