@@ -112,6 +112,9 @@ Thanks [Anna Völkl](https://github.com/avoelkl) & [Sander Mangel](https://githu
 - [Alan Kent](https://alankent.me/)
 - [FireBear Studio](https://firebearstudio.com/blog)
 - [Pierrefay](https://www.pierrefay.com/en/tag/magento2.html)
+- [Ben Marks](http://bhmarks.com/blog/) - Me, Magento, Miscellany by Ben Marks.
+- [Fooman](http://store.fooman.co.nz/blog) - Magento Master Fooman's Blog.
+- [James Cowie](http://jamescowie.me/) - Contributer of [MageCasts](http://www.magecasts.io/), [BehatMage](https://github.com/MageTest/BehatMage) and [MageSpec](https://github.com/MageTest/MageSpec).	
 
 ## Learning
 - [Vinai Kopp Mage2Katas](https://www.youtube.com/channel/UCRFDWo7jTlrpEsJxzc7WyPw)
