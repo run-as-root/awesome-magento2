@@ -160,3 +160,8 @@ Thanks [MageTitans](http://www.magetitans.co.uk/) for sharing the Talks on YouTu
   - [Ivan Chepurnyi](https://commercehero.io/ivan)
   - [Vinai Kopp](https://commercehero.io/vinai)
   - [Jisse Reitsma](https://commercehero.io/jissereitsma)
+
+## Other Magento 2 related Awesome Lists
+
+- [Mageres](https://github.com/aleron75/mageres) - Alessandro Ronchi's List of resources for Magento 1 and Magento 2.
+- [Awesome PHP](https://github.com/ziadoz/awesome-php) - A curated List of Awesome PHP Resources.
