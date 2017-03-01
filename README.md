@@ -168,3 +168,10 @@ Thanks [MageTitans](http://www.magetitans.co.uk/) for sharing the Talks on YouTu
 
 - [Mageres](https://github.com/aleron75/mageres) - Alessandro Ronchi's List of resources for Magento 1 and Magento 2.
 - [Awesome PHP](https://github.com/ziadoz/awesome-php) - A curated List of Awesome PHP Resources.
+
+## License
+
+[![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
+
+To the extent possible under law, [David Lambauer](http://davidlambauer.de) has waived all copyright and related or neighboring rights to this work.
+
