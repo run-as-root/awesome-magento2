@@ -30,9 +30,7 @@ You might be interested in the [Awesome List for Magento 1](https://github.com/D
 
 - [n98-magerun2](http://magerun.net/) - The CLI Swiss Army Knife for Magento 2.
 - [Documentation Search for Alfred](https://github.com/DavidLambauer/Alfred-Workflow-Magento-2-DevDocs-Search) - Easily integrate the official Magento 2 Search into your Alfred Workflows.
-
-### Code Generation
-
+- [Tablerates Generator](https://elgentos.nl/tablerates/) - Generate Tablerates with an online Tool.
 - [Pestle](https://github.com/astorm/pestle) - Code Generation Tool by Alan Storm.
 - [Mage2Gen](https://mage2gen.com/) - Online Module Creator.
 - [Magento 2 Code Generator](https://github.com/staempfli/magento2-code-generator) - Code Generator by Juan Alonso.
@@ -41,14 +39,15 @@ You might be interested in the [Awesome List for Magento 1](https://github.com/D
 
 ### Open Source
 
-#### Require Dev (Tests are not mandatory for this section)
+#### Development Utilities
+
 - [Config ImportExport](https://github.com/semaio/Magento2-ConfigImportExport) - CLI Based Config Management.
 - [Codesniffer](https://github.com/magento-ecg/coding-standard) - Magento 2 Codesniffer.
 - [Whoops Exceptions](https://github.com/yireo/Yireo_Whoops) - PHP Exceptions for Cool Kids in Magento 2.
 - [Developer Toolbar](https://github.com/mgtcommerce/Mgt_Developertoolbar) - Magento 2 Developer Toolbar.
 - [Advanced Template Hints](https://github.com/ho-nl/magento2-Ho_Templatehints) - Magento 2 Template Hints Helper.
 
-#### Language Packs (Tests are not mandatory for this section)
+#### Language Packages
 
 - [ru_RU](https://packagist.org/packages/etws/magento-language-ru_ru) :ru: - Russian Language Package.
 - [de_DE](https://github.com/splendidinternet/Magento2_German_LocalePack_de_DE) :de: - German Language Package.
@@ -76,18 +75,19 @@ Thanks [Anna Völkl](https://github.com/avoelkl) & [Sander Mangel](https://githu
 #### CMS
 
 - [Mageplaza Blog Extension](https://github.com/mageplaza/magento-2-blog-extension) - Simple, but well working Blog Extension.
+- [Bluefoot CMS](https://www.bluefootcms.com/) - CMS Plugin owned by Magento for Magento 2.
 
 #### Marketing
 
-- [MagePlaza Seo](https://github.com/mageplaza/magento-2-seo-extension)
-- [Magemonkey Mailchimp Integration](https://github.com/ebizmarts/magento2-magemonkey)
-- [staempfli/magento2-module-pdf](https://github.com/staempfli/magento2-module-pdf)
+- [MagePlaza Seo](https://github.com/mageplaza/magento-2-seo-extension) - Well documented multi purpose SEO Extension.
+- [Magemonkey Mailchimp Integration](https://github.com/ebizmarts/magento2-magemonkey) - Plug & Play Mailchimp Integration.
+- [Magento 2 PDF](https://github.com/staempfli/magento2-module-pdf) - PDF Generator based on [wkhtmltopdf](http://wkhtmltopdf.org/).
 
 #### Adminhtml / Backend
 
-- [Customer Force Login](https://github.com/bitExpert/magento2-force-login)
-- [Checkout Tester](https://github.com/yireo/Yireo_CheckoutTester2)
-- [Firebear Import/Export](https://github.com/firebearstudio/importexport)
+- [Customer Force Login](https://github.com/bitExpert/magento2-force-login) - Login as a Customer for support reasons.
+- [Checkout Tester](https://github.com/yireo/Yireo_CheckoutTester2) - Extension to quickly test Checkout changes.
+- [Firebear Import/Export](https://github.com/firebearstudio/importexport) - Import/Export Improvements for Standard Magento Importer.
 - [staempfli/magento2-module-image-resizer](https://github.com/staempfli/magento2-module-image-resizer)
 - [staempfli/magento2-module-spreadsheet](https://github.com/staempfli/magento2-module-spreadsheet)
 
@@ -129,21 +129,21 @@ Thanks [MageTitans](http://www.magetitans.co.uk/) for sharing the Talks on YouTu
 
 ## Platforms
 
-- [Commercehero.io](https://commercehero.io/)
-- [StackExchange](http://magento.stackexchange.com/)
-- [MageTalk: A Magento Community Podcast](http://magetalk.com/)
+- [Commercehero.io](https://commercehero.io/) - Finding a good Magento developer just got a whole lot easier.
+- [StackExchange](http://magento.stackexchange.com/) - Q/A Forum.
+- [MageTalk: A Magento Community Podcast](http://magetalk.com/) - Community Podcast by [Kalen Jordan](https://commercehero.io/kalenjordan) and [Phillip Jackson](https://commercehero.io/philwinkle).
 
 ## Official Resources
 
-- [Magento Official Website](https://www.magento.com)
-- [Magento Developer Documentation](http://devdocs.magento.com/)
-- [Magento Forum](https://community.magento.com/)
-- [Magento Github Repository](https://github.com/magento/magento2)
-- [Magento PHP CS Fixer](https://github.com/magento/marketplace-eqp)
-- [Magento Blog](https://blog.magento.com)
-- [Magento Developer Blog](https://community.magento.com/t5/Magento-DevBlog/bg-p/devblog?nobounce=)
+- [Magento Official Website](https://www.magento.com) - Magento's official Website.
+- [Magento Developer Documentation](http://devdocs.magento.com/) - Official Developer Documentation.
+- [Magento Forum](https://community.magento.com/) - Community Forum by Magento.
+- [Magento Github Repository](https://github.com/magento/magento2) - Github Repository.
+- [Magento PHP CS Fixer](https://github.com/magento/marketplace-eqp) - CS Fixer specific for Magento 2.
+- [Magento Blog](https://blog.magento.com) - Blog Resource by Magento.
+- [Magento Developer Blog](https://community.magento.com/t5/Magento-DevBlog/bg-p/devblog?nobounce=) - Developer Blog by Magento.
 - Magento Masters 2017
-  - [Peter Jaap Blaakmeer](https://commercehero.io/peterjaap)
+  - [Peter Jaap Blaakmeer](https://commercehero.io/peterjaap) - CTO at [elegantos](https://www.elgentos.nl/)
   - [Carmen Bremen](https://commercehero.io/neoshops)
   - [Tony Brown](https://commercehero.io/tonegolf71)
   - [Hirokazu Nishi]()
