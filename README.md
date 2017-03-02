@@ -2,7 +2,7 @@
 
 <h1 align="center">
 	<br>
-	<img width="300" src="https://github.com/DavidLambauer/awesome-magento2/blob/master/media/awesome-magento-logo.png" alt="awesome magento2 logo">
+	<img width="300" src="https://github.com/DavidLambauer/awesome-magento2/blob/b8c9566e041af1e84b11457adb664dbcadfa842c/media/awesome-magento-logo.png?raw=true" alt="awesome magento2 logo">
 	<br>
 	<br>
 	<br>
