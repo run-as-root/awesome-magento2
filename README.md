@@ -46,6 +46,7 @@ You might be interested in the [Awesome List for Magento 1](https://github.com/D
 - [Whoops Exceptions](https://github.com/yireo/Yireo_Whoops) - PHP Exceptions for Cool Kids in Magento 2.
 - [Developer Toolbar](https://github.com/mgtcommerce/Mgt_Developertoolbar) - Magento 2 Developer Toolbar.
 - [Advanced Template Hints](https://github.com/ho-nl/magento2-Ho_Templatehints) - Magento 2 Template Hints Helper.
+- [Magento2 PHPStorm Templates](https://github.com/staempfli/magento2-phpstorm-templates) - Live templates for Magento2
 
 #### Language Packages
 
