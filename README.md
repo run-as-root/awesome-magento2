@@ -175,3 +175,8 @@ Thanks [MageTitans](http://www.magetitans.co.uk/) for sharing the Talks on YouTu
 
 To the extent possible under law, [David Lambauer](http://davidlambauer.de) has waived all copyright and related or neighboring rights to this work.
 
+
+## Support on Beerpay
+Hey dude! Help me out for a couple of :beers:!
+
+[![Beerpay](https://beerpay.io/DavidLambauer/awesome-magento2/badge.svg?style=beer-square)](https://beerpay.io/DavidLambauer/awesome-magento2)  [![Beerpay](https://beerpay.io/DavidLambauer/awesome-magento2/make-wish.svg?style=flat-square)](https://beerpay.io/DavidLambauer/awesome-magento2?focus=wish)
