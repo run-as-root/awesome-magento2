@@ -93,9 +93,11 @@ ___
 		- [staempfli/magento2-module-spreadsheet](https://github.com/staempfli/magento2-module-spreadsheet)
 
 
-	- **Proprietary Extensions**
-	
-		- [Commercebug Debugging Extension](http://store.pulsestorm.net/products/commerce-bug-3) - A Magento 2 Debug Extension.
+---
+
+- **Proprietary Extensions**
+
+	- [Commercebug Debugging Extension](http://store.pulsestorm.net/products/commerce-bug-3) - A Magento 2 Debug Extension.
 		
 ---
 
