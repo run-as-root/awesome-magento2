@@ -8,6 +8,8 @@
 	<br>
 </h1>
 
+[![GitHub closed pull requests](https://img.shields.io/github/issues-pr-closed/cdnjs/cdnjs.svg?style=flat-square)](https://github.com/DavidLambauer/awesome-magento2)
+
 > A curated list of awesome Magento 2 Extensions & Resources
 
 - [What is an awesome list?](https://github.com/sindresorhus/awesome/blob/master/awesome.md)
