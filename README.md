@@ -120,7 +120,7 @@ ___
 	- [Ben Marks](http://bhmarks.com/blog/) - Me, Magento, Miscellany by Ben Marks.
 	- [Fooman](http://store.fooman.co.nz/blog) - Magento Master Fooman's Blog.
 	- [James Cowie](http://jamescowie.me/) - Contributer of [MageCasts](http://www.magecasts.io/), [BehatMage](https://github.com/MageTest/BehatMage) and [MageSpec](https://github.com/MageTest/MageSpec).	
-	- [MageComp](https://magecomp.com/blog/category/magento-2/)
+	- [MageComp](https://magecomp.com/blog/category/magento-2/) - Magento 2 Blog only by MageComp, an Extension Agency.
 
 ---
 
