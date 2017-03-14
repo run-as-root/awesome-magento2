@@ -31,6 +31,7 @@ You might be interested in the [Awesome List for Magento 1](https://github.com/D
 
 - **Tools**
 	- [n98-magerun2](http://magerun.net/) - The CLI Swiss Army Knife for Magento 2.
+	- [MageDeploy2](https://github.com/mwr/magedeploy2-base) - Automatic Magento2 Deployments with robo and deployer.
 	- [Documentation Search for Alfred](https://github.com/DavidLambauer/Alfred-Workflow-Magento-2-DevDocs-Search) - Easily integrate the official Magento 2 Search into your Alfred Workflows.
 	- [Tablerates Generator](https://elgentos.nl/tablerates/) - Generate Tablerates with an online Tool.
 	- [Pestle](https://github.com/astorm/pestle) - Code Generation Tool by Alan Storm.
