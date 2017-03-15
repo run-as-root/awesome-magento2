@@ -114,25 +114,28 @@ ___
 ---
 
 - **Blogs**
+	- **Personal Blogs**
+		- [Alan Storm](http://alanstorm.com/category/magento-2/)
+		- [Marcel Hauri](https://blog.hauri.me/)
+		- [Fabian Schmengler](https://www.schmengler-se.de/)
+		- [Anna Völkl](http://anna.voelkl.at/)
+		- [Rebecca L Troth](http://rebeccatroth.co.uk/)
+		- [Alan Kent](https://alankent.me/)
+		- [Pierrefay](https://www.pierrefay.com/en/tag/magento2.html)
+		- [Ben Marks](http://bhmarks.com/blog/)
+		- [James Cowie](http://jamescowie.me/)
+	- **Company Blogs**
+		- [dev98](https://dev98.de/)
+		- [inchoo](http://inchoo.net/category/magento-2/)
+		- [Atwix](https://www.atwix.com/blog/)
+		- [integer_net blog](https://www.integer-net.com/blog/)
+		- [FireBear Studio](https://firebearstudio.com/blog)
+		- [Fooman](http://store.fooman.co.nz/blog)
+		- [MageComp](https://magecomp.com/blog/category/magento-2/)		
+	- **Other**
+		- [Max Pronko's Devletter](https://maxpronko.us13.list-manage.com/subscribe/post?u=1522a03b7b9e6dea003fad97a&id=dc6b454824) - Monthly Development Newsletter.
+		- [MageTalk](http://magetalk.com/) - A Magento Community Podcast.
 
-	- [dev98](https://dev98.de/)
-	- [Alan Storm](http://alanstorm.com/category/magento-2/)
-	- [inchoo](http://inchoo.net/category/magento-2/)
-	- [Atwix](https://www.atwix.com/blog/)
-	- [Max Pronko's Devletter](https://maxpronko.us13.list-manage.com/subscribe/post?u=1522a03b7b9e6dea003fad97a&id=dc6b454824)
-	- [MageTalk](http://magetalk.com/)
-	- [Marcel Hauri](https://blog.hauri.me/)
-	- [Fabian Schmengler](https://www.schmengler-se.de/)
-	- [integer_net blog](https://www.integer-net.com/blog/)
-	- [Anna Völkl](http://anna.voelkl.at/)
-	- [Rebecca L Troth](http://rebeccatroth.co.uk/)
-	- [Alan Kent](https://alankent.me/)
-	- [FireBear Studio](https://firebearstudio.com/blog)
-	- [Pierrefay](https://www.pierrefay.com/en/tag/magento2.html)
-	- [Ben Marks](http://bhmarks.com/blog/) - Me, Magento, Miscellany by Ben Marks.
-	- [Fooman](http://store.fooman.co.nz/blog) - Magento Master Fooman's Blog.
-	- [James Cowie](http://jamescowie.me/) - Contributer of [MageCasts](http://www.magecasts.io/), [BehatMage](https://github.com/MageTest/BehatMage) and [MageSpec](https://github.com/MageTest/MageSpec).	
-	- [MageComp](https://magecomp.com/blog/category/magento-2/) - Magento 2 Blog only by MageComp, an Extension Agency.
 
 ---
 
@@ -168,8 +171,8 @@ by Magento.
 	- [Magento 2 DevBox](https://github.com/magento/magento2devbox-web) - Dockerbox built by Magento.
 	- Magento Masters 2017
 	  - [Peter Jaap Blaakmeer](https://commercehero.io/peterjaap) - CTO at [elegantos](https://www.elgentos.nl/)
-	  - [Carmen Bremen](https://commercehero.io/neoshops)
-	  - [Tony Brown](https://commercehero.io/tonegolf71)
+	  - [Carmen Bremen](https://commercehero.io/neoshops) - Freelancer at [neoshops](http://neoshops.de/)
+	  - [Tony Brown](https://commercehero.io/tonegolf71) - Technical Director at [space48](http://www.space48.com/)
 	  - [Hirokazu Nishi]()
 	  - [Brent Peterson](https://commercehero.io/brentwpeterson)
 	  - [Sonja Riesterer](https://commercehero.io/sonja)
