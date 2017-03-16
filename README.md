@@ -57,7 +57,7 @@ ___
 		
 	- **Deployment**
 		- [MageDeploy2](https://github.com/mwr/magedeploy2-base) - Automatic Magento2 Deployments with [robo](http://robo.li/) and [deployer](https://deployer.org/).
-		- [Magento 2 Deployment Tool](https://github.com/staempfli/magento2-deployment-tool) - Magento2 Deployment Tool with PHing by [Juan Alonso](https://commercehero.io/juan.alonso).
+		- [Magento 2 Deployment Tool](https://github.com/staempfli/magento2-deployment-tool) - Magento2 Deployment Tool with [PHing](https://www.phing.info/) by [Juan Alonso](https://commercehero.io/juan.alonso).
 
 	- **Language Packages**
 
