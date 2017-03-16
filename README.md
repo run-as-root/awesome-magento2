@@ -136,7 +136,7 @@ ___
 		- [MageComp](https://magecomp.com/blog/category/magento-2/)		
 	- **Other**
 		- [Max Pronko's Devletter](https://maxpronko.us13.list-manage.com/subscribe/post?u=1522a03b7b9e6dea003fad97a&id=dc6b454824) - Monthly Development Newsletter.
-		- [MageTalk](http://magetalk.com/) - A Magento Community Podcast.
+		- [MageTalk: A Magento Community Podcast](http://magetalk.com/) - Community Podcast by [Kalen Jordan](https://commercehero.io/kalenjordan) and [Phillip Jackson](https://commercehero.io/philwinkle).
 
 
 ---
@@ -155,7 +155,6 @@ ___
 
 	- [Commercehero.io](https://commercehero.io/) - Finding a good Magento developer just got a whole lot easier.
 	- [StackExchange](http://magento.stackexchange.com/) - Q/A Forum.
-	- [MageTalk: A Magento Community Podcast](http://magetalk.com/) - Community Podcast by [Kalen Jordan](https://commercehero.io/kalenjordan) and [Phillip Jackson](https://commercehero.io/philwinkle).
 
 ---
 
