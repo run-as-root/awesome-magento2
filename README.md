@@ -11,7 +11,7 @@
 > A curated list of awesome Magento 2 Extensions & Resources
 
 - [What is an awesome list?](https://github.com/sindresorhus/awesome/blob/master/awesome.md)
-- [Contribution guide](contributing.md) [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/dwyl/esta/issues)
+- [Contribution guide](contributing.md) [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/DavidLambauer/awesome-magento2/issues)
 
 
 You might be interested in the [Awesome List for Magento 1](https://github.com/DavidLambauer/awesome-magento) as well.
