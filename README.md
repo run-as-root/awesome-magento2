@@ -54,7 +54,7 @@ ___
 		- [Magento 2 Dockerize](https://github.com/arvatoSCM/dockerize-magento2) - A composer package for dockerizing Magento 2.
 		- [Mage2 Vagrant](https://github.com/rgranadino/mage2_vagrant) - Simple Magento 2 Vagrant Box.
 		- [frontools](https://github.com/SnowdogApps/magento2-frontools) - Set of front-end tools for Magento 2, based on Gulp.js.
-		- [Scopehints](https://github.com/avstudnitz/AvS_ScopeHint2) - Displays additional information in the Store Configuration. 
+		- [Scopehints](https://github.com/avstudnitz/AvS_ScopeHint2) - Displays additional information in the Store Configuration by [Andreas von Studnitz](https://commercehero.io/avstudnitz). 
 		
 	- **Deployment**
 		- [MageDeploy2](https://github.com/mwr/magedeploy2-base) - Automatic Magento2 Deployments with [robo](http://robo.li/) and [deployer](https://deployer.org/).
