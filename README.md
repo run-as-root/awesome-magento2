@@ -193,6 +193,39 @@ by Magento.
 
 ---
 
+- **List of trustworthy Extension Developers**
+
+	- [Aheadworks](https://www.aheadworks.com/)
+	- [Altima](https://shop.altima.net.au/)
+	- [Blue Jalappeno](http://bluejalappeno.com/)
+	- [Dotmailer](https://www.dotmailer.com/)
+	- [Integer-net](https://www.integer-net.com/solr-magento/)
+	- [Genmato](https://genmato.com/)
+	- [Fooman](http://store.fooman.co.nz/)
+	- [Ebizmarts](https://ebizmarts.com/)
+	- [Magemail](https://magemail.co/)
+	- [Mage Inferno](https://mageinferno.com/)
+	- [Modulwerft](https://www.modulwerft.com/)
+	- [Paradox Labs](https://www.paradoxlabs.com/)
+	- [The Extension Lab](https://www.theextensionlab.com/)
+	- [Sweet Tooth](https://www.sweettoothrewards.com/)
+	- [Rocket Web](http://rocketweb.com/)
+	- [ProxiBlue](https://www.proxiblue.com.au/)
+	- [Unirgy](https://www.unirgy.com/)
+	- [WebShopApps](http://webshopapps.com/eu/)
+	- [Yireo](https://www.yireo.com/)
+
+
+> **Magento Extension Developers Network (ExtDN)**
+> The Magento Extension Developers Network (ExtDN) is a vetted network of extension developers whose core business is to  
+> develop and sell quality Magento extensions. I founded ExtDN to bring accountability and trust to the Magento extension 
+> market. ExtDN members agree to hold themselves accountable to high standards of coding, copyright and business conduct.
+
+Explanation by [Fooman](http://store.fooman.co.nz/blog/how-to-find-trustworthy-information-about-magento-extensions.html)
+
+
+---
+
 - **Other Magento 2 related Awesome Lists**
 
 	- [Mageres](https://github.com/aleron75/mageres) - Alessandro Ronchi's List of resources for Magento 1 and Magento 2.
