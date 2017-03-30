@@ -34,6 +34,7 @@
 	- [Mage2Gen](https://mage2gen.com/) - Online Module Creator.
 	- [Magento 2 Code Generator](https://github.com/staempfli/magento2-code-generator) - Code Generator by Juan Alonso.
 	- [Magento 2 Docker to Linux](https://hub.docker.com/r/rafaelcgstz/magento2/) - Focused to development process, pretty faster on the Linux.
+	- [Mage Chrome Toolbar](https://github.com/magespecialist/mage-chrome-toolbar) - A MUST-HAVE Chrome Extension for Magento 2 by [MageSpecialist](https://github.com/magespecialist).
 ___
 
 
