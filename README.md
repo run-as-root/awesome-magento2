@@ -33,7 +33,7 @@
 	- [Pestle](https://github.com/astorm/pestle) - Code Generation Tool by Alan Storm.
 	- [Mage2Gen](https://mage2gen.com/) - Online Module Creator.
 	- [Magento 2 Code Generator](https://github.com/staempfli/magento2-code-generator) - Code Generator by Juan Alonso.
-	
+	- [Magento 2 Docker to Linux](https://hub.docker.com/r/rafaelcgstz/magento2/) - Focused to development process, pretty faster on the Linux.
 ___
 
 
@@ -125,6 +125,7 @@ ___
 		- [Pierrefay](https://www.pierrefay.com/en/tag/magento2.html)
 		- [Ben Marks](http://bhmarks.com/blog/)
 		- [James Cowie](http://jamescowie.me/)
+		- [Rafael Correa Gomes](http://rafaelstz.github.io/)
 	- **Company Blogs**
 		- [dev98](https://dev98.de/)
 		- [inchoo](http://inchoo.net/category/magento-2/)
