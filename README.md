@@ -117,16 +117,19 @@ ___
 
 - **Blogs**
 	- **Personal Blogs**
-		- [Alan Storm](http://alanstorm.com/category/magento-2/)
-		- [Marcel Hauri](https://blog.hauri.me/)
-		- [Fabian Schmengler](https://www.schmengler-se.de/)
 		- [Anna Völkl](http://anna.voelkl.at/)
-		- [Rebecca L Troth](http://rebeccatroth.co.uk/)
 		- [Alan Kent](https://alankent.me/)
-		- [Pierrefay](https://www.pierrefay.com/en/tag/magento2.html)
+		- [Alan Storm](http://alanstorm.com/category/magento-2/)
 		- [Ben Marks](http://bhmarks.com/blog/)
+		- [Fabian Schmengler](https://www.schmengler-se.de/)
 		- [James Cowie](http://jamescowie.me/)
+		- [Marcel Hauri](https://blog.hauri.me/)
+		- [Max Pronco](https://www.maxpronko.com/)
 		- [Rafael Correa Gomes](http://rafaelstz.github.io/)
+		- [Rebecca L Troth](http://rebeccatroth.co.uk/)
+		- [Pierrefay](https://www.pierrefay.com/en/tag/magento2.html)
+		
+		
 	- **Company Blogs**
 		- [dev98](https://dev98.de/)
 		- [inchoo](http://inchoo.net/category/magento-2/)
@@ -143,12 +146,13 @@ ___
 ---
 
 - **Learning**
-	- [Vinai Kopp Mage2Katas](https://www.youtube.com/channel/UCRFDWo7jTlrpEsJxzc7WyPw)
-	- [Max Bucknell Magento 2 Javascript](https://www.youtube.com/watch?v=tHxebA-jOSo)
 	- [MageTitans Italia 2016](https://www.youtube.com/playlist?list=PLwB4Uz_0hoVP3Fm_c4HfNPK5JdRD6DIDl)
-	- [MageTitans USA/Texas 2016](https://www.youtube.com/playlist?list=PLwB4Uz_0hoVOLU7LPRNL4lAmJeAv7HQ-b)
 	- [MageTitans MCR 2016](https://www.youtube.com/playlist?list=PLwB4Uz_0hoVMOnBRS49ICbNWOU5jhNNWC)
+	- [MageTitans USA/Texas 2016](https://www.youtube.com/playlist?list=PLwB4Uz_0hoVOLU7LPRNL4lAmJeAv7HQ-b)
+	- [Max Bucknell Magento 2 Javascript](https://www.youtube.com/watch?v=tHxebA-jOSo)
+	- [Max Pronko DevChannel](https://www.youtube.com/channel/UCxbWGz6h6KNQsi2ughRUV2Q)
 	- [The Magento 2 Beginner Tutorial Class](https://www.youtube.com/playlist?list=PLtaXuX0nEZk9eL59JGE3ny-_GAU-z5X5D&utm_content=buffer797bf&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer) - Free YouTube Series for learning Magento 2.
+	- [Vinai Kopp Mage2Katas](https://www.youtube.com/channel/UCRFDWo7jTlrpEsJxzc7WyPw)
 
 ---
 
