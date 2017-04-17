@@ -176,7 +176,7 @@ by Magento.
 	- [Magento 2 Code Samples](https://github.com/magento/magento2-samples) - Samples to introduce and demonstrate new technologies in Magento 2.
 	- [Magento 2 DevBox](https://github.com/magento/magento2devbox-web) - Dockerbox built by Magento.
 	- Magento Masters 2017
-	  - [Peter Jaap Blaakmeer](https://commercehero.io/peterjaap) - CTO at [elegantos](https://www.elgentos.nl/)
+	  - [Peter Jaap Blaakmeer](https://commercehero.io/peterjaap) - CTO at [elgentos](https://www.elgentos.nl/)
 	  - [Carmen Bremen](https://commercehero.io/neoshops) - Freelancer at [neoshops](http://neoshops.de/)
 	  - [Tony Brown](https://commercehero.io/tonegolf71) - Technical Director at [space48](http://www.space48.com/)
 	  - [Hirokazu Nishi]()
