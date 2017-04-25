@@ -101,8 +101,10 @@ ___
 		- [Customer Force Login](https://github.com/bitExpert/magento2-force-login) - Login as a Customer for support reasons.
 		- [Checkout Tester](https://github.com/yireo/Yireo_CheckoutTester2) - Extension to quickly test Checkout changes.
 		- [Firebear Import/Export](https://github.com/firebearstudio/importexport) - Import/Export Improvements for Standard Magento Importer.
-		- [staempfli/magento2-module-image-resizer](https://github.com/staempfli/magento2-module-image-resizer)
-		- [staempfli/magento2-module-spreadsheet](https://github.com/staempfli/magento2-module-spreadsheet)
+		- [Image Resizer](https://github.com/staempfli/magento2-module-image-resizer) - Magento 2 Module to add simple image resizing capabilities in all blocks and .phtml templates by [Staempfli](https://commercehero.io/staempfli).
+		- [Excel Spreadsheet](https://github.com/staempfli/magento2-module-spreadsheet) - Magento 2 Module for parsing xlsx, xlsm and csv files from Excel by [Staempfli](https://commercehero.io/staempfli). 
+		- [PDF Generator](https://github.com/EaDesgin/magento2-pdf-generator2) - Invoice PDF Generator For Magento 2 by [EaDesign](https://commercehero.io/eadesign).
+		- [Mobile Detection](https://github.com/EaDesgin/magento2-mobiledetect) - Mobile detect change theme and redirect based on device type by [EaDesign](https://commercehero.io/eadesign).
 
 
 ---
