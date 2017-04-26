@@ -19,6 +19,7 @@
 
 - [Tools](#tools)
 - [Extensions](#extensions)
+- [Themes](#themes)
 - [Blogs](#blogs)
 - [Learning](#learning)
 - [Platforms](#platforms)
@@ -114,7 +115,14 @@ ___
 	- [Commercebug Debugging Extension](http://store.pulsestorm.net/products/commerce-bug-3) - A Magento 2 Debug Extension.
 	- [Magicento](http://magicento.com/) - [PHPStorm](https://www.jetbrains.com/phpstorm/) Plugin to add Magento 2 related functionality.
 	- [Kraken.io](https://github.com/kraken-io/kraken-magento) - High Quality Image reduction Service as a SaaS Integration.
-		
+---
+
+- **Themes**
+	- **Boilerplates**
+		- [MASE2 Optimus theme](https://github.com/studioemma/magento2-theme-optimus)
+		- [Magento2 - Blank Theme - SASS version](https://github.com/SnowdogApps/magento2-theme-blank-sass)
+	- **Ready to use**		
+
 ---
 
 - **Blogs**
