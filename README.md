@@ -181,7 +181,6 @@ ___
 	- [Magento Forum](https://community.magento.com/) - Community Forum by Magento.
 	- [Magento Github Repository](https://github.com/magento/magento2) - Github Repository.
 	- [Magento PHP CS Fixer](https://github.com/magento/marketplace-eqp) - CS Fixer specific for Magento 2.
-	- [Magento Blog](https://blog.magento.com) - Blog Resource by Magento.
 	- [Magento Developer Blog](https://community.magento.com/t5/Magento-DevBlog/bg-p/devblog?nobounce=) - Developer Blog
 by Magento.
 	- [Magento 2 Code Samples](https://github.com/magento/magento2-samples) - Samples to introduce and demonstrate new technologies in Magento 2.
