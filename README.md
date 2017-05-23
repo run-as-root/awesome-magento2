@@ -72,7 +72,7 @@
 - [da_DK](https://magentodanmark.dk/) 🇩🇰 - Danish Language Package.
 - [es_ES](https://github.com/eusonlito/magento2-language-es_es) :es: - Spanish Language Package.
 - [it_IT](https://github.com/antoniocarboni/magento2-traduzione-italiana) :it: - Italian Language Package.
-- [nl_NL](https://bitbucket.org/creaminternet/language-nl_nl.git) 🇳🇱 - Dutch Language Package.
+- [nl_NL](https://github.com/ho-nl/magento2-nl_NL) [alt.](https://bitbucket.org/creaminternet/language-nl_nl.git) 🇳🇱 - Dutch Language Package.
 - [pl_PL](https://github.com/SnowdogApps/magento2-pl_pl) 🇵🇱 - Polish Language Package.
 - [tr_TR](https://github.com/hidonet/magento2-language-tr_tr) :tr: - Turkish Language Package.
 - [ro_RO](https://github.com/EaDesgin/magento2-romanian-language-pack) 🇷🇴 - Romanian Language Package.
