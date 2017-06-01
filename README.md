@@ -147,12 +147,13 @@
 - [Pierrefay](https://www.pierrefay.com/en/tag/magento2.html)
 
 #### Company Blogs
-- [dev98](https://dev98.de/)
-- [inchoo](http://inchoo.net/category/magento-2/)
 - [Atwix](https://www.atwix.com/blog/)
-- [integer_net blog](https://www.integer-net.com/blog/)
+- [Classy Llama](https://www.classyllama.com/blog)
+- [dev98](https://dev98.de/)
 - [FireBear Studio](https://firebearstudio.com/blog)
 - [Fooman](http://store.fooman.co.nz/blog)
+- [inchoo](http://inchoo.net/category/magento-2/)
+- [integer_net blog](https://www.integer-net.com/blog/)
 - [MageComp](https://magecomp.com/blog/category/magento-2/)
 
 #### Other
