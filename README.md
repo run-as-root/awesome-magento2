@@ -18,12 +18,12 @@
 ## Contents
 
 - [Tools](#tools)
-- [Extensions](#extensions)
+- [Extensions](#open-source-extensions)
 - [Themes](#themes)
 - [Blogs](#blogs)
 - [Learning](#learning)
 - [Platforms](#platforms)
-- [Official Resources](#official)
+- [Official Resources](#official-resources)
 
 ---
 
