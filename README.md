@@ -37,7 +37,7 @@
 - [Magento 2 Docker to Linux](https://hub.docker.com/r/rafaelcgstz/magento2/) - Focused to development process, pretty faster on the Linux.
 - [Magento 2 Bitnami VM](https://bitnami.com/stack/magento/virtual-machine) - Focused to development process, works so fine.
 - [Mage Chrome Toolbar](https://github.com/magespecialist/mage-chrome-toolbar) - A MUST-HAVE Chrome Extension for Magento 2 by [MageSpecialist](https://github.com/magespecialist).
-
+- [convertm1m2](https://github.com/unirgy/convertm1m2) - A simple script to convert extensions from Magento1 to Magento 2.
 ---
 
 ## Open Source Extensions
