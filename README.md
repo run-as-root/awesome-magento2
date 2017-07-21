@@ -261,7 +261,7 @@ Explanation by [Fooman](http://store.fooman.co.nz/blog/how-to-find-trustworthy-i
 
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 
-To the extent possible under law, [David Lambauer](http://davidlambauer.de) has waived all copyright and related or neighboring rights to this work.
+To the extent possible under law, David Lambauer has waived all copyright and related or neighboring rights to this work.
 
 ---
 
