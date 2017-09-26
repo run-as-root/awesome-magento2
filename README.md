@@ -246,7 +246,7 @@
 - [Sweet Tooth](https://www.sweettoothrewards.com/)
 - [Rocket Web](http://rocketweb.com/)
 - [ProxiBlue](https://www.proxiblue.com.au/)
-- [Unirgy](https://www.unirgy.com/)
+- [Unirgy](http://www.unirgy.com/)
 - [WebShopApps](http://webshopapps.com/eu/)
 - [Yireo](https://www.yireo.com/)
 
