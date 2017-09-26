@@ -123,6 +123,10 @@
 - [2FA](https://github.com/magespecialist/m2-MSP_TwoFactorAuth) - Two Factor Auth for Magento 2.
 - [Maleware Scanner] - A collection of rules and samples to detect Magento malware.
 
+### Infrastructure
+
+- [Fastly Extension](https://github.com/fastly/fastly-magento2) - Magento 2 fastly integration.
+
 ---
 
 ### Proprietary Extensions
