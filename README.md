@@ -76,6 +76,7 @@
 - [fr_FR](https://github.com/Imaginaerum/magento2-language-fr-fr) :fr: - French Language Package.
 - [da_DK](https://magentodanmark.dk/) 🇩🇰 - Danish Language Package.
 - [es_ES](https://github.com/eusonlito/magento2-language-es_es) :es: - Spanish Language Package.
+- [pt_BR](https://github.com/rafaelstz/traducao_magento2_pt_br) 🇧🇷 - Portuguese Brazil Language Package.
 - [it_IT](https://github.com/antoniocarboni/magento2-traduzione-italiana) :it: - Italian Language Package.
 - [nl_NL](https://github.com/ho-nl/magento2-nl_NL) [alt.](https://bitbucket.org/creaminternet/language-nl_nl.git) 🇳🇱 - Dutch Language Package.
 - [pl_PL](https://github.com/SnowdogApps/magento2-pl_pl) 🇵🇱 - Polish Language Package.
