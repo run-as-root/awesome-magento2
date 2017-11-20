@@ -251,6 +251,8 @@
 - [Unirgy](http://www.unirgy.com/)
 - [WebShopApps](http://webshopapps.com/eu/)
 - [Yireo](https://www.yireo.com/)
+- [MageNerds](http://www.magenerds.com/)
+- [FireBear Studio](https://firebearstudio.com/)
 
 > **Magento Extension Developers Network (ExtDN)**
 > The Magento Extension Developers Network (ExtDN) is a vetted network of extension developers whose core business is to
