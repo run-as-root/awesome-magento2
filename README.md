@@ -190,7 +190,7 @@
 - [Max Pronko DevChannel](https://www.youtube.com/channel/UCxbWGz6h6KNQsi2ughRUV2Q)
 - [The Magento 2 Beginner Tutorial Class](https://www.youtube.com/playlist?list=PLtaXuX0nEZk9eL59JGE3ny-_GAU-z5X5D&utm_content=buffer797bf&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer) - Free YouTube Series for learning Magento 2.
 - [Vinai Kopp Mage2Katas](https://www.youtube.com/channel/UCRFDWo7jTlrpEsJxzc7WyPw)
-- [Mage2.tv](https://mage2.tv) - Magento 2 Developer Screencasts by Vinai Kopp
+- [Mage2.tv](http://mage2.tv) - Magento 2 Developer Screencasts by Vinai Kopp
 - [Nomad Mage](https://nomadmage.com/) - virtual user group for Magento developers, monthly meetings
 
 ---
