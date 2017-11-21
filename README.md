@@ -250,7 +250,7 @@
 - [Mage Inferno](https://mageinferno.com/)
 - [Modulwerft](https://www.modulwerft.com/)
 - [Paradox Labs](https://www.paradoxlabs.com/)
-- [The Extension Lab](https://www.theextensionlab.com/)
+- [The Extension Lab](https://github.com/theextensionlab/)
 - [Sweet Tooth](https://www.sweettoothrewards.com/)
 - [Rocket Web](http://rocketweb.com/)
 - [ProxiBlue](https://www.proxiblue.com.au/)
