@@ -161,7 +161,7 @@
 - [Fabian Schmengler](https://www.schmengler-se.de/)
 - [James Cowie](http://jamescowie.me/)
 - [Marcel Hauri](https://blog.hauri.me/)
-- [Max Pronco](https://www.maxpronko.com/)
+- [Max Pronko](https://www.maxpronko.com/)
 - [Rafael Correa Gomes](http://rafaelstz.github.io/)
 - [Rebecca L Troth](http://rebeccatroth.co.uk/)
 - [Pierrefay](https://www.pierrefay.com/en/tag/magento2.html)
