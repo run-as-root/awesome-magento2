@@ -88,6 +88,10 @@
 - [sk_SK](https://github.com/mageplaza/magento-2-slovak-language-pack) 🇸🇰 - Slovakian Language Package.
 - [sl_SI](https://github.com/symfony-si/magento2-sl-si) 🇸🇮 - Slovenian Language Package.
 
+### Catalog
+
+- [Donation Product Module] (https://github.com/experius/Magento-2-Module-Experius-DonationProduct) - Integration for donations to charities
+
 ### Search
 
 - [Algolia Search Integration](https://github.com/algolia/algoliasearch-magento-2) - Algolia Search(SaaS) Integration.
