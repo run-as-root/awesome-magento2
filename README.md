@@ -90,7 +90,7 @@
 
 ### Catalog
 
-- [Donation Product Module] (https://github.com/experius/Magento-2-Module-Experius-DonationProduct) - Integration for donations to charities
+- [Donation Product Module](https://github.com/experius/Magento-2-Module-Experius-DonationProduct) - Integration for donations to charities
 
 ### Search
 
