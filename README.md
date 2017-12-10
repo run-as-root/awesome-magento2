@@ -76,7 +76,7 @@
 - [de_CH](https://github.com/staempfli/magento2-language-de-ch) 🇨🇭 - Swiss Language Package.
 - [fr_FR](https://github.com/Imaginaerum/magento2-language-fr-fr) :fr: - French Language Package.
 - [da_DK](https://magentodanmark.dk/) 🇩🇰 - Danish Language Package.
-- [es_AR](https://github.com/SemExpert/Magento2-language-es_ar) :ar: - Spanish (Argentina) Language Package.
+- [es_AR](https://github.com/SemExpert/Magento2-language-es_ar) 🇦🇷 - Spanish (Argentina) Language Package.
 - [es_ES](https://github.com/eusonlito/magento2-language-es_es) :es: - Spanish Language Package.
 - [pt_BR](https://github.com/rafaelstz/traducao_magento2_pt_br) 🇧🇷 - Portuguese Brazil Language Package.
 - [it_IT](https://github.com/mageplaza/magento-2-italian-language-pack) :it: - Italian Language.
