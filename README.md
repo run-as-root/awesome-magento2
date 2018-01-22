@@ -88,6 +88,7 @@
 - [ko_KR](https://github.com/mageplaza/magento-2-korean-language-pack) 🇰🇷 - Korean Language Package.
 - [sk_SK](https://github.com/mageplaza/magento-2-slovak-language-pack) 🇸🇰 - Slovakian Language Package.
 - [sl_SI](https://github.com/symfony-si/magento2-sl-si) 🇸🇮 - Slovenian Language Package.
+- [en_GB](https://github.com/cubewebsites/magento2-language-en-gb) :gb: - British Language Package.
 
 ### Catalog & Checkout
 
