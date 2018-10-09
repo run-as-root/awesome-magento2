@@ -272,7 +272,6 @@
 - [Fooman](http://store.fooman.co.nz/)
 - [Ebizmarts](https://ebizmarts.com/)
 - [Magemail](https://magemail.co/)
-- [Mage Inferno](https://mageinferno.com/)
 - [MagePal](https://packagist.org/packages/magepal/)
 - [Modulwerft](https://www.modulwerft.com/)
 - [Paradox Labs](https://www.paradoxlabs.com/)
@@ -283,7 +282,6 @@
 - [Unirgy](http://www.unirgy.com/)
 - [WebShopApps](http://webshopapps.com/eu/)
 - [Yireo](https://www.yireo.com/)
-- [MageNerds](http://www.magenerds.com/)
 - [FireBear Studio](https://firebearstudio.com/)
 
 > **Magento Extension Developers Network (ExtDN)**
