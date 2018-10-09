@@ -310,18 +310,8 @@ To the extent possible under law, David Lambauer has waived all copyright and re
 
 ---
 
-## Support on Beerpay
-
-Open Source is and should be free forever. If you like to special thank a contributor, the best way is to get them a beer! Please also check out the following Acknowledgements.
-
----
-
 Thanks [Anna Völkl](https://github.com/avoelkl) & [Sander Mangel](https://github.com/sandermangel) for collecting all the language packs!
 
 ---
 
 Thanks [MageTitans](http://www.magetitans.co.uk/) for sharing the Talks on YouTube.
-
----
-
-[![Beerpay](https://beerpay.io/DavidLambauer/awesome-magento2/badge.svg?style=beer-square)](https://beerpay.io/DavidLambauer/awesome-magento2)  [![Beerpay](https://beerpay.io/DavidLambauer/awesome-magento2/make-wish.svg?style=flat-square)](https://beerpay.io/DavidLambauer/awesome-magento2?focus=wish)
