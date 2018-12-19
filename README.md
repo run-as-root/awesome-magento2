@@ -67,6 +67,7 @@
 - [Auto Cache Flush](https://github.com/yireo/Yireo_AutoFlushCache) - Magento 2 module to automatically flush the cache.
 - [MUP](https://github.com/npoole81/MUP) - A bash menu UI generated from a simple configuration file.  Built for Magento 2, but not limited to it.
 - [Magento 2 PHPStorm File Templates](https://github.com/lfolco/phpstorm-m2-filetemplates) - PHPStorm Magento 2 File Templates.
+- [Magento 2 Composer Repository](https://github.com/EaDesgin/m2-ComposerRepo) - Composer Repository Manager for selling Magento 2 extension and offering composer installation for ordered packages.
 
 ### Deployment
 
@@ -152,6 +153,7 @@
 ### Infrastructure
 
 - [Fastly Extension](https://github.com/fastly/fastly-magento2) - Magento 2 fastly integration.
+- [Docker Magento 2](https://github.com/fballiano/docker-magento2) - Magento2 + Varnish + PHP7 + Redis + SSL (cluster ready).
 
 ### Mobile Application
 
