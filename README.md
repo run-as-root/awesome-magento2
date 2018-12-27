@@ -117,6 +117,8 @@
 - [Magento 2 Blog Extension by Magefan](https://github.com/magefan/module-blog) - Free Blog module for Magento 2 with unlimited blog posts and categories, SEO friendly, lazy load and AMP support.
 - [Bluefoot CMS](https://www.bluefootcms.com/) - CMS Plugin owned by Magento for Magento 2.
 - [PageDesigner](https://github.com/Magenerds/PageDesigner) - Easily create and drag and drop your CMS contents in the Magento Backend.
+- [Mirasvit Blog](https://github.com/mirasvit/module-blog) - Blog Extension.
+- [Magefan Blog](https://github.com/magefan/module-blog) - Blog Extension.
 
 ### Marketing
 
@@ -124,6 +126,7 @@
 - [Magemonkey Mailchimp Integration](https://github.com/ebizmarts/magento2-magemonkey) - Plug & Play Mailchimp Integration.
 - [Magento 2 PDF](https://github.com/staempfli/magento2-module-pdf) - PDF Generator based on [wkhtmltopdf](http://wkhtmltopdf.org/).
 - [Magento 2 SEO](https://github.com/staempfli/magento2-module-seo) - Sweet & Simple SEO Module by Staempfli.
+- [Google Tag Manager](https://github.com/magepal/magento2-google-tag-manager) - Google Tag Manager (GTM) with Data Layer for Magento2.
 
 ### Adminhtml / Backend
 
@@ -143,12 +146,17 @@
 - [Custom SMTP](https://github.com/magepal/magento2-gmail-smtp-app) - Configure Magento 2 to send all transactional email using Google App, Gmail, Amazon Simple Email Service (SES), Microsoft Office365 and other SMTP server.
 - [Reset Customer Password](https://github.com/Vinai/module-customer-password-command) - Set a customer password with bin/magento by [Vinai Kopp](https://github.com/Vinai/).
 - [Admin Auto Login](https://github.com/rogyar/magento2-autologin) - Automatically login to Magento 2 admin, veru useful for demo
+- [Guest to Customer](https://github.com/magepal/magento2-guest-to-customer) - Quickly and easily convert existing guest checkout customers to registered customers.
 
 ### Security 
 
 - [Secure Password Hashing](https://bitbucket.org/creaminternet/module-securepasswords) - Improves Password Hashing for Magento 2.
 - [2FA](https://github.com/magespecialist/m2-MSP_TwoFactorAuth) - Two Factor Auth for Magento 2.
 - [Maleware Scanner](https://github.com/gwillem/magento-malware-scanner) - A collection of rules and samples to detect Magento malware.
+
+### Payment Service Provider
+- [PAYONE](https://github.com/PAYONE-GmbH/magento-2) - PAYONE Payment Integration.
+- [Stripe](https://github.com/pmclain/module-stripe) - Stripe Payments for Magento 2.
 
 ### Infrastructure
 
@@ -167,6 +175,7 @@
 - [Commercebug Debugging Extension](http://store.pulsestorm.net/products/commerce-bug-3) - A Magento 2 Debug Extension.
 - [Magicento](http://magicento.com/) - [PHPStorm](https://www.jetbrains.com/phpstorm/) Plugin to add Magento 2 related functionality.
 - [Kraken.io](https://github.com/kraken-io/kraken-magento) - High Quality Image reduction Service as a SaaS Integration.
+
 ---
 
 ### Themes
@@ -207,6 +216,7 @@
 #### Other
 - [Max Pronko's Devletter](https://maxpronko.us13.list-manage.com/subscribe/post?u=1522a03b7b9e6dea003fad97a&id=dc6b454824) - Monthly Development Newsletter.
 - [MageTalk: A Magento Community Podcast](http://magetalk.com/) - Community Podcast by [Kalen Jordan](https://commercehero.io/kalenjordan) and [Phillip Jackson](https://commercehero.io/philwinkle).
+- [Magento 2 Architecture](https://github.com/magento/architecture) - A place where Magento architectural discussions happen.
 
 ---
 
