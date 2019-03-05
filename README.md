@@ -185,6 +185,8 @@
 
 - [MASE2 Optimus theme](https://github.com/studioemma/magento2-theme-optimus)
 - [Magento2 - Blank Theme - SASS version](https://github.com/SnowdogApps/magento2-theme-blank-sass)
+- [RW Prime boilerplate theme](https://github.com/rocketweb-fed/magento2-theme-prime)
+
 ---
 
 ### Blogs
