@@ -105,6 +105,8 @@
 
 - [Donation Product Module](https://github.com/experius/Magento-2-Module-Experius-DonationProduct) - Integration for donations to charities.
 - [Clean Checkout](https://github.com/danslo/CleanCheckout) - A drop in Magento 2 Checkout alternative.
+- [MageDelight PDF Catalog Print Advance](https://www.magedelight.com/magento-2-extensions/pdf-catalog-print-advance-magento-2.html) - A versatile Magento 2 extension for generating catalog PDF in seconds.
+- [MageDelight One Step Checkout](https://www.magedelight.com/magento-2-extensions/one-step-checkout-magento-2.html) - An extension that'll help you simplify the checkout process.
 
 
 ### Search
@@ -129,6 +131,9 @@
 - [Magento 2 PDF](https://github.com/staempfli/magento2-module-pdf) - PDF Generator based on [wkhtmltopdf](http://wkhtmltopdf.org/).
 - [Magento 2 SEO](https://github.com/staempfli/magento2-module-seo) - Sweet & Simple SEO Module by Staempfli.
 - [Google Tag Manager](https://github.com/magepal/magento2-google-tag-manager) - Google Tag Manager (GTM) with Data Layer for Magento2.
+- [MageDelight SEO Pro](https://www.magedelight.com/magento-2-extensions/seo-pro-magento-2.html) - Premium Magento 2 extension for elevating your online presence.
+- [MageDelight Subscribe Now](https://www.magedelight.com/magento-2-extensions/subscribe-now-magento-2.html) - Top-end Magento 2 extension for offering subscription products.
+- [MageDelight Advance Promotions](https://www.magedelight.com/magento-2-extensions/advance-promotions-extension-magento-2.html) - An innovative Magento 2 extension that'll help you upscale your business.
 
 ### Adminhtml / Backend
 
@@ -159,6 +164,11 @@
 ### Payment Service Provider
 - [PAYONE](https://github.com/PAYONE-GmbH/magento-2) - PAYONE Payment Integration.
 - [Stripe](https://github.com/pmclain/module-stripe) - Stripe Payments for Magento 2.
+- [MageDelight Stripe Payment Module](https://www.magedelight.com/magento-2-extensions/magento2-stripe-payment-module.html) - Premium Magento 2 payment gateway extension.
+- [MageDelight CyberSource Secure Acceptance](https://www.magedelight.com/magento-2-extensions/cybersource-secure-acceptance-magento-2.html) - A secure payment gateway to accept payments globally.
+- [MageDelight Payfort Payment Gateway for Magento 2](https://www.magedelight.com/magento-2-extensions/payfort-payment-gateway-extension-magento-2.html) - A safe and reliable payment gateway for accepting payments.
+- [MageDelight Authorize.net CIM for Magento 2](https://www.magedelight.com/magento-2-extensions/magento2-authorize-net-cim.html) - A trustable payment gateway widely used across the globe.
+- [MageDelight Moneris Payment Module for Magento 2](https://www.magedelight.com/magento-2-extensions/magento-2-moneris-payment-module.html) - A robust payment module for accepting payments seamlessly.
 
 ### Infrastructure
 
@@ -186,6 +196,14 @@
 
 - [MASE2 Optimus theme](https://github.com/studioemma/magento2-theme-optimus)
 - [Magento2 - Blank Theme - SASS version](https://github.com/SnowdogApps/magento2-theme-blank-sass)
+
+#### M2GO
+- [FashionGO](https://www.magedelight.com/fashiongo-magento-2-theme-for-fashion-apparel.html) - A versatile Magento 2 theme ideal for Fashion & Apparel industry.
+- [BeautyGO](https://www.magedelight.com/beautygo-magento-2-theme-for-health-beauty.html) - A charming and graceful Magento 2 theme best suited for Health & Beauty industry.
+- [FurnitureGO](https://www.magedelight.com/furniturego-magento-2-theme-for-home-decor.html) - An aesthetically pleasing Magento 2 theme for home and decor industry.
+- [ElectriGO](https://www.magedelight.com/electrigo-magento-2-theme-for-electronics.html) - A smart, intuitive, and unbeatable Magento 2 theme - ideal for any Electronics store.
+- [JewelGO](https://www.magedelight.com/jewelgo-magento-2-theme-for-gems-and-jewellery.html) - A resplendent Magento 2 theme with a well-thought-out layout ideal for gems and jewellery store.
+
 ---
 
 ### Blogs
@@ -216,6 +234,8 @@
 - [MageComp](https://magecomp.com/blog/category/magento-2/)
 - [Experius Codeblog](https://codeblog.experius.nl)
 - [Nwdthemes](https://nwdthemes.com/blog/)
+- [Krish TechnoLabs](https://www.krishtechnolabs.com/insight/)
+- [MageDelight](https://blog.magedelight.com)
 
 #### Other
 - [Max Pronko's Devletter](https://maxpronko.us13.list-manage.com/subscribe/post?u=1522a03b7b9e6dea003fad97a&id=dc6b454824) - Monthly Development Newsletter.
@@ -299,6 +319,7 @@
 - [WebShopApps](http://webshopapps.com/eu/)
 - [Yireo](https://www.yireo.com/)
 - [FireBear Studio](https://firebearstudio.com/)
+- [MageDelight](https://magedelight.com)
 
 > **Magento Extension Developers Network (ExtDN)**
 > The Magento Extension Developers Network (ExtDN) is a vetted network of extension developers whose core business is to
