@@ -28,7 +28,6 @@
 ---
 
 ## Tools
-- [mage2.docker](https://github.com/aliuosio/mage2.docker) - Magento 2 - Docker Compose with nginx-http2, php, mysql, mailhog, redis, elasticsearch and Let's Encrypt Containers
 - [n98-magerun2](http://magerun.net/) - The CLI Swiss Army Knife for Magento 2.
 - [Documentation Search for Alfred](https://github.com/DavidLambauer/Alfred-Workflow-Magento-2-DevDocs-Search) - Easily integrate the official Magento 2 Search into your Alfred Workflows.
 - [Tablerates Generator](https://elgentos.nl/tablerates/) - Generate Tablerates with an online Tool.
@@ -43,6 +42,7 @@
 - [Quickorder](https://github.com/popesites/Magento-Quickorder) - Enables bulk order creation by inputting SKUs & quantities.
 - [Cron Scheduler](https://github.com/kiwicommerce/magento2-cron-scheduler) - Overviews of running crons in your Admin Panel.
 - [MageSpecialist DevTools for Magento 2](https://github.com/magespecialist/m2-MSP_DevTools) Developer Toolbar
+- [mage2.docker](https://github.com/aliuosio/mage2.docker) - Magento 2 - Docker Compose with nginx-http2, php, mysql, mailhog, redis, elasticsearch and Let's Encrypt Containers
 
 
 ---
