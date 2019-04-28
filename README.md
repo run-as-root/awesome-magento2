@@ -221,6 +221,7 @@
 - [MageComp](https://magecomp.com/blog/category/magento-2/)
 - [Experius Codeblog](https://codeblog.experius.nl)
 - [Nwdthemes](https://nwdthemes.com/blog/)
+- [Rocket Web](https://rocketweb.com/blog)
 
 #### Other
 - [Max Pronko's Devletter](https://maxpronko.us13.list-manage.com/subscribe/post?u=1522a03b7b9e6dea003fad97a&id=dc6b454824) - Monthly Development Newsletter.
