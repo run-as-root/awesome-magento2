@@ -41,6 +41,8 @@
 - [Magento 2 data migration tool](https://github.com/magento/data-migration-tool) - Official Magento 1 to Magento 2 migration tool
 - [Quickorder](https://github.com/popesites/Magento-Quickorder) - Enables bulk order creation by inputting SKUs & quantities.
 - [Cron Scheduler](https://github.com/kiwicommerce/magento2-cron-scheduler) - Overviews of running crons in your Admin Panel.
+- [MageSpecialist DevTools for Magento 2](https://github.com/magespecialist/m2-MSP_DevTools) Developer Toolbar
+- [mage2.docker](https://github.com/aliuosio/mage2.docker) - Magento 2 - Docker Compose with nginx-http2, php, mysql, mailhog, redis, elasticsearch and Let's Encrypt Containers
 
 
 ---
@@ -187,6 +189,10 @@
 - [Magento2 - Blank Theme - SASS version](https://github.com/SnowdogApps/magento2-theme-blank-sass)
 - [RW Prime boilerplate theme](https://github.com/rocketweb-fed/magento2-theme-prime)
 
+#### Progressive Web Application
+
+- [ScandiPWA Theme](https://github.com/scandipwa/base-theme) - Magento 2.3+ PWA theme based on React and Redux
+
 ---
 
 ### Blogs
@@ -217,6 +223,7 @@
 - [MageComp](https://magecomp.com/blog/category/magento-2/)
 - [Experius Codeblog](https://codeblog.experius.nl)
 - [Nwdthemes](https://nwdthemes.com/blog/)
+- [Rocket Web](https://rocketweb.com/blog)
 
 #### Other
 - [Max Pronko's Devletter](https://maxpronko.us13.list-manage.com/subscribe/post?u=1522a03b7b9e6dea003fad97a&id=dc6b454824) - Monthly Development Newsletter.
