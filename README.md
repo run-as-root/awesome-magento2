@@ -161,6 +161,7 @@
 ### Payment Service Provider
 - [PAYONE](https://github.com/PAYONE-GmbH/magento-2) - PAYONE Payment Integration.
 - [Stripe](https://github.com/pmclain/module-stripe) - Stripe Payments for Magento 2.
+- [Square](https://squareup.com/help/us/en/article/5989-magento-and-square) - Square Payments for Magento 2.
 
 ### Infrastructure
 
