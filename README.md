@@ -71,6 +71,7 @@
 - [Magento 2 PHPStorm File Templates](https://github.com/lfolco/phpstorm-m2-filetemplates) - PHPStorm Magento 2 File Templates.
 - [Magento 2 Composer Repository](https://github.com/EaDesgin/m2-ComposerRepo) - Composer Repository Manager for selling Magento 2 extension and offering composer installation for ordered packages.
 - [MageVulnDB](https://github.com/gwillem/magevulndb) - Central repository for third party Magento extensions with known security issues.
+- [Magento 2 Debug](https://github.com/clawrock/magento2-debug) - Profiler for debugging Magento 2 performance issues.
 
 ### Deployment
 
