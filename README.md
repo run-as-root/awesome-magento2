@@ -43,10 +43,8 @@
 - [Cron Scheduler](https://github.com/kiwicommerce/magento2-cron-scheduler) - Overviews of running crons in your Admin Panel.
 - [QuickDevBar](https://github.com/vpietri/magento2-developer-quickdevbar) Developer Toolbar for Magento2 
 - [MageSpecialist DevTools for Magento 2](https://github.com/magespecialist/m2-MSP_DevTools) Developer Toolbar
-- [mage2.docker](https://github.com/aliuosio/mage2.docker) - This Setup installs the basic docker containers for Magento 2. The magento 2 files and sample data can be downloaded also if the flags are set in .env
+- [mage2.docker](https://github.com/aliuosio/mage2.docker) - basic docker containers for Magento 2 with installer (updated: 27 November 2019)
 - [markshust/docker-magento](https://github.com/markshust/docker-magento) - Mark Shust's Docker Configuration for Magento
-
----
 
 ## Open Source Extensions
 
