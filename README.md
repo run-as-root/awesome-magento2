@@ -332,6 +332,7 @@ Explanation by [Fooman](http://store.fooman.co.nz/blog/how-to-find-trustworthy-i
 - [Awesome PHP](https://github.com/ziadoz/awesome-php) - A curated List of Awesome PHP Resources.
 - [Awesome Magento](https://github.com/sunel/awesome-magento) - An Awesome Magento List with mixed M1 and M2 Content by [sunel](https://github.com/sunel).
 - [Headless Magento 2](https://github.com/sitewards/headless-magento2-resources) - A list of resources about running Magento 2 headless by [Sitewards](https://commercehero.io/sitewards)
+- [Magento security resources](https://github.com/gwillem/magento-security-resources) - A list of security related items for Magento 2.
 
 ---
 
