@@ -72,6 +72,7 @@
 - [Magento 2 PHPStorm File Templates](https://github.com/lfolco/phpstorm-m2-filetemplates) - PHPStorm Magento 2 File Templates.
 - [Magento 2 Composer Repository](https://github.com/EaDesgin/m2-ComposerRepo) - Composer Repository Manager for selling Magento 2 extension and offering composer installation for ordered packages.
 - [MageVulnDB](https://github.com/gwillem/magevulndb) - Central repository for third party Magento extensions with known security issues.
+- [Painless Magento 2](https://github.com/ChacunSonSite/painless-magento2) - A dockerized magento 2 community environment ready for development or production.
 - [Magento 2 Debug](https://github.com/clawrock/magento2-debug) - Profiler for debugging Magento 2 performance issues.
 - [Magento 2 Prometheus Exporter](https://github.com/run-as-root/magento2-prometheus-exporter) - Prometheus Exporter for common Magento Data.
 
@@ -82,6 +83,7 @@
 - [Magento 2 Deployment Tool](https://github.com/staempfli/magento2-deployment-tool) - Magento2 Deployment Tool with PHing by [Juan Alonso](https://commercehero.io/juan.alonso).
 - [Deployer Magento2 Recipe](https://github.com/deployphp/deployer/blob/master/recipe/magento2.php) - Magento2 deployment recipe for [deployer](https://deployer.org/).
 - [Magento 2 Deployer Plus](https://github.com/jalogut/magento2-deployer-plus) - Tool based on deployer.org to perform zero downtime deployments of Magento 2 projects.
+- [Painless Magento 2](https://github.com/ChacunSonSite/painless-magento2) - A dockerized magento 2 community environment ready for development or production.
 
 
 ### Language Packages
