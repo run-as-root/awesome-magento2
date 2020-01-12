@@ -127,6 +127,7 @@
 - [PageDesigner](https://github.com/Magenerds/PageDesigner) - Easily create and drag and drop your CMS contents in the Magento Backend.
 - [Mirasvit Blog](https://github.com/mirasvit/module-blog) - Blog Extension.
 - [Magefan Blog](https://github.com/magefan/module-blog) - Blog Extension.
+- [MageSuite](https://github.com/magesuite/magesuite) - Open Source (free) PageBuilder alternative
 
 ### Marketing
 
