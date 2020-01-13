@@ -52,6 +52,8 @@
 - [PhpStorm Magento2 Extension](https://github.com/magento/magento2-phpstorm-plugin) - Official PhpStorm Magento2 Extension.
 - [PhpInsights](https://github.com/nunomaduro/phpinsights) - PHP quality checks (with Magento2 presets)
 - [nuzil/magento-postman](https://github.com/nuzil/magento-postman) - Postman collections for Magento2
+- [Tango](https://github.com/roma-glushko/tango) - CLI for analyzing access logs
+- [Masquerade](https://github.com/elgentos/masquerade) - Faker-driven, configuration-based, platform-agnostic, locale-compatible data faker tool
 
 ## Open Source Extensions
 
@@ -81,6 +83,7 @@
 - [Painless Magento 2](https://github.com/ChacunSonSite/painless-magento2) - A dockerized magento 2 community environment ready for development or production.
 - [Magento 2 Debug](https://github.com/clawrock/magento2-debug) - Profiler for debugging Magento 2 performance issues.
 - [Magento 2 Prometheus Exporter](https://github.com/run-as-root/magento2-prometheus-exporter) - Prometheus Exporter for common Magento Data.
+- [Baler](https://github.com/magento/baler) - Smart replacement for Magento2 out-of-the-box JS bundling.
 
 ### Deployment
 
