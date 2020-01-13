@@ -54,6 +54,7 @@
 - [nuzil/magento-postman](https://github.com/nuzil/magento-postman) - Postman collections for Magento2
 - [Tango](https://github.com/roma-glushko/tango) - CLI for analyzing access logs
 - [Masquerade](https://github.com/elgentos/masquerade) - Faker-driven, configuration-based, platform-agnostic, locale-compatible data faker tool
+- [Magento 2 Composer patches helper](https://chrome.google.com/webstore/detail/magento-2-composer-patche/gfndadbceejgfjahpfaijcacnmdloiad) - Chrome extension to create copy-pastable composer patch definition for vaimo/composer-patches.
 
 ## Open Source Extensions
 
