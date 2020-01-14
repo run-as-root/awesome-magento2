@@ -250,6 +250,10 @@
 - [The Magento 2 Beginner Tutorial Class](https://www.youtube.com/playlist?list=PLtaXuX0nEZk9eL59JGE3ny-_GAU-z5X5D&utm_content=buffer797bf&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer) - Free YouTube Series for learning Magento 2.
 - [Vinai Kopp Mage2Katas](https://www.youtube.com/channel/UCRFDWo7jTlrpEsJxzc7WyPw)
 - [Mage2.tv](https://www.mage2.tv) - Magento 2 Developer Screencasts by Vinai Kopp
+- [magento-notes/magento2-exam-notes](https://github.com/magento-notes/magento2-exam-notes) - Preparation notes for Magento 2 Certified Professional Developer exam
+- [magento-notes/magento2-cloud-developer-notes](https://github.com/magento-notes/magento2-cloud-developer-notes) - Preparation notes for Magento 2 Certified Professional Cloud Developer exam
+- [roma-glushko/magento2-dev-plus-exam](https://github.com/roma-glushko/magento2-dev-plus-exam) - Preparation notes for Magento 2 Certified Professional Developer Plus exam
+- [fisheye-academy/m2cpfed-training](https://github.com/fisheye-academy/m2cpfed-training) - Resources for the Magento 2 Certified Professional Front End Developer exam
 
 ---
 
