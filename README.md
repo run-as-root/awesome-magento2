@@ -55,6 +55,8 @@
 - [Tango](https://github.com/roma-glushko/tango) - CLI for analyzing access logs
 - [Masquerade](https://github.com/elgentos/masquerade) - Faker-driven, configuration-based, platform-agnostic, locale-compatible data faker tool
 - [Magento 2 Composer patches helper](https://chrome.google.com/webstore/detail/magento-2-composer-patche/gfndadbceejgfjahpfaijcacnmdloiad) - Chrome extension to create copy-pastable composer patch definition for vaimo/composer-patches.
+- [extdn/installer-m2](https://github.com/extdn/installer-m2) - Universal extension installer for Magento 2 by [Magento Extension Developers Network](https://extdn.org/)
+- [mage2click/m2c](https://github.com/mage2click/m2c) - Magento Docker development environment with mutagen.io sync for files on macOS and native filesystem mounts on Linux by [mage2.click](https://mage2.click/) 
 
 ## Open Source Extensions
 
@@ -86,6 +88,7 @@
 - [Magento 2 Prometheus Exporter](https://github.com/run-as-root/magento2-prometheus-exporter) - Prometheus Exporter for common Magento Data.
 - [Baler](https://github.com/magento/baler) - Smart replacement for Magento2 out-of-the-box JS bundling.
 - [graycoreio/magento2-cors](https://github.com/graycoreio/magento2-cors) - Enables configurable CORS Headers on the Magento GraphQL API.
+- [shkoliar/magento-debug-helper](https://github.com/shkoliar/magento-debug-helper) - Magento 2 Debug Helper Module for easy debugging with Xdebug and PHPStorm or any other IDE by [Dmitry Shkoliar](https://shkoliar.com/)
 
 ### Deployment
 
@@ -172,6 +175,8 @@
 - [Reset UI Bookmarks](https://github.com/magenizr/Magenizr_ResetUiBookmarks) - Reset UI Bookmarks allows admin users to reset their own UI bookmarks such as state of filters, column positions and applied sorting ( e.g Sales > Orders ).
 - [CLean Admin Menu](https://github.com/redchamps/clean-admin-menu) - Merges 3rd party extensions to a single menu.
 - [auroraextensions/simplereturns](https://github.com/auroraextensions/simplereturns) - Self-service RMA for Magento2.
+- [shkoliar/magento-grid-colors](https://github.com/shkoliar/magento-grid-colors) - Magento 2 Grid Colors module for colorizing admin grids. Supports saving of states with the help of grid's bookmarks. by [Dmitry Shkoliar](https://shkoliar.com/)
+- [extdn/extension-dashboard-m2](https://github.com/extdn/extension-dashboard-m2) - A Magento 2 dashboard to display installed extensions. by [Magento Extension Developers Network](https://extdn.org/)
 
 ### Security
 
