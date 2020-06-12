@@ -173,7 +173,7 @@
 - [Admin Auto Login](https://github.com/rogyar/magento2-autologin) - Automatically login to Magento 2 admin, very useful for demo
 - [Guest to Customer](https://github.com/magepal/magento2-guest-to-customer) - Quickly and easily convert existing guest checkout customers to registered customers.
 - [Reset UI Bookmarks](https://github.com/magenizr/Magenizr_ResetUiBookmarks) - Reset UI Bookmarks allows admin users to reset their own UI bookmarks such as state of filters, column positions and applied sorting ( e.g Sales > Orders ).
-- [CLean Admin Menu](https://github.com/redchamps/clean-admin-menu) - Merges 3rd party extensions to a single menu.
+- [Clean Admin Menu](https://github.com/redchamps/clean-admin-menu) - Merges 3rd party extensions to a single menu.
 - [auroraextensions/simplereturns](https://github.com/auroraextensions/simplereturns) - Self-service RMA for Magento2.
 - [shkoliar/magento-grid-colors](https://github.com/shkoliar/magento-grid-colors) - Magento 2 Grid Colors module for colorizing admin grids. Supports saving of states with the help of grid's bookmarks. by [Dmitry Shkoliar](https://shkoliar.com/)
 - [extdn/extension-dashboard-m2](https://github.com/extdn/extension-dashboard-m2) - A Magento 2 dashboard to display installed extensions. by [Magento Extension Developers Network](https://extdn.org/)
