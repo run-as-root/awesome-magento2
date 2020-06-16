@@ -70,6 +70,9 @@
 - [Magento 2 PHPStorm File Templates](https://github.com/lfolco/phpstorm-m2-filetemplates) - PHPStorm Magento 2 File Templates.
 - [Magento 2 Composer Repository](https://github.com/EaDesgin/m2-ComposerRepo) - Composer Repository Manager for selling Magento 2 extension and offering composer installation for ordered packages.
 - [MageVulnDB](https://github.com/gwillem/magevulndb) - Central repository for third party Magento extensions with known security issues.
+- [M2 Easy Template Path Hints](https://github.com/MagePsycho/magento2-easy-template-path-hints) - An extension used to enable the template path hints on the fly just by using query strings.
+- [M2 Simplistic Bash Installer](https://github.com/MagePsycho/magento2-installer-bash-script) - This bash script helps you to install Magento2 from different sources (tar, composer etc.) with sample data.
+- [M2 Code + DB Backup Script](https://github.com/MagePsycho/magento2-db-code-backup-bash-script) - This utility script helps you to backup Magento2 code and database.
 
 ### Deployment
 
@@ -216,6 +219,7 @@
 - [MageComp](https://magecomp.com/blog/category/magento-2/)
 - [Experius Codeblog](https://codeblog.experius.nl)
 - [Nwdthemes](https://nwdthemes.com/blog/)
+- [MagePsycho](https://blog.magepsycho.com/)
 
 #### Other
 - [Max Pronko's Devletter](https://maxpronko.us13.list-manage.com/subscribe/post?u=1522a03b7b9e6dea003fad97a&id=dc6b454824) - Monthly Development Newsletter.
@@ -299,6 +303,7 @@
 - [WebShopApps](http://webshopapps.com/eu/)
 - [Yireo](https://www.yireo.com/)
 - [FireBear Studio](https://firebearstudio.com/)
+- [MagePsycho](https://www.magepsycho.com/)
 
 > **Magento Extension Developers Network (ExtDN)**
 > The Magento Extension Developers Network (ExtDN) is a vetted network of extension developers whose core business is to
