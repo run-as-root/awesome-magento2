@@ -184,6 +184,7 @@
 - [Secure Password Hashing](https://bitbucket.org/creaminternet/module-securepasswords) - Improves Password Hashing for Magento 2.
 - [2FA](https://github.com/magespecialist/m2-MSP_TwoFactorAuth) - Two Factor Auth for Magento 2.
 - [Maleware Scanner](https://github.com/gwillem/magento-malware-scanner) - A collection of rules and samples to detect Magento malware.
+- [Magento Patch Repository](https://github.com/brentwpeterson/magento-patches) - Every Magento Patch you need all in one place
 
 ### Payment Service Provider
 
