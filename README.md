@@ -209,7 +209,8 @@
 
 ### Mobile Application
 
-- [Magento React Native](https://github.com/troublediehard/magento-react-native) - React Native mobile application template for Magento 2.
+- [Magento React Native REST](https://github.com/dimaportenko/magento-react-native) - React Native mobile application template for Magento 2.
+- [Magento React Native GraphQL](https://github.com/dimaportenko/magento-react-native-community) - React Native mobile application template for Magento 2 with GraphQL API and [YouTube tutorials](https://youtube.com/playlist?list=PL97fL9DAn9QyNAWAh-X-mFJdXKm96AqVM).
 
 ---
 
