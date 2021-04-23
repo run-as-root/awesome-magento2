@@ -178,6 +178,7 @@
 - [auroraextensions/simplereturns](https://github.com/auroraextensions/simplereturns) - Self-service RMA for Magento2.
 - [shkoliar/magento-grid-colors](https://github.com/shkoliar/magento-grid-colors) - Magento 2 Grid Colors module for colorizing admin grids. Supports saving of states with the help of grid's bookmarks. by [Dmitry Shkoliar](https://shkoliar.com/)
 - [extdn/extension-dashboard-m2](https://github.com/extdn/extension-dashboard-m2) - A Magento 2 dashboard to display installed extensions. by [Magento Extension Developers Network](https://extdn.org/)
+- [Envbar](https://github.com/magenizr/Magenizr_Envbar) - Envbar allows you to differentiate between environments by adding a custom colored bar above the top navigation. This should help backend users to identify the environment ( e.g local, develop, staging, production ) and prevent anyone from accidentally changing content on the wrong environment.
 
 ### Security
 
