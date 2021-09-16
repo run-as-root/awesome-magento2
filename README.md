@@ -288,6 +288,7 @@
 - [magento-notes/magento2-cloud-developer-notes](https://github.com/magento-notes/magento2-cloud-developer-notes) - Preparation notes for Magento 2 Certified Professional Cloud Developer exam
 - [roma-glushko/magento2-dev-plus-exam](https://github.com/roma-glushko/magento2-dev-plus-exam) - Preparation notes for Magento 2 Certified Professional Developer Plus exam
 - [fisheye-academy/m2cpfed-training](https://github.com/fisheye-academy/m2cpfed-training) - Resources for the Magento 2 Certified Professional Front End Developer exam
+- [MageCafe](https://www.youtube.com/playlist?list=PLeoWPZvrjokdF3KGMiEFuLXLIu1l2xlvd) - A curated list of Magento development tutorial videos by the Codilar team
 
 ---
 
