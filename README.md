@@ -90,6 +90,7 @@
 - [Baler](https://github.com/magento/baler) - Smart replacement for Magento2 out-of-the-box JS bundling.
 - [graycoreio/magento2-cors](https://github.com/graycoreio/magento2-cors) - Enables configurable CORS Headers on the Magento GraphQL API.
 - [shkoliar/magento-debug-helper](https://github.com/shkoliar/magento-debug-helper) - Magento 2 Debug Helper Module for easy debugging with Xdebug and PHPStorm or any other IDE by [Dmitry Shkoliar](https://shkoliar.com/)
+- [bitExpert/phpstan-magento](https://github.com/bitExpert/phpstan-magento) - Magento specific extension for PHPStan
 
 ### Deployment
 
