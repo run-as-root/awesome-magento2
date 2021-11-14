@@ -155,7 +155,7 @@
 
 ### Adminhtml / Backend
 
-- [Customer Force Login](https://github.com/bitExpert/magento2-force-login) - Login as a Customer for support reasons.
+- [Customer Force Login](https://github.com/bitExpert/magento2-force-login) - Forces customers to log in before accessing certain pages.
 - [Checkout Tester](https://github.com/yireo/Yireo_CheckoutTester2) - Extension to quickly test Checkout changes.
 - [Preview Checkout Success Page](https://github.com/magepal/magento2-preview-checkout-success-page) - quickly and easily preview and test your order confirmation page, without the need to placing a new order each time.
 - [Firebear Import/Export](https://github.com/firebearstudio/importexport) - Import/Export Improvements for Standard Magento Importer.
