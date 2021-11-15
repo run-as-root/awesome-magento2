@@ -58,6 +58,7 @@
 - [extdn/installer-m2](https://github.com/extdn/installer-m2) - Universal extension installer for Magento 2 by [Magento Extension Developers Network](https://extdn.org/)
 - [mage2click/m2c](https://github.com/mage2click/m2c) - Magento Docker development environment with mutagen.io sync for files on macOS and native filesystem mounts on Linux by [mage2.click](https://mage2.click/)
 - [Migrate DB Magento 2 Commerce to Magento 2 Open-Source](https://github.com/opengento/magento2-downgrade-ee-ce)
+- [Reward](https://github.com/rewardenv/reward) - A CLI utility to develop multiple Magento projects (with PWA support) simultaneously using docker on all platforms. [Reward Docs](https://rewardenv.readthedocs.io)
 
 ## Open Source Extensions
 
