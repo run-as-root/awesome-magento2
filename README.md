@@ -261,6 +261,7 @@
 - [FireBear Studio](https://firebearstudio.com/blog)
 - [Fooman](http://store.fooman.co.nz/blog)
 - [inchoo](http://inchoo.net/category/magento-2/)
+- [M.academy](https://m.academy/blog/)
 - [Meetanshi](https://meetanshi.com/blog/)
 - [integer_net blog](https://www.integer-net.com/blog/)
 - [MageComp](https://magecomp.com/blog/category/magento-2/)
@@ -278,6 +279,7 @@
 
 ### Learning
 
+- [M.academy](https://m.academy/) - The simplest way to learn Magento 2 & Adobe Commerce, with video lessons & courses
 - [MageTitans Italia 2016](https://www.youtube.com/playlist?list=PLwB4Uz_0hoVP3Fm_c4HfNPK5JdRD6DIDl)
 - [MageTitans MCR 2016](https://www.youtube.com/playlist?list=PLwB4Uz_0hoVMOnBRS49ICbNWOU5jhNNWC)
 - [MageTitans USA/Texas 2016](https://www.youtube.com/playlist?list=PLwB4Uz_0hoVOLU7LPRNL4lAmJeAv7HQ-b)
