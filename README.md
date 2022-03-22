@@ -91,6 +91,8 @@
 - [graycoreio/magento2-cors](https://github.com/graycoreio/magento2-cors) - Enables configurable CORS Headers on the Magento GraphQL API.
 - [shkoliar/magento-debug-helper](https://github.com/shkoliar/magento-debug-helper) - Magento 2 Debug Helper Module for easy debugging with Xdebug and PHPStorm or any other IDE by [Dmitry Shkoliar](https://shkoliar.com/)
 - [bitExpert/phpstan-magento](https://github.com/bitExpert/phpstan-magento) - Magento specific extension for PHPStan
+- [Dot Env](https://github.com/zepgram/magento-dotenv) - Magento 2 Environment Variable Component - Implementing Symfony Dotenv.
+- [Rest Client](https://github.com/zepgram/module-rest) - Technical Magento 2 module providing simple development pattern, configurations and optimizations to make REST API requests toward external services based on Guzzle Client.
 
 ### Deployment
 
@@ -134,6 +136,7 @@
 - [elastic/app-search-magento](https://github.com/elastic/app-search-magento) - A first party module to integrate Elastic App Search in Magento2.
 - [Elastic Suite Integration](https://github.com/Smile-SA/elasticsuite/) - Elastic Suite Integration.
 - [FastSimpleImport2](https://github.com/firegento/FireGento_FastSimpleImport2) - Wrapper for Magento 2 ImportExport functionality, which imports products and customers from arrays.
+- [Disable Search Engine](https://github.com/zepgram/module-disable-search-engine) - Disable Elasticsearch and fulltext indexing for category search.
 
 ### CMS
 
