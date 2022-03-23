@@ -74,6 +74,7 @@
 - [Mage2 Vagrant](https://github.com/rgranadino/mage2_vagrant) - Simple Magento 2 Vagrant Box.
 - [frontools](https://github.com/SnowdogApps/magento2-frontools) - Set of front-end tools for Magento 2, based on Gulp.js.
 - [Magento 2 gulpfile](https://github.com/rocketweb-fed/magento2-gulpfile) - Useful frontend workflow gulp tasks for less-based themes.
+- [Subodha Magento2 Gulp Integration](https://github.com/subodha/magento-2-gulp) - Magento 2 Gulp Integration
 - [Scopehints](https://github.com/avstudnitz/AvS_ScopeHint2) - Displays additional information in the Store Configuration by [Andreas von Studnitz](https://commercehero.io/avstudnitz).
 - [PreferencesInfoCommand](https://github.com/dmanners/DavidAndVinai_PreferencesInfoCommand) - bin/magento command to display configured preferences for classes or interfaces
 - [m2install](https://github.com/yvoronoy/m2install) - Magento 2 Bash Install/Restore Script
