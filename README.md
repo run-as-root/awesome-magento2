@@ -74,7 +74,6 @@
 
 ### Localization
 
-- [ru_RU](https://packagist.org/packages/etws/magento-language-ru_ru) :ru: - Russian Language Package.
 - [de_DE](https://github.com/splendidinternet/Magento2_German_LocalePack_de_DE) :de: - German Language 	Package.
 - [de_CH](https://github.com/staempfli/magento2-language-de-ch) 🇨🇭 - Swiss Language Package.
 - [fr_FR](https://github.com/Imaginaerum/magento2-language-fr-fr) :fr: - French Language Package.
@@ -83,7 +82,7 @@
 - [es_ES](https://github.com/eusonlito/magento2-language-es_es) :es: - Spanish Language Package.
 - [pt_BR](https://github.com/rafaelstz/traducao_magento2_pt_br) 🇧🇷 - Portuguese Brazil Language Package.
 - [it_IT](https://github.com/mageplaza/magento-2-italian-language-pack) :it: - Italian Language.
-- [nl_NL](https://github.com/ho-nl/magento2-nl_NL) [alt.](https://bitbucket.org/creaminternet/language-nl_nl.git) 🇳🇱 - Dutch Language Package.
+- [nl_NL](https://github.com/magento-l10n/language-nl_NL) 🇳🇱 - Dutch Language Package.
 - [pl_PL](https://github.com/SnowdogApps/magento2-pl_pl) 🇵🇱 - Polish Language Package.
 - [tr_TR](https://github.com/hidonet/magento2-language-tr_tr) :tr: - Turkish Language Package.
 - [ro_RO](https://github.com/EaDesgin/magento2-romanian-language-pack) 🇷🇴 - Romanian Language Package.
@@ -92,7 +91,6 @@
 - [sk_SK](https://github.com/mageplaza/magento-2-slovak-language-pack) 🇸🇰 - Slovakian Language Package.
 - [sl_SI](https://github.com/symfony-si/magento2-sl-si) 🇸🇮 - Slovenian Language Package.
 - [en_GB](https://github.com/cubewebsites/magento2-language-en-gb) :gb: - British Language Package.
-- [Japanese Localization](https://marketplace.magento.com/community-engineering-japan-common.html) 🇯🇵 - Magento 2 compatibility with Japanese locales + full Japanese translations
 
 ### Catalog & Checkout
 
