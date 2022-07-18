@@ -1,12 +1,16 @@
 # Awesome Magento 2 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![pipeline status](https://gitlab.com/run_as_root/awesome-magento2-pipeline/badges/master/pipeline.svg)](https://gitlab.com/run_as_root/awesome-magento2-pipeline/commits/master)
 
-<h1 align="center">
+<div align="center">
+	<a href="https://vshymanskyy.github.io/StandWithUkraine">
+		<img width="500" height="350" src="media/logo-ua.svg" alt="Awesome">
+		<img src="https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/banner2-direct.svg">
+	</a>
 	<br>
-	<img width="300" src="https://github.com/DavidLambauer/awesome-magento2/blob/b8c9566e041af1e84b11457adb664dbcadfa842c/media/awesome-magento-logo.png?raw=true" alt="awesome magento2 logo">
 	<br>
 	<br>
 	<br>
-</h1>
+	<hr>
+</div>
 
 > A curated list of awesome Magento 2 Extensions & Resources
 
@@ -24,7 +28,6 @@
 - [Learning](#learning)
 - [Platforms](#platforms)
 - [Official Resources](#official-resources)
-
 ---
 
 ## Tools
