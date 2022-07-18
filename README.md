@@ -1,4 +1,4 @@
-# Awesome Magento 2 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+# Awesome Magento 2 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)[![Project Status: Active – The project has reached a stable, usable state and is being actively developed.](https://www.repostatus.org/badges/latest/active.svg)](https://www.repostatus.org/#active)
 
 <div align="center">
 	<a href="https://vshymanskyy.github.io/StandWithUkraine">
@@ -53,32 +53,17 @@
 ### Development Utilities
 
 - [Config ImportExport](https://github.com/semaio/Magento2-ConfigImportExport) - CLI Based Config Management.
-- [Magento Coding Standards](https://github.com/magento/magento-coding-standard) - Official Magento2 Advanced Set of Rules for PHP_CodeSniffer.
 - [Whoops Exceptions](https://github.com/yireo/Yireo_Whoops) - PHP Exceptions for Cool Kids in Magento 2.
 - [Magento Cache Clean](https://github.com/mage2tv/magento-cache-clean) - A faster drop in replacement for bin/magento cache:clean with file watcher by Vinai Kopp](https://twitter.com/vinaikopp)
 - [Developer Toolbar](https://github.com/mgtcommerce/Mgt_Developertoolbar) - Magento 2 Developer Toolbar.
 - [Advanced Template Hints](https://github.com/ho-nl/magento2-Ho_Templatehints) - Magento 2 Template Hints Helper.
-- [Magento2 PHPStorm Templates](https://github.com/staempfli/magento2-phpstorm-templates) - Live templates for Magento2
-- [Magento 2 Dockerize](https://github.com/arvatoSCM/dockerize-magento2) - A composer package for dockerizing Magento 2.
-- [Mage2 Vagrant](https://github.com/rgranadino/mage2_vagrant) - Simple Magento 2 Vagrant Box.
-- [frontools](https://github.com/SnowdogApps/magento2-frontools) - Set of front-end tools for Magento 2, based on Gulp.js.
-- [Magento 2 gulpfile](https://github.com/rocketweb-fed/magento2-gulpfile) - Useful frontend workflow gulp tasks for less-based themes.
 - [Scopehints](https://github.com/avstudnitz/AvS_ScopeHint2) - Displays additional information in the Store Configuration by [Andreas von Studnitz](https://commercehero.io/avstudnitz).
-- [PreferencesInfoCommand](https://github.com/dmanners/DavidAndVinai_PreferencesInfoCommand) - bin/magento command to display configured preferences for classes or interfaces
-- [m2install](https://github.com/yvoronoy/m2install) - Magento 2 Bash Install/Restore Script
 - [Magento 2 Configurator](https://github.com/ctidigital/magento2-configurator) - A Magento module initially created by CTI Digital to create and maintain database variables using files.
-- [Magento Collect](https://github.com/bobvanluijt/magento-collect) - A Polymer e-commerce element for Magento 2.
 - [Auto Cache Flush](https://github.com/yireo/Yireo_AutoFlushCache) - Magento 2 module to automatically flush the cache.
-- [MUP](https://github.com/npoole81/MUP) - A bash menu UI generated from a simple configuration file.  Built for Magento 2, but not limited to it.
 - [Magento 2 PHPStorm File Templates](https://github.com/lfolco/phpstorm-m2-filetemplates) - PHPStorm Magento 2 File Templates.
-- [Magento 2 Composer Repository](https://github.com/EaDesgin/m2-ComposerRepo) - Composer Repository Manager for selling Magento 2 extension and offering composer installation for ordered packages.
 - [MageVulnDB](https://github.com/gwillem/magevulndb) - Central repository for third party Magento extensions with known security issues.
-- [Painless Magento 2](https://github.com/ChacunSonSite/painless-magento2) - A dockerized magento 2 community environment ready for development or production.
-- [Magento 2 Debug](https://github.com/clawrock/magento2-debug) - Profiler for debugging Magento 2 performance issues.
 - [Magento 2 Prometheus Exporter](https://github.com/run-as-root/magento2-prometheus-exporter) - Prometheus Exporter for common Magento Data.
-- [Baler](https://github.com/magento/baler) - Smart replacement for Magento2 out-of-the-box JS bundling.
 - [graycoreio/magento2-cors](https://github.com/graycoreio/magento2-cors) - Enables configurable CORS Headers on the Magento GraphQL API.
-- [shkoliar/magento-debug-helper](https://github.com/shkoliar/magento-debug-helper) - Magento 2 Debug Helper Module for easy debugging with Xdebug and PHPStorm or any other IDE by [Dmitry Shkoliar](https://shkoliar.com/)
 - [bitExpert/phpstan-magento](https://github.com/bitExpert/phpstan-magento) - Magento specific extension for PHPStan
 
 ### Deployment
@@ -300,6 +285,7 @@
 - [Magento Developer Blog](https://community.magento.com/t5/Magento-DevBlog/bg-p/devblog?nobounce=) - Developer Blog by Magento.
 - [Magento 2 Code Samples](https://github.com/magento/magento2-samples) - Samples to introduce and demonstrate new technologies in Magento 2.
 - [Magento 2 data migration tool](https://github.com/magento/data-migration-tool) - Official Magento 1 to Magento 2 migration tool.
+- [Magento Coding Standards](https://github.com/magento/magento-coding-standard) - Official Magento2 Advanced Set of Rules for PHP_CodeSniffer.
 - [Magento 2 DevBox](https://github.com/magento/magento2devbox-web) - Dockerbox built by Magento.
 - Magento Masters 2017
   - [Peter Jaap Blaakmeer](https://commercehero.io/peterjaap) - CTO at [elgentos](https://www.elgentos.nl/)
