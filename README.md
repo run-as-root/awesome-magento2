@@ -143,6 +143,7 @@
 - [Fastly Extension](https://github.com/fastly/fastly-magento2) - Magento 2 fastly integration.
 - [Ethan3600/magento2-CronjobManager](https://github.com/Ethan3600/magento2-CronjobManager) - Cron Job Manager for Magento 2.
 - [Magento 2 Ngrok](https://github.com/shkoliar/magento-ngrok) - Magento 2 Ngrok Integration
+- [Clean Media](https://github.com/sivaschenko/magento2-clean-media) - A Module that provides information about Media Files and potential removal options.
 
 ---
 
