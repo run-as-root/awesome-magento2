@@ -12,6 +12,7 @@
 	<hr>
 </div>
 
+
 > A curated list of awesome Magento 2 Extensions & Resources.
 
 - [What is an awesome list?](https://github.com/sindresorhus/awesome/blob/master/awesome.md)
@@ -27,6 +28,10 @@
 - [Platforms](#platforms)
 - [Official Resources](#official-resources)
 ---
+
+## Frontend
+
+- [hyvä](https://hyva.io/) - The only viable Magento 2 Frontend Option
 
 ## Tools
 
