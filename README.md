@@ -183,6 +183,7 @@
 - [M.academy](https://m.academy/blog/)
 - [integer_net blog](https://www.integer-net.com/blog/)
 - [MageComp](https://magecomp.com/blog/category/magento-2/)
+- [bitExpert AG](https://blog.bitexpert.de/blog/tags/magento)
 
 #### Other
 
