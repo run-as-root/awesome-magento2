@@ -21,6 +21,7 @@
 
 ## Table of Contents
 
+- [What is Magento?](#magento)
 - [Tools](#tools)
 - [Open Source Extensions](#open-source-extensions)
 - [Blogs](#blogs)
@@ -28,6 +29,14 @@
 - [Platforms](#platforms)
 - [Official Resources](#official-resources)
 ---
+
+## What is Magento?
+Magento is an open source e-commerce application, that allows you to create webshops. We often speak of a frontend (the storefront where customers buy products) and a backend (the Magento Admin Panel where customers and products are being managed). The open source bit refers to the fact that the source code of Magento (PHP, HTML, CSS, JS, XML and some other) is distributed under an open source license (OSLv3) that allows anyone to reuse the code and make changes to it. This open source aspect has led to a huge popularity of the product Magent, so that we often use the word Magento to refer to either the product, or the community around it, or both.
+
+Magento was started by a company Varien and with Magento version 1 (first released in 2008), popularity started to grow. Magento version 2 was first released in november 2015 but faced a difficult adoptation because of its complex architecture but also features that seemed outdated (KnockoutJS, RequireJS, Zend Framework 1). On the storefront part, this led to various new frontends. In 2018, Magento was acquired by Adobe. Later on, Magento Enterprise was integrated into the Adobe cloud as Adobe Commerce Cloud, while the Magento Community Edition was relabeled Magento Open Source. In the community, there was uncertainty whether Adobe would maintain Magento Open Source on the long run in the way that the cmmunity would see fit. This led to a community initiative called Mage-OS.
+
+Also see:
+- [en.wikipedia.org/wiki/Magento](https://en.wikipedia.org/wiki/Magento)
 
 ## Frontend
 
