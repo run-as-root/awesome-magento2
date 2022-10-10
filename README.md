@@ -53,6 +53,21 @@ Also see:
 
 - [en.wikipedia.org/wiki/Magento](https://en.wikipedia.org/wiki/Magento)
 
+## Events: Meet the community
+
+- [MageUnconference 🇩🇪](https://www.mageunconference.org/) - A Magento Unconference in Germany.
+- [MageUnconference 🇳🇱](https://mageunconference.nl/) - A Magento Unconference in the Netherlands.
+- [meet commerce](https://meetcommerce.tech/) - A eCommerce focused Conference in Madrid/Spain.
+
+### Meet Magento
+
+Meet Magento Events bring together everyone from merchants through developers, solution and technology providers, and 
+marketers—and we continue to expand. 
+
+- [Meet Magento New York](https://meetmagentonyc.com/) - Meet Magento New York 
+- [Meet Magento UK](https://uk.meet-magento.com/) - Meet Magento UK 
+- [Meet Magento Baltics](https://meetmagentobaltics.com/) - Meet Magento Baltics
+
 ## Frontend
 
 - [hyvä](https://hyva.io/) - The only viable Magento 2 Frontend Option
@@ -237,14 +252,14 @@ Also see:
 
 ---
 
-### Blogs
+## Blogs
 
-#### Personal Blogs
+### Personal Blogs
 
 - [Alan Storm](http://alanstorm.com/category/magento-2/)
 - [Fabian Schmengler](https://www.schmengler-se.de/)
 
-#### Company Blogs
+### Company Blogs
 
 - [Atwix](https://www.atwix.com/blog/)
 - [Classy Llama](https://www.classyllama.com/blog)
@@ -257,12 +272,12 @@ Also see:
 - [MageComp](https://magecomp.com/blog/category/magento-2/)
 - [bitExpert AG](https://blog.bitexpert.de/blog/tags/magento)
 
-#### Other
+### Other
 
 - MageTalk: A Magento Community Podcast](http://magetalk.com/) - Community Podcast by [Kalen Jordan and [Phillip
   Jackson.
 
-### Learning
+## Learning
 
 - [M.academy](https://m.academy/) - The simplest way to learn Magento 2 & Adobe Commerce, with video lessons & courses
 - [MageTitans Italia 2016](https://www.youtube.com/playlist?list=PLwB4Uz_0hoVP3Fm_c4HfNPK5JdRD6DIDl)
@@ -285,13 +300,13 @@ Also see:
 
 ---
 
-### Platforms
+## Platforms
 
 - [StackExchange](http://magento.stackexchange.com/) - Q/A Forum.
 
 ---
 
-### Official Resources
+## Official Resources
 
 - [Magento Official Website](https://www.magento.com) - Magento's official Website.
 - [Magento Developer Documentation](http://devdocs.magento.com/) - Official Developer Documentation.
@@ -330,7 +345,7 @@ Also see:
 
 ---
 
-### List of trustworthy Extension Developers
+## List of trustworthy Extension Developers
 
 - [Aheadworks](https://www.aheadworks.com/)
 - [Altima](https://shop.altima.net.au/)
@@ -363,7 +378,7 @@ by [Fooman](http://store.fooman.co.nz/blog/how-to-find-trustworthy-information-a
 
 ---
 
-### Other Magento 2 related Awesome Lists
+## Other Magento 2 related Awesome Lists
 
 - [Mageres](https://github.com/aleron75/mageres) - Alessandro Ronchi's List of resources for Magento 1 and Magento 2.
 - [Awesome PHP](https://github.com/ziadoz/awesome-php) - A curated List of Awesome PHP Resources.
