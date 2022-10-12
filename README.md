@@ -23,6 +23,8 @@
 ## Table of Contents
 
 - [What is Magento?](#magento)
+- [Events](#events)
+- [Frontends](#frontends)
 - [Tools](#tools)
 - [Open Source Extensions](#open-source-extensions)
 - [Blogs](#blogs)
@@ -68,9 +70,15 @@ marketers—and we continue to expand.
 - [Meet Magento UK](https://uk.meet-magento.com/) - Meet Magento UK 
 - [Meet Magento Baltics](https://meetmagentobaltics.com/) - Meet Magento Baltics
 
-## Frontend
+## Frontends
+The storefront of Magento 2 can be styled in numerous ways:
 
-- [hyvä](https://hyva.io/) - The only viable Magento 2 Frontend Option
+- **Luma** (`Magento/luma`) - This is actually a default demo theme of Magento 2 itself, which again extends from `Magento/blank` which extends from the core. But more often, the name Luma refers to the entire stack: XML layout generates a tree-structure of blocks and containers, which eventually render via PHTML templates. The server-side rendered HTML is enriched with CSS (compiled from LESS source files) and JavaScript (RequireJS, KnockoutJS, jQuery).
+- **Adobe PWA Studio** - A new headless frontend, created by Adobe/Magento, based on ReactJS. It makes GraphQL calls to the Magento GraphQL API to retrieve data. The frontend offers Venia (a demo theme and UI component library), Peregrine (React hooks), Buildpack (Webpack configuration) and UPWARD (a middleware for SSR and image optimization). 
+- **Hyvä** ([hyva.io](https://hyva.io/)) - An alternative for Luma, which replaces the LESS/CSS with TailwindCSS and the JavaScript with AlpineJS. Currently, it is only available via a commercial license. But for that price, the team works hard to create compatibility modules for 3rd party modules, give support and make the entire solution more and more versatile.
+- **Vue Storefront**
+- **DEITY**
+- **ScandiPWA**
 
 ## Tools
 
