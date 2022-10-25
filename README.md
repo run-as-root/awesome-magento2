@@ -279,6 +279,7 @@ The storefront of Magento 2 can be styled in numerous ways:
 - [integer_net blog](https://www.integer-net.com/blog/)
 - [MageComp](https://magecomp.com/blog/category/magento-2/)
 - [bitExpert AG](https://blog.bitexpert.de/blog/tags/magento)
+- [OneStepCheckout](https://blog.onestepcheckout.com/)
 
 ### Other
 
@@ -375,6 +376,7 @@ The storefront of Magento 2 can be styled in numerous ways:
 - [WebShopApps](http://webshopapps.com/eu/)
 - [Yireo](https://www.yireo.com/)
 - [FireBear Studio](https://firebearstudio.com/)
+- [OneStepCheckout](https://onestepcheckout.com/)
 
 > **Magento Extension Developers Network (ExtDN)**
 > The Magento Extension Developers Network (ExtDN) is a vetted network of extension developers whose core business is to
