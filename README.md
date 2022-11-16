@@ -109,6 +109,7 @@ The storefront of Magento 2 can be styled in numerous ways:
     - Chrome extension to create copy-pastable composer patch definition for vaimo/composer-patches.
 - [Migrate DB Magento 2 Commerce to Magento 2 Open-Source](https://github.com/opengento/magento2-downgrade-ee-ce)
 - [Magento 2 Database Synchronizer](https://github.com/jellesiderius/mage-db-sync) - Database synchronizer for Magento 2 (and Wordpress), based on Magerun2. Keeping development, staging and production in sync easily.
+- [Subodha Magento2 Gulp Integration](https://github.com/subodha/magento-2-gulp) - Magento 2 Gulp Integration
 
 ## Open Source Extensions
 
