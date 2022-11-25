@@ -165,6 +165,7 @@ The storefront of Magento 2 can be styled in numerous ways:
 - [sk_SK](https://github.com/mageplaza/magento-2-slovak-language-pack) 🇸🇰 - Slovakian Language Package.
 - [sl_SI](https://github.com/symfony-si/magento2-sl-si) 🇸🇮 - Slovenian Language Package.
 - [en_GB](https://github.com/cubewebsites/magento2-language-en-gb) :gb: - British Language Package.
+- [hr_HR](https://marketplace.magento.com/inchoo-language-hr-hr.html) :croatia: - Croatian Language Package.
 
 ### Search
 
