@@ -91,8 +91,7 @@ The storefront of Magento 2 can be styled in numerous ways:
 - [Mage Chrome Toolbar](https://github.com/magespecialist/mage-chrome-toolbar) - A MUST-HAVE Chrome Extension for
   Magento 2 by [MageSpecialist](https://github.com/magespecialist).
 - [MageSpecialist DevTools for Magento 2](https://github.com/magespecialist/m2-MSP_DevTools) Developer Toolbar
-- [mage2.docker](https://github.com/aliuosio/mage2.docker) - Nginx(Pagespeed), MariaDB, PHP , Redis, Elastic Search
-  Configurator with Magento 2 installer (updated: 19 April 2020)
+- [magento2docker](https://github.com/aliuosio/magento2docker) - MariaDB, PHP , Redis, ElasticSearch in one dockerfile for fast demo and deveopment enviroment
 - [markshust/docker-magento](https://github.com/markshust/docker-magento) - Mark Shust's Docker Configuration for
   Magento
 - [Warden](https://github.com/davidalger/warden) - A CLI utility for working with docker-compose environments
