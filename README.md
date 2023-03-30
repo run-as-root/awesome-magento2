@@ -79,6 +79,7 @@ The storefront of Magento 2 can be styled in numerous ways:
 - **Vue Storefront**
 - **DEITY**
 - **ScandiPWA**
+- **Breeze Evolution** - A 100 pagespeed score frontend theme that is compatible with all Luma-based extensions. [breezefront.com](https://breezefront.com/themes)
 
 ## Tools
 
