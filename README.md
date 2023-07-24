@@ -228,6 +228,7 @@ The storefront of Magento 2 can be styled in numerous ways:
 - [hivecommerce/magento2-content-fuzzyfyr](https://github.com/hivecommerce/magento2-content-fuzzyfyr) - The Content
   Fuzzyfyr module for Magento2 replaces real content with dummy content. This is for development purposes, e.g. save
   time to prepare test data and matching GDPR restrictions.
+- [Disable Stock Reservation](https://github.com/AmpersandHQ/magento2-disable-stock-reservation) - This module disables the inventory reservation logic introduced as part of MSI in Magento 2.3.3.
 
 ### Security
 
