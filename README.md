@@ -80,6 +80,7 @@ The storefront of Magento 2 can be styled in numerous ways:
 - **DEITY**
 - **ScandiPWA**
 - **Breeze Evolution** - A 100 pagespeed score frontend theme that is compatible with all Luma-based extensions. [breezefront.com](https://breezefront.com/themes)
+- **Nuxt Commerce** - Headless application with Nuxt 3 and Magento 2 on the backend. Repository: [Nuxt Commerce](https://github.com/gromovoy88/nuxt-commerce). Demo: [thunderjs.dev](https://www.thunderjs.dev/)
 
 ## Tools
 
