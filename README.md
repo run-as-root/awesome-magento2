@@ -66,7 +66,7 @@ Also see:
 Meet Magento Events bring together everyone from merchants through developers, solution and technology providers, and 
 marketers—and we continue to expand. 
 
-- [Meet Magento New York](https://meetmagentonyc.com/) - Meet Magento New York 
+- [Meet Magento New York](https://meetmagentonyc.com/) - Meet Magento New York
 - [Meet Magento UK](https://uk.meet-magento.com/) - Meet Magento UK 
 - [Meet Magento Baltics](https://meetmagentobaltics.com/) - Meet Magento Baltics
 
@@ -340,8 +340,7 @@ The storefront of Magento 2 can be styled in numerous ways:
 - [Magento Github Repository](https://github.com/magento/magento2) - Github Repository.
 - [Magento Developer Blog](https://community.magento.com/t5/Magento-DevBlog/bg-p/devblog?nobounce=) - Developer Blog by
   Magento.
-- [Magento 2 data migration tool](https://github.com/magento/data-migration-tool) - Official Magento 1 to Magento 2
-  migration tool.
+- [Magento 2 data migration tool](https://github.com/magento/data-migration-tool) - Official Magento 1 to Magento 2 migration tool.
 - [Magento Coding Standards](https://github.com/magento/magento-coding-standard) - Official Magento2 Advanced Set of
   Rules for PHP_CodeSniffer.
 - [Magento 2 Architecture](https://github.com/magento/architecture) - A place where Magento architectural discussions
