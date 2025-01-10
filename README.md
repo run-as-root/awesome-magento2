@@ -375,6 +375,7 @@ The storefront of Magento 2 can be styled in numerous ways:
 - [Aheadworks](https://www.aheadworks.com/)
 - [Altima](https://shop.altima.net.au/)
 - [Blue Jalappeno](http://bluejalappeno.com/)
+- [CustomGento](https://www.customgento.com/extensions/)
 - [Dotmailer](https://www.dotmailer.com/)
 - [Integer-net](https://www.integer-net.com/solr-magento/)
 - [Genmato](https://genmato.com/)
