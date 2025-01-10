@@ -323,6 +323,7 @@ The storefront of Magento 2 can be styled in numerous ways:
   Magento 2 Certified Professional Developer Plus exam
 - [fisheye-academy/m2cpfed-training](https://github.com/fisheye-academy/m2cpfed-training) - Resources for the Magento 2
   Certified Professional Front End Developer exam
+- [Yireo Training](https://www.yireo.com/training) - Various Magento 2 courses for backend and frontend development
 
 ---
 
