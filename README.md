@@ -394,7 +394,6 @@ The storefront of Magento 2 can be styled in numerous ways:
 - [WebShopApps](http://webshopapps.com/eu/)
 - [Yireo](https://www.yireo.com/)
 - [FireBear Studio](https://firebearstudio.com/)
-- [OneStepCheckout](https://onestepcheckout.com/)
 
 > **Magento Extension Developers Network (ExtDN)**
 > The Magento Extension Developers Network (ExtDN) is a vetted network of extension developers whose core business is to
