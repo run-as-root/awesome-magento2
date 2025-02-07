@@ -59,7 +59,7 @@ Also see:
 
 - [MageUnconference 🇩🇪](https://www.mageunconference.org/) - A Magento Unconference in Germany.
 - [MageUnconference 🇳🇱](https://mageunconference.nl/) - A Magento Unconference in the Netherlands.
-- [meet commerce](https://meetcommerce.tech/) - A eCommerce focused Conference in Madrid/Spain.
+- [Meet Commerce](https://www.meetcommerce.com/) - A global series of conferences focused on commerce and innovation.
 
 ### Meet Magento
 
