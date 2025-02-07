@@ -101,16 +101,14 @@ The storefront of Magento 2 can be styled in numerous ways:
 - [Warden](https://github.com/davidalger/warden) - A CLI utility for working with docker-compose environments
   by [David Alger](https://davidalger.com/)
 - [DDEV](https://github.com/ddev/ddev) - A open source tool for launching local web development environments in minutes. It supports PHP, Node.js, and Python.
-- [AmpersandHQ/ampersand-magento2-upgrade-patch-helper](https://github.com/AmpersandHQ/ampersand-magento2-upgrade-patch-helper)
-    - Helper script to aid upgrading magento 2 websites by detecting overrides.
+- [AmpersandHQ/ampersand-magento2-upgrade-patch-helper](https://github.com/AmpersandHQ/ampersand-magento2-upgrade-patch-helper) - Helper script to aid upgrading magento 2 websites by detecting overrides.
 - [PhpStorm Magento2 Extension](https://github.com/magento/magento2-phpstorm-plugin) - Official PhpStorm Magento2
   Extension.
 - [PhpInsights](https://github.com/nunomaduro/phpinsights) - PHP quality checks (with Magento2 presets)
 - [Tango](https://github.com/roma-glushko/tango) - CLI for analyzing access logs
 - [Masquerade](https://github.com/elgentos/masquerade) - Faker-driven, configuration-based, platform-agnostic,
   locale-compatible data faker tool
-- [Magento 2 Composer patches helper](https://chrome.google.com/webstore/detail/magento-2-composer-patche/gfndadbceejgfjahpfaijcacnmdloiad)
-    - Chrome extension to create copy-pastable composer patch definition for vaimo/composer-patches.
+- [Magento 2 Composer patches helper](https://chrome.google.com/webstore/detail/magento-2-composer-patche/gfndadbceejgfjahpfaijcacnmdloiad) - Chrome extension to create copy-pastable composer patch definition for vaimo/composer-patches.
 - [Migrate DB Magento 2 Commerce to Magento 2 Open-Source](https://github.com/opengento/magento2-downgrade-ee-ce)
 - [Magento 2 Database Synchronizer](https://github.com/jellesiderius/mage-db-sync) - Database synchronizer for Magento 2 (and Wordpress), based on Magerun2. Keeping development, staging and production in sync easily.
 - [Subodha Magento2 Gulp Integration](https://github.com/subodha/magento-2-gulp) - Magento 2 Gulp Integration
@@ -311,8 +309,7 @@ The storefront of Magento 2 can be styled in numerous ways:
 - [MageTitans USA/Texas 2016](https://www.youtube.com/playlist?list=PLwB4Uz_0hoVOLU7LPRNL4lAmJeAv7HQ-b)
 - [Max Bucknell Magento 2 Javascript](https://www.youtube.com/watch?v=tHxebA-jOSo)
 - [Max Pronko DevChannel](https://www.youtube.com/channel/UCxbWGz6h6KNQsi2ughRUV2Q)
-- [The Magento 2 Beginner Tutorial Class](https://www.youtube.com/playlist?list=PLtaXuX0nEZk9eL59JGE3ny-_GAU-z5X5D&utm_content=buffer797bf&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer)
-    - Free YouTube Series for learning Magento 2.
+- [The Magento 2 Beginner Tutorial Class](https://www.youtube.com/playlist?list=PLtaXuX0nEZk9eL59JGE3ny-_GAU-z5X5D&utm_content=buffer797bf&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer) - Free YouTube Series for learning Magento 2.
 - [Vinai Kopp Mage2Katas](https://www.youtube.com/channel/UCRFDWo7jTlrpEsJxzc7WyPw)
 - [Mage2.tv](https://www.mage2.tv) - Magento 2 Developer Screencasts by Vinai Kopp
 - [magento-notes/magento2-exam-notes](https://github.com/magento-notes/magento2-exam-notes) - Preparation notes for
