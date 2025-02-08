@@ -288,6 +288,7 @@ The storefront of Magento 2 can be styled in numerous ways:
 
 - [Alan Storm](http://alanstorm.com/category/magento-2/)
 - [Fabian Schmengler](https://www.schmengler-se.de/)
+- [Jigar Karangiya](https://jigarkarangiya.com/)
 
 ### Company Blogs
 
