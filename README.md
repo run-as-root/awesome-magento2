@@ -244,6 +244,7 @@ The storefront of Magento 2 can be styled in numerous ways:
   Fuzzyfyr module for Magento2 replaces real content with dummy content. This is for development purposes, e.g. save
   time to prepare test data and matching GDPR restrictions.
 - [Disable Stock Reservation](https://github.com/AmpersandHQ/magento2-disable-stock-reservation) - This module disables the inventory reservation logic introduced as part of MSI in Magento 2.3.3.
+- [Product Links Navigator](https://github.com/elninotech/ElNino_ProductLinksNavigator) - Enhances admin product-to-product navigation. Adds direct frontend/backend links to products in grids and modals, and "Parent Products" tab.
 
 ### Security
 
