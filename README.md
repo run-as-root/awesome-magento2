@@ -241,8 +241,7 @@ The storefront of Magento 2 can be styled in numerous ways:
 
 ### Security
 
-- [Magento Patch Repository](https://github.com/brentwpeterson/magento-patches) - Every Magento Patch you need all in
-  one place
+- [Magento Quality Patches](https://experienceleague.adobe.com/tools/commerce-quality-patches/index.html) - Every Magento / Adobe Commerce patch you need all in one place
 
 ### Payment Service Provider
 
