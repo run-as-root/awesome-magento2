@@ -89,7 +89,7 @@ The storefront of Magento 2 can be styled in numerous ways:
 - [RabbitMQ Retry Mechanism](https://github.com/run-as-root/magento2-message-queue-retry) - Magento 2 extension that brings possibility to retry RabbitMQ failed messages
 - [Documentation Search for Alfred](https://github.com/DavidLambauer/Alfred-Workflow-Magento-2-DevDocs-Search) - Easily
   integrate the official Magento 2 Search into your Alfred Workflows.
-- [Tablerates Generator](https://elgentos.nl/tablerates/) - Generate Tablerates with an online Tool.
+- [Tablerates Generator](https://www.tableratesgenerator.com/) - Generate Tablerates with an online Tool.
 - [Pestle](https://github.com/astorm/pestle) - Code Generation Tool by Alan Storm.
 - [Mage2Gen](https://mage2gen.com/) - Online Module Creator.
 - [Mage Chrome Toolbar](https://github.com/magespecialist/mage-chrome-toolbar) - A MUST-HAVE Chrome Extension for
