@@ -194,6 +194,7 @@ The storefront of Magento 2 can be styled in numerous ways:
 - [Elastic Suite Integration](https://github.com/Smile-SA/elasticsuite/) - Elastic Suite Integration.
 - [FastSimpleImport2](https://github.com/firegento/FireGento_FastSimpleImport2) - Wrapper for Magento 2 ImportExport functionality, which imports products and customers from arrays.
 - [Disable Search Engine](https://github.com/zepgram/module-disable-search-engine) - Disable Elasticsearch and fulltext indexing for category search.
+- [Meilisearch Integration](https://github.com/walkwizus/magento2-module-meilisearch) - Meilisearch Integration.
 
 ### CMS
 
