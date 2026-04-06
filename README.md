@@ -125,6 +125,7 @@ The storefront of Magento 2 can be styled in numerous ways:
 - [Mage Wizard](https://github.com/clickAndMortar/mage-wizard) - Local web UI to view and create automatically modules, plugins, configs, observers, commands, crontabs, etc. directly in Magento 2 codebase
 - [Mage](https://github.com/GrimLink/mage) - Simplifies bin/magento commands by adding helpful shortcuts and time-saving tools to enhance your productivity.
 - [Magento Log Viewer - A Visual Studio Code Extension ](https://marketplace.visualstudio.com/items?itemName=MathiasElle.magento-log-viewer) - Provides a convenient way to view, watch and manage Magento log files and reports directly in your workspace.
+- [Ghost Architect™ Open](https://github.com/EJWisner/ghost-architect-open) — Free AI-powered codebase triage tool. Runs locally, BYOK. Scores findings by severity — Critical, High, Medium, Low. Your code never leaves your machine.
 
 ## Open Source Extensions
 
