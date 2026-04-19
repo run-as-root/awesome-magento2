@@ -32,6 +32,7 @@
 - [Education](#learning)
 - [Platforms](#platforms)
 - [Official Resources](#official-resources)
+- [Influencing People](#influencing-people)
 
 ---
 
@@ -337,6 +338,14 @@ The storefront of Magento 2 can be styled in numerous ways:
 
 Explanation
 by [Fooman](http://store.fooman.co.nz/blog/how-to-find-trustworthy-information-about-magento-extensions.html)
+
+---
+
+## Influencing People
+
+Community members worth following — talks, blog posts, open-source maintenance, and training material.
+
+{% file=data/influencers.yml parser="AwesomeList\Parser\YamlEntryList" %}
 
 ---
 

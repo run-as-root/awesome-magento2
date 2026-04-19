@@ -32,6 +32,7 @@
 - [Education](#learning)
 - [Platforms](#platforms)
 - [Official Resources](#official-resources)
+- [Influencing People](#influencing-people)
 
 ---
 
@@ -420,6 +421,31 @@ The storefront of Magento 2 can be styled in numerous ways:
 
 Explanation
 by [Fooman](http://store.fooman.co.nz/blog/how-to-find-trustworthy-information-about-magento-extensions.html)
+
+---
+
+## Influencing People
+
+Community members worth following — talks, blog posts, open-source maintenance, and training material.
+
+- [Ben Marks](https://twitter.com/benmarks) - Former Magento Evangelist; long-time community advocate.
+- [Alan Storm](https://alanstorm.com/) - Prolific Magento tech writer and creator of Pestle.
+- [Vinai Kopp](https://github.com/Vinai) - Trainer and author of Mage2Katas; deep Magento 2 internals expertise.
+- [Fabian Schmengler](https://github.com/schmengler) - integer_net; frequent conference speaker on Magento 2 architecture.
+- [Alessandro Ronchi](https://github.com/aleron75) - Co-founder of ExtDN; maintainer of Mageres.
+- [Anna Völkl](https://github.com/avoelkl) - integer_net; regular speaker and language-pack contributor.
+- [Peter Jaap Blaakmeer](https://github.com/peterjaap) - CTO at elgentos; open-source contributor.
+- [Sander Mangel](https://github.com/sandermangel) - Organiser of MageUnconference NL; language-pack co-maintainer.
+- [Jisse Reitsma](https://github.com/jreitsma) - Founder of Yireo; trainer and book author.
+- [Riccardo Tempesta](https://github.com/rpanarin) - MageSpecialist; creator of MSP_DevTools.
+- [David Alger](https://davidalger.com/) - Creator of Warden; long-time Magento infrastructure voice.
+- [Mark Shust](https://markshust.com/) - Creator of markshust/docker-magento; educator on YouTube.
+- [Max Pronko](https://github.com/maxpronko) - Trainer; runs the DevChannel YouTube series.
+- [Ivan Chepurnyi](https://github.com/EcomDev) - Long-time core contributor; speaker.
+- [Kalen Jordan](http://magetalk.com/) - Co-host of MageTalk podcast.
+- [Phillip Jackson](http://magetalk.com/) - Co-host of MageTalk podcast.
+- [Roma Glushko](https://github.com/roma-glushko) - Maintains magento2-dev-plus-exam notes and the Tango CLI.
+- [Mathias Elle](https://github.com/MathiasElle) - Author of the Magento Log Viewer VS Code extension.
 
 ---
 

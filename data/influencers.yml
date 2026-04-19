@@ -1,0 +1,90 @@
+- name: Ben Marks
+  url: https://twitter.com/benmarks
+  description: Former Magento Evangelist; long-time community advocate.
+  type: archive
+  added: "2018-01-01"
+- name: Alan Storm
+  url: https://alanstorm.com/
+  description: Prolific Magento tech writer and creator of Pestle.
+  type: archive
+  added: "2018-01-01"
+- name: Vinai Kopp
+  url: https://github.com/Vinai
+  description: Trainer and author of Mage2Katas; deep Magento 2 internals expertise.
+  type: archive
+  added: "2018-01-01"
+- name: Fabian Schmengler
+  url: https://github.com/schmengler
+  description: integer_net; frequent conference speaker on Magento 2 architecture.
+  type: archive
+  added: "2018-01-01"
+- name: Alessandro Ronchi
+  url: https://github.com/aleron75
+  description: Co-founder of ExtDN; maintainer of Mageres.
+  type: archive
+  added: "2018-01-01"
+- name: Anna Völkl
+  url: https://github.com/avoelkl
+  description: integer_net; regular speaker and language-pack contributor.
+  type: archive
+  added: "2018-01-01"
+- name: Peter Jaap Blaakmeer
+  url: https://github.com/peterjaap
+  description: CTO at elgentos; open-source contributor.
+  type: archive
+  added: "2018-01-01"
+- name: Sander Mangel
+  url: https://github.com/sandermangel
+  description: Organiser of MageUnconference NL; language-pack co-maintainer.
+  type: archive
+  added: "2018-01-01"
+- name: Jisse Reitsma
+  url: https://github.com/jreitsma
+  description: Founder of Yireo; trainer and book author.
+  type: archive
+  added: "2018-01-01"
+- name: Riccardo Tempesta
+  url: https://github.com/rpanarin
+  description: MageSpecialist; creator of MSP_DevTools.
+  type: archive
+  added: "2018-01-01"
+- name: David Alger
+  url: https://davidalger.com/
+  description: Creator of Warden; long-time Magento infrastructure voice.
+  type: archive
+  added: "2019-01-01"
+- name: Mark Shust
+  url: https://markshust.com/
+  description: Creator of markshust/docker-magento; educator on YouTube.
+  type: archive
+  added: "2019-01-01"
+- name: Max Pronko
+  url: https://github.com/maxpronko
+  description: Trainer; runs the DevChannel YouTube series.
+  type: archive
+  added: "2018-01-01"
+- name: Ivan Chepurnyi
+  url: https://github.com/EcomDev
+  description: Long-time core contributor; speaker.
+  type: archive
+  added: "2018-01-01"
+- name: Kalen Jordan
+  url: http://magetalk.com/
+  description: Co-host of MageTalk podcast.
+  type: archive
+  added: "2018-01-01"
+- name: Phillip Jackson
+  url: http://magetalk.com/
+  description: Co-host of MageTalk podcast.
+  type: archive
+  added: "2018-01-01"
+- name: Roma Glushko
+  url: https://github.com/roma-glushko
+  description: Maintains magento2-dev-plus-exam notes and the Tango CLI.
+  type: archive
+  added: "2020-01-01"
+- name: Mathias Elle
+  url: https://github.com/MathiasElle
+  description: Author of the Magento Log Viewer VS Code extension.
+  type: archive
+  added: "2024-01-01"
