@@ -40,4 +40,10 @@ final class EntryTest extends TestCase
         );
         $this->assertNull($entry->url);
     }
+
+    public function test_it_rejects_null_url_for_non_archive_type(): void
+    {
+        $this->expectException(InvalidArgumentException::class);
+        new Entry(name: 'Foo', url: null, description: null, type: EntryType::Blog, added: '2020-01-01');
+    }
 }
