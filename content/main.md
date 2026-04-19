@@ -317,27 +317,7 @@ The storefront of Magento 2 can be styled in numerous ways:
 
 ## List of trustworthy Extension Developers
 
-- [Aheadworks](https://www.aheadworks.com/)
-- [Altima](https://shop.altima.net.au/)
-- [Blue Jalappeno](http://bluejalappeno.com/)
-- [CustomGento](https://www.customgento.com/extensions/)
-- [Dotmailer](https://www.dotmailer.com/)
-- [Integer-net](https://www.integer-net.com/solr-magento/)
-- [Genmato](https://genmato.com/)
-- [Fooman](http://store.fooman.co.nz/)
-- [Ebizmarts](https://ebizmarts.com/)
-- [Magemail](https://magemail.co/)
-- [MagePal](https://packagist.org/packages/magepal/)
-- [Modulwerft](https://www.modulwerft.com/)
-- [Paradox Labs](https://www.paradoxlabs.com/)
-- [The Extension Lab](https://github.com/theextensionlab/)
-- [Sweet Tooth](https://www.sweettoothrewards.com/)
-- [Rocket Web](http://rocketweb.com/)
-- [ProxiBlue](https://www.proxiblue.com.au/)
-- [Unirgy](http://www.unirgy.com/)
-- [WebShopApps](http://webshopapps.com/eu/)
-- [Yireo](https://www.yireo.com/)
-- [FireBear Studio](https://firebearstudio.com/)
+{% file=data/developers.yml parser="AwesomeList\Parser\YamlEntryList" %}
 
 > **Magento Extension Developers Network (ExtDN)**
 > The Magento Extension Developers Network (ExtDN) is a vetted network of extension developers whose core business is to

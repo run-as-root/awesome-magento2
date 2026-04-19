@@ -374,27 +374,27 @@ The storefront of Magento 2 can be styled in numerous ways:
 
 ## List of trustworthy Extension Developers
 
-- [Aheadworks](https://www.aheadworks.com/)
-- [Altima](https://shop.altima.net.au/)
-- [Blue Jalappeno](http://bluejalappeno.com/)
-- [CustomGento](https://www.customgento.com/extensions/)
-- [Dotmailer](https://www.dotmailer.com/)
-- [Integer-net](https://www.integer-net.com/solr-magento/)
-- [Genmato](https://genmato.com/)
-- [Fooman](http://store.fooman.co.nz/)
-- [Ebizmarts](https://ebizmarts.com/)
-- [Magemail](https://magemail.co/)
-- [MagePal](https://packagist.org/packages/magepal/)
-- [Modulwerft](https://www.modulwerft.com/)
-- [Paradox Labs](https://www.paradoxlabs.com/)
-- [The Extension Lab](https://github.com/theextensionlab/)
-- [Sweet Tooth](https://www.sweettoothrewards.com/)
-- [Rocket Web](http://rocketweb.com/)
-- [ProxiBlue](https://www.proxiblue.com.au/)
-- [Unirgy](http://www.unirgy.com/)
-- [WebShopApps](http://webshopapps.com/eu/)
-- [Yireo](https://www.yireo.com/)
-- [FireBear Studio](https://firebearstudio.com/)
+- [Aheadworks](https://www.aheadworks.com/) - Magento extension vendor.
+- [Altima](https://shop.altima.net.au/) - Magento extension vendor.
+- [Blue Jalappeno](http://bluejalappeno.com/) - Magento extension vendor.
+- [CustomGento](https://www.customgento.com/extensions/) - Magento extension vendor.
+- [Dotmailer](https://www.dotmailer.com/) - Email marketing platform with Magento integration.
+- [Integer-net](https://www.integer-net.com/solr-magento/) - Magento extension vendor (Solr integration and more).
+- [Genmato](https://genmato.com/) - Magento extension vendor.
+- [Fooman](http://store.fooman.co.nz/) - Magento extension vendor.
+- [Ebizmarts](https://ebizmarts.com/) - Magento extension vendor.
+- [Magemail](https://magemail.co/) - Email marketing for Magento.
+- [MagePal](https://packagist.org/packages/magepal/) - MagePal's Magento extensions on Packagist.
+- [Modulwerft](https://www.modulwerft.com/) - Magento extension vendor.
+- [Paradox Labs](https://www.paradoxlabs.com/) - Magento extension vendor.
+- [The Extension Lab](https://github.com/theextensionlab/) - The Extension Lab on GitHub.
+- [Sweet Tooth](https://www.sweettoothrewards.com/) - Loyalty and rewards platform with Magento integration.
+- [Rocket Web](http://rocketweb.com/) - Magento extension vendor.
+- [ProxiBlue](https://www.proxiblue.com.au/) - Magento extension vendor.
+- [Unirgy](http://www.unirgy.com/) - Magento extension vendor.
+- [WebShopApps](http://webshopapps.com/eu/) - Magento extension vendor.
+- [Yireo](https://www.yireo.com/) - Magento extension vendor and training provider.
+- [FireBear Studio](https://firebearstudio.com/) - Magento extension vendor.
 
 > **Magento Extension Developers Network (ExtDN)**
 > The Magento Extension Developers Network (ExtDN) is a vetted network of extension developers whose core business is to
