@@ -82,7 +82,7 @@ marketers—and we continue to expand.
 
 The storefront of Magento 2 can be styled in numerous ways:
 
-{% file=frontend.csv parser="AwesomeList\Parser\GenericCsvList" %}
+{% file=data/frontends.yml parser="AwesomeList\Parser\YamlEntryList" %}
 
 ## Tools
 

@@ -26,7 +26,7 @@ class MarkdownGenerator
 
                 /** @var ParserInterface $parser */
                 $parser = (new ParserFactory)->create($tagData['parser']);
-                $parser->setFilename($contentDirectory . '/' . $file);
+                $parser->setFilename(dirname($contentDirectory) . '/' . $file);
                 $markdown = $parser->parseToMarkdown();
                 $mainContents = str_replace($matches[0][$matchIndex], $markdown, $mainContents);
             }
@@ -60,8 +60,8 @@ class MarkdownGenerator
             throw new RuntimeException('No file set in tag data: ' . var_export($tagData, true));
         }
 
-        if (!file_exists($contentDirectory . '/' . $tagData['file'])) {
-            throw new RuntimeException('File "' . $tagData['file'] . '" could not be found in "' . $contentDirectory . '"');
+        if (!file_exists(dirname($contentDirectory) . '/' . $tagData['file'])) {
+            throw new RuntimeException('File "' . $tagData['file'] . '" could not be found in "' . dirname($contentDirectory) . '"');
         }
 
         return true;

@@ -1,0 +1,39 @@
+- name: Magento Luma
+  url: https://developer.adobe.com/commerce/frontend-core/guide/
+  description: "Magento 2's default demo theme (extends Magento/blank). The name also refers to the whole Luma stack: XML layout + blocks/containers + PHTML templates, enriched with LESS-compiled CSS and RequireJS/KnockoutJS/jQuery."
+  type: canonical
+  added: "2016-01-01"
+  pinned: true
+  pin_reason: Canonical Adobe frontend reference
+- name: Adobe PWA Studio
+  url: https://developer.adobe.com/commerce/pwa-studio/
+  description: "Adobe's headless React frontend. GraphQL client; offers Venia theme, Peregrine hooks, Buildpack (Webpack) and UPWARD (SSR/image middleware)."
+  type: canonical
+  added: "2018-05-01"
+  pinned: true
+  pin_reason: Canonical Adobe PWA reference
+- name: Hyvä
+  url: https://hyva.io/
+  description: "Luma replacement using TailwindCSS and AlpineJS. Commercial license. Active compatibility-module ecosystem."
+  type: vendor_site
+  added: "2021-04-01"
+- name: Alokai
+  url: https://github.com/vuestorefront/vue-storefront
+  description: "Formerly Vue Storefront — headless frontend framework."
+  type: github_repo
+  added: "2018-01-01"
+- name: ScandiPWA
+  url: https://github.com/scandipwa/scandipwa
+  description: "React/Redux PWA theme for Magento 2.3+."
+  type: github_repo
+  added: "2019-02-01"
+- name: Breeze Evolution
+  url: https://breezefront.com/themes
+  description: "Lightweight Luma-compatible theme targeting 100 PageSpeed."
+  type: vendor_site
+  added: "2023-01-01"
+- name: Front-Commerce
+  url: https://www.front-commerce.com/
+  description: "French PWA front-end solution for Magento."
+  type: vendor_site
+  added: "2019-06-01"
