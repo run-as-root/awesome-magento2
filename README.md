@@ -85,7 +85,7 @@ The storefront of Magento 2 can be styled in numerous ways:
 - [Magento Luma](https://developer.adobe.com/commerce/frontend-core/guide/) - Magento 2's default demo theme (extends Magento/blank). The name also refers to the whole Luma stack: XML layout + blocks/containers + PHTML templates, enriched with LESS-compiled CSS and RequireJS/KnockoutJS/jQuery.
 - [Adobe PWA Studio](https://developer.adobe.com/commerce/pwa-studio/) - Adobe's headless React frontend. GraphQL client; offers Venia theme, Peregrine hooks, Buildpack (Webpack) and UPWARD (SSR/image middleware).
 - [Hyvä](https://hyva.io/) - Luma replacement using TailwindCSS and AlpineJS. Commercial license. Active compatibility-module ecosystem.
-- [Alokai](https://github.com/vuestorefront/vue-storefront) - Formerly Vue Storefront — headless frontend framework.
+- [Alokai](https://github.com/vuestorefront/vue-storefront) 🫡 - Formerly Vue Storefront — headless frontend framework.
 - [ScandiPWA](https://github.com/scandipwa/scandipwa) - React/Redux PWA theme for Magento 2.3+.
 - [Breeze Evolution](https://breezefront.com/themes) - Lightweight Luma-compatible theme targeting 100 PageSpeed.
 - [Front-Commerce](https://www.front-commerce.com/) - French PWA front-end solution for Magento.

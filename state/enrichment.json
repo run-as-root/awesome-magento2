@@ -1,1 +1,32 @@
-{}
+{
+    "https://github.com/vuestorefront/vue-storefront": {
+        "last_checked": "2026-04-19T21:04:36Z",
+        "github": {
+            "stars": 10927,
+            "last_commit": "2026-04-15T13:37:28Z",
+            "last_release": "2025-04-23T07:41:06Z",
+            "archived": false,
+            "fork": false
+        },
+        "signals": {
+            "actively_maintained": true,
+            "graveyard_candidate": false,
+            "vitality_hot": false
+        }
+    },
+    "https://github.com/scandipwa/scandipwa": {
+        "last_checked": "2026-04-19T21:04:36Z",
+        "github": {
+            "stars": 552,
+            "last_commit": "2024-07-15T13:53:56Z",
+            "last_release": "2024-07-31T05:29:34Z",
+            "archived": false,
+            "fork": false
+        },
+        "signals": {
+            "actively_maintained": false,
+            "graveyard_candidate": false,
+            "vitality_hot": false
+        }
+    }
+}
