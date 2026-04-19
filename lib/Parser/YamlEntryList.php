@@ -33,11 +33,25 @@ final class YamlEntryList implements ParserInterface
         $entries = $this->loader->load($this->filename);
         $state   = SidecarState::loadOrEmpty($this->sidecarPath);
 
-        $lines = [];
+        $active    = [];
+        $graveyard = [];
         foreach ($entries as $entry) {
-            $lines[] = $this->formatLine($entry, $state);
+            $signals = $entry->url !== null ? ($state->signalsFor($entry->url) ?? []) : [];
+            $isGraveyard = !$entry->pinned && !empty($signals['graveyard_candidate']);
+            if ($isGraveyard) {
+                $graveyard[] = $this->formatLine($entry, $state);
+            } else {
+                $active[] = $this->formatLine($entry, $state);
+            }
         }
-        return implode("\n", $lines);
+
+        $out = implode("\n", $active);
+        if ($graveyard !== []) {
+            $out .= "\n\n<details>\n<summary>🪦 Graveyard — projects no longer recommended</summary>\n\n"
+                 . implode("\n", $graveyard)
+                 . "\n\n</details>";
+        }
+        return $out;
     }
 
     private function formatLine(Entry $entry, SidecarState $state): string

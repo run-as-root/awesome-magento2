@@ -1,0 +1,4 @@
+{
+  "https://github.com/org/dead":   { "last_checked": "2026-04-19T02:00:00Z", "signals": { "graveyard_candidate": true } },
+  "https://github.com/org/pinned": { "last_checked": "2026-04-19T02:00:00Z", "signals": { "graveyard_candidate": true } }
+}

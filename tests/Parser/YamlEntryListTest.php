@@ -29,4 +29,22 @@ final class YamlEntryListTest extends TestCase
         $markdown = $parser->parseToMarkdown();
         $this->assertStringContainsString('- [Foo](https://foo.example)' . "\n", $markdown);
     }
+
+    public function test_graveyard_entries_are_routed_to_a_details_block(): void
+    {
+        $parser = new YamlEntryList(sidecarPath: __DIR__ . '/../fixtures/state/graveyard.json');
+        $parser->setFilename(__DIR__ . '/../fixtures/entries/with-graveyard.yml');
+        $md = $parser->parseToMarkdown();
+
+        $this->assertStringContainsString('- [Active](https://github.com/org/active) - Still going.', $md);
+        $this->assertStringContainsString('- [Canonical-Pinned](https://github.com/org/pinned)', $md);
+        $this->assertStringContainsString('<details>', $md);
+        $this->assertStringContainsString('<summary>🪦 Graveyard', $md);
+        $this->assertStringContainsString('- [Dead](https://github.com/org/dead) - Archived.', $md);
+
+        $this->assertLessThan(
+            strpos($md, '<details>'),
+            strpos($md, 'Active'),
+        );
+    }
 }

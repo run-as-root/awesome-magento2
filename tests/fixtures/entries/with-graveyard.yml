@@ -1,0 +1,17 @@
+- name: Active
+  url: https://github.com/org/active
+  description: Still going.
+  type: github_repo
+  added: "2020-01-01"
+- name: Dead
+  url: https://github.com/org/dead
+  description: Archived.
+  type: github_repo
+  added: "2018-01-01"
+- name: Canonical-Pinned
+  url: https://github.com/org/pinned
+  description: Pinned resource.
+  type: github_repo
+  added: "2016-01-01"
+  pinned: true
+  pin_reason: Canonical
