@@ -1,6 +1,6 @@
 {
     "https://github.com/vuestorefront/vue-storefront": {
-        "last_checked": "2026-04-19T21:04:36Z",
+        "last_checked": "2026-04-19T21:17:07Z",
         "github": {
             "stars": 10927,
             "last_commit": "2026-04-15T13:37:28Z",
@@ -15,7 +15,7 @@
         }
     },
     "https://github.com/scandipwa/scandipwa": {
-        "last_checked": "2026-04-19T21:04:36Z",
+        "last_checked": "2026-04-19T21:17:07Z",
         "github": {
             "stars": 552,
             "last_commit": "2024-07-15T13:53:56Z",
@@ -25,6 +25,336 @@
         },
         "signals": {
             "actively_maintained": false,
+            "graveyard_candidate": false,
+            "vitality_hot": false
+        }
+    },
+    "https://github.com/netz98/n98-magerun2": {
+        "last_checked": "2026-04-19T21:17:07Z",
+        "github": {
+            "stars": 925,
+            "last_commit": "2026-04-18T15:39:43Z",
+            "last_release": "2026-04-10T12:18:57Z",
+            "archived": false,
+            "fork": false
+        },
+        "signals": {
+            "actively_maintained": true,
+            "graveyard_candidate": false,
+            "vitality_hot": false
+        }
+    },
+    "https://github.com/run-as-root/magento2-message-queue-retry": {
+        "last_checked": "2026-04-19T21:17:07Z",
+        "github": {
+            "stars": 64,
+            "last_commit": "2025-10-15T09:06:26Z",
+            "last_release": "2025-10-15T09:06:26Z",
+            "archived": false,
+            "fork": false
+        },
+        "signals": {
+            "actively_maintained": false,
+            "graveyard_candidate": false,
+            "vitality_hot": false
+        }
+    },
+    "https://github.com/OpenForgeProject/mageforge": {
+        "last_checked": "2026-04-19T21:17:07Z",
+        "github": {
+            "stars": 18,
+            "last_commit": "2026-04-18T07:21:24Z",
+            "last_release": "2026-04-16T20:38:24Z",
+            "archived": false,
+            "fork": false
+        },
+        "signals": {
+            "actively_maintained": true,
+            "graveyard_candidate": false,
+            "vitality_hot": false
+        }
+    },
+    "https://github.com/DavidLambauer/Alfred-Workflow-Magento-2-DevDocs-Search": {
+        "last_checked": "2026-04-19T21:17:07Z",
+        "github": {
+            "stars": 10,
+            "last_commit": "2016-11-19T18:36:53Z",
+            "last_release": null,
+            "archived": false,
+            "fork": false
+        },
+        "signals": {
+            "actively_maintained": false,
+            "graveyard_candidate": true,
+            "vitality_hot": false
+        }
+    },
+    "https://github.com/astorm/pestle": {
+        "last_checked": "2026-04-19T21:17:07Z",
+        "github": {
+            "stars": 532,
+            "last_commit": "2023-04-19T19:18:27Z",
+            "last_release": null,
+            "archived": false,
+            "fork": false
+        },
+        "signals": {
+            "actively_maintained": false,
+            "graveyard_candidate": true,
+            "vitality_hot": false
+        }
+    },
+    "https://github.com/magespecialist/mage-chrome-toolbar": {
+        "last_checked": "2026-04-19T21:17:07Z",
+        "github": {
+            "stars": 337,
+            "last_commit": "2024-04-22T16:30:32Z",
+            "last_release": "2017-09-29T08:36:28Z",
+            "archived": false,
+            "fork": false
+        },
+        "signals": {
+            "actively_maintained": false,
+            "graveyard_candidate": false,
+            "vitality_hot": false
+        }
+    },
+    "https://github.com/magespecialist/m2-MSP_DevTools": {
+        "last_checked": "2026-04-19T21:17:07Z",
+        "github": {
+            "stars": 222,
+            "last_commit": "2024-06-20T07:52:12Z",
+            "last_release": "2024-04-22T16:56:43Z",
+            "archived": false,
+            "fork": false
+        },
+        "signals": {
+            "actively_maintained": false,
+            "graveyard_candidate": false,
+            "vitality_hot": false
+        }
+    },
+    "https://github.com/aliuosio/magento2docker": {
+        "last_checked": "2026-04-19T21:17:07Z",
+        "github": {
+            "stars": 3,
+            "last_commit": "2025-03-31T12:04:18Z",
+            "last_release": "2023-02-10T07:52:39Z",
+            "archived": false,
+            "fork": false
+        },
+        "signals": {
+            "actively_maintained": false,
+            "graveyard_candidate": false,
+            "vitality_hot": false
+        }
+    },
+    "https://github.com/markshust/docker-magento": {
+        "last_checked": "2026-04-19T21:17:07Z",
+        "github": {
+            "stars": 2849,
+            "last_commit": "2026-03-25T12:29:03Z",
+            "last_release": null,
+            "archived": false,
+            "fork": false
+        },
+        "signals": {
+            "actively_maintained": false,
+            "graveyard_candidate": false,
+            "vitality_hot": false
+        }
+    },
+    "https://github.com/wardenenv/warden": {
+        "last_checked": "2026-04-19T21:17:07Z",
+        "github": {
+            "stars": 462,
+            "last_commit": "2026-04-14T14:02:40Z",
+            "last_release": "2026-04-14T13:58:07Z",
+            "archived": false,
+            "fork": false
+        },
+        "signals": {
+            "actively_maintained": true,
+            "graveyard_candidate": false,
+            "vitality_hot": false
+        }
+    },
+    "https://github.com/ddev/ddev": {
+        "last_checked": "2026-04-19T21:17:07Z",
+        "github": {
+            "stars": 3567,
+            "last_commit": "2026-04-18T18:16:24Z",
+            "last_release": "2026-02-23T11:38:14Z",
+            "archived": false,
+            "fork": false
+        },
+        "signals": {
+            "actively_maintained": true,
+            "graveyard_candidate": false,
+            "vitality_hot": true
+        }
+    },
+    "https://github.com/AmpersandHQ/ampersand-magento2-upgrade-patch-helper": {
+        "last_checked": "2026-04-19T21:17:07Z",
+        "github": {
+            "stars": 333,
+            "last_commit": "2024-11-11T08:33:25Z",
+            "last_release": "2024-11-11T08:33:26Z",
+            "archived": false,
+            "fork": false
+        },
+        "signals": {
+            "actively_maintained": false,
+            "graveyard_candidate": false,
+            "vitality_hot": false
+        }
+    },
+    "https://github.com/magento/magento2-phpstorm-plugin": {
+        "last_checked": "2026-04-19T21:17:07Z",
+        "github": {
+            "stars": 457,
+            "last_commit": "2026-04-19T10:06:39Z",
+            "last_release": "2026-04-18T08:39:21Z",
+            "archived": false,
+            "fork": false
+        },
+        "signals": {
+            "actively_maintained": true,
+            "graveyard_candidate": false,
+            "vitality_hot": false
+        }
+    },
+    "https://github.com/nunomaduro/phpinsights": {
+        "last_checked": "2026-04-19T21:17:07Z",
+        "github": {
+            "stars": 5591,
+            "last_commit": "2026-04-18T03:09:01Z",
+            "last_release": "2026-04-12T18:11:21Z",
+            "archived": false,
+            "fork": false
+        },
+        "signals": {
+            "actively_maintained": true,
+            "graveyard_candidate": false,
+            "vitality_hot": true
+        }
+    },
+    "https://github.com/roma-glushko/tango": {
+        "last_checked": "2026-04-19T21:17:07Z",
+        "github": {
+            "stars": 113,
+            "last_commit": "2026-02-24T22:36:07Z",
+            "last_release": "2026-02-17T18:38:02Z",
+            "archived": false,
+            "fork": false
+        },
+        "signals": {
+            "actively_maintained": true,
+            "graveyard_candidate": false,
+            "vitality_hot": false
+        }
+    },
+    "https://github.com/elgentos/masquerade": {
+        "last_checked": "2026-04-19T21:17:07Z",
+        "github": {
+            "stars": 232,
+            "last_commit": "2023-10-19T12:17:24Z",
+            "last_release": "2022-11-22T15:21:14Z",
+            "archived": true,
+            "fork": false
+        },
+        "signals": {
+            "actively_maintained": false,
+            "graveyard_candidate": true,
+            "vitality_hot": false
+        }
+    },
+    "https://github.com/opengento/magento2-downgrade-ee-ce": {
+        "last_checked": "2026-04-19T21:17:07Z",
+        "github": {
+            "stars": 89,
+            "last_commit": "2025-11-17T18:04:36Z",
+            "last_release": "2025-11-17T18:04:36Z",
+            "archived": false,
+            "fork": false
+        },
+        "signals": {
+            "actively_maintained": false,
+            "graveyard_candidate": false,
+            "vitality_hot": false
+        }
+    },
+    "https://github.com/jellesiderius/mage-db-sync": {
+        "last_checked": "2026-04-19T21:17:07Z",
+        "github": {
+            "stars": 82,
+            "last_commit": "2026-01-28T10:09:55Z",
+            "last_release": "2026-01-28T10:09:55Z",
+            "archived": false,
+            "fork": false
+        },
+        "signals": {
+            "actively_maintained": true,
+            "graveyard_candidate": false,
+            "vitality_hot": false
+        }
+    },
+    "https://github.com/subodha/magento-2-gulp": {
+        "last_checked": "2026-04-19T21:17:07Z",
+        "github": {
+            "stars": 74,
+            "last_commit": "2021-05-10T03:42:13Z",
+            "last_release": "2021-04-20T01:01:08Z",
+            "archived": false,
+            "fork": false
+        },
+        "signals": {
+            "actively_maintained": false,
+            "graveyard_candidate": true,
+            "vitality_hot": false
+        }
+    },
+    "https://github.com/baldwin-agency/magento2-module-url-data-integrity-checker": {
+        "last_checked": "2026-04-19T21:17:07Z",
+        "github": {
+            "stars": 281,
+            "last_commit": "2026-04-14T16:28:58Z",
+            "last_release": "2026-04-14T16:28:58Z",
+            "archived": false,
+            "fork": false
+        },
+        "signals": {
+            "actively_maintained": true,
+            "graveyard_candidate": false,
+            "vitality_hot": false
+        }
+    },
+    "https://github.com/clickAndMortar/mage-wizard": {
+        "last_checked": "2026-04-19T21:17:07Z",
+        "github": {
+            "stars": 20,
+            "last_commit": "2024-05-17T08:57:25Z",
+            "last_release": "2024-05-17T08:58:57Z",
+            "archived": false,
+            "fork": false
+        },
+        "signals": {
+            "actively_maintained": false,
+            "graveyard_candidate": false,
+            "vitality_hot": false
+        }
+    },
+    "https://github.com/GrimLink/mage": {
+        "last_checked": "2026-04-19T21:17:07Z",
+        "github": {
+            "stars": 24,
+            "last_commit": "2026-03-29T20:09:09Z",
+            "last_release": "2026-03-08T15:48:17Z",
+            "archived": false,
+            "fork": false
+        },
+        "signals": {
+            "actively_maintained": true,
             "graveyard_candidate": false,
             "vitality_hot": false
         }
