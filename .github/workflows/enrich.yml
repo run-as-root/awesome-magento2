@@ -1,0 +1,45 @@
+name: Enrich entries
+
+on:
+  schedule:
+    - cron: '0 2 * * 1'   # Mondays 02:00 UTC
+  workflow_dispatch:
+
+concurrency:
+  group: enrich
+  cancel-in-progress: false
+
+jobs:
+  enrich:
+    if: github.actor != 'github-actions[bot]'
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - uses: shivammathur/setup-php@v2
+        with:
+          php-version: '8.2'
+          coverage: none
+          tools: composer:v2
+
+      - run: composer install --no-interaction --no-progress
+
+      - run: composer enrich
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Commit enrichment state
+        run: |
+          if git diff --quiet state/enrichment.json; then
+            echo "No enrichment changes"
+            exit 0
+          fi
+          git config user.name  'github-actions[bot]'
+          git config user.email 'github-actions[bot]@users.noreply.github.com'
+          git add state/enrichment.json
+          git commit -m 'chore: refresh enrichment state'
+          git push
