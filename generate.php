@@ -9,4 +9,4 @@ require_once __DIR__ . '/vendor/autoload.php';
 $markdownGenerator = new MarkdownGenerator();
 $contents = $markdownGenerator->generate(__DIR__.'/content');
 
-file_put_contents(__DIR__ . '/README.md.new', $contents);
+file_put_contents(__DIR__ . '/README.md', $contents);
