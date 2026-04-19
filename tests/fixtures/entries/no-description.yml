@@ -1,0 +1,8 @@
+- name: Foo
+  url: https://foo.example
+  type: vendor_site
+  added: "2024-01-01"
+- name: Bar
+  url: https://bar.example
+  type: vendor_site
+  added: "2024-01-02"
