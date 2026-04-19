@@ -1,0 +1,53 @@
+name: Regenerate README
+
+on:
+  push:
+    branches: [master]
+    paths:
+      - 'content/**'
+      - 'data/**'
+      - 'lib/**'
+      - 'state/**'
+      - 'generate.php'
+  workflow_dispatch:
+
+concurrency:
+  group: regenerate
+  cancel-in-progress: false
+
+jobs:
+  regenerate:
+    if: github.actor != 'github-actions[bot]'
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - uses: shivammathur/setup-php@v2
+        with:
+          php-version: '8.2'
+          coverage: none
+          tools: composer:v2
+
+      - run: composer install --no-interaction --no-progress
+
+      - run: composer validate-data
+
+      - run: vendor/bin/phpunit
+
+      - run: php generate.php
+
+      - name: Commit regenerated README
+        run: |
+          if git diff --quiet README.md; then
+            echo "README unchanged"
+            exit 0
+          fi
+          git config user.name  'github-actions[bot]'
+          git config user.email 'github-actions[bot]@users.noreply.github.com'
+          git add README.md
+          git commit -m 'chore: regenerate README [skip ci]'
+          git push
