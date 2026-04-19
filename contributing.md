@@ -52,3 +52,9 @@ Once a category has been migrated (see `data/`), contributing is editing one YAM
 Required: `name`, `url` (except `type: archive`), `description`, `type`, `added`. Valid `type` values: `github_repo`, `blog`, `packagist_pkg`, `event`, `youtube_playlist`, `course`, `vendor_site`, `archive`, `canonical`.
 
 Run `composer validate-data` to verify your YAML. CI regenerates `README.md` on merge; do not edit it directly.
+
+### Graveyard and badges
+
+Entries flagged `graveyard_candidate` in `state/enrichment.json` move into a collapsed "Graveyard" block at the bottom of their section. Mark an entry `pinned: true` (with a `pin_reason`) to opt out — useful for canonical resources that won't see modern activity.
+
+🔥 marks the top 10% of a category by stars (github_repo only; minimum 5 entries per category to enable). 🫡 marks actively maintained projects (commit in last 90 days + release in last year).
