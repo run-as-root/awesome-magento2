@@ -2,7 +2,6 @@
 <?php declare(strict_types=1);
 
 use AwesomeList\MarkdownGenerator;
-use AwesomeList\Parser\GenericCsvList;
 
 require_once __DIR__ . '/vendor/autoload.php';
 

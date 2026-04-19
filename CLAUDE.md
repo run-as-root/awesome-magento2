@@ -26,7 +26,7 @@ The repo is moving strangler-style from raw hand-maintained Markdown to a data +
 - Entries live in `data/**/*.yml`, one file per category. Each entry is a YAML map with `name`, `url`, `description`, `type`, `added` — see `contributing.md` for the schema.
 - JSON Schema at `schemas/entry.schema.json` defines the contract. Run `composer validate-data` to catch malformed YAML or schema violations before generating.
 - Sidecar state at `state/enrichment.json` holds bot-derived signals keyed by entry URL. Written by the `enrich.yml` workflow (Mondays 02:00 UTC) — do not edit by hand. Read by `YamlEntryList` to render 🔥 (top-10% stars in category), 🫡 (actively maintained), and a graveyard `<details>` block for archived/stale entries.
-- Parsers live in `lib/Parser/` and implement `AwesomeList\Parser\ParserInterface` (`setFilename` + `parseToMarkdown`). `YamlEntryList` is the one to use for new sections. `GenericCsvList` still exists from the earlier CSV experiment and is unused.
+- Parsers live in `lib/Parser/` and implement `AwesomeList\Parser\ParserInterface` (`setFilename` + `parseToMarkdown`). `YamlEntryList` is the one to use for new sections.
 - PHPUnit tests in `tests/` cover the loader, parser, and generator. Run them with `composer test` (or `vendor/bin/phpunit`).
 - GitHub Action `.github/workflows/regenerate.yml` re-runs `php generate.php` and commits the updated `README.md` on push to `master` whenever `content/`, `data/`, `lib/`, `state/`, or `generate.php` changes.
 

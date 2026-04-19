@@ -1,11 +1,26 @@
 # Development details of this repository
 
 ### Overview
-Content is managed via various files in the `content/` folder: Markdown files, CSV files, JSON files. The main content is written away in a file `content/main.md` which then includes other files by using custom tags:
+`README.md` is a build artifact. The source of truth is split in two:
 
-    {% file=foobar.csv parser="AwesomeList\Parser\GenericCsvList" %}
+- `content/main.md` — hand-written prose (intro, TOC, category descriptions, license).
+- `data/**/*.yml` — structured entries for migrated sections (currently: `data/frontends.yml`).
 
-When generating the content, the `parser` class is instantiated with the `file` as an argument. Next, the parser returns Markdown content, which then replaces the tag. The end result of this parsed `content/main.md` file is written to the main `README.md` in the root of this repository, thus forming the Awesome List.
+`content/main.md` embeds data via custom tags:
 
-### Generating content
-To generate content, check out this repository. Next, run `composer install`. Next, run the script `generate.php`.
+    {% file=data/frontends.yml parser="AwesomeList\Parser\YamlEntryList" %}
+
+`generate.php` expands each tag via `lib/MarkdownGenerator.php`, which delegates to the parser named in the tag. Paths are resolved relative to the repo root. The expanded output is written directly to `README.md`.
+
+Entries in `data/**/*.yml` are validated against `schemas/entry.schema.json` — see `contributing.md` for the required fields.
+
+An enrichment sidecar at `state/enrichment.json` is maintained by the `.github/workflows/enrich.yml` workflow (weekly, Mondays 02:00 UTC). It holds per-entry signals (GitHub stars, last commit, last release, archived) which `YamlEntryList` reads to render 🔥/🫡 badges and a graveyard section.
+
+### Generating locally
+```bash
+composer install
+composer test                       # phpunit
+composer validate-data              # JSON Schema check on data/**/*.yml
+composer enrich                     # optional; needs GITHUB_TOKEN for >60 req/h
+php generate.php                    # writes README.md
+```
