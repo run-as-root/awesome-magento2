@@ -1,0 +1,10 @@
+{
+  "https://github.com/netz98/n98-magerun2": {
+    "last_checked": "2026-04-19T02:00:00Z",
+    "signals": {
+      "vitality_hot": true,
+      "actively_maintained": true,
+      "graveyard_candidate": false
+    }
+  }
+}
