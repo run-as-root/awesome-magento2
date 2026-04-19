@@ -5,6 +5,7 @@ use AwesomeList\YamlEntryLoader;
 use RecursiveDirectoryIterator;
 use RecursiveIteratorIterator;
 use RuntimeException;
+use Throwable;
 
 final class Enricher
 {
@@ -29,9 +30,15 @@ final class Enricher
                 if ($adapter === null || $entry->url === null) {
                     continue;
                 }
+                try {
+                    $result = $adapter->enrich($entry);
+                } catch (Throwable $e) {
+                    fwrite(STDERR, "skip {$entry->url}: {$e->getMessage()}\n");
+                    continue;
+                }
                 $rows[$entry->url] = [
                     'category' => $category,
-                    'result'   => $adapter->enrich($entry),
+                    'result'   => $result,
                 ];
             }
         }

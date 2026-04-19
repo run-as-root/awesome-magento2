@@ -89,8 +89,8 @@
   type: vendor_site
   added: "2018-01-01"
 - name: Magewire PHP
-  url: https://github.com/magewirephp
-  description: A Laravel Livewire port for building complex AJAX-based components with ease. Used by the Hyva Checkout.
+  url: https://github.com/magewirephp/magewire
+  description: A Laravel Livewire port for building complex AJAX-based components with ease. Used by the Hyvä Checkout.
   type: github_repo
   added: "2018-01-01"
 - name: Yireo LokiComponents
