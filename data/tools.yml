@@ -1,0 +1,130 @@
+- name: n98-magerun2
+  url: https://github.com/netz98/n98-magerun2
+  description: The CLI Swiss Army Knife for Magento 2.
+  type: github_repo
+  added: "2018-01-01"
+- name: RabbitMQ Retry Mechanism
+  url: https://github.com/run-as-root/magento2-message-queue-retry
+  description: Magento 2 extension that brings possibility to retry RabbitMQ failed messages.
+  type: github_repo
+  added: "2022-01-01"
+- name: MageForge
+  url: https://github.com/OpenForgeProject/mageforge
+  description: Magento 2 CLI automatic theme builder (Hyvä ready).
+  type: github_repo
+  added: "2024-01-01"
+- name: Documentation Search for Alfred
+  url: https://github.com/DavidLambauer/Alfred-Workflow-Magento-2-DevDocs-Search
+  description: Alfred workflow integrating the official Magento 2 documentation search.
+  type: github_repo
+  added: "2018-01-01"
+- name: Tablerates Generator
+  url: https://www.tableratesgenerator.com/
+  description: Generate tablerates online.
+  type: vendor_site
+  added: "2019-01-01"
+- name: Pestle
+  url: https://github.com/astorm/pestle
+  description: Code generation tool by Alan Storm.
+  type: github_repo
+  added: "2018-01-01"
+- name: Mage2Gen
+  url: https://mage2gen.com/
+  description: Online module creator.
+  type: vendor_site
+  added: "2018-01-01"
+- name: Mage Chrome Toolbar
+  url: https://github.com/magespecialist/mage-chrome-toolbar
+  description: Chrome extension for Magento 2 development by MageSpecialist.
+  type: github_repo
+  added: "2018-01-01"
+- name: MageSpecialist DevTools for Magento 2
+  url: https://github.com/magespecialist/m2-MSP_DevTools
+  description: Developer toolbar for Magento 2.
+  type: github_repo
+  added: "2018-01-01"
+- name: magento2docker
+  url: https://github.com/aliuosio/magento2docker
+  description: MariaDB, PHP, Redis, ElasticSearch in one Dockerfile for fast demo/development environments.
+  type: github_repo
+  added: "2020-01-01"
+- name: markshust/docker-magento
+  url: https://github.com/markshust/docker-magento
+  description: Mark Shust's Docker configuration for Magento.
+  type: github_repo
+  added: "2018-01-01"
+- name: Warden
+  url: https://github.com/wardenenv/warden
+  description: CLI utility for working with docker-compose environments by David Alger.
+  type: github_repo
+  added: "2019-01-01"
+- name: DDEV
+  url: https://github.com/ddev/ddev
+  description: Open source tool for launching local web development environments in minutes. Supports PHP, Node.js and Python.
+  type: github_repo
+  added: "2022-01-01"
+- name: AmpersandHQ/ampersand-magento2-upgrade-patch-helper
+  url: https://github.com/AmpersandHQ/ampersand-magento2-upgrade-patch-helper
+  description: Helper script to aid upgrading Magento 2 websites by detecting overrides.
+  type: github_repo
+  added: "2020-01-01"
+- name: PhpStorm Magento2 Extension
+  url: https://github.com/magento/magento2-phpstorm-plugin
+  description: Official PhpStorm Magento 2 extension.
+  type: github_repo
+  added: "2018-01-01"
+- name: PhpInsights
+  url: https://github.com/nunomaduro/phpinsights
+  description: PHP quality checks with Magento 2 presets.
+  type: github_repo
+  added: "2020-01-01"
+- name: Tango
+  url: https://github.com/roma-glushko/tango
+  description: CLI for analyzing access logs.
+  type: github_repo
+  added: "2021-01-01"
+- name: Masquerade
+  url: https://github.com/elgentos/masquerade
+  description: Faker-driven, configuration-based, platform-agnostic, locale-compatible data faker tool.
+  type: github_repo
+  added: "2018-01-01"
+- name: Magento 2 Composer patches helper
+  url: https://chrome.google.com/webstore/detail/magento-2-composer-patche/gfndadbceejgfjahpfaijcacnmdloiad
+  description: Chrome extension to create copy-pastable composer patch definitions for vaimo/composer-patches.
+  type: vendor_site
+  added: "2020-01-01"
+- name: Migrate DB Magento 2 Commerce to Magento 2 Open-Source
+  url: https://github.com/opengento/magento2-downgrade-ee-ce
+  description: Migrate a Magento 2 Commerce database to Magento 2 Open Source.
+  type: github_repo
+  added: "2021-01-01"
+- name: Magento 2 Database Synchronizer
+  url: https://github.com/jellesiderius/mage-db-sync
+  description: Database synchronizer for Magento 2 (and WordPress), based on Magerun2. Keeps development, staging and production in sync.
+  type: github_repo
+  added: "2020-01-01"
+- name: Subodha Magento2 Gulp Integration
+  url: https://github.com/subodha/magento-2-gulp
+  description: Magento 2 Gulp integration.
+  type: github_repo
+  added: "2018-01-01"
+- name: Magento 2 Url Data Integrity Checker
+  url: https://github.com/baldwin-agency/magento2-module-url-data-integrity-checker
+  description: Magento 2 module that finds potential URL-related problems in your catalog data.
+  type: github_repo
+  added: "2022-01-01"
+- name: Mage Wizard
+  url: https://github.com/clickAndMortar/mage-wizard
+  description: Local web UI to view and create modules, plugins, configs, observers, commands, crontabs directly in a Magento 2 codebase.
+  type: github_repo
+  added: "2023-01-01"
+- name: Mage
+  url: https://github.com/GrimLink/mage
+  description: Simplifies bin/magento commands with shortcuts and productivity helpers.
+  type: github_repo
+  added: "2024-01-01"
+- name: Magento Log Viewer (VS Code extension)
+  url: https://marketplace.visualstudio.com/items?itemName=MathiasElle.magento-log-viewer
+  description: VS Code extension to view, watch and manage Magento log files and reports directly in your workspace.
+  type: vendor_site
+  added: "2024-01-01"
