@@ -1,0 +1,5 @@
+- name: Unquoted Date Entry
+  url: https://example.com
+  description: The added date is an unquoted YAML date.
+  type: github_repo
+  added: 2018-03-15

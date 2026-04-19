@@ -17,6 +17,22 @@ final class YamlEntryLoader
             throw new RuntimeException("Expected a list at the root of $path");
         }
 
+        foreach ($rows as $i => $row) {
+            if (!is_array($row)) {
+                throw new RuntimeException("Row $i in $path is not a mapping");
+            }
+            foreach (['name', 'type', 'added'] as $required) {
+                if (!array_key_exists($required, $row)) {
+                    throw new RuntimeException("Entry in $path is missing required field '$required'");
+                }
+            }
+            if (!is_string($row['added'])) {
+                throw new RuntimeException(
+                    "Entry '{$row['name']}' in $path has non-string 'added' — YAML dates must be quoted (e.g. added: \"YYYY-MM-DD\")"
+                );
+            }
+        }
+
         return array_map(
             fn(array $row): Entry => new Entry(
                 name:         (string) $row['name'],

@@ -1,0 +1,4 @@
+- url: https://example.com
+  description: Missing the name field.
+  type: github_repo
+  added: "2020-01-01"
