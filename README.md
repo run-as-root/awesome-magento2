@@ -323,11 +323,17 @@ The storefront of Magento 2 can be styled in numerous ways:
 - [The Magento 2 Beginner Tutorial Class](https://www.youtube.com/playlist?list=PLtaXuX0nEZk9eL59JGE3ny-_GAU-z5X5D) - Free YouTube series for learning Magento 2.
 - [Vinai Kopp Mage2Katas](https://www.youtube.com/channel/UCRFDWo7jTlrpEsJxzc7WyPw) - Vinai Kopp's Mage2Katas YouTube channel.
 - [Mage2.tv](https://www.mage2.tv) - Magento 2 developer screencasts by Vinai Kopp.
+- [Yireo Training](https://www.yireo.com/training) - Magento 2 backend and frontend development courses.
+
+<details>
+<summary>🪦 Graveyard — projects no longer recommended</summary>
+
 - [magento-notes/magento2-exam-notes](https://github.com/magento-notes/magento2-exam-notes) - Preparation notes for the Magento 2 Certified Professional Developer exam.
 - [magento-notes/magento2-cloud-developer-notes](https://github.com/magento-notes/magento2-cloud-developer-notes) - Preparation notes for the Magento 2 Certified Professional Cloud Developer exam.
 - [roma-glushko/magento2-dev-plus-exam](https://github.com/roma-glushko/magento2-dev-plus-exam) - Preparation notes for the Magento 2 Certified Professional Developer Plus exam.
 - [fisheye-academy/m2cpfed-training](https://github.com/fisheye-academy/m2cpfed-training) - Resources for the Magento 2 Certified Professional Front End Developer exam.
-- [Yireo Training](https://www.yireo.com/training) - Magento 2 backend and frontend development courses.
+
+</details>
 
 ---
 
@@ -342,10 +348,10 @@ The storefront of Magento 2 can be styled in numerous ways:
 - [Magento Official Website](https://www.magento.com) - Magento's official website.
 - [Magento Developer Documentation](http://devdocs.magento.com/) - Official developer documentation.
 - [Magento Forum](https://community.magento.com/) - Community forum run by Magento.
-- [Magento GitHub Repository](https://github.com/magento/magento2) - Magento 2 GitHub repository.
+- [Magento GitHub Repository](https://github.com/magento/magento2) 🫡 - Magento 2 GitHub repository.
 - [Magento Developer Blog](https://community.magento.com/t5/Magento-DevBlog/bg-p/devblog) - Developer blog run by Magento.
 - [Magento 2 data migration tool](https://github.com/magento/data-migration-tool) - Official Magento 1 → Magento 2 migration tool.
-- [Magento Coding Standards](https://github.com/magento/magento-coding-standard) - Official Magento 2 advanced ruleset for PHP_CodeSniffer.
+- [Magento Coding Standards](https://github.com/magento/magento-coding-standard) 🫡 - Official Magento 2 advanced ruleset for PHP_CodeSniffer.
 - [Magento 2 Architecture](https://github.com/magento/architecture) - Architectural discussions about Magento 2.
 
 - Magento Masters 2017
@@ -410,7 +416,13 @@ by [Fooman](http://store.fooman.co.nz/blog/how-to-find-trustworthy-information-a
 
 - [Mageres](https://github.com/aleron75/mageres) - Alessandro Ronchi's list of resources for Magento 1 and Magento 2.
 - [Awesome PHP](https://github.com/ziadoz/awesome-php) - A curated list of awesome PHP resources.
+
+<details>
+<summary>🪦 Graveyard — projects no longer recommended</summary>
+
 - [Awesome Magento](https://github.com/sunel/awesome-magento) - An awesome Magento list with mixed M1 and M2 content by sunel.
+
+</details>
 
 ---
 
