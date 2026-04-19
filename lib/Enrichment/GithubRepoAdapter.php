@@ -59,7 +59,9 @@ final class GithubRepoAdapter implements EnrichmentAdapter
 
     private function parseUrl(string $url): array
     {
-        if (!preg_match('~^https?://github\.com/([^/]+)/([^/]+?)/?$~', $url, $m)) {
+        // Strip query + fragment, optional .git suffix, optional www., optional trailing path segments.
+        $cleaned = preg_replace('~[?#].*$~', '', $url) ?? $url;
+        if (!preg_match('~^https?://(?:www\.)?github\.com/([^/]+)/([^/]+?)(?:\.git)?(?:/.*)?$~', $cleaned, $m)) {
             throw new RuntimeException("GithubRepoAdapter cannot parse url: $url");
         }
         return [$m[1], $m[2]];
@@ -80,6 +82,11 @@ final class GithubRepoAdapter implements EnrichmentAdapter
         }
     }
 
+    /**
+     * Relaxed from design doc's "≥3 releases / 12mo" to "any release ≤365d" —
+     * /releases/latest is one call; counting releases requires pagination.
+     * Revisit in Phase 4a if false-positive rate is high.
+     */
     private function isActive(?string $lastCommit, ?string $lastRelease): bool
     {
         if ($lastCommit === null || $lastRelease === null) {

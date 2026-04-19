@@ -66,6 +66,44 @@ final class GithubRepoAdapterTest extends TestCase
         $this->assertSame('github_repo', (new GithubRepoAdapter(new Client(), new \DateTimeImmutable()))->type());
     }
 
+    public function test_it_throws_on_non_github_url(): void
+    {
+        $adapter = $this->buildAdapter([], new \DateTimeImmutable('2026-04-19T02:00:00Z'));
+        $this->expectException(\RuntimeException::class);
+        $adapter->enrich($this->entry('https://gitlab.com/owner/repo'));
+    }
+
+    public function test_it_accepts_common_github_url_variants(): void
+    {
+        $repo = (string) file_get_contents(__DIR__ . '/../fixtures/http/github/repos-active.json');
+        foreach ([
+            'https://github.com/netz98/n98-magerun2.git',
+            'https://www.github.com/netz98/n98-magerun2',
+            'https://github.com/netz98/n98-magerun2/tree/main',
+            'https://github.com/netz98/n98-magerun2?tab=readme',
+        ] as $url) {
+            $adapter = $this->buildAdapter(
+                [new \GuzzleHttp\Psr7\Response(200, [], $repo), new \GuzzleHttp\Psr7\Response(404)],
+                new \DateTimeImmutable('2026-04-19T02:00:00Z'),
+            );
+            $result = $adapter->enrich($this->entry($url));
+            $this->assertSame(2147, $result->typeData['github']['stars'], "failed for: $url");
+        }
+    }
+
+    public function test_non_404_release_error_bubbles(): void
+    {
+        $now = new \DateTimeImmutable('2026-04-19T02:00:00Z');
+        $repo = (string) file_get_contents(__DIR__ . '/../fixtures/http/github/repos-active.json');
+        $adapter = $this->buildAdapter([
+            new \GuzzleHttp\Psr7\Response(200, [], $repo),
+            new \GuzzleHttp\Psr7\Response(500),
+        ], $now);
+
+        $this->expectException(\GuzzleHttp\Exception\ServerException::class);
+        $adapter->enrich($this->entry('https://github.com/netz98/n98-magerun2'));
+    }
+
     private function buildAdapter(array $queuedResponses, \DateTimeImmutable $now): GithubRepoAdapter
     {
         $mock   = new MockHandler($queuedResponses);
