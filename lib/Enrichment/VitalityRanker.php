@@ -21,7 +21,7 @@ final class VitalityRanker
         }
 
         $hotUrls = [];
-        foreach ($buckets as $category => $stars) {
+        foreach ($buckets as $stars) {
             $count = count($stars);
             if ($count < self::MIN_CATEGORY_SIZE) {
                 continue;
