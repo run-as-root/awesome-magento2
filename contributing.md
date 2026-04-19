@@ -36,3 +36,19 @@ Make sure you pass the following Quality Gates:
 * There should be at least one article a month.
 
 Thanks to all contributors, you're awesome and wouldn't be possible without you!
+
+## Adding an entry (YAML flow)
+
+Once a category has been migrated (see `data/`), contributing is editing one YAML file:
+
+```yaml
+- name: Your Project
+  url: https://github.com/you/your-project
+  description: One-line, concise.
+  type: github_repo
+  added: "2026-04-19"
+```
+
+Required: `name`, `url` (except `type: archive`), `description`, `type`, `added`. Valid `type` values: `github_repo`, `blog`, `packagist_pkg`, `event`, `youtube_playlist`, `course`, `vendor_site`, `archive`, `canonical`.
+
+Run `composer validate-data` to verify your YAML. CI regenerates `README.md` on merge; do not edit it directly.
