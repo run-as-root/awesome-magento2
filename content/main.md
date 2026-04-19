@@ -264,28 +264,15 @@ The storefront of Magento 2 can be styled in numerous ways:
 
 ### Personal Blogs
 
-- [Alan Storm](http://alanstorm.com/category/magento-2/)
-- [Fabian Schmengler](https://www.schmengler-se.de/)
-- [Jigar Karangiya](https://jigarkarangiya.com/)
+{% file=data/blogs/personal.yml parser="AwesomeList\Parser\YamlEntryList" %}
 
 ### Company Blogs
 
-- [Atwix](https://www.atwix.com/blog/)
-- [Classy Llama](https://www.classyllama.com/blog)
-- [dev98](https://dev98.de/)
-- [FireBear Studio](https://firebearstudio.com/blog)
-- [Fooman](http://store.fooman.co.nz/blog)
-- [inchoo](http://inchoo.net/category/magento-2/)
-- [M.academy](https://m.academy/blog/)
-- [integer_net blog](https://www.integer-net.com/blog/)
-- [MageComp](https://magecomp.com/blog/category/magento-2/)
-- [bitExpert AG](https://blog.bitexpert.de/blog/tags/magento)
-- [OneStepCheckout](https://blog.onestepcheckout.com/)
+{% file=data/blogs/company.yml parser="AwesomeList\Parser\YamlEntryList" %}
 
 ### Other
 
-- MageTalk: A Magento Community Podcast](http://magetalk.com/) - Community Podcast by [Kalen Jordan and [Phillip
-  Jackson.
+{% file=data/blogs/other.yml parser="AwesomeList\Parser\YamlEntryList" %}
 
 ## Learning
 

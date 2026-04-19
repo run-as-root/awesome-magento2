@@ -1,0 +1,15 @@
+- name: Alan Storm
+  url: http://alanstorm.com/category/magento-2/
+  description: Deep Magento 2 technical writeups.
+  type: blog
+  added: "2018-01-01"
+- name: Fabian Schmengler
+  url: https://www.schmengler-se.de/
+  description: Personal blog covering Magento 2 architecture and process.
+  type: blog
+  added: "2018-01-01"
+- name: Jigar Karangiya
+  url: https://jigarkarangiya.com/
+  description: Personal blog on Magento 2 and Adobe Commerce development.
+  type: blog
+  added: "2021-01-01"

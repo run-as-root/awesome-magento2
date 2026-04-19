@@ -1,0 +1,5 @@
+- name: MageTalk
+  url: http://magetalk.com/
+  description: Community podcast by Kalen Jordan and Phillip Jackson.
+  type: blog
+  added: "2018-01-01"

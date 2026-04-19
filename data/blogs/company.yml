@@ -1,0 +1,55 @@
+- name: Atwix
+  url: https://www.atwix.com/blog/
+  description: Magento development agency blog.
+  type: blog
+  added: "2018-01-01"
+- name: Classy Llama
+  url: https://www.classyllama.com/blog
+  description: Magento agency blog.
+  type: blog
+  added: "2018-01-01"
+- name: dev98
+  url: https://dev98.de/
+  description: German Magento agency blog.
+  type: blog
+  added: "2018-01-01"
+- name: FireBear Studio
+  url: https://firebearstudio.com/blog
+  description: FireBear Studio's Magento development blog.
+  type: blog
+  added: "2018-01-01"
+- name: Fooman
+  url: http://store.fooman.co.nz/blog
+  description: Fooman's Magento extension and development blog.
+  type: blog
+  added: "2018-01-01"
+- name: inchoo
+  url: http://inchoo.net/category/magento-2/
+  description: Inchoo's Magento development blog.
+  type: blog
+  added: "2018-01-01"
+- name: M.academy
+  url: https://m.academy/blog/
+  description: Blog from the M.academy team.
+  type: blog
+  added: "2020-01-01"
+- name: integer_net blog
+  url: https://www.integer-net.com/blog/
+  description: integer_net's technical Magento blog.
+  type: blog
+  added: "2018-01-01"
+- name: MageComp
+  url: https://magecomp.com/blog/category/magento-2/
+  description: MageComp's Magento 2 tutorials and tips.
+  type: blog
+  added: "2018-01-01"
+- name: bitExpert AG
+  url: https://blog.bitexpert.de/blog/tags/magento
+  description: bitExpert's Magento-tagged blog posts.
+  type: blog
+  added: "2018-01-01"
+- name: OneStepCheckout
+  url: https://blog.onestepcheckout.com/
+  description: OneStepCheckout's Magento blog.
+  type: blog
+  added: "2019-01-01"

@@ -301,28 +301,27 @@ The storefront of Magento 2 can be styled in numerous ways:
 
 ### Personal Blogs
 
-- [Alan Storm](http://alanstorm.com/category/magento-2/)
-- [Fabian Schmengler](https://www.schmengler-se.de/)
-- [Jigar Karangiya](https://jigarkarangiya.com/)
+- [Alan Storm](http://alanstorm.com/category/magento-2/) - Deep Magento 2 technical writeups.
+- [Fabian Schmengler](https://www.schmengler-se.de/) - Personal blog covering Magento 2 architecture and process.
+- [Jigar Karangiya](https://jigarkarangiya.com/) - Personal blog on Magento 2 and Adobe Commerce development.
 
 ### Company Blogs
 
-- [Atwix](https://www.atwix.com/blog/)
-- [Classy Llama](https://www.classyllama.com/blog)
-- [dev98](https://dev98.de/)
-- [FireBear Studio](https://firebearstudio.com/blog)
-- [Fooman](http://store.fooman.co.nz/blog)
-- [inchoo](http://inchoo.net/category/magento-2/)
-- [M.academy](https://m.academy/blog/)
-- [integer_net blog](https://www.integer-net.com/blog/)
-- [MageComp](https://magecomp.com/blog/category/magento-2/)
-- [bitExpert AG](https://blog.bitexpert.de/blog/tags/magento)
-- [OneStepCheckout](https://blog.onestepcheckout.com/)
+- [Atwix](https://www.atwix.com/blog/) - Magento development agency blog.
+- [Classy Llama](https://www.classyllama.com/blog) - Magento agency blog.
+- [dev98](https://dev98.de/) - German Magento agency blog.
+- [FireBear Studio](https://firebearstudio.com/blog) - FireBear Studio's Magento development blog.
+- [Fooman](http://store.fooman.co.nz/blog) - Fooman's Magento extension and development blog.
+- [inchoo](http://inchoo.net/category/magento-2/) - Inchoo's Magento development blog.
+- [M.academy](https://m.academy/blog/) - Blog from the M.academy team.
+- [integer_net blog](https://www.integer-net.com/blog/) - integer_net's technical Magento blog.
+- [MageComp](https://magecomp.com/blog/category/magento-2/) - MageComp's Magento 2 tutorials and tips.
+- [bitExpert AG](https://blog.bitexpert.de/blog/tags/magento) - bitExpert's Magento-tagged blog posts.
+- [OneStepCheckout](https://blog.onestepcheckout.com/) - OneStepCheckout's Magento blog.
 
 ### Other
 
-- MageTalk: A Magento Community Podcast](http://magetalk.com/) - Community Podcast by [Kalen Jordan and [Phillip
-  Jackson.
+- [MageTalk](http://magetalk.com/) - Community podcast by Kalen Jordan and Phillip Jackson.
 
 ## Learning
 
