@@ -1,0 +1,15 @@
+- name: Deployer Magento2 Recipe
+  url: https://github.com/deployphp/deployer/blob/master/recipe/magento2.php
+  description: Magento 2 deployment recipe for deployer.
+  type: github_repo
+  added: "2018-01-01"
+- name: Magento 2 Deployer Plus
+  url: https://github.com/jalogut/magento2-deployer-plus
+  description: Tool based on deployer.org to perform zero-downtime deployments of Magento 2 projects.
+  type: github_repo
+  added: "2018-01-01"
+- name: Github Actions for Magento2
+  url: https://github.com/extdn/github-actions-m2
+  description: GitHub Actions for Magento 2 Extensions.
+  type: github_repo
+  added: "2018-01-01"

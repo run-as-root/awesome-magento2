@@ -1,0 +1,15 @@
+- name: PAYONE
+  url: https://github.com/PAYONE-GmbH/magento-2
+  description: PAYONE Payment Integration.
+  type: github_repo
+  added: "2018-01-01"
+- name: Stripe
+  url: https://github.com/pmclain/module-stripe
+  description: Stripe Payments for Magento 2.
+  type: github_repo
+  added: "2018-01-01"
+- name: Braintree Payments
+  url: https://marketplace.magento.com/paypal-module-braintree.html
+  description: Official Braintree Integration for Magento 2.
+  type: vendor_site
+  added: "2018-01-01"

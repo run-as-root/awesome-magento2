@@ -1,0 +1,5 @@
+- name: ScandiPWA Theme
+  url: https://github.com/scandipwa/base-theme
+  description: Magento 2.3+ PWA theme based on React and Redux.
+  type: github_repo
+  added: "2018-01-01"

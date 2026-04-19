@@ -91,159 +91,51 @@ The storefront of Magento 2 can be styled in numerous ways:
 
 ### Development Utilities
 
-- [Cypress Testing Suite](https://github.com/elgentos/magento2-cypress-testing-suite/) - A community-driven Cypress
-  testing suite for Magento 2
-- [Config ImportExport](https://github.com/semaio/Magento2-ConfigImportExport) - CLI Based Config Management.
-- [Whoops Exceptions](https://github.com/yireo/Yireo_Whoops) - PHP Exceptions for Cool Kids in Magento 2.
-- [Magento Cache Clean](https://github.com/mage2tv/magento-cache-clean) - A faster drop in replacement for bin/magento
-  cache:clean with file watcher by Vinai Kopp](https://twitter.com/vinaikopp)
-- [Developer Toolbar](https://github.com/mgtcommerce/Mgt_Developertoolbar) - Magento 2 Developer Toolbar.
-- [Advanced Template Hints](https://github.com/ho-nl/magento2-Ho_Templatehints) - Magento 2 Template Hints Helper.
-- [Scope Hints](https://github.com/avstudnitz/AvS_ScopeHint2) - Displays additional information in the Store Configuration
-  by Andreas von Studnitz.
-- [Magento 2 Configurator](https://github.com/ctidigital/magento2-configurator) - A Magento module initially created by
-  CTI Digital to create and maintain database variables using files.
-- [Auto Cache Flush](https://github.com/yireo/Yireo_AutoFlushCache) - Magento 2 module to automatically flush the cache.
-- [Magento 2 PHPStorm File Templates](https://github.com/lfolco/phpstorm-m2-filetemplates) - PHPStorm Magento 2 File
-  Templates.
-- [MageVulnDB](https://github.com/gwillem/magevulndb) - Central repository for third party Magento extensions with known
-  security issues.
-- [Magento 2 Prometheus Exporter](https://github.com/run-as-root/magento2-prometheus-exporter) - Prometheus Exporter for
-  common Magento Data.
-- [graycoreio/magento2-cors](https://github.com/graycoreio/magento2-cors) - Enables configurable CORS Headers on the
-  Magento GraphQL API.
-- [bitExpert/phpstan-magento](https://github.com/bitExpert/phpstan-magento) - Magento specific extension for PHPStan
-- [Dot Env](https://github.com/zepgram/magento-dotenv) - Magento 2 Environment Variable Component - Implementing Symfony Dotenv.
-- [Rest Client](https://github.com/zepgram/module-rest) - Technical Magento 2 module providing simple development pattern, configurations and optimizations to make REST API requests toward external services based on Guzzle Client.
-- [Magento 2 Model Generator / CRUD Generator](https://www.model-generator.com/) - A more up-to-date version of a Magento 2 Model & CRUD Generator by [Michiel Gerritsen](https://github.com/michielgerritsen)
-- [Simon's Troubleshooting Guide](https://gist.github.com/ProcessEight/000245eac361cbcfeb9daf6de3c1c2e4) - A list with the most common errors you encounter during development.
-- [Magewire PHP](https://github.com/magewirephp) - A Laravel Livewire port for building complex AJAX-based components with ease. Used by the Hyvä Checkout.
-- [Yireo LokiComponents](https://github.com/yireo/Yireo_LokiComponents) - A library for building AJAX-driven form components with ease. Used by the Yireo Loki Checkout.
+{% file=data/extensions/development-utilities.yml parser="AwesomeList\Parser\YamlEntryList" %}
 
 ### Deployment
 
-- [Deployer Magento2 Recipe](https://github.com/deployphp/deployer/blob/master/recipe/magento2.php) - Magento2
-  deployment recipe for [deployer](https://deployer.org/).
-- [Magento 2 Deployer Plus](https://github.com/jalogut/magento2-deployer-plus) - Tool based on deployer.org to perform
-  zero downtime deployments of Magento 2 projects.
-- [Github Actions for Magento2](https://github.com/extdn/github-actions-m2) - GitHub Actions for Magento 2 Extensions
+{% file=data/extensions/deployment.yml parser="AwesomeList\Parser\YamlEntryList" %}
 
 ### Localization
 
-- [de_DE](https://github.com/splendidinternet/Magento2_German_LocalePack_de_DE) :de: - German Language Package.
-- [de_CH](https://github.com/staempfli/magento2-language-de-ch) 🇨🇭 - Swiss Language Package.
-- [fr_FR](https://github.com/Imaginaerum/magento2-language-fr-fr) :fr: - French Language Package.
-- [da_DK](https://magentodanmark.dk/) 🇩🇰 - Danish Language Package.
-- [es_AR](https://github.com/SemExpert/Magento2-language-es_ar) 🇦🇷 - Spanish (Argentina) Language Package.
-- [es_ES](https://github.com/eusonlito/magento2-language-es_es) :es: - Spanish Language Package.
-- [pt_BR](https://github.com/rafaelstz/traducao_magento2_pt_br) 🇧🇷 - Portuguese Brazil Language Package.
-- [it_IT](https://github.com/mageplaza/magento-2-italian-language-pack) :it: - Italian Language.
-- [nl_NL](https://github.com/magento-l10n/language-nl_NL) 🇳🇱 - Dutch Language Package.
-- [pl_PL](https://github.com/SnowdogApps/magento2-pl_pl) 🇵🇱 - Polish Language Package.
-- [tr_TR](https://github.com/hidonet/magento2-language-tr_tr) :tr: - Turkish Language Package.
-- [ro_RO](https://github.com/EaDesgin/magento2-romanian-language-pack) 🇷🇴 - Romanian Language Package.
-- [fi_FL](https://github.com/mageplaza/magento-2-finnish-language-pack) 🇫🇮 - Finnish Language Package.
-- [ko_KR](https://github.com/mageplaza/magento-2-korean-language-pack) 🇰🇷 - Korean Language Package.
-- [sk_SK](https://github.com/mageplaza/magento-2-slovak-language-pack) 🇸🇰 - Slovakian Language Package.
-- [sl_SI](https://github.com/symfony-si/magento2-sl-si) 🇸🇮 - Slovenian Language Package.
-- [en_GB](https://github.com/cubewebsites/magento2-language-en-gb) :gb: - British Language Package.
-- [hr_HR](https://marketplace.magento.com/inchoo-language-hr-hr.html) :croatia: - Croatian Language Package.
+{% file=data/extensions/localization.yml parser="AwesomeList\Parser\YamlEntryList" %}
 
 ### Search
 
-- [Algolia Search Integration](https://github.com/algolia/algoliasearch-magento-2) - Algolia Search(SaaS) Integration.
-- [Elastic Suite Integration](https://github.com/Smile-SA/elasticsuite/) - Elastic Suite Integration.
-- [FastSimpleImport2](https://github.com/firegento/FireGento_FastSimpleImport2) - Wrapper for Magento 2 ImportExport functionality, which imports products and customers from arrays.
-- [Disable Search Engine](https://github.com/zepgram/module-disable-search-engine) - Disable Elasticsearch and fulltext indexing for category search.
+{% file=data/extensions/search.yml parser="AwesomeList\Parser\YamlEntryList" %}
 
 ### CMS
 
-- [Mageplaza Blog Extension](https://github.com/mageplaza/magento-2-blog-extension) - Simple, but well working Blog
-  Extension.
-- [Magento 2 Blog Extension by Magefan](https://github.com/magefan/module-blog) - Free Blog module for Magento 2 with
-  unlimited blog posts and categories, SEO friendly, lazy load and AMP support.
-- [Opengento GDPR](https://github.com/opengento/magento2-gdpr) - Magento 2 GDPR module is a must have extension for the
-  largest e-commerce CMS used in the world. The module helps to be GDPR compliant.
+{% file=data/extensions/cms.yml parser="AwesomeList\Parser\YamlEntryList" %}
 
 ### Marketing
 
-- [MagePlaza Seo](https://github.com/mageplaza/magento-2-seo-extension) - Well documented multi purpose SEO Extension.
-- [Magento 2 PDF](https://github.com/staempfli/magento2-module-pdf) - PDF Generator based
-  on [wkhtmltopdf](http://wkhtmltopdf.org/).
-- [Google Tag Manager](https://github.com/magepal/magento2-google-tag-manager) - Google Tag Manager (GTM) with Data
-  Layer for Magento2.
+{% file=data/extensions/marketing.yml parser="AwesomeList\Parser\YamlEntryList" %}
 
 ### Adminhtml / Backend
 
-- [Customer Force Login](https://github.com/bitExpert/magento2-force-login) - Forces customers to log in before
-  accessing certain pages.
-- [Checkout Tester](https://github.com/yireo/Yireo_CheckoutTester2) - Extension to quickly test Checkout changes.
-- [Preview Checkout Success Page](https://github.com/magepal/magento2-preview-checkout-success-page) - quickly and
-  easily preview and test your order confirmation page, without the need to placing a new order each time.
-- [FireGento Fast Simple Import](https://github.com/firegento/FireGento_FastSimpleImport2) - Wrapper for Magento 2
-  ImportExport functionality, which imports products and customers from arrays
-- [Magento 2 Import Framework](https://github.com/techdivision/import) - A library supporting generic Magento 2 import
-  functionality
-- [Menu Editor](https://github.com/SnowdogApps/magento2-menu) - Provides powerful menu editor to replace category based
-  menus in Magento 2.
-- [PageNotFound](https://github.com/experius/Magento-2-Module-PageNotFound) - Saves upcoming 404 in your Database with
-  the possibility to created a redirect.
-- [Sentry.io](https://github.com/justbetter/magento2-sentry) - Application Monitoring and Error Tracking Software for
-  Magento 2
-- [Custom SMTP](https://github.com/magepal/magento2-gmail-smtp-app) - Configure Magento 2 to send all transactional
-  email using Google App, Gmail, Amazon Simple Email Service (SES), Microsoft Office365 and other SMTP server.
-- [Reset Customer Password](https://github.com/Vinai/module-customer-password-command) - Set a customer password with
-  bin/magento by [Vinai Kopp](https://github.com/Vinai/).
-- [Guest to Customer](https://github.com/magepal/magento2-guest-to-customer) - Quickly and easily convert existing guest
-  checkout customers to registered customers.
-- [Reset UI Bookmarks](https://github.com/magenizr/Magenizr_ResetUiBookmarks) - Reset UI Bookmarks allows admin users to
-  reset their own UI bookmarks such as state of filters, column positions and applied sorting ( e.g Sales > Orders ).
-- [Clean Admin Menu](https://github.com/redchamps/clean-admin-menu) - Merges 3rd party extensions to a single menu.
-- [shkoliar/magento-grid-colors](https://github.com/shkoliar/magento-grid-colors) - Magento 2 Grid Colors module for
-  colorizing admin grids. Supports saving of states with the help of grid's bookmarks.
-  by [Dmitry Shkoliar](https://shkoliar.com/)
-- [extdn/extension-dashboard-m2](https://github.com/extdn/extension-dashboard-m2) - A Magento 2 dashboard to display
-  installed extensions. by [Magento Extension Developers Network](https://extdn.org/)
-- [hivecommerce/magento2-content-fuzzyfyr](https://github.com/hivecommerce/magento2-content-fuzzyfyr) - The Content
-  Fuzzyfyr module for Magento2 replaces real content with dummy content. This is for development purposes, e.g. save
-  time to prepare test data and matching GDPR restrictions.
-- [Disable Stock Reservation](https://github.com/AmpersandHQ/magento2-disable-stock-reservation) - This module disables the inventory reservation logic introduced as part of MSI in Magento 2.3.3.
-- [Product Links Navigator](https://github.com/elninotech/ElNino_ProductLinksNavigator) - Enhances admin product-to-product navigation. Adds direct frontend/backend links to products in grids and modals, and "Parent Products" tab.
+{% file=data/extensions/adminhtml.yml parser="AwesomeList\Parser\YamlEntryList" %}
 
 ### Security
 
-- [Magento Quality Patches](https://experienceleague.adobe.com/tools/commerce-quality-patches/index.html) - Every Magento / Adobe Commerce patch you need all in one place
+{% file=data/extensions/security.yml parser="AwesomeList\Parser\YamlEntryList" %}
 
 ### Payment Service Provider
 
-- [PAYONE](https://github.com/PAYONE-GmbH/magento-2) - PAYONE Payment Integration.
-- [Stripe](https://github.com/pmclain/module-stripe) - Stripe Payments for Magento 2.
-- [Braintree Payments](https://marketplace.magento.com/paypal-module-braintree.html) - Official Braintree Integration
-  for Magento2.
+{% file=data/extensions/payment.yml parser="AwesomeList\Parser\YamlEntryList" %}
 
 ### Infrastructure
 
-- [Fastly Extension](https://github.com/fastly/fastly-magento2) - Magento 2 fastly integration.
-- [Ethan3600/magento2-CronjobManager](https://github.com/Ethan3600/magento2-CronjobManager) - Cron Job Manager for
-  Magento 2.
-- [Magento 2 Ngrok](https://github.com/shkoliar/magento-ngrok) - Magento 2 Ngrok Integration
-- [Clean Media](https://github.com/sivaschenko/magento2-clean-media) - A Module that provides information about Media
-  Files and potential removal options.
-- [Interceptor Optimization](https://github.com/creatuity/magento2-interceptors) - New interceptors approach for Magento 2
-
----
+{% file=data/extensions/infrastructure.yml parser="AwesomeList\Parser\YamlEntryList" %}
 
 ### Proprietary Extensions
 
-- [Commercebug Debugging Extension](http://store.pulsestorm.net/products/commerce-bug-3) - A Magento 2 Debug Extension.
-- [Magicento](http://magicento.com/) - [PHPStorm](https://www.jetbrains.com/phpstorm/) Plugin to add Magento 2 related
-  functionality.
+{% file=data/extensions/proprietary.yml parser="AwesomeList\Parser\YamlEntryList" %}
 
----
+### Progressive Web Application
 
-#### Progressive Web Application
-
-- [ScandiPWA Theme](https://github.com/scandipwa/base-theme) - Magento 2.3+ PWA theme based on React and Redux
+{% file=data/extensions/pwa.yml parser="AwesomeList\Parser\YamlEntryList" %}
 
 ---
 

@@ -1,0 +1,10 @@
+- name: Commercebug Debugging Extension
+  url: http://store.pulsestorm.net/products/commerce-bug-3
+  description: A Magento 2 Debug Extension.
+  type: vendor_site
+  added: "2018-01-01"
+- name: Magicento
+  url: http://magicento.com/
+  description: PHPStorm plugin to add Magento 2 related functionality.
+  type: vendor_site
+  added: "2018-01-01"

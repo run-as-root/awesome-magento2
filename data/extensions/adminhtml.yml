@@ -1,0 +1,90 @@
+- name: Customer Force Login
+  url: https://github.com/bitExpert/magento2-force-login
+  description: Forces customers to log in before accessing certain pages.
+  type: github_repo
+  added: "2018-01-01"
+- name: Checkout Tester
+  url: https://github.com/yireo/Yireo_CheckoutTester2
+  description: Extension to quickly test Checkout changes.
+  type: github_repo
+  added: "2018-01-01"
+- name: Preview Checkout Success Page
+  url: https://github.com/magepal/magento2-preview-checkout-success-page
+  description: Quickly and easily preview and test your order confirmation page, without the need to place a new order each time.
+  type: github_repo
+  added: "2018-01-01"
+- name: FireGento Fast Simple Import
+  url: https://github.com/firegento/FireGento_FastSimpleImport2
+  description: Wrapper for Magento 2 ImportExport functionality, which imports products and customers from arrays.
+  type: github_repo
+  added: "2018-01-01"
+- name: Magento 2 Import Framework
+  url: https://github.com/techdivision/import
+  description: A library supporting generic Magento 2 import functionality.
+  type: github_repo
+  added: "2018-01-01"
+- name: Menu Editor
+  url: https://github.com/SnowdogApps/magento2-menu
+  description: Provides a powerful menu editor to replace category-based menus in Magento 2.
+  type: github_repo
+  added: "2018-01-01"
+- name: PageNotFound
+  url: https://github.com/experius/Magento-2-Module-PageNotFound
+  description: Saves upcoming 404s in your database with the possibility to create a redirect.
+  type: github_repo
+  added: "2018-01-01"
+- name: Sentry.io
+  url: https://github.com/justbetter/magento2-sentry
+  description: Application monitoring and error tracking software for Magento 2.
+  type: github_repo
+  added: "2018-01-01"
+- name: Custom SMTP
+  url: https://github.com/magepal/magento2-gmail-smtp-app
+  description: Configure Magento 2 to send all transactional email using Google App, Gmail, Amazon SES, Microsoft Office 365 and other SMTP servers.
+  type: github_repo
+  added: "2018-01-01"
+- name: Reset Customer Password
+  url: https://github.com/Vinai/module-customer-password-command
+  description: Set a customer password with bin/magento by Vinai Kopp.
+  type: github_repo
+  added: "2018-01-01"
+- name: Guest to Customer
+  url: https://github.com/magepal/magento2-guest-to-customer
+  description: Quickly and easily convert existing guest checkout customers to registered customers.
+  type: github_repo
+  added: "2018-01-01"
+- name: Reset UI Bookmarks
+  url: https://github.com/magenizr/Magenizr_ResetUiBookmarks
+  description: Allows admin users to reset their own UI bookmarks such as filter state, column positions and applied sorting (e.g. Sales > Orders).
+  type: github_repo
+  added: "2018-01-01"
+- name: Clean Admin Menu
+  url: https://github.com/redchamps/clean-admin-menu
+  description: Merges 3rd-party extensions into a single menu.
+  type: github_repo
+  added: "2018-01-01"
+- name: shkoliar/magento-grid-colors
+  url: https://github.com/shkoliar/magento-grid-colors
+  description: Magento 2 Grid Colors module for colorizing admin grids. Supports saving of states with the help of grid bookmarks by Dmitry Shkoliar.
+  type: github_repo
+  added: "2018-01-01"
+- name: extdn/extension-dashboard-m2
+  url: https://github.com/extdn/extension-dashboard-m2
+  description: A Magento 2 dashboard to display installed extensions by the Magento Extension Developers Network.
+  type: github_repo
+  added: "2018-01-01"
+- name: hivecommerce/magento2-content-fuzzyfyr
+  url: https://github.com/hivecommerce/magento2-content-fuzzyfyr
+  description: The Content Fuzzyfyr module for Magento 2 replaces real content with dummy content — useful for development, test data, and matching GDPR restrictions.
+  type: github_repo
+  added: "2018-01-01"
+- name: Disable Stock Reservation
+  url: https://github.com/AmpersandHQ/magento2-disable-stock-reservation
+  description: Disables the inventory reservation logic introduced as part of MSI in Magento 2.3.3.
+  type: github_repo
+  added: "2018-01-01"
+- name: Product Links Navigator
+  url: https://github.com/elninotech/ElNino_ProductLinksNavigator
+  description: Enhances admin product-to-product navigation. Adds direct frontend/backend links to products in grids and modals, and a "Parent Products" tab.
+  type: github_repo
+  added: "2018-01-01"

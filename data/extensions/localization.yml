@@ -1,0 +1,90 @@
+- name: de_DE
+  url: https://github.com/splendidinternet/Magento2_German_LocalePack_de_DE
+  description: German Language Package.
+  type: github_repo
+  added: "2018-01-01"
+- name: de_CH
+  url: https://github.com/staempfli/magento2-language-de-ch
+  description: Swiss Language Package.
+  type: github_repo
+  added: "2018-01-01"
+- name: fr_FR
+  url: https://github.com/Imaginaerum/magento2-language-fr-fr
+  description: French Language Package.
+  type: github_repo
+  added: "2018-01-01"
+- name: da_DK
+  url: https://magentodanmark.dk/
+  description: Danish Language Package.
+  type: vendor_site
+  added: "2018-01-01"
+- name: es_AR
+  url: https://github.com/SemExpert/Magento2-language-es_ar
+  description: Spanish (Argentina) Language Package.
+  type: github_repo
+  added: "2018-01-01"
+- name: es_ES
+  url: https://github.com/eusonlito/magento2-language-es_es
+  description: Spanish Language Package.
+  type: github_repo
+  added: "2018-01-01"
+- name: pt_BR
+  url: https://github.com/rafaelstz/traducao_magento2_pt_br
+  description: Portuguese Brazil Language Package.
+  type: github_repo
+  added: "2018-01-01"
+- name: it_IT
+  url: https://github.com/mageplaza/magento-2-italian-language-pack
+  description: Italian Language Package.
+  type: github_repo
+  added: "2018-01-01"
+- name: nl_NL
+  url: https://github.com/magento-l10n/language-nl_NL
+  description: Dutch Language Package.
+  type: github_repo
+  added: "2018-01-01"
+- name: pl_PL
+  url: https://github.com/SnowdogApps/magento2-pl_pl
+  description: Polish Language Package.
+  type: github_repo
+  added: "2018-01-01"
+- name: tr_TR
+  url: https://github.com/hidonet/magento2-language-tr_tr
+  description: Turkish Language Package.
+  type: github_repo
+  added: "2018-01-01"
+- name: ro_RO
+  url: https://github.com/EaDesgin/magento2-romanian-language-pack
+  description: Romanian Language Package.
+  type: github_repo
+  added: "2018-01-01"
+- name: fi_FL
+  url: https://github.com/mageplaza/magento-2-finnish-language-pack
+  description: Finnish Language Package.
+  type: github_repo
+  added: "2018-01-01"
+- name: ko_KR
+  url: https://github.com/mageplaza/magento-2-korean-language-pack
+  description: Korean Language Package.
+  type: github_repo
+  added: "2018-01-01"
+- name: sk_SK
+  url: https://github.com/mageplaza/magento-2-slovak-language-pack
+  description: Slovakian Language Package.
+  type: github_repo
+  added: "2018-01-01"
+- name: sl_SI
+  url: https://github.com/symfony-si/magento2-sl-si
+  description: Slovenian Language Package.
+  type: github_repo
+  added: "2018-01-01"
+- name: en_GB
+  url: https://github.com/cubewebsites/magento2-language-en-gb
+  description: British Language Package.
+  type: github_repo
+  added: "2018-01-01"
+- name: hr_HR
+  url: https://marketplace.magento.com/inchoo-language-hr-hr.html
+  description: Croatian Language Package.
+  type: vendor_site
+  added: "2018-01-01"

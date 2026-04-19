@@ -1,0 +1,100 @@
+- name: Cypress Testing Suite
+  url: https://github.com/elgentos/magento2-cypress-testing-suite/
+  description: A community-driven Cypress testing suite for Magento 2.
+  type: github_repo
+  added: "2018-01-01"
+- name: Config ImportExport
+  url: https://github.com/semaio/Magento2-ConfigImportExport
+  description: CLI-based config management.
+  type: github_repo
+  added: "2018-01-01"
+- name: Whoops Exceptions
+  url: https://github.com/yireo/Yireo_Whoops
+  description: PHP Exceptions for Cool Kids in Magento 2.
+  type: github_repo
+  added: "2018-01-01"
+- name: Magento Cache Clean
+  url: https://github.com/mage2tv/magento-cache-clean
+  description: A faster drop-in replacement for bin/magento cache:clean with file watcher by Vinai Kopp.
+  type: github_repo
+  added: "2018-01-01"
+- name: Developer Toolbar
+  url: https://github.com/mgtcommerce/Mgt_Developertoolbar
+  description: Magento 2 Developer Toolbar.
+  type: github_repo
+  added: "2018-01-01"
+- name: Advanced Template Hints
+  url: https://github.com/ho-nl/magento2-Ho_Templatehints
+  description: Magento 2 Template Hints Helper.
+  type: github_repo
+  added: "2018-01-01"
+- name: Scope Hints
+  url: https://github.com/avstudnitz/AvS_ScopeHint2
+  description: Displays additional information in the Store Configuration by Andreas von Studnitz.
+  type: github_repo
+  added: "2018-01-01"
+- name: Magento 2 Configurator
+  url: https://github.com/ctidigital/magento2-configurator
+  description: A Magento module initially created by CTI Digital to create and maintain database variables using files.
+  type: github_repo
+  added: "2018-01-01"
+- name: Auto Cache Flush
+  url: https://github.com/yireo/Yireo_AutoFlushCache
+  description: Magento 2 module to automatically flush the cache.
+  type: github_repo
+  added: "2018-01-01"
+- name: Magento 2 PHPStorm File Templates
+  url: https://github.com/lfolco/phpstorm-m2-filetemplates
+  description: PHPStorm Magento 2 File Templates.
+  type: github_repo
+  added: "2018-01-01"
+- name: MageVulnDB
+  url: https://github.com/gwillem/magevulndb
+  description: Central repository for third-party Magento extensions with known security issues.
+  type: github_repo
+  added: "2018-01-01"
+- name: Magento 2 Prometheus Exporter
+  url: https://github.com/run-as-root/magento2-prometheus-exporter
+  description: Prometheus Exporter for common Magento data.
+  type: github_repo
+  added: "2018-01-01"
+- name: graycoreio/magento2-cors
+  url: https://github.com/graycoreio/magento2-cors
+  description: Enables configurable CORS headers on the Magento GraphQL API.
+  type: github_repo
+  added: "2018-01-01"
+- name: bitExpert/phpstan-magento
+  url: https://github.com/bitExpert/phpstan-magento
+  description: Magento-specific extension for PHPStan.
+  type: github_repo
+  added: "2018-01-01"
+- name: Dot Env
+  url: https://github.com/zepgram/magento-dotenv
+  description: Magento 2 Environment Variable Component implementing Symfony Dotenv.
+  type: github_repo
+  added: "2018-01-01"
+- name: Rest Client
+  url: https://github.com/zepgram/module-rest
+  description: Technical Magento 2 module providing simple development pattern, configurations and optimizations to make REST API requests toward external services based on Guzzle Client.
+  type: github_repo
+  added: "2018-01-01"
+- name: Magento 2 Model Generator / CRUD Generator
+  url: https://www.model-generator.com/
+  description: A more up-to-date version of a Magento 2 Model & CRUD Generator by Michiel Gerritsen.
+  type: vendor_site
+  added: "2018-01-01"
+- name: Simon's Troubleshooting Guide
+  url: https://gist.github.com/ProcessEight/000245eac361cbcfeb9daf6de3c1c2e4
+  description: A list with the most common errors you encounter during development.
+  type: vendor_site
+  added: "2018-01-01"
+- name: Magewire PHP
+  url: https://github.com/magewirephp
+  description: A Laravel Livewire port for building complex AJAX-based components with ease. Used by the Hyva Checkout.
+  type: github_repo
+  added: "2018-01-01"
+- name: Yireo LokiComponents
+  url: https://github.com/yireo/Yireo_LokiComponents
+  description: A library for building AJAX-driven form components with ease. Used by the Yireo Loki Checkout.
+  type: github_repo
+  added: "2018-01-01"

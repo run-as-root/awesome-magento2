@@ -1,0 +1,5 @@
+- name: Magento Quality Patches
+  url: https://experienceleague.adobe.com/tools/commerce-quality-patches/index.html
+  description: Every Magento / Adobe Commerce patch you need all in one place.
+  type: vendor_site
+  added: "2018-01-01"

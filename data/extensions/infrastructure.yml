@@ -1,0 +1,25 @@
+- name: Fastly Extension
+  url: https://github.com/fastly/fastly-magento2
+  description: Magento 2 Fastly integration.
+  type: github_repo
+  added: "2018-01-01"
+- name: Ethan3600/magento2-CronjobManager
+  url: https://github.com/Ethan3600/magento2-CronjobManager
+  description: Cron Job Manager for Magento 2.
+  type: github_repo
+  added: "2018-01-01"
+- name: Magento 2 Ngrok
+  url: https://github.com/shkoliar/magento-ngrok
+  description: Magento 2 Ngrok Integration.
+  type: github_repo
+  added: "2018-01-01"
+- name: Clean Media
+  url: https://github.com/sivaschenko/magento2-clean-media
+  description: A module that provides information about media files and potential removal options.
+  type: github_repo
+  added: "2018-01-01"
+- name: Interceptor Optimization
+  url: https://github.com/creatuity/magento2-interceptors
+  description: New interceptors approach for Magento 2.
+  type: github_repo
+  added: "2018-01-01"

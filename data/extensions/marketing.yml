@@ -1,0 +1,15 @@
+- name: MagePlaza Seo
+  url: https://github.com/mageplaza/magento-2-seo-extension
+  description: Well-documented multi-purpose SEO Extension.
+  type: github_repo
+  added: "2018-01-01"
+- name: Magento 2 PDF
+  url: https://github.com/staempfli/magento2-module-pdf
+  description: PDF Generator based on wkhtmltopdf.
+  type: github_repo
+  added: "2018-01-01"
+- name: Google Tag Manager
+  url: https://github.com/magepal/magento2-google-tag-manager
+  description: Google Tag Manager (GTM) with Data Layer for Magento 2.
+  type: github_repo
+  added: "2018-01-01"

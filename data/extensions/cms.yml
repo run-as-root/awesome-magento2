@@ -1,0 +1,15 @@
+- name: Mageplaza Blog Extension
+  url: https://github.com/mageplaza/magento-2-blog-extension
+  description: Simple but well-working Blog Extension.
+  type: github_repo
+  added: "2018-01-01"
+- name: Magento 2 Blog Extension by Magefan
+  url: https://github.com/magefan/module-blog
+  description: Free Blog module for Magento 2 with unlimited blog posts and categories, SEO friendly, lazy load and AMP support.
+  type: github_repo
+  added: "2018-01-01"
+- name: Opengento GDPR
+  url: https://github.com/opengento/magento2-gdpr
+  description: Magento 2 GDPR module to help be GDPR compliant.
+  type: github_repo
+  added: "2018-01-01"

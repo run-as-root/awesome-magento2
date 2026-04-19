@@ -1,0 +1,20 @@
+- name: Algolia Search Integration
+  url: https://github.com/algolia/algoliasearch-magento-2
+  description: Algolia Search (SaaS) Integration.
+  type: github_repo
+  added: "2018-01-01"
+- name: Elastic Suite Integration
+  url: https://github.com/Smile-SA/elasticsuite/
+  description: Elastic Suite Integration.
+  type: github_repo
+  added: "2018-01-01"
+- name: FastSimpleImport2
+  url: https://github.com/firegento/FireGento_FastSimpleImport2
+  description: Wrapper for Magento 2 ImportExport functionality, which imports products and customers from arrays.
+  type: github_repo
+  added: "2018-01-01"
+- name: Disable Search Engine
+  url: https://github.com/zepgram/module-disable-search-engine
+  description: Disable Elasticsearch and fulltext indexing for category search.
+  type: github_repo
+  added: "2018-01-01"
