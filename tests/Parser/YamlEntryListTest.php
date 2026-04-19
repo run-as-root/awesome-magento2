@@ -8,7 +8,7 @@ final class YamlEntryListTest extends TestCase
 {
     public function test_it_emits_one_markdown_line_per_entry(): void
     {
-        $parser = new YamlEntryList();
+        $parser = new YamlEntryList(sidecarPath: __DIR__ . '/../fixtures/state/empty.json');
         $parser->setFilename(__DIR__ . '/../fixtures/entries/sample.yml');
         $markdown = $parser->parseToMarkdown();
 
@@ -24,7 +24,7 @@ final class YamlEntryListTest extends TestCase
 
     public function test_entries_without_description_omit_the_dash(): void
     {
-        $parser = new YamlEntryList();
+        $parser = new YamlEntryList(sidecarPath: __DIR__ . '/../fixtures/state/empty.json');
         $parser->setFilename(__DIR__ . '/../fixtures/entries/no-description.yml');
         $markdown = $parser->parseToMarkdown();
         $this->assertStringContainsString('- [Foo](https://foo.example)' . "\n", $markdown);
