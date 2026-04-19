@@ -277,46 +277,19 @@ The storefront of Magento 2 can be styled in numerous ways:
 
 ## Learning
 
-- [M.academy](https://m.academy/) - The simplest way to learn Magento 2 & Adobe Commerce, with video lessons & courses
-- [MageTitans Italia 2016](https://www.youtube.com/playlist?list=PLwB4Uz_0hoVP3Fm_c4HfNPK5JdRD6DIDl)
-- [MageTitans MCR 2016](https://www.youtube.com/playlist?list=PLwB4Uz_0hoVMOnBRS49ICbNWOU5jhNNWC)
-- [MageTitans USA/Texas 2016](https://www.youtube.com/playlist?list=PLwB4Uz_0hoVOLU7LPRNL4lAmJeAv7HQ-b)
-- [Max Bucknell Magento 2 Javascript](https://www.youtube.com/watch?v=tHxebA-jOSo)
-- [Max Pronko DevChannel](https://www.youtube.com/channel/UCxbWGz6h6KNQsi2ughRUV2Q)
-- [The Magento 2 Beginner Tutorial Class](https://www.youtube.com/playlist?list=PLtaXuX0nEZk9eL59JGE3ny-_GAU-z5X5D&utm_content=buffer797bf&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer) - Free YouTube Series for learning Magento 2.
-- [Vinai Kopp Mage2Katas](https://www.youtube.com/channel/UCRFDWo7jTlrpEsJxzc7WyPw)
-- [Mage2.tv](https://www.mage2.tv) - Magento 2 Developer Screencasts by Vinai Kopp
-- [magento-notes/magento2-exam-notes](https://github.com/magento-notes/magento2-exam-notes) - Preparation notes for
-  Magento 2 Certified Professional Developer exam
-- [magento-notes/magento2-cloud-developer-notes](https://github.com/magento-notes/magento2-cloud-developer-notes) -
-  Preparation notes for Magento 2 Certified Professional Cloud Developer exam
-- [roma-glushko/magento2-dev-plus-exam](https://github.com/roma-glushko/magento2-dev-plus-exam) - Preparation notes for
-  Magento 2 Certified Professional Developer Plus exam
-- [fisheye-academy/m2cpfed-training](https://github.com/fisheye-academy/m2cpfed-training) - Resources for the Magento 2
-  Certified Professional Front End Developer exam
-- [Yireo Training](https://www.yireo.com/training) - Various Magento 2 courses for backend and frontend development
+{% file=data/learning.yml parser="AwesomeList\Parser\YamlEntryList" %}
 
 ---
 
 ## Platforms
 
-- [StackExchange](http://magento.stackexchange.com/) - Q/A Forum.
+{% file=data/platforms.yml parser="AwesomeList\Parser\YamlEntryList" %}
 
 ---
 
 ## Official Resources
 
-- [Magento Official Website](https://www.magento.com) - Magento's official Website.
-- [Magento Developer Documentation](http://devdocs.magento.com/) - Official Developer Documentation.
-- [Magento Forum](https://community.magento.com/) - Community Forum by Magento.
-- [Magento Github Repository](https://github.com/magento/magento2) - Github Repository.
-- [Magento Developer Blog](https://community.magento.com/t5/Magento-DevBlog/bg-p/devblog?nobounce=) - Developer Blog by
-  Magento.
-- [Magento 2 data migration tool](https://github.com/magento/data-migration-tool) - Official Magento 1 to Magento 2 migration tool.
-- [Magento Coding Standards](https://github.com/magento/magento-coding-standard) - Official Magento2 Advanced Set of
-  Rules for PHP_CodeSniffer.
-- [Magento 2 Architecture](https://github.com/magento/architecture) - A place where Magento architectural discussions
-  happen.
+{% file=data/official-resources.yml parser="AwesomeList\Parser\YamlEntryList" %}
 
 - Magento Masters 2017
     - [Peter Jaap Blaakmeer](https://twitter.com/PeterJaap) - CTO at [elgentos](https://www.elgentos.nl/)
@@ -378,10 +351,7 @@ by [Fooman](http://store.fooman.co.nz/blog/how-to-find-trustworthy-information-a
 
 ## Other Magento 2 related Awesome Lists
 
-- [Mageres](https://github.com/aleron75/mageres) - Alessandro Ronchi's List of resources for Magento 1 and Magento 2.
-- [Awesome PHP](https://github.com/ziadoz/awesome-php) - A curated List of Awesome PHP Resources.
-- [Awesome Magento](https://github.com/sunel/awesome-magento) - An Awesome Magento List with mixed M1 and M2 Content
-  by [sunel](https://github.com/sunel).
+{% file=data/other-lists.yml parser="AwesomeList\Parser\YamlEntryList" %}
 
 ---
 

@@ -1,0 +1,15 @@
+- name: Mageres
+  url: https://github.com/aleron75/mageres
+  description: Alessandro Ronchi's list of resources for Magento 1 and Magento 2.
+  type: github_repo
+  added: "2018-01-01"
+- name: Awesome PHP
+  url: https://github.com/ziadoz/awesome-php
+  description: A curated list of awesome PHP resources.
+  type: github_repo
+  added: "2018-01-01"
+- name: Awesome Magento
+  url: https://github.com/sunel/awesome-magento
+  description: An awesome Magento list with mixed M1 and M2 content by sunel.
+  type: github_repo
+  added: "2018-01-01"

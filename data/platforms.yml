@@ -1,0 +1,5 @@
+- name: StackExchange
+  url: http://magento.stackexchange.com/
+  description: Q&A forum for Magento developers.
+  type: vendor_site
+  added: "2018-01-01"

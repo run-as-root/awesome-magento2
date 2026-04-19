@@ -1,0 +1,70 @@
+- name: M.academy
+  url: https://m.academy/
+  description: Video lessons and courses for Magento 2 and Adobe Commerce.
+  type: course
+  added: "2020-01-01"
+- name: MageTitans Italia 2016
+  url: https://www.youtube.com/playlist?list=PLwB4Uz_0hoVP3Fm_c4HfNPK5JdRD6DIDl
+  description: MageTitans Italia 2016 conference recordings.
+  type: youtube_playlist
+  added: "2016-01-01"
+- name: MageTitans MCR 2016
+  url: https://www.youtube.com/playlist?list=PLwB4Uz_0hoVMOnBRS49ICbNWOU5jhNNWC
+  description: MageTitans Manchester 2016 conference recordings.
+  type: youtube_playlist
+  added: "2016-01-01"
+- name: MageTitans USA/Texas 2016
+  url: https://www.youtube.com/playlist?list=PLwB4Uz_0hoVOLU7LPRNL4lAmJeAv7HQ-b
+  description: MageTitans USA/Texas 2016 conference recordings.
+  type: youtube_playlist
+  added: "2016-01-01"
+- name: Max Bucknell — Magento 2 JavaScript
+  url: https://www.youtube.com/watch?v=tHxebA-jOSo
+  description: Max Bucknell's talk on Magento 2's JavaScript stack.
+  type: course
+  added: "2016-01-01"
+- name: Max Pronko DevChannel
+  url: https://www.youtube.com/channel/UCxbWGz6h6KNQsi2ughRUV2Q
+  description: Max Pronko's YouTube channel for Magento 2 development.
+  type: youtube_playlist
+  added: "2018-01-01"
+- name: The Magento 2 Beginner Tutorial Class
+  url: https://www.youtube.com/playlist?list=PLtaXuX0nEZk9eL59JGE3ny-_GAU-z5X5D
+  description: Free YouTube series for learning Magento 2.
+  type: youtube_playlist
+  added: "2018-01-01"
+- name: Vinai Kopp Mage2Katas
+  url: https://www.youtube.com/channel/UCRFDWo7jTlrpEsJxzc7WyPw
+  description: Vinai Kopp's Mage2Katas YouTube channel.
+  type: youtube_playlist
+  added: "2018-01-01"
+- name: Mage2.tv
+  url: https://www.mage2.tv
+  description: Magento 2 developer screencasts by Vinai Kopp.
+  type: course
+  added: "2018-01-01"
+- name: magento-notes/magento2-exam-notes
+  url: https://github.com/magento-notes/magento2-exam-notes
+  description: Preparation notes for the Magento 2 Certified Professional Developer exam.
+  type: github_repo
+  added: "2019-01-01"
+- name: magento-notes/magento2-cloud-developer-notes
+  url: https://github.com/magento-notes/magento2-cloud-developer-notes
+  description: Preparation notes for the Magento 2 Certified Professional Cloud Developer exam.
+  type: github_repo
+  added: "2019-01-01"
+- name: roma-glushko/magento2-dev-plus-exam
+  url: https://github.com/roma-glushko/magento2-dev-plus-exam
+  description: Preparation notes for the Magento 2 Certified Professional Developer Plus exam.
+  type: github_repo
+  added: "2019-01-01"
+- name: fisheye-academy/m2cpfed-training
+  url: https://github.com/fisheye-academy/m2cpfed-training
+  description: Resources for the Magento 2 Certified Professional Front End Developer exam.
+  type: github_repo
+  added: "2019-01-01"
+- name: Yireo Training
+  url: https://www.yireo.com/training
+  description: Magento 2 backend and frontend development courses.
+  type: course
+  added: "2018-01-01"
