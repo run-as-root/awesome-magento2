@@ -1,0 +1,66 @@
+- name: Meet Magento Baltics
+  url: https://meetmagentobaltics.com/
+  description: Meet Magento event series — Baltics.
+  type: event
+  added: "2018-01-01"
+  recurring: annual
+- name: Meet Magento Brazil
+  url: https://meetmagentobrasil.org/
+  description: Meet Magento event series — Brazil.
+  type: event
+  added: "2018-01-01"
+  recurring: annual
+- name: Meet Magento Florida
+  url: https://meetmagentofl.com/
+  description: Meet Magento event series — Florida.
+  type: event
+  added: "2018-01-01"
+  recurring: annual
+- name: Meet Magento India
+  url: https://www.meetmagento.in/
+  description: Meet Magento event series — India.
+  type: event
+  added: "2018-01-01"
+  recurring: annual
+- name: Meet Magento Malaysia
+  url: https://www.meetmagento.asia/
+  description: Meet Magento event series — Malaysia.
+  type: event
+  added: "2018-01-01"
+  recurring: annual
+- name: Meet Magento Netherlands
+  url: https://nl.meet-magento.com/
+  description: Meet Magento event series — Netherlands.
+  type: event
+  added: "2018-01-01"
+  recurring: annual
+- name: Meet Magento New York City
+  url: https://meetmagentonyc.com/
+  description: Meet Magento event series — NYC.
+  type: event
+  added: "2018-01-01"
+  recurring: annual
+- name: Meet Magento Poland
+  url: https://meetmagento.pl/
+  description: Meet Magento event series — Poland.
+  type: event
+  added: "2018-01-01"
+  recurring: annual
+- name: Meet Magento Romania
+  url: https://ro.meet-magento.com/
+  description: Meet Magento event series — Romania.
+  type: event
+  added: "2018-01-01"
+  recurring: annual
+- name: Meet Magento Singapore
+  url: https://meetmagento.sg/
+  description: Meet Magento event series — Singapore.
+  type: event
+  added: "2018-01-01"
+  recurring: annual
+- name: Meet Magento UK
+  url: https://meet-magento.co.uk/
+  description: Meet Magento event series — UK.
+  type: event
+  added: "2018-01-01"
+  recurring: annual

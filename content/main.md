@@ -69,26 +69,13 @@ Also see:
 
 ## Events: Meet the community
 
-- [MageUnconference 🇩🇪](https://www.mageunconference.org/) - A Magento Unconference in Germany.
-- [MageUnconference 🇳🇱](https://mageunconference.nl/) - A Magento Unconference in the Netherlands.
-- [Meet Commerce](https://www.meetcommerce.com/) - A global series of conferences focused on commerce and innovation.
+{% file=data/events/mage-events.yml parser="AwesomeList\Parser\YamlEntryList" %}
 
 ### Meet Magento
 
-[Meet Magento events](https://www.meet-magento.com/) bring together everyone from merchants through developers, solution and technology providers, and 
-marketers—and we continue to expand.
+[Meet Magento events](https://www.meet-magento.com/) bring together everyone from merchants through developers, solution and technology providers, and marketers—and we continue to expand.
 
-- [Meet Magento Baltics](https://meetmagentobaltics.com/)
-- [Meet Magento Brazil](https://meetmagentobrasil.org/)
-- [Meet Magento Florida](https://meetmagentofl.com/)
-- [Meet Magento India](https://www.meetmagento.in/)
-- [Meet Magento Malaysia](https://www.meetmagento.asia/)
-- [Meet Magento Netherlands](https://nl.meet-magento.com/)
-- [Meet Magento New York City](https://meetmagentonyc.com/)
-- [Meet Magento Poland](https://meetmagento.pl/)
-- [Meet Magento Romania](https://ro.meet-magento.com/)
-- [Meet Magento Singapore](https://meetmagento.sg/)
-- [Meet Magento UK](https://meet-magento.co.uk/)
+{% file=data/events/meet-magento.yml parser="AwesomeList\Parser\YamlEntryList" %}
 
 ## Front-ends
 

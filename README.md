@@ -69,26 +69,25 @@ Also see:
 
 ## Events: Meet the community
 
-- [MageUnconference 🇩🇪](https://www.mageunconference.org/) - A Magento Unconference in Germany.
-- [MageUnconference 🇳🇱](https://mageunconference.nl/) - A Magento Unconference in the Netherlands.
-- [Meet Commerce](https://www.meetcommerce.com/) - A global series of conferences focused on commerce and innovation.
+- [MageUnconference Germany](https://www.mageunconference.org/) - Magento unconference held in Germany.
+- [MageUnconference Netherlands](https://mageunconference.nl/) - Magento unconference held in the Netherlands.
+- [Meet Commerce](https://www.meetcommerce.com/) - Global series of conferences focused on commerce and innovation.
 
 ### Meet Magento
 
-[Meet Magento events](https://www.meet-magento.com/) bring together everyone from merchants through developers, solution and technology providers, and 
-marketers—and we continue to expand.
+[Meet Magento events](https://www.meet-magento.com/) bring together everyone from merchants through developers, solution and technology providers, and marketers—and we continue to expand.
 
-- [Meet Magento Baltics](https://meetmagentobaltics.com/)
-- [Meet Magento Brazil](https://meetmagentobrasil.org/)
-- [Meet Magento Florida](https://meetmagentofl.com/)
-- [Meet Magento India](https://www.meetmagento.in/)
-- [Meet Magento Malaysia](https://www.meetmagento.asia/)
-- [Meet Magento Netherlands](https://nl.meet-magento.com/)
-- [Meet Magento New York City](https://meetmagentonyc.com/)
-- [Meet Magento Poland](https://meetmagento.pl/)
-- [Meet Magento Romania](https://ro.meet-magento.com/)
-- [Meet Magento Singapore](https://meetmagento.sg/)
-- [Meet Magento UK](https://meet-magento.co.uk/)
+- [Meet Magento Baltics](https://meetmagentobaltics.com/) - Meet Magento event series — Baltics.
+- [Meet Magento Brazil](https://meetmagentobrasil.org/) - Meet Magento event series — Brazil.
+- [Meet Magento Florida](https://meetmagentofl.com/) - Meet Magento event series — Florida.
+- [Meet Magento India](https://www.meetmagento.in/) - Meet Magento event series — India.
+- [Meet Magento Malaysia](https://www.meetmagento.asia/) - Meet Magento event series — Malaysia.
+- [Meet Magento Netherlands](https://nl.meet-magento.com/) - Meet Magento event series — Netherlands.
+- [Meet Magento New York City](https://meetmagentonyc.com/) - Meet Magento event series — NYC.
+- [Meet Magento Poland](https://meetmagento.pl/) - Meet Magento event series — Poland.
+- [Meet Magento Romania](https://ro.meet-magento.com/) - Meet Magento event series — Romania.
+- [Meet Magento Singapore](https://meetmagento.sg/) - Meet Magento event series — Singapore.
+- [Meet Magento UK](https://meet-magento.co.uk/) - Meet Magento event series — UK.
 
 ## Front-ends
 

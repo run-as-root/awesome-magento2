@@ -1,0 +1,18 @@
+- name: MageUnconference Germany
+  url: https://www.mageunconference.org/
+  description: Magento unconference held in Germany.
+  type: event
+  added: "2018-01-01"
+  recurring: annual
+- name: MageUnconference Netherlands
+  url: https://mageunconference.nl/
+  description: Magento unconference held in the Netherlands.
+  type: event
+  added: "2019-01-01"
+  recurring: annual
+- name: Meet Commerce
+  url: https://www.meetcommerce.com/
+  description: Global series of conferences focused on commerce and innovation.
+  type: event
+  added: "2023-01-01"
+  recurring: annual
