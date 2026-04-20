@@ -42,6 +42,13 @@ $scanner = new DiscoveryScanner(
 );
 $candidates = $scanner->scan($index, $log);
 
+// Self-exclude: never recommend the repo running the scan.
+$selfUrl = "https://github.com/$owner/$name";
+$candidates = array_values(array_filter(
+    $candidates,
+    fn(array $c): bool => stripos($c['repo']->htmlUrl, $selfUrl) !== 0,
+));
+
 foreach ($candidates as $c) {
     $log = $log->markPending($c['repo']->htmlUrl, $c['suggested_yaml']);
 }
