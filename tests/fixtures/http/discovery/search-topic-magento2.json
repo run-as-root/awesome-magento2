@@ -1,0 +1,28 @@
+{
+  "items": [
+    {
+      "full_name": "alpha/beta",
+      "html_url": "https://github.com/alpha/beta",
+      "description": "A Magento 2 module that does thing.",
+      "stargazers_count": 42,
+      "pushed_at": "2026-03-01T12:00:00Z",
+      "created_at": "2024-01-01T00:00:00Z",
+      "archived": false,
+      "fork": false,
+      "license": { "spdx_id": "MIT" },
+      "default_branch": "main"
+    },
+    {
+      "full_name": "someone/old",
+      "html_url": "https://github.com/someone/old",
+      "description": "Archived thing.",
+      "stargazers_count": 200,
+      "pushed_at": "2023-01-01T00:00:00Z",
+      "created_at": "2018-01-01T00:00:00Z",
+      "archived": true,
+      "fork": false,
+      "license": { "spdx_id": "MIT" },
+      "default_branch": "main"
+    }
+  ]
+}

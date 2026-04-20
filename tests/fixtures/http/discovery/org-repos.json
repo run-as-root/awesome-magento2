@@ -1,0 +1,14 @@
+[
+  {
+    "full_name": "run-as-root/magento2-prometheus-exporter",
+    "html_url": "https://github.com/run-as-root/magento2-prometheus-exporter",
+    "description": "Prometheus exporter.",
+    "stargazers_count": 60,
+    "pushed_at": "2026-03-10T00:00:00Z",
+    "created_at": "2021-01-01T00:00:00Z",
+    "archived": false,
+    "fork": false,
+    "license": { "spdx_id": "MIT" },
+    "default_branch": "main"
+  }
+]
