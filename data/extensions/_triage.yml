@@ -1,0 +1,20 @@
+- name: mageos-magento2
+  url: https://github.com/mage-os/mageos-magento2
+  description: "This is the Mage-OS fork of the Magento core at https://github.com/magento/magento2. Mage-OS is an independent nonprofit distribution of Magento Open Source. We are not associated with Adobe or Magento in any way. Issues and PRs are welcome."
+  type: github_repo
+  added: "2026-04-20"
+- name: ACP-for-Magento-2
+  url: https://github.com/run-as-root/ACP-for-Magento-2
+  description: The Agentic Commerce Protocol Integration for Magento 2
+  type: github_repo
+  added: "2026-04-20"
+- name: magento2-regenerate-catalog-urls
+  url: https://github.com/elgentos/magento2-regenerate-catalog-urls
+  description: This extension adds console commands to be able to regenerate;  a product rewrite URL based on its url path; a category rewrite URL based on its url path; a category URL path based on its URL key and its parent categories.
+  type: github_repo
+  added: "2026-04-20"
+- name: Yireo_Webp2
+  url: https://github.com/yireo/Yireo_Webp2
+  description: Magento 2 module to add WebP support to Magento 2
+  type: github_repo
+  added: "2026-04-20"

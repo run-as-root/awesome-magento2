@@ -23,3 +23,13 @@
   description: New interceptors approach for Magento 2.
   type: github_repo
   added: "2018-01-01"
+- name: module-theme-optimization
+  url: https://github.com/mage-os/module-theme-optimization
+  description: bfcache, speculative loading, and view transitions for Magento
+  type: github_repo
+  added: "2026-04-20"
+- name: magento-cache-clean
+  url: https://github.com/mage-os/magento-cache-clean
+  description: "A faster drop in replacement for bin/magento cache:clean with file watcher"
+  type: github_repo
+  added: "2026-04-20"

@@ -13,3 +13,8 @@
   description: GitHub Actions for Magento 2 Extensions.
   type: github_repo
   added: "2018-01-01"
+- name: easyaudit-cli
+  url: https://github.com/crealoz/easyaudit-cli
+  description: Static analysis CLI tool for Magento 2 codebases - detects anti-patterns, code quality issues, and architectural problems. SARIF output for CI/CD integration.
+  type: github_repo
+  added: "2026-04-20"

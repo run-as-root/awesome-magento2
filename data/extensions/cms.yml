@@ -13,3 +13,8 @@
   description: Magento 2 GDPR module to help be GDPR compliant.
   type: github_repo
   added: "2018-01-01"
+- name: module-page-builder-widget
+  url: https://github.com/mage-os/module-page-builder-widget
+  description: Native Magento Page Builder support for CMS Widgets
+  type: github_repo
+  added: "2026-04-20"
