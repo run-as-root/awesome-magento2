@@ -1,1 +1,77 @@
-{}
+{
+    "https://github.com/run-as-root/awesome-magento2": {
+        "status": "pending",
+        "suggested_yaml": "extensions/_triage.yml",
+        "discovered_at": "2026-04-20T12:02:25Z"
+    },
+    "https://github.com/mage-os/module-theme-optimization": {
+        "status": "pending",
+        "suggested_yaml": "extensions/infrastructure.yml",
+        "discovered_at": "2026-04-20T12:02:25Z"
+    },
+    "https://github.com/mage-os/module-page-builder-widget": {
+        "status": "pending",
+        "suggested_yaml": "extensions/cms.yml",
+        "discovered_at": "2026-04-20T12:02:25Z"
+    },
+    "https://github.com/crealoz/easyaudit-cli": {
+        "status": "pending",
+        "suggested_yaml": "extensions/deployment.yml",
+        "discovered_at": "2026-04-20T12:02:25Z"
+    },
+    "https://github.com/mage-os/mageos-magento2": {
+        "status": "pending",
+        "suggested_yaml": "extensions/_triage.yml",
+        "discovered_at": "2026-04-20T12:02:25Z"
+    },
+    "https://github.com/run-as-root/ACP-for-Magento-2": {
+        "status": "pending",
+        "suggested_yaml": "extensions/_triage.yml",
+        "discovered_at": "2026-04-20T12:02:25Z"
+    },
+    "https://github.com/elgentos/magento2-regenerate-catalog-urls": {
+        "status": "pending",
+        "suggested_yaml": "extensions/_triage.yml",
+        "discovered_at": "2026-04-20T12:02:25Z"
+    },
+    "https://github.com/yireo/Yireo_Webp2": {
+        "status": "pending",
+        "suggested_yaml": "extensions/_triage.yml",
+        "discovered_at": "2026-04-20T12:02:25Z"
+    },
+    "https://github.com/mage-os/theme-adminhtml-m137": {
+        "status": "pending",
+        "suggested_yaml": "extensions/adminhtml.yml",
+        "discovered_at": "2026-04-20T12:02:25Z"
+    },
+    "https://github.com/mage-os/magento-cache-clean": {
+        "status": "pending",
+        "suggested_yaml": "extensions/infrastructure.yml",
+        "discovered_at": "2026-04-20T12:02:25Z"
+    },
+    "https://github.com/hyva-themes/magento2-hyva-admin": {
+        "status": "pending",
+        "suggested_yaml": "extensions/adminhtml.yml",
+        "discovered_at": "2026-04-20T12:02:25Z"
+    },
+    "https://github.com/hyva-themes/magento2-default-theme-csp": {
+        "status": "pending",
+        "suggested_yaml": "extensions/pwa.yml",
+        "discovered_at": "2026-04-20T12:02:25Z"
+    },
+    "https://github.com/hyva-themes/magento2-default-theme": {
+        "status": "pending",
+        "suggested_yaml": "extensions/pwa.yml",
+        "discovered_at": "2026-04-20T12:02:25Z"
+    },
+    "https://github.com/hyva-themes/magento2-theme-module": {
+        "status": "pending",
+        "suggested_yaml": "extensions/pwa.yml",
+        "discovered_at": "2026-04-20T12:02:25Z"
+    },
+    "https://github.com/hyva-themes/hyva-ai-tools": {
+        "status": "pending",
+        "suggested_yaml": "extensions/cms.yml",
+        "discovered_at": "2026-04-20T12:02:25Z"
+    }
+}
