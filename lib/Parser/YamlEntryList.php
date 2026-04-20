@@ -3,6 +3,7 @@ namespace AwesomeList\Parser;
 
 use AwesomeList\Entry;
 use AwesomeList\Rendering\BadgeRenderer;
+use AwesomeList\Rendering\EntrySorter;
 use AwesomeList\SidecarState;
 use AwesomeList\YamlEntryLoader;
 
@@ -11,15 +12,18 @@ final class YamlEntryList implements ParserInterface
     private string $filename;
     private readonly YamlEntryLoader $loader;
     private readonly BadgeRenderer $badges;
+    private readonly EntrySorter $sorter;
     private readonly string $sidecarPath;
 
     public function __construct(
         ?YamlEntryLoader $loader = null,
         ?BadgeRenderer $badges = null,
         ?string $sidecarPath = null,
+        ?EntrySorter $sorter = null,
     ) {
         $this->loader      = $loader ?? new YamlEntryLoader();
         $this->badges      = $badges ?? new BadgeRenderer();
+        $this->sorter      = $sorter ?? new EntrySorter();
         $this->sidecarPath = $sidecarPath ?? __DIR__ . '/../../state/enrichment.json';
     }
 
@@ -33,17 +37,20 @@ final class YamlEntryList implements ParserInterface
         $entries = $this->loader->load($this->filename);
         $state   = SidecarState::loadOrEmpty($this->sidecarPath);
 
-        $active    = [];
-        $graveyard = [];
+        $activeEntries    = [];
+        $graveyardEntries = [];
         foreach ($entries as $entry) {
             $signals = $entry->url !== null ? ($state->signalsFor($entry->url) ?? []) : [];
             $isGraveyard = !$entry->pinned && !empty($signals['graveyard_candidate']);
             if ($isGraveyard) {
-                $graveyard[] = $this->formatLine($entry, $state);
+                $graveyardEntries[] = $entry;
             } else {
-                $active[] = $this->formatLine($entry, $state);
+                $activeEntries[] = $entry;
             }
         }
+
+        $active    = array_map(fn(Entry $e): string => $this->formatLine($e, $state), $this->sorter->sort($activeEntries, $state));
+        $graveyard = array_map(fn(Entry $e): string => $this->formatLine($e, $state), $this->sorter->sort($graveyardEntries, $state));
 
         $out = implode("\n", $active);
         if ($graveyard !== []) {

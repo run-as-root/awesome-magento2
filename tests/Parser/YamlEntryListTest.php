@@ -27,7 +27,9 @@ final class YamlEntryListTest extends TestCase
         $parser = new YamlEntryList(sidecarPath: __DIR__ . '/../fixtures/state/empty.json');
         $parser->setFilename(__DIR__ . '/../fixtures/entries/no-description.yml');
         $markdown = $parser->parseToMarkdown();
-        $this->assertStringContainsString('- [Foo](https://foo.example)' . "\n", $markdown);
+        // The sorter alphabetises entries with equal signal scores, so both Foo and Bar
+        // render as "- [Name](url)" with no trailing ` - ` — order doesn't matter here.
+        $this->assertMatchesRegularExpression('/^- \[Foo\]\(https:\/\/foo\.example\)$/m', $markdown);
     }
 
     public function test_graveyard_entries_are_routed_to_a_details_block(): void

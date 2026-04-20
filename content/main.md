@@ -15,6 +15,8 @@
 
 > A curated list of awesome Magento 2 Extensions & Resources.
 
+<!-- STATS -->
+
 - [What is an awesome list?](https://github.com/sindresorhus/awesome/blob/master/awesome.md)
 - [Contribution guide](contributing.md) [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/DavidLambauer/awesome-magento2/issues)
 
@@ -22,17 +24,7 @@
 
 ## Table of Contents
 
-- [Legend](#legend)
-- [What is Magento?](#magento)
-- [Events](#events)
-- [Frontends](#frontends)
-- [Tools](#tools)
-- [Open Source Extensions](#open-source-extensions)
-- [Blogs](#blogs)
-- [Education](#learning)
-- [Platforms](#platforms)
-- [Official Resources](#official-resources)
-- [Influencing People](#influencing-people)
+<!-- TOC -->
 
 ---
 
