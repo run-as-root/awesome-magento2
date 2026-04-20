@@ -177,6 +177,7 @@ The storefront of Magento 2 can be styled in numerous ways:
 
 - [Deployer Magento2 Recipe](https://github.com/deployphp/deployer/blob/master/recipe/magento2.php) 🫡 - Magento 2 deployment recipe for deployer.
 - [Github Actions for Magento2](https://github.com/extdn/github-actions-m2) - GitHub Actions for Magento 2 Extensions.
+- [easyaudit-cli](https://github.com/crealoz/easyaudit-cli) - Static analysis CLI tool for Magento 2 codebases - detects anti-patterns, code quality issues, and architectural problems. SARIF output for CI/CD integration.
 
 <details>
 <summary>🪦 Graveyard — projects no longer recommended</summary>
@@ -224,6 +225,7 @@ The storefront of Magento 2 can be styled in numerous ways:
 - [Mageplaza Blog Extension](https://github.com/mageplaza/magento-2-blog-extension) 🫡 - Simple but well-working Blog Extension.
 - [Magento 2 Blog Extension by Magefan](https://github.com/magefan/module-blog) 🫡 - Free Blog module for Magento 2 with unlimited blog posts and categories, SEO friendly, lazy load and AMP support.
 - [Opengento GDPR](https://github.com/opengento/magento2-gdpr) - Magento 2 GDPR module to help be GDPR compliant.
+- [module-page-builder-widget](https://github.com/mage-os/module-page-builder-widget) - Native Magento Page Builder support for CMS Widgets
 
 ### Marketing
 
@@ -253,6 +255,8 @@ The storefront of Magento 2 can be styled in numerous ways:
 - [Clean Admin Menu](https://github.com/redchamps/clean-admin-menu) - Merges 3rd-party extensions into a single menu.
 - [Disable Stock Reservation](https://github.com/AmpersandHQ/magento2-disable-stock-reservation) 🫡 - Disables the inventory reservation logic introduced as part of MSI in Magento 2.3.3.
 - [Product Links Navigator](https://github.com/elninotech/ElNino_ProductLinksNavigator) - Enhances admin product-to-product navigation. Adds direct frontend/backend links to products in grids and modals, and a "Parent Products" tab.
+- [theme-adminhtml-m137](https://github.com/mage-os/theme-adminhtml-m137) - M137 Admin Theme for Magento/Mage-OS
+- [magento2-hyva-admin](https://github.com/hyva-themes/magento2-hyva-admin) - This module aims to make creating grids and forms in the Magento 2 adminhtml area joyful and fast.
 
 <details>
 <summary>🪦 Graveyard — projects no longer recommended</summary>
@@ -287,6 +291,8 @@ The storefront of Magento 2 can be styled in numerous ways:
 - [Magento 2 Ngrok](https://github.com/shkoliar/magento-ngrok) - Magento 2 Ngrok Integration.
 - [Clean Media](https://github.com/sivaschenko/magento2-clean-media) - A module that provides information about media files and potential removal options.
 - [Interceptor Optimization](https://github.com/creatuity/magento2-interceptors) - New interceptors approach for Magento 2.
+- [module-theme-optimization](https://github.com/mage-os/module-theme-optimization) - bfcache, speculative loading, and view transitions for Magento
+- [magento-cache-clean](https://github.com/mage-os/magento-cache-clean) - A faster drop in replacement for bin/magento cache:clean with file watcher
 
 ### Proprietary Extensions
 
@@ -296,6 +302,9 @@ The storefront of Magento 2 can be styled in numerous ways:
 ### Progressive Web Application
 
 - [ScandiPWA Theme](https://github.com/scandipwa/base-theme) - Magento 2.3+ PWA theme based on React and Redux.
+- [magento2-default-theme-csp](https://github.com/hyva-themes/magento2-default-theme-csp) - A strict CSP compatible Magento theme built with Tailwind and Alpine.js
+- [magento2-default-theme](https://github.com/hyva-themes/magento2-default-theme) - A Magento theme built with Tailwind
+- [magento2-theme-module](https://github.com/hyva-themes/magento2-theme-module) - Magento Tailwind Theme companion module
 
 ---
 
