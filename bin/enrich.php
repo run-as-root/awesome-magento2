@@ -6,6 +6,7 @@ use AwesomeList\Enrichment\AdapterFactory;
 use AwesomeList\Enrichment\ArchiveAdapter;
 use AwesomeList\Enrichment\BlogAdapter;
 use AwesomeList\Enrichment\Enricher;
+use AwesomeList\Enrichment\EventAdapter;
 use AwesomeList\Enrichment\GithubRepoAdapter;
 use AwesomeList\Enrichment\LivenessAdapter;
 use AwesomeList\Enrichment\PackagistAdapter;
@@ -40,6 +41,7 @@ $enricher = new Enricher(
         new ArchiveAdapter($now),
         new PackagistAdapter($genericHttp, $now),
         new BlogAdapter($genericHttp, $now),
+        new EventAdapter($genericHttp, $now),
         new LivenessAdapter($genericHttp, $now, 'vendor_site'),
         new LivenessAdapter($genericHttp, $now, 'course'),
         new LivenessAdapter($genericHttp, $now, 'canonical'),
