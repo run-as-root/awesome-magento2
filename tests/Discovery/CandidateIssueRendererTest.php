@@ -51,8 +51,9 @@ final class CandidateIssueRendererTest extends TestCase
         $this->assertStringContainsString('<details>', $body);
         $this->assertStringContainsString('✅ [old/accepted](https://github.com/old/accepted) accepted', $body);
         $this->assertStringContainsString('❌ [old/rejected](https://github.com/old/rejected) rejected', $body);
-        // Pending entries never show in history.
-        $this->assertStringNotContainsString('pending/one', $body);
+        // Pending-from-log entries render as unchecked checkboxes above the history block.
+        $this->assertStringContainsString('- [ ] [pending/one](https://github.com/pending/one)', $body);
+        $this->assertStringContainsString('## New candidates (1)', $body);
     }
 
     private function repo(string $fullName, string $htmlUrl, ?string $description, int $stars): RepoSummary

@@ -29,14 +29,26 @@ final class CandidateLog
         return $this->byUrl[$url]['suggested_yaml'] ?? null;
     }
 
-    public function markPending(string $url, string $suggestedYaml): self
+    public function markPending(string $url, string $suggestedYaml, ?RepoSummary $repo = null): self
     {
         $byUrl = $this->byUrl;
-        $byUrl[$url] = [
+        $entry = [
             'status'         => 'pending',
             'suggested_yaml' => $suggestedYaml,
             'discovered_at'  => $this->byUrl[$url]['discovered_at'] ?? gmdate('Y-m-d\TH:i:s\Z'),
         ];
+        if ($repo !== null) {
+            $entry['full_name']   = $repo->fullName;
+            $entry['description'] = $repo->description;
+            $entry['stars']       = $repo->stars;
+        } else {
+            foreach (['full_name', 'description', 'stars'] as $k) {
+                if (array_key_exists($k, $this->byUrl[$url] ?? [])) {
+                    $entry[$k] = $this->byUrl[$url][$k];
+                }
+            }
+        }
+        $byUrl[$url] = $entry;
         return new self($byUrl);
     }
 

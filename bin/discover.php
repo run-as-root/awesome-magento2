@@ -50,7 +50,7 @@ $candidates = array_values(array_filter(
 ));
 
 foreach ($candidates as $c) {
-    $log = $log->markPending($c['repo']->htmlUrl, $c['suggested_yaml']);
+    $log = $log->markPending($c['repo']->htmlUrl, $c['suggested_yaml'], $c['repo']);
 }
 $log->save($logPath);
 

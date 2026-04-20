@@ -12,16 +12,18 @@ final class CandidateIssueRenderer
      */
     public function render(array $candidates, CandidateLog $log, DateTimeImmutable $runAt): string
     {
+        $pending = $this->pendingRows($candidates, $log);
+
         $lines = [self::MARKER, '', '# Magento 2 Discovery Candidates', ''];
         $lines[] = sprintf(
             '_Weekly scan updated %s. Check a box to auto-open a PR adding the entry to `data/`. Leave unchecked to reject (logged to `state/candidates.log.json`)._',
             $runAt->format('Y-m-d'),
         );
         $lines[] = '';
-        $lines[] = sprintf('## New candidates (%d)', count($candidates));
+        $lines[] = sprintf('## New candidates (%d)', count($pending));
         $lines[] = '';
-        foreach ($candidates as $c) {
-            $lines[] = $this->formatCandidate($c['repo'], $c['suggested_yaml']);
+        foreach ($pending as $row) {
+            $lines[] = $row;
         }
 
         $history = $this->historyEntries($log);
@@ -55,6 +57,39 @@ final class CandidateIssueRenderer
             $desc,
             $suggestedYaml,
         );
+    }
+
+    /**
+     * Build the full pending-checkbox list: freshly-discovered candidates (this run)
+     * UNION previously-pending entries from the log (so weekly re-runs don't wipe the list).
+     *
+     * @param array<int, array{repo: RepoSummary, suggested_yaml: string}> $candidates
+     * @return string[]
+     */
+    private function pendingRows(array $candidates, CandidateLog $log): array
+    {
+        $seen = [];
+        $rows = [];
+        foreach ($candidates as $c) {
+            $rows[] = $this->formatCandidate($c['repo'], $c['suggested_yaml']);
+            $seen[$c['repo']->htmlUrl] = true;
+        }
+        foreach ($log->all() as $url => $row) {
+            if (($row['status'] ?? null) !== 'pending' || isset($seen[$url])) {
+                continue;
+            }
+            $rows[] = sprintf(
+                '- [ ] [%s](%s) ★%d — %s _(suggested: `%s`)_',
+                (string) ($row['full_name'] ?? $this->nameFromUrl($url)),
+                $url,
+                (int) ($row['stars'] ?? 0),
+                ($row['description'] ?? null) !== null && $row['description'] !== ''
+                    ? (string) $row['description']
+                    : '_no description_',
+                (string) ($row['suggested_yaml'] ?? 'extensions/_triage.yml'),
+            );
+        }
+        return $rows;
     }
 
     /** @return string[] */
