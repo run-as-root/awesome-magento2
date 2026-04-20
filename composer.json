@@ -22,6 +22,7 @@
     "validate-data": "php bin/validate-data.php",
     "test":          "phpunit",
     "enrich":        "php bin/enrich.php",
-    "discover":      "php bin/discover.php"
+    "discover":      "php bin/discover.php",
+    "accept-candidate": "php bin/accept-candidate.php"
   }
 }
