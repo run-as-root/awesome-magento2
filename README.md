@@ -1,4 +1,11 @@
-# Awesome Magento 2 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)[![Project Status: Active – The project has reached a stable, usable state and is being actively developed.](https://www.repostatus.org/badges/latest/active.svg)](https://www.repostatus.org/#active)
+# Awesome Magento 2
+
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+[![Project Status: Active](https://www.repostatus.org/badges/latest/active.svg)](https://www.repostatus.org/#active)
+[![License: CC0-1.0](https://img.shields.io/badge/License-CC0_1.0-lightgrey.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
+[![Enrich](https://github.com/run-as-root/awesome-magento2/actions/workflows/enrich.yml/badge.svg)](https://github.com/run-as-root/awesome-magento2/actions/workflows/enrich.yml)
+[![Discover](https://github.com/run-as-root/awesome-magento2/actions/workflows/discover.yml/badge.svg)](https://github.com/run-as-root/awesome-magento2/actions/workflows/discover.yml)
+[![Last commit](https://img.shields.io/github/last-commit/run-as-root/awesome-magento2)](https://github.com/run-as-root/awesome-magento2/commits/master)
 
 <div align="center">
 	<a href="https://vshymanskyy.github.io/StandWithUkraine">

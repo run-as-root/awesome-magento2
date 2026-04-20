@@ -1,0 +1,28 @@
+version: 2
+updates:
+  - package-ecosystem: composer
+    directory: "/"
+    schedule:
+      interval: weekly
+      day: monday
+      time: "05:00"
+      timezone: UTC
+    labels:
+      - dependencies
+    commit-message:
+      prefix: chore
+      include: scope
+
+  - package-ecosystem: github-actions
+    directory: "/"
+    schedule:
+      interval: weekly
+      day: monday
+      time: "05:00"
+      timezone: UTC
+    labels:
+      - dependencies
+      - ci
+    commit-message:
+      prefix: ci
+      include: scope

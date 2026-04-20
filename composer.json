@@ -23,6 +23,7 @@
     "test":          "phpunit",
     "enrich":        "php bin/enrich.php",
     "discover":      "php bin/discover.php",
-    "accept-candidate": "php bin/accept-candidate.php"
+    "accept-candidate": "php bin/accept-candidate.php",
+    "prune-dead":       "php bin/prune-dead.php"
   }
 }

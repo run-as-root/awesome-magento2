@@ -1,0 +1,48 @@
+name: Prune dead entries
+
+on:
+  schedule:
+    - cron: '0 4 1 * *'   # 04:00 UTC on the 1st of each month
+  workflow_dispatch:
+
+concurrency:
+  group: prune-dead
+  cancel-in-progress: false
+
+jobs:
+  prune:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+      pull-requests: write
+    steps:
+      - uses: actions/checkout@v5
+      - uses: shivammathur/setup-php@v2
+        with:
+          php-version: '8.3'
+          coverage: none
+          tools: composer:v2
+      - run: composer install --no-interaction --no-progress
+      - run: composer prune-dead
+        env:
+          SUMMARY_PATH: ${{ runner.temp }}/prune-summary.md
+      - name: Validate + open PR
+        run: |
+          composer validate-data
+          if git diff --quiet data; then
+            echo "No dead entries to prune"; exit 0
+          fi
+          BRANCH="prune/$(date -u +%Y-%m-%d-%H%M%S)"
+          git config user.name  'github-actions[bot]'
+          git config user.email 'github-actions[bot]@users.noreply.github.com'
+          git checkout -b "$BRANCH"
+          git add data
+          git commit -m "chore: prune entries broken for 90+ days"
+          git push origin "$BRANCH"
+          gh pr create \
+            --base master \
+            --head "$BRANCH" \
+            --title "Prune dead entries ($(date -u +%Y-%m))" \
+            --body-file "${{ runner.temp }}/prune-summary.md"
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
