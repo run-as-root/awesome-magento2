@@ -3,3 +3,18 @@
   description: Magento 2.3+ PWA theme based on React and Redux.
   type: github_repo
   added: "2018-01-01"
+- name: magento2-default-theme-csp
+  url: https://github.com/hyva-themes/magento2-default-theme-csp
+  description: A strict CSP compatible Magento theme built with Tailwind and Alpine.js
+  type: github_repo
+  added: "2026-04-20"
+- name: magento2-default-theme
+  url: https://github.com/hyva-themes/magento2-default-theme
+  description: A Magento theme built with Tailwind
+  type: github_repo
+  added: "2026-04-20"
+- name: magento2-theme-module
+  url: https://github.com/hyva-themes/magento2-theme-module
+  description: Magento Tailwind Theme companion module
+  type: github_repo
+  added: "2026-04-20"

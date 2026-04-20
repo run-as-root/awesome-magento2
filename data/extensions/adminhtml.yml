@@ -88,3 +88,13 @@
   description: Enhances admin product-to-product navigation. Adds direct frontend/backend links to products in grids and modals, and a "Parent Products" tab.
   type: github_repo
   added: "2018-01-01"
+- name: theme-adminhtml-m137
+  url: https://github.com/mage-os/theme-adminhtml-m137
+  description: M137 Admin Theme for Magento/Mage-OS
+  type: github_repo
+  added: "2026-04-20"
+- name: magento2-hyva-admin
+  url: https://github.com/hyva-themes/magento2-hyva-admin
+  description: This module aims to make creating grids and forms in the Magento 2 adminhtml area joyful and fast.
+  type: github_repo
+  added: "2026-04-20"
