@@ -34,12 +34,12 @@ $log = CandidateLog::loadOrEmpty($logPath);
 $appender = new EntryAppender();
 $today = (new DateTimeImmutable())->format('Y-m-d');
 
+// Accept-candidate is purely additive: only process freshly-checked boxes.
+// Rejection is a separate concern (either left pending forever, or reset via
+// the weekly discover workflow — never auto-rejected on the first partial tick).
 $accepted = [];
 foreach ($parsed as $row) {
     if (!$row['checked']) {
-        if ($log->statusOf($row['url']) === 'pending') {
-            $log = $log->markRejected($row['url']);
-        }
         continue;
     }
     if ($log->statusOf($row['url']) === 'accepted') {

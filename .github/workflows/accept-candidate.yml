@@ -4,6 +4,10 @@ on:
   issues:
     types: [edited]
 
+concurrency:
+  group: accept-candidate-${{ github.event.issue.number }}
+  cancel-in-progress: false
+
 jobs:
   accept:
     if: contains(github.event.issue.body, '<!-- candidates-issue-v1 -->')
