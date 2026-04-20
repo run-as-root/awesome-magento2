@@ -3,6 +3,7 @@
 require_once __DIR__ . '/../vendor/autoload.php';
 
 use AwesomeList\Enrichment\AdapterFactory;
+use AwesomeList\Enrichment\ArchiveAdapter;
 use AwesomeList\Enrichment\Enricher;
 use AwesomeList\Enrichment\GithubRepoAdapter;
 use AwesomeList\Enrichment\VitalityRanker;
@@ -21,9 +22,14 @@ $http = new Client([
     'headers'  => $headers,
 ]);
 
+$now = new DateTimeImmutable();
+
 $enricher = new Enricher(
     new YamlEntryLoader(),
-    new AdapterFactory([new GithubRepoAdapter($http, new DateTimeImmutable())]),
+    new AdapterFactory([
+        new GithubRepoAdapter($http, $now),
+        new ArchiveAdapter($now),
+    ]),
     new VitalityRanker(),
 );
 
