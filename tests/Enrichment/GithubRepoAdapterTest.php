@@ -20,7 +20,7 @@ final class GithubRepoAdapterTest extends TestCase
             new Response(200, [], (string) file_get_contents(__DIR__ . '/../fixtures/http/github/releases-active.json')),
         ], $now);
 
-        $result = $adapter->enrich($this->entry('https://github.com/netz98/n98-magerun2'));
+        $result = $adapter->enrich($this->entry('https://github.com/netz98/n98-magerun2'), []);
 
         $this->assertSame('2026-04-19T02:00:00Z', $result->lastChecked);
         $this->assertTrue($result->signals['actively_maintained']);
@@ -38,7 +38,7 @@ final class GithubRepoAdapterTest extends TestCase
             new Response(404),
         ], $now);
 
-        $result = $adapter->enrich($this->entry('https://github.com/someone/abandoned-thing'));
+        $result = $adapter->enrich($this->entry('https://github.com/someone/abandoned-thing'), []);
 
         $this->assertTrue($result->signals['graveyard_candidate']);
         $this->assertFalse($result->signals['actively_maintained']);
@@ -54,7 +54,7 @@ final class GithubRepoAdapterTest extends TestCase
             new Response(404),
         ], $now);
 
-        $result = $adapter->enrich($this->entry('https://github.com/org/stale-repo'));
+        $result = $adapter->enrich($this->entry('https://github.com/org/stale-repo'), []);
 
         $this->assertTrue($result->signals['graveyard_candidate']);
         $this->assertFalse($result->signals['actively_maintained']);
@@ -70,7 +70,7 @@ final class GithubRepoAdapterTest extends TestCase
     {
         $adapter = $this->buildAdapter([], new \DateTimeImmutable('2026-04-19T02:00:00Z'));
         $this->expectException(\RuntimeException::class);
-        $adapter->enrich($this->entry('https://gitlab.com/owner/repo'));
+        $adapter->enrich($this->entry('https://gitlab.com/owner/repo'), []);
     }
 
     public function test_it_accepts_common_github_url_variants(): void
@@ -86,7 +86,7 @@ final class GithubRepoAdapterTest extends TestCase
                 [new \GuzzleHttp\Psr7\Response(200, [], $repo), new \GuzzleHttp\Psr7\Response(404)],
                 new \DateTimeImmutable('2026-04-19T02:00:00Z'),
             );
-            $result = $adapter->enrich($this->entry($url));
+            $result = $adapter->enrich($this->entry($url), []);
             $this->assertSame(2147, $result->typeData['github']['stars'], "failed for: $url");
         }
     }
@@ -101,7 +101,7 @@ final class GithubRepoAdapterTest extends TestCase
         ], $now);
 
         $this->expectException(\GuzzleHttp\Exception\ServerException::class);
-        $adapter->enrich($this->entry('https://github.com/netz98/n98-magerun2'));
+        $adapter->enrich($this->entry('https://github.com/netz98/n98-magerun2'), []);
     }
 
     private function buildAdapter(array $queuedResponses, \DateTimeImmutable $now): GithubRepoAdapter

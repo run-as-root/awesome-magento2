@@ -16,11 +16,15 @@ final class Enricher
     ) {}
 
     /** @return array<string, array<string, mixed>> sidecar state keyed by url */
-    public function enrichDirectory(string $dataDir): array
+    public function enrichDirectory(string $dataDir, string $priorStatePath): array
     {
         if (!is_dir($dataDir)) {
             throw new RuntimeException("Data directory not found: $dataDir");
         }
+
+        $priorState = is_file($priorStatePath)
+            ? (json_decode((string) file_get_contents($priorStatePath), true, flags: JSON_THROW_ON_ERROR) ?: [])
+            : [];
 
         $rows = [];
         foreach ($this->yamlFiles($dataDir) as $file) {
@@ -31,7 +35,7 @@ final class Enricher
                     continue;
                 }
                 try {
-                    $result = $adapter->enrich($entry);
+                    $result = $adapter->enrich($entry, $priorState[$entry->url] ?? []);
                 } catch (Throwable $e) {
                     fwrite(STDERR, "skip {$entry->url}: {$e->getMessage()}\n");
                     continue;

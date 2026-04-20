@@ -23,7 +23,7 @@ final class GithubRepoAdapter implements EnrichmentAdapter
         return 'github_repo';
     }
 
-    public function enrich(Entry $entry): EnrichmentResult
+    public function enrich(Entry $entry, array $priorState): EnrichmentResult
     {
         [$owner, $repo] = $this->parseUrl($entry->url ?? '');
         $repoData       = $this->getJson("repos/$owner/$repo");

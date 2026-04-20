@@ -27,7 +27,7 @@ $enricher = new Enricher(
     new VitalityRanker(),
 );
 
-$state = $enricher->enrichDirectory(__DIR__ . '/../data');
+$state = $enricher->enrichDirectory(__DIR__ . '/../data', __DIR__ . '/../state/enrichment.json');
 $path  = __DIR__ . '/../state/enrichment.json';
 file_put_contents($path, json_encode($state, JSON_PRETTY_PRINT | JSON_UNESCAPED_SLASHES) . "\n");
 
