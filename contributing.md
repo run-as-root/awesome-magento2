@@ -68,3 +68,12 @@ Every entry type is automatically checked for freshness and link-liveness by the
 - `archive`: no badges, no retirement.
 
 No manual intervention is required; edits land in `data/**/*.yml`, CI does the rest.
+
+## Maintainer workflow: Discovery candidates
+
+A weekly GitHub Action scans the wider Magento ecosystem and surfaces candidates as a single persistent "Magento 2 Discovery Candidates" issue. Each candidate is a checkbox:
+
+- **Check a box** → a workflow opens a PR that appends the entry to the suggested `data/extensions/<subcategory>.yml` (or `extensions/_triage.yml` when the guess was low-confidence). Review the PR like any other — adjust the description, retype as needed, merge.
+- **Leave a box unchecked** for a full week → the next run treats it as rejected and adds it to `state/candidates.log.json` so it never resurfaces.
+
+The discovery run filters for ≥10 stars, recent activity, license present, reasonable star velocity; anything already in `data/**/*.yml` or previously decided is skipped. Expect a handful of candidates per week, not a flood.
