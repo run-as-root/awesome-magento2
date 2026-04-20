@@ -58,11 +58,16 @@ final class Enricher
     /** @return iterable<string> */
     private function yamlFiles(string $dir): iterable
     {
+        $files = [];
         $it = new RecursiveIteratorIterator(new RecursiveDirectoryIterator($dir));
         foreach ($it as $f) {
             if ($f->isFile() && $f->getExtension() === 'yml') {
-                yield $f->getPathname();
+                $files[] = $f->getPathname();
             }
+        }
+        sort($files);
+        foreach ($files as $path) {
+            yield $path;
         }
     }
 }

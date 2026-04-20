@@ -87,13 +87,19 @@ final class EventFeedGenerator
         if (!is_dir($dir)) {
             return [];
         }
-        $events = [];
+        // Collect + sort filenames so output is deterministic across OSes.
+        $files = [];
         $it = new RecursiveIteratorIterator(new RecursiveDirectoryIterator($dir));
         foreach ($it as $f) {
-            if (!$f->isFile() || $f->getExtension() !== 'yml') {
-                continue;
+            if ($f->isFile() && $f->getExtension() === 'yml') {
+                $files[] = $f->getPathname();
             }
-            foreach ($this->loader->load($f->getPathname()) as $entry) {
+        }
+        sort($files);
+
+        $events = [];
+        foreach ($files as $path) {
+            foreach ($this->loader->load($path) as $entry) {
                 if ($entry->type === EntryType::Event) {
                     $events[] = $entry;
                 }
