@@ -35,7 +35,7 @@ jobs:
           if git diff --quiet data state/candidates.log.json; then
             echo "No new candidates to PR"; exit 0
           fi
-          BRANCH="candidates/$(date -u +%Y-%m-%d-%H%M)"
+          BRANCH="candidates/$(date -u +%Y-%m-%d-%H%M%S)"
           git config user.name  'github-actions[bot]'
           git config user.email 'github-actions[bot]@users.noreply.github.com'
           git checkout -b "$BRANCH"
