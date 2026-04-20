@@ -2,71 +2,113 @@
     "https://github.com/mage-os/module-theme-optimization": {
         "status": "pending",
         "suggested_yaml": "extensions/infrastructure.yml",
-        "discovered_at": "2026-04-20T12:02:25Z"
+        "discovered_at": "2026-04-20T12:02:25Z",
+        "full_name": "mage-os/module-theme-optimization",
+        "description": "bfcache, speculative loading, and view transitions for Magento",
+        "stars": 41
     },
     "https://github.com/mage-os/module-page-builder-widget": {
         "status": "pending",
         "suggested_yaml": "extensions/cms.yml",
-        "discovered_at": "2026-04-20T12:02:25Z"
+        "discovered_at": "2026-04-20T12:02:25Z",
+        "full_name": "mage-os/module-page-builder-widget",
+        "description": "Native Magento Page Builder support for CMS Widgets",
+        "stars": 29
     },
     "https://github.com/crealoz/easyaudit-cli": {
         "status": "pending",
         "suggested_yaml": "extensions/deployment.yml",
-        "discovered_at": "2026-04-20T12:02:25Z"
+        "discovered_at": "2026-04-20T12:02:25Z",
+        "full_name": "crealoz/easyaudit-cli",
+        "description": "Static analysis CLI tool for Magento 2 codebases - detects anti-patterns, code quality issues, and architectural problems. SARIF output for CI/CD integration.",
+        "stars": 14
     },
     "https://github.com/mage-os/mageos-magento2": {
         "status": "pending",
         "suggested_yaml": "extensions/_triage.yml",
-        "discovered_at": "2026-04-20T12:02:25Z"
+        "discovered_at": "2026-04-20T12:02:25Z",
+        "full_name": "mage-os/mageos-magento2",
+        "description": "This is the Mage-OS fork of the Magento core at https://github.com/magento/magento2. Mage-OS is an independent nonprofit distribution of Magento Open Source. We are not associated with Adobe or Magento in any way. Issues and PRs are welcome.",
+        "stars": 264
     },
     "https://github.com/run-as-root/ACP-for-Magento-2": {
         "status": "pending",
         "suggested_yaml": "extensions/_triage.yml",
-        "discovered_at": "2026-04-20T12:02:25Z"
+        "discovered_at": "2026-04-20T12:02:25Z",
+        "full_name": "run-as-root/ACP-for-Magento-2",
+        "description": "The Agentic Commerce Protocol Integration for Magento 2",
+        "stars": 13
     },
     "https://github.com/elgentos/magento2-regenerate-catalog-urls": {
         "status": "pending",
         "suggested_yaml": "extensions/_triage.yml",
-        "discovered_at": "2026-04-20T12:02:25Z"
+        "discovered_at": "2026-04-20T12:02:25Z",
+        "full_name": "elgentos/magento2-regenerate-catalog-urls",
+        "description": "This extension adds console commands to be able to regenerate;  a product rewrite URL based on its url path; a category rewrite URL based on its url path; a category URL path based on its URL key and its parent categories.",
+        "stars": 285
     },
     "https://github.com/yireo/Yireo_Webp2": {
         "status": "pending",
         "suggested_yaml": "extensions/_triage.yml",
-        "discovered_at": "2026-04-20T12:02:25Z"
+        "discovered_at": "2026-04-20T12:02:25Z",
+        "full_name": "yireo/Yireo_Webp2",
+        "description": "Magento 2 module to add WebP support to Magento 2",
+        "stars": 210
     },
     "https://github.com/mage-os/theme-adminhtml-m137": {
         "status": "pending",
         "suggested_yaml": "extensions/adminhtml.yml",
-        "discovered_at": "2026-04-20T12:02:25Z"
+        "discovered_at": "2026-04-20T12:02:25Z",
+        "full_name": "mage-os/theme-adminhtml-m137",
+        "description": "M137 Admin Theme for Magento/Mage-OS",
+        "stars": 36
     },
     "https://github.com/mage-os/magento-cache-clean": {
         "status": "pending",
         "suggested_yaml": "extensions/infrastructure.yml",
-        "discovered_at": "2026-04-20T12:02:25Z"
+        "discovered_at": "2026-04-20T12:02:25Z",
+        "full_name": "mage-os/magento-cache-clean",
+        "description": "A faster drop in replacement for bin/magento cache:clean with file watcher",
+        "stars": 48
     },
     "https://github.com/hyva-themes/magento2-hyva-admin": {
         "status": "pending",
         "suggested_yaml": "extensions/adminhtml.yml",
-        "discovered_at": "2026-04-20T12:02:25Z"
+        "discovered_at": "2026-04-20T12:02:25Z",
+        "full_name": "hyva-themes/magento2-hyva-admin",
+        "description": "This module aims to make creating grids and forms in the Magento 2 adminhtml area joyful and fast.",
+        "stars": 175
     },
     "https://github.com/hyva-themes/magento2-default-theme-csp": {
         "status": "pending",
         "suggested_yaml": "extensions/pwa.yml",
-        "discovered_at": "2026-04-20T12:02:25Z"
+        "discovered_at": "2026-04-20T12:02:25Z",
+        "full_name": "hyva-themes/magento2-default-theme-csp",
+        "description": "A strict CSP compatible Magento theme built with Tailwind and Alpine.js",
+        "stars": 15
     },
     "https://github.com/hyva-themes/magento2-default-theme": {
         "status": "pending",
         "suggested_yaml": "extensions/pwa.yml",
-        "discovered_at": "2026-04-20T12:02:25Z"
+        "discovered_at": "2026-04-20T12:02:25Z",
+        "full_name": "hyva-themes/magento2-default-theme",
+        "description": "A Magento theme built with Tailwind",
+        "stars": 74
     },
     "https://github.com/hyva-themes/magento2-theme-module": {
         "status": "pending",
         "suggested_yaml": "extensions/pwa.yml",
-        "discovered_at": "2026-04-20T12:02:25Z"
+        "discovered_at": "2026-04-20T12:02:25Z",
+        "full_name": "hyva-themes/magento2-theme-module",
+        "description": "Magento Tailwind Theme companion module",
+        "stars": 22
     },
     "https://github.com/hyva-themes/hyva-ai-tools": {
         "status": "pending",
         "suggested_yaml": "extensions/cms.yml",
-        "discovered_at": "2026-04-20T12:02:25Z"
+        "discovered_at": "2026-04-20T12:02:25Z",
+        "full_name": "hyva-themes/hyva-ai-tools",
+        "description": "AI-powered skills for Magento 2 development with Hyva Theme. These skills extend AI coding assistants with specialized knowledge for creating Hyva themes, modules, and CMS components.",
+        "stars": 61
     }
 }
