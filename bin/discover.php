@@ -10,7 +10,9 @@ use AwesomeList\Discovery\DiscoveryScanner;
 use AwesomeList\Discovery\ExistingUrlsIndex;
 use AwesomeList\Discovery\GithubSearchClient;
 use AwesomeList\Discovery\IssueUpserter;
+use AwesomeList\Enrichment\HttpRetry;
 use GuzzleHttp\Client;
+use GuzzleHttp\HandlerStack;
 
 $token = getenv('GITHUB_TOKEN') ?: null;
 if ($token === null) {
@@ -20,6 +22,8 @@ if ($token === null) {
 $repo = getenv('GITHUB_REPOSITORY') ?: 'run-as-root/awesome-magento2';
 [$owner, $name] = explode('/', $repo, 2);
 
+$stack = HandlerStack::create();
+$stack->push(HttpRetry::middleware());
 $http = new Client([
     'base_uri' => 'https://api.github.com/',
     'timeout'  => 30,
@@ -28,6 +32,7 @@ $http = new Client([
         'Accept'        => 'application/vnd.github+json',
         'User-Agent'    => 'awesome-magento2-discovery',
     ],
+    'handler'  => $stack,
 ]);
 $now = new DateTimeImmutable();
 

@@ -1,0 +1,5 @@
+blank_issues_enabled: true
+contact_links:
+  - name: Weekly discovery candidates
+    url: https://github.com/run-as-root/awesome-magento2/issues?q=is%3Aissue+label%3Adiscovery-candidates
+    about: The bot already surfaces new Magento projects here — tick a box to auto-PR.

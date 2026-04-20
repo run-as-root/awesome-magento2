@@ -8,12 +8,14 @@ use AwesomeList\Enrichment\BlogAdapter;
 use AwesomeList\Enrichment\Enricher;
 use AwesomeList\Enrichment\EventAdapter;
 use AwesomeList\Enrichment\GithubRepoAdapter;
+use AwesomeList\Enrichment\HttpRetry;
 use AwesomeList\Enrichment\LivenessAdapter;
 use AwesomeList\Enrichment\PackagistAdapter;
 use AwesomeList\Enrichment\VitalityRanker;
 use AwesomeList\Enrichment\YoutubePlaylistAdapter;
 use AwesomeList\YamlEntryLoader;
 use GuzzleHttp\Client;
+use GuzzleHttp\HandlerStack;
 
 $token = getenv('GITHUB_TOKEN') ?: null;
 $youtubeKey = getenv('YOUTUBE_API_KEY') ?: null;
@@ -22,16 +24,22 @@ if ($token !== null) {
     $headers['Authorization'] = "Bearer $token";
 }
 
+$githubStack = HandlerStack::create();
+$githubStack->push(HttpRetry::middleware());
 $githubHttp = new Client([
     'base_uri' => 'https://api.github.com/',
     'timeout'  => 15,
     'headers'  => $headers,
+    'handler'  => $githubStack,
 ]);
+$genericStack = HandlerStack::create();
+$genericStack->push(HttpRetry::middleware());
 $genericHttp = new Client([
     'timeout'         => 10,
     'allow_redirects' => true,
     'http_errors'     => false,
     'headers'         => ['User-Agent' => 'awesome-magento2-enricher'],
+    'handler'         => $genericStack,
 ]);
 
 $now = new DateTimeImmutable();
