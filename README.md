@@ -70,24 +70,30 @@ Also see:
 ## Events: Meet the community
 
 - [MageUnconference Germany](https://www.mageunconference.org/) - Magento unconference held in Germany.
-- [MageUnconference Netherlands](https://mageunconference.nl/) - Magento unconference held in the Netherlands.
-- [Meet Commerce](https://www.meetcommerce.com/) - Global series of conferences focused on commerce and innovation.
+- [MageUnconference Netherlands](https://mageunconference.nl/) 🫡 - Magento unconference held in the Netherlands.
+- [Meet Commerce](https://www.meetcommerce.com/) 🫡 - Global series of conferences focused on commerce and innovation.
 
 ### Meet Magento
 
 [Meet Magento events](https://www.meet-magento.com/) bring together everyone from merchants through developers, solution and technology providers, and marketers—and we continue to expand.
 
 - [Meet Magento Baltics](https://meetmagentobaltics.com/) - Meet Magento event series — Baltics.
-- [Meet Magento Brazil](https://meetmagentobrasil.org/) - Meet Magento event series — Brazil.
-- [Meet Magento Florida](https://meetmagentofl.com/) - Meet Magento event series — Florida.
-- [Meet Magento India](https://www.meetmagento.in/) - Meet Magento event series — India.
+- [Meet Magento Brazil](https://meetmagentobrasil.org/) 🫡 - Meet Magento event series — Brazil.
+- [Meet Magento Florida](https://meetmagentofl.com/) 🫡 - Meet Magento event series — Florida.
 - [Meet Magento Malaysia](https://www.meetmagento.asia/) - Meet Magento event series — Malaysia.
-- [Meet Magento Netherlands](https://nl.meet-magento.com/) - Meet Magento event series — Netherlands.
-- [Meet Magento New York City](https://meetmagentonyc.com/) - Meet Magento event series — NYC.
-- [Meet Magento Poland](https://meetmagento.pl/) - Meet Magento event series — Poland.
+- [Meet Magento Netherlands](https://nl.meet-magento.com/) 🫡 - Meet Magento event series — Netherlands.
+- [Meet Magento New York City](https://meetmagentonyc.com/) 🫡 - Meet Magento event series — NYC.
+- [Meet Magento Poland](https://meetmagento.pl/) 🫡 - Meet Magento event series — Poland.
 - [Meet Magento Romania](https://ro.meet-magento.com/) - Meet Magento event series — Romania.
+- [Meet Magento UK](https://meet-magento.co.uk/) 🫡 - Meet Magento event series — UK.
+
+<details>
+<summary>🪦 Graveyard — projects no longer recommended</summary>
+
+- [Meet Magento India](https://www.meetmagento.in/) - Meet Magento event series — India.
 - [Meet Magento Singapore](https://meetmagento.sg/) - Meet Magento event series — Singapore.
-- [Meet Magento UK](https://meet-magento.co.uk/) - Meet Magento event series — UK.
+
+</details>
 
 ## Front-ends
 
@@ -297,23 +303,35 @@ The storefront of Magento 2 can be styled in numerous ways:
 
 ### Personal Blogs
 
+- [Jigar Karangiya](https://jigarkarangiya.com/) - Personal blog on Magento 2 and Adobe Commerce development.
+
+<details>
+<summary>🪦 Graveyard — projects no longer recommended</summary>
+
 - [Alan Storm](http://alanstorm.com/category/magento-2/) - Deep Magento 2 technical writeups.
 - [Fabian Schmengler](https://www.schmengler-se.de/) - Personal blog covering Magento 2 architecture and process.
-- [Jigar Karangiya](https://jigarkarangiya.com/) - Personal blog on Magento 2 and Adobe Commerce development.
+
+</details>
 
 ### Company Blogs
 
-- [Atwix](https://www.atwix.com/blog/) - Magento development agency blog.
-- [Classy Llama](https://www.classyllama.com/blog) - Magento agency blog.
+- [Atwix](https://www.atwix.com/blog/) 🫡 - Magento development agency blog.
+- [Classy Llama](https://www.classyllama.com/blog) 🫡 - Magento agency blog.
 - [dev98](https://dev98.de/) - German Magento agency blog.
-- [FireBear Studio](https://firebearstudio.com/blog) - FireBear Studio's Magento development blog.
-- [Fooman](http://store.fooman.co.nz/blog) - Fooman's Magento extension and development blog.
-- [inchoo](http://inchoo.net/category/magento-2/) - Inchoo's Magento development blog.
+- [FireBear Studio](https://firebearstudio.com/blog) 🫡 - FireBear Studio's Magento development blog.
+- [inchoo](http://inchoo.net/category/magento-2/) 🫡 - Inchoo's Magento development blog.
 - [M.academy](https://m.academy/blog/) - Blog from the M.academy team.
+
+<details>
+<summary>🪦 Graveyard — projects no longer recommended</summary>
+
+- [Fooman](http://store.fooman.co.nz/blog) - Fooman's Magento extension and development blog.
 - [integer_net blog](https://www.integer-net.com/blog/) - integer_net's technical Magento blog.
 - [MageComp](https://magecomp.com/blog/category/magento-2/) - MageComp's Magento 2 tutorials and tips.
 - [bitExpert AG](https://blog.bitexpert.de/blog/tags/magento) - bitExpert's Magento-tagged blog posts.
 - [OneStepCheckout](https://blog.onestepcheckout.com/) - OneStepCheckout's Magento blog.
+
+</details>
 
 ### Other
 
