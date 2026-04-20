@@ -1,0 +1,47 @@
+name: Accept candidate
+
+on:
+  issues:
+    types: [edited]
+
+jobs:
+  accept:
+    if: contains(github.event.issue.body, '<!-- candidates-issue-v1 -->')
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+      issues: write
+      pull-requests: write
+    steps:
+      - uses: actions/checkout@v4
+      - uses: shivammathur/setup-php@v2
+        with:
+          php-version: '8.3'
+          coverage: none
+          tools: composer:v2
+      - run: composer install --no-interaction --no-progress
+      - run: composer accept-candidate
+        env:
+          GITHUB_TOKEN:      ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_REPOSITORY: ${{ github.repository }}
+          ISSUE_BODY:        ${{ github.event.issue.body }}
+      - name: Validate + open PR
+        run: |
+          composer validate-data
+          if git diff --quiet data state/candidates.log.json; then
+            echo "No new candidates to PR"; exit 0
+          fi
+          BRANCH="candidates/$(date -u +%Y-%m-%d-%H%M)"
+          git config user.name  'github-actions[bot]'
+          git config user.email 'github-actions[bot]@users.noreply.github.com'
+          git checkout -b "$BRANCH"
+          git add data state/candidates.log.json
+          git commit -m "feat: accept candidates from issue #${{ github.event.issue.number }}"
+          git push origin "$BRANCH"
+          gh pr create \
+            --base master \
+            --head "$BRANCH" \
+            --title "Accept candidates from #${{ github.event.issue.number }}" \
+            --body "Auto-generated from weekly discovery candidates issue #${{ github.event.issue.number }}."
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
