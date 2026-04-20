@@ -1,0 +1,128 @@
+[
+    {
+        "name": "Meet Magento Baltics",
+        "url": "https://meetmagentobaltics.com/",
+        "description": "Meet Magento event series — Baltics.",
+        "next_date": null,
+        "recurring": "annual",
+        "location": null,
+        "organizers": []
+    },
+    {
+        "name": "Meet Magento Brazil",
+        "url": "https://meetmagentobrasil.org/",
+        "description": "Meet Magento event series — Brazil.",
+        "next_date": null,
+        "recurring": "annual",
+        "location": null,
+        "organizers": []
+    },
+    {
+        "name": "Meet Magento Florida",
+        "url": "https://meetmagentofl.com/",
+        "description": "Meet Magento event series — Florida.",
+        "next_date": null,
+        "recurring": "annual",
+        "location": null,
+        "organizers": []
+    },
+    {
+        "name": "Meet Magento India",
+        "url": "https://www.meetmagento.in/",
+        "description": "Meet Magento event series — India.",
+        "next_date": null,
+        "recurring": "annual",
+        "location": null,
+        "organizers": []
+    },
+    {
+        "name": "Meet Magento Malaysia",
+        "url": "https://www.meetmagento.asia/",
+        "description": "Meet Magento event series — Malaysia.",
+        "next_date": null,
+        "recurring": "annual",
+        "location": null,
+        "organizers": []
+    },
+    {
+        "name": "Meet Magento Netherlands",
+        "url": "https://nl.meet-magento.com/",
+        "description": "Meet Magento event series — Netherlands.",
+        "next_date": null,
+        "recurring": "annual",
+        "location": null,
+        "organizers": []
+    },
+    {
+        "name": "Meet Magento New York City",
+        "url": "https://meetmagentonyc.com/",
+        "description": "Meet Magento event series — NYC.",
+        "next_date": null,
+        "recurring": "annual",
+        "location": null,
+        "organizers": []
+    },
+    {
+        "name": "Meet Magento Poland",
+        "url": "https://meetmagento.pl/",
+        "description": "Meet Magento event series — Poland.",
+        "next_date": null,
+        "recurring": "annual",
+        "location": null,
+        "organizers": []
+    },
+    {
+        "name": "Meet Magento Romania",
+        "url": "https://ro.meet-magento.com/",
+        "description": "Meet Magento event series — Romania.",
+        "next_date": null,
+        "recurring": "annual",
+        "location": null,
+        "organizers": []
+    },
+    {
+        "name": "Meet Magento Singapore",
+        "url": "https://meetmagento.sg/",
+        "description": "Meet Magento event series — Singapore.",
+        "next_date": null,
+        "recurring": "annual",
+        "location": null,
+        "organizers": []
+    },
+    {
+        "name": "Meet Magento UK",
+        "url": "https://meet-magento.co.uk/",
+        "description": "Meet Magento event series — UK.",
+        "next_date": null,
+        "recurring": "annual",
+        "location": null,
+        "organizers": []
+    },
+    {
+        "name": "MageUnconference Germany",
+        "url": "https://www.mageunconference.org/",
+        "description": "Magento unconference held in Germany.",
+        "next_date": null,
+        "recurring": "annual",
+        "location": null,
+        "organizers": []
+    },
+    {
+        "name": "MageUnconference Netherlands",
+        "url": "https://mageunconference.nl/",
+        "description": "Magento unconference held in the Netherlands.",
+        "next_date": null,
+        "recurring": "annual",
+        "location": null,
+        "organizers": []
+    },
+    {
+        "name": "Meet Commerce",
+        "url": "https://www.meetcommerce.com/",
+        "description": "Global series of conferences focused on commerce and innovation.",
+        "next_date": null,
+        "recurring": "annual",
+        "location": null,
+        "organizers": []
+    }
+]

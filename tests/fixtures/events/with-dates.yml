@@ -1,0 +1,22 @@
+- name: TestEvent With Date
+  url: https://example.com/event
+  description: Sample event, with next_date and location.
+  type: event
+  added: "2020-01-01"
+  next_date: "2026-10-15"
+  recurring: annual
+  location:
+    city: Cologne
+    country: DE
+  organizers: ["Jisse Reitsma"]
+- name: TestEvent No Date
+  url: https://example.com/nodate
+  description: Event with no next_date.
+  type: event
+  added: "2019-01-01"
+  recurring: annual
+- name: Non-Event Entry
+  url: https://example.com/tool
+  description: This is a tool, not an event — should be filtered out.
+  type: github_repo
+  added: "2020-01-01"

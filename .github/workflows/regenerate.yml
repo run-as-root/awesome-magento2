@@ -39,15 +39,15 @@ jobs:
 
       - run: php generate.php
 
-      - name: Commit regenerated README
+      - name: Commit regenerated README + event feeds
         run: |
-          if git diff --quiet README.md; then
-            echo "README unchanged"
+          if git diff --quiet README.md events.ical events.json; then
+            echo "Artifacts unchanged"
             exit 0
           fi
           git config user.name  'github-actions[bot]'
           git config user.email 'github-actions[bot]@users.noreply.github.com'
-          git add README.md
-          git commit -m 'chore: regenerate README [skip ci]'
+          git add README.md events.ical events.json
+          git commit -m 'chore: regenerate README + event feeds [skip ci]'
           git pull --rebase origin master
           git push

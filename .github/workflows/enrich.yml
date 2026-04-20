@@ -35,15 +35,15 @@ jobs:
 
       - run: php generate.php
 
-      - name: Commit enrichment + regenerated README
+      - name: Commit enrichment + regenerated README + event feeds
         run: |
-          if git diff --quiet state/enrichment.json README.md; then
+          if git diff --quiet state/enrichment.json README.md events.ical events.json; then
             echo "No enrichment changes"
             exit 0
           fi
           git config user.name  'github-actions[bot]'
           git config user.email 'github-actions[bot]@users.noreply.github.com'
-          git add state/enrichment.json README.md
-          git commit -m 'chore: refresh enrichment + regenerate readme'
+          git add state/enrichment.json README.md events.ical events.json
+          git commit -m 'chore: refresh enrichment + regenerate readme + feeds'
           git pull --rebase origin master
           git push

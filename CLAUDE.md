@@ -29,6 +29,7 @@ The repo is moving strangler-style from raw hand-maintained Markdown to a data +
 - Parsers live in `lib/Parser/` and implement `AwesomeList\Parser\ParserInterface` (`setFilename` + `parseToMarkdown`). `YamlEntryList` is the one to use for new sections.
 - PHPUnit tests in `tests/` cover the loader, parser, and generator. Run them with `composer test` (or `vendor/bin/phpunit`).
 - GitHub Action `.github/workflows/regenerate.yml` re-runs `php generate.php` and commits the updated `README.md` on push to `master` whenever `content/`, `data/`, `lib/`, `state/`, or `generate.php` changes. `.github/workflows/enrich.yml` runs weekly (Mondays 02:00 UTC) and commits the refreshed sidecar + regenerated README in one commit.
+- `generate.php` emits two additional build artifacts from `data/events/**/*.yml`: `events.ical` (iCal subscription — add it to Google/Apple Calendar via the raw GitHub URL) and `events.json`. Only events with a `next_date` field become VEVENTs in the iCal output; the JSON includes every event regardless.
 
 Most sections have been migrated to `data/**/*.yml`. Some prose (intro, Ukraine banner, Legend, "What is Magento?", License, Thanks footer) stays in `content/main.md` because it's narrative, not entries.
 
