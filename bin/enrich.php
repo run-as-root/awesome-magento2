@@ -11,10 +11,12 @@ use AwesomeList\Enrichment\GithubRepoAdapter;
 use AwesomeList\Enrichment\LivenessAdapter;
 use AwesomeList\Enrichment\PackagistAdapter;
 use AwesomeList\Enrichment\VitalityRanker;
+use AwesomeList\Enrichment\YoutubePlaylistAdapter;
 use AwesomeList\YamlEntryLoader;
 use GuzzleHttp\Client;
 
 $token = getenv('GITHUB_TOKEN') ?: null;
+$youtubeKey = getenv('YOUTUBE_API_KEY') ?: null;
 $headers = ['User-Agent' => 'awesome-magento2-enricher'];
 if ($token !== null) {
     $headers['Authorization'] = "Bearer $token";
@@ -45,6 +47,7 @@ $enricher = new Enricher(
         new LivenessAdapter($genericHttp, $now, 'vendor_site'),
         new LivenessAdapter($genericHttp, $now, 'course'),
         new LivenessAdapter($genericHttp, $now, 'canonical'),
+        new YoutubePlaylistAdapter($genericHttp, $now, $youtubeKey),
     ]),
     new VitalityRanker(),
 );
