@@ -1,5 +1,32 @@
 [
     {
+        "name": "MageUnconference Germany",
+        "url": "https://www.mageunconference.org/",
+        "description": "Magento unconference held in Germany.",
+        "next_date": null,
+        "recurring": "annual",
+        "location": null,
+        "organizers": []
+    },
+    {
+        "name": "MageUnconference Netherlands",
+        "url": "https://mageunconference.nl/",
+        "description": "Magento unconference held in the Netherlands.",
+        "next_date": null,
+        "recurring": "annual",
+        "location": null,
+        "organizers": []
+    },
+    {
+        "name": "Meet Commerce",
+        "url": "https://www.meetcommerce.com/",
+        "description": "Global series of conferences focused on commerce and innovation.",
+        "next_date": null,
+        "recurring": "annual",
+        "location": null,
+        "organizers": []
+    },
+    {
         "name": "Meet Magento Baltics",
         "url": "https://meetmagentobaltics.com/",
         "description": "Meet Magento event series — Baltics.",
@@ -93,33 +120,6 @@
         "name": "Meet Magento UK",
         "url": "https://meet-magento.co.uk/",
         "description": "Meet Magento event series — UK.",
-        "next_date": null,
-        "recurring": "annual",
-        "location": null,
-        "organizers": []
-    },
-    {
-        "name": "MageUnconference Germany",
-        "url": "https://www.mageunconference.org/",
-        "description": "Magento unconference held in Germany.",
-        "next_date": null,
-        "recurring": "annual",
-        "location": null,
-        "organizers": []
-    },
-    {
-        "name": "MageUnconference Netherlands",
-        "url": "https://mageunconference.nl/",
-        "description": "Magento unconference held in the Netherlands.",
-        "next_date": null,
-        "recurring": "annual",
-        "location": null,
-        "organizers": []
-    },
-    {
-        "name": "Meet Commerce",
-        "url": "https://www.meetcommerce.com/",
-        "description": "Global series of conferences focused on commerce and innovation.",
         "next_date": null,
         "recurring": "annual",
         "location": null,
