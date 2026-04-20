@@ -169,28 +169,6 @@ The storefront of Magento 2 can be styled in numerous ways:
 
 {% file=data/official-resources.yml parser="AwesomeList\Parser\YamlEntryList" %}
 
-- Magento Masters 2017
-    - [Peter Jaap Blaakmeer](https://twitter.com/PeterJaap) - CTO at [elgentos](https://www.elgentos.nl/)
-    - Carmen Bremen - Freelancer at [neoshops](http://neoshops.de/)
-    - Tony Brown - Technical Director at [space48](http://www.space48.com/)
-    - Hirokazu Nishi
-    - Brent Peterson
-    - Sonja Riesterer
-    - Kristof Ringleff
-    - Alessandro Ronchi
-    - Matthias Zeis
-    - Kuba Zwolinski
-    - Gabriel Guarino
-    - Phillip Jackson
-    - Sander Mangel
-    - Raphael Petrini
-    - Fabian Schmengler
-    - Marius Strajeru
-    - Anna Völkl
-    - Ivan Chepurnyi
-    - Vinai Kopp
-    - Jisse Reitsma
-
 ---
 
 ## List of trustworthy Extension Developers

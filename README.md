@@ -361,28 +361,6 @@ The storefront of Magento 2 can be styled in numerous ways:
 - [Magento Coding Standards](https://github.com/magento/magento-coding-standard) 🫡 - Official Magento 2 advanced ruleset for PHP_CodeSniffer.
 - [Magento 2 Architecture](https://github.com/magento/architecture) - Architectural discussions about Magento 2.
 
-- Magento Masters 2017
-    - [Peter Jaap Blaakmeer](https://twitter.com/PeterJaap) - CTO at [elgentos](https://www.elgentos.nl/)
-    - Carmen Bremen - Freelancer at [neoshops](http://neoshops.de/)
-    - Tony Brown - Technical Director at [space48](http://www.space48.com/)
-    - Hirokazu Nishi
-    - Brent Peterson
-    - Sonja Riesterer
-    - Kristof Ringleff
-    - Alessandro Ronchi
-    - Matthias Zeis
-    - Kuba Zwolinski
-    - Gabriel Guarino
-    - Phillip Jackson
-    - Sander Mangel
-    - Raphael Petrini
-    - Fabian Schmengler
-    - Marius Strajeru
-    - Anna Völkl
-    - Ivan Chepurnyi
-    - Vinai Kopp
-    - Jisse Reitsma
-
 ---
 
 ## List of trustworthy Extension Developers
