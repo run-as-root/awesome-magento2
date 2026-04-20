@@ -21,6 +21,7 @@
   "scripts": {
     "validate-data": "php bin/validate-data.php",
     "test":          "phpunit",
-    "enrich":        "php bin/enrich.php"
+    "enrich":        "php bin/enrich.php",
+    "discover":      "php bin/discover.php"
   }
 }
