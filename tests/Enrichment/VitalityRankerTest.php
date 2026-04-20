@@ -51,6 +51,24 @@ final class VitalityRankerTest extends TestCase
         $this->assertArrayNotHasKey('github', $ranked['blog']['result']->typeData);
     }
 
+    public function test_it_marks_top_decile_for_packagist_by_monthly_downloads(): void
+    {
+        $results = [];
+        for ($i = 1; $i <= 10; $i++) {
+            $results["url-$i"] = [
+                'category' => 'extensions-marketing',
+                'result'   => new EnrichmentResult(
+                    '2026-04-20T00:00:00Z',
+                    ['vitality_hot' => false],
+                    ['packagist' => ['downloads_monthly' => $i * 100]],
+                ),
+            ];
+        }
+        $ranked = (new VitalityRanker())->rank($results);
+        $this->assertTrue($ranked['url-10']['result']->signals['vitality_hot']);
+        $this->assertFalse($ranked['url-1']['result']->signals['vitality_hot']);
+    }
+
     private function withStars(int $stars): EnrichmentResult
     {
         return new EnrichmentResult(

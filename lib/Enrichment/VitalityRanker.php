@@ -14,10 +14,12 @@ final class VitalityRanker
     {
         $buckets = [];
         foreach ($results as $url => $row) {
-            if (!isset($row['result']->typeData['github'])) {
-                continue;
+            $td = $row['result']->typeData;
+            if (isset($td['github'])) {
+                $buckets[$row['category'] . ':github'][$url] = $td['github']['stars'] ?? 0;
+            } elseif (isset($td['packagist'])) {
+                $buckets[$row['category'] . ':packagist'][$url] = $td['packagist']['downloads_monthly'] ?? 0;
             }
-            $buckets[$row['category']][$url] = $row['result']->typeData['github']['stars'] ?? 0;
         }
 
         $hotUrls = [];
