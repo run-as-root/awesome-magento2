@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<rss version="2.0"><channel>
+  <title>Example</title>
+  <item>
+    <title>Fresh post</title>
+    <pubDate>Fri, 10 Apr 2026 09:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>Older post</title>
+    <pubDate>Sun, 01 Feb 2026 09:00:00 +0000</pubDate>
+  </item>
+</channel></rss>
