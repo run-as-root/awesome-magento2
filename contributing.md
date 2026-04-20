@@ -57,4 +57,14 @@ Run `composer validate-data` to verify your YAML. CI regenerates `README.md` on 
 
 Entries flagged `graveyard_candidate` in `state/enrichment.json` move into a collapsed "Graveyard" block at the bottom of their section. Mark an entry `pinned: true` (with a `pin_reason`) to opt out — useful for canonical resources that won't see modern activity.
 
-🔥 marks the top 10% of a category by stars (github_repo only; minimum 5 entries per category to enable). 🫡 marks actively maintained projects (commit in last 90 days + release in last year).
+Every entry type is automatically checked for freshness and link-liveness by the weekly enrichment job (Mondays 02:00 UTC). Signals per type:
+
+- `github_repo`: 🔥 top-10% stars per category; 🫡 commit ≤90d + release ≤365d; 🪦 archived or no activity 3+ years.
+- `packagist_pkg`: 🔥 top-10% monthly downloads per category; 🫡 release ≤180d and not abandoned; 🪦 abandoned or 404.
+- `blog`: 🫡 post ≤60d via RSS autodiscovery; 🪦 no post 18mo or host dead.
+- `event`: 🫡 page mentions current or next year; 🪦 404.
+- `youtube_playlist` (playlist or channel URLs): 🫡 upload ≤90d; 🪦 no upload 18mo or 404. Requires `YOUTUBE_API_KEY` secret.
+- `vendor_site`, `course`, `canonical`: liveness-only. 🪦 after 90 consecutive days returning non-2xx.
+- `archive`: no badges, no retirement.
+
+No manual intervention is required; edits land in `data/**/*.yml`, CI does the rest.
