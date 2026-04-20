@@ -1,0 +1,10 @@
+{
+  "package": {
+    "name": "someone/defunct",
+    "abandoned": "someone/replacement",
+    "downloads": { "total": 12, "monthly": 0 },
+    "versions": {
+      "1.0.0": { "version": "1.0.0", "time": "2021-01-01T00:00:00+00:00" }
+    }
+  }
+}

@@ -7,6 +7,7 @@ use AwesomeList\Enrichment\ArchiveAdapter;
 use AwesomeList\Enrichment\Enricher;
 use AwesomeList\Enrichment\GithubRepoAdapter;
 use AwesomeList\Enrichment\LivenessAdapter;
+use AwesomeList\Enrichment\PackagistAdapter;
 use AwesomeList\Enrichment\VitalityRanker;
 use AwesomeList\YamlEntryLoader;
 use GuzzleHttp\Client;
@@ -36,6 +37,7 @@ $enricher = new Enricher(
     new AdapterFactory([
         new GithubRepoAdapter($githubHttp, $now),
         new ArchiveAdapter($now),
+        new PackagistAdapter($genericHttp, $now),
         new LivenessAdapter($genericHttp, $now, 'vendor_site'),
         new LivenessAdapter($genericHttp, $now, 'course'),
         new LivenessAdapter($genericHttp, $now, 'canonical'),
