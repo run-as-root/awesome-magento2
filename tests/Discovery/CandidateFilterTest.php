@@ -88,7 +88,11 @@ final class CandidateFilterTest extends TestCase
 
     public function test_pending_log_entry_is_rediscovered_so_metadata_stays_fresh(): void
     {
-        $repo = $this->repo(['htmlUrl' => 'https://github.com/new/entry']);
+        $repo = $this->repo([
+            'htmlUrl'   => 'https://github.com/new/entry',
+            'stars'     => 200,
+            'createdAt' => '2025-01-01T00:00:00Z',
+        ]);
         $log  = CandidateLog::loadOrEmpty(__DIR__ . '/../fixtures/state/does-not-exist.json')
                     ->markPending('https://github.com/new/entry', 'extensions/_triage.yml');
         $this->assertCount(1, $this->filter->filter([$repo], $this->emptyIndex, $log));
