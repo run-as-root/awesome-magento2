@@ -29,6 +29,8 @@ jobs:
           GITHUB_TOKEN:      ${{ secrets.GITHUB_TOKEN }}
           GITHUB_REPOSITORY: ${{ github.repository }}
           ISSUE_BODY:        ${{ github.event.issue.body }}
+          ISSUE_NUMBER:      ${{ github.event.issue.number }}
+          SUMMARY_PATH:      ${{ runner.temp }}/accept-summary.md
       - name: Validate + open PR
         run: |
           composer validate-data
@@ -46,6 +48,6 @@ jobs:
             --base master \
             --head "$BRANCH" \
             --title "Accept candidates from #${{ github.event.issue.number }}" \
-            --body "Auto-generated from weekly discovery candidates issue #${{ github.event.issue.number }}."
+            --body-file "${{ runner.temp }}/accept-summary.md"
         env:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}

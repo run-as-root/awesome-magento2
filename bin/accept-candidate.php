@@ -47,10 +47,12 @@ foreach ($parsed as $row) {
     }
     $path = parse_url($row['url'], PHP_URL_PATH) ?? '';
     $description = $row['url'];
+    $stars = 0;
     try {
         $resp = $http->get('repos' . $path);
         $meta = json_decode((string) $resp->getBody(), true, flags: JSON_THROW_ON_ERROR);
         $description = (string) ($meta['description'] ?? $row['url']);
+        $stars = (int) ($meta['stargazers_count'] ?? 0);
     } catch (\Throwable) {
         // fall back to url as description
     }
@@ -67,8 +69,54 @@ foreach ($parsed as $row) {
     }
     $appender->append($target, $entry);
     $log = $log->markAccepted($row['url']);
-    $accepted[] = $entry;
+    $accepted[] = $entry + ['suggested_yaml' => $row['suggested_yaml'], 'stars' => $stars];
 }
 $log->save($logPath);
 
+// Emit a markdown summary for the PR body. Path is configurable so the
+// workflow can point at /tmp or a runner scratch dir.
+$summaryPath = getenv('SUMMARY_PATH') ?: __DIR__ . '/../state/last-accept-summary.md';
+$issueNumber = getenv('ISSUE_NUMBER') ?: '';
+$summary = renderSummary($accepted, $issueNumber);
+file_put_contents($summaryPath, $summary);
+
 echo "Processed " . count($accepted) . " accepted candidates.\n";
+
+/**
+ * @param array<int, array{name: string, url: string, description: string, type: string, added: string, suggested_yaml: string, stars: int}> $accepted
+ */
+function renderSummary(array $accepted, string $issueNumber): string
+{
+    if ($accepted === []) {
+        return "No new candidates accepted.\n";
+    }
+    $byYaml = [];
+    foreach ($accepted as $e) {
+        $byYaml[$e['suggested_yaml']][] = $e;
+    }
+    ksort($byYaml);
+
+    $lines = [];
+    $lines[] = sprintf(
+        'Accepts %d new %s%s.',
+        count($accepted),
+        count($accepted) === 1 ? 'candidate' : 'candidates',
+        $issueNumber !== '' ? " from issue #$issueNumber" : '',
+    );
+    $lines[] = '';
+    foreach ($byYaml as $yaml => $entries) {
+        $lines[] = sprintf('### `data/%s` (%d)', $yaml, count($entries));
+        $lines[] = '';
+        foreach ($entries as $e) {
+            $stars = $e['stars'] > 0 ? " ★{$e['stars']}" : '';
+            $desc  = $e['description'] !== '' && $e['description'] !== $e['url']
+                ? " — {$e['description']}"
+                : '';
+            $lines[] = sprintf('- [%s](%s)%s%s', $e['name'], $e['url'], $stars, $desc);
+        }
+        $lines[] = '';
+    }
+    $lines[] = '---';
+    $lines[] = '_Merge this PR to close out the corresponding `accepted` entries in `state/candidates.log.json`. CI will rebuild `README.md` on merge._';
+    return implode("\n", $lines) . "\n";
+}
