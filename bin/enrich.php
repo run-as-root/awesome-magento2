@@ -6,6 +6,7 @@ use AwesomeList\Enrichment\AdapterFactory;
 use AwesomeList\Enrichment\ArchiveAdapter;
 use AwesomeList\Enrichment\Enricher;
 use AwesomeList\Enrichment\GithubRepoAdapter;
+use AwesomeList\Enrichment\LivenessAdapter;
 use AwesomeList\Enrichment\VitalityRanker;
 use AwesomeList\YamlEntryLoader;
 use GuzzleHttp\Client;
@@ -16,10 +17,16 @@ if ($token !== null) {
     $headers['Authorization'] = "Bearer $token";
 }
 
-$http = new Client([
+$githubHttp = new Client([
     'base_uri' => 'https://api.github.com/',
     'timeout'  => 15,
     'headers'  => $headers,
+]);
+$genericHttp = new Client([
+    'timeout'         => 10,
+    'allow_redirects' => true,
+    'http_errors'     => false,
+    'headers'         => ['User-Agent' => 'awesome-magento2-enricher'],
 ]);
 
 $now = new DateTimeImmutable();
@@ -27,8 +34,11 @@ $now = new DateTimeImmutable();
 $enricher = new Enricher(
     new YamlEntryLoader(),
     new AdapterFactory([
-        new GithubRepoAdapter($http, $now),
+        new GithubRepoAdapter($githubHttp, $now),
         new ArchiveAdapter($now),
+        new LivenessAdapter($genericHttp, $now, 'vendor_site'),
+        new LivenessAdapter($genericHttp, $now, 'course'),
+        new LivenessAdapter($genericHttp, $now, 'canonical'),
     ]),
     new VitalityRanker(),
 );
