@@ -86,6 +86,14 @@ final class CandidateFilterTest extends TestCase
         $this->assertCount(0, $this->filter->filter([$repo], $this->emptyIndex, $log));
     }
 
+    public function test_pending_log_entry_is_rediscovered_so_metadata_stays_fresh(): void
+    {
+        $repo = $this->repo(['htmlUrl' => 'https://github.com/new/entry']);
+        $log  = CandidateLog::loadOrEmpty(__DIR__ . '/../fixtures/state/does-not-exist.json')
+                    ->markPending('https://github.com/new/entry', 'extensions/_triage.yml');
+        $this->assertCount(1, $this->filter->filter([$repo], $this->emptyIndex, $log));
+    }
+
     /** @param array<string,mixed> $overrides */
     private function repo(array $overrides = []): RepoSummary
     {

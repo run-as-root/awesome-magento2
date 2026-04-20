@@ -41,7 +41,10 @@ final class CandidateFilter
         if ($index->contains($r->htmlUrl)) {
             return false;
         }
-        if ($log->has($r->htmlUrl)) {
+        // Only decided (accepted/rejected) entries are permanently skipped; pending entries
+        // are re-discovered so their metadata (stars, description) stays fresh.
+        $status = $log->statusOf($r->htmlUrl);
+        if ($status === 'accepted' || $status === 'rejected') {
             return false;
         }
         return true;
