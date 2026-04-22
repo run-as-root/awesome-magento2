@@ -18,3 +18,8 @@
   description: Native Magento Page Builder support for CMS Widgets
   type: github_repo
   added: "2026-04-20"
+- name: hyva-ai-tools
+  url: https://github.com/hyva-themes/hyva-ai-tools
+  description: AI-powered skills for Magento 2 development with Hyva Theme. These skills extend AI coding assistants with specialized knowledge for creating Hyva themes, modules, and CMS components.
+  type: github_repo
+  added: "2026-04-22"

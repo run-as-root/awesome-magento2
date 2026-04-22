@@ -117,11 +117,12 @@
         "decided_at": "2026-04-20T12:42:20Z"
     },
     "https://github.com/hyva-themes/hyva-ai-tools": {
-        "status": "pending",
+        "status": "accepted",
         "suggested_yaml": "extensions/cms.yml",
         "discovered_at": "2026-04-20T12:02:25Z",
         "full_name": "hyva-themes/hyva-ai-tools",
         "description": "AI-powered skills for Magento 2 development with Hyva Theme. These skills extend AI coding assistants with specialized knowledge for creating Hyva themes, modules, and CMS components.",
-        "stars": 61
+        "stars": 61,
+        "decided_at": "2026-04-22T08:34:50Z"
     }
 }
