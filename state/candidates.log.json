@@ -124,5 +124,37 @@
         "description": "AI-powered skills for Magento 2 development with Hyva Theme. These skills extend AI coding assistants with specialized knowledge for creating Hyva themes, modules, and CMS components.",
         "stars": 61,
         "decided_at": "2026-04-22T08:34:50Z"
+    },
+    "https://github.com/graphcommerce-org/graphcommerce": {
+        "status": "pending",
+        "suggested_yaml": "extensions/pwa.yml",
+        "discovered_at": "2026-04-27T06:59:25Z",
+        "full_name": "graphcommerce-org/graphcommerce",
+        "description": " GraphCommerce\u00ae is a headless storefront replacement for Magento 2 (PWA), that delivers a faster, better user experience. Fully customizable (React, Next.js) and open-source.",
+        "stars": 358
+    },
+    "https://github.com/RubenJ01/magento2-module-log-viewer": {
+        "status": "pending",
+        "suggested_yaml": "extensions/adminhtml.yml",
+        "discovered_at": "2026-04-27T06:59:25Z",
+        "full_name": "RubenJ01/magento2-module-log-viewer",
+        "description": "View Magento 2 logs from the backend",
+        "stars": 12
+    },
+    "https://github.com/run-as-root/magento-2-seeder": {
+        "status": "pending",
+        "suggested_yaml": "extensions/cms.yml",
+        "discovered_at": "2026-04-27T06:59:25Z",
+        "full_name": "run-as-root/magento-2-seeder",
+        "description": "Laravel-style database seeder for Magento 2 / Mage-OS. Generate realistic products (all types), categories, customers, orders (all states), CMS pages, and reviews via bin/magento db:seed.",
+        "stars": 30
+    },
+    "https://github.com/magento/inventory": {
+        "status": "pending",
+        "suggested_yaml": "extensions/_triage.yml",
+        "discovered_at": "2026-04-27T06:59:25Z",
+        "full_name": "magento/inventory",
+        "description": "Magento Inventory Project (a.k.a MSI)",
+        "stars": 353
     }
 }
