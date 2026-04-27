@@ -1,753 +1,9 @@
 {
-    "https://www.aheadworks.com/": {
-        "last_checked": "2026-04-20T12:37:20Z",
-        "liveness": {
-            "link_status_since": "2026-04-20T10:15:02Z"
-        },
-        "signals": {
-            "link_status": "broken",
-            "graveyard_candidate": false,
-            "vitality_hot": false
-        }
-    },
-    "https://shop.altima.net.au/": {
-        "last_checked": "2026-04-20T12:37:20Z",
-        "liveness": {
-            "link_status_since": "2026-04-20T10:15:02Z"
-        },
-        "signals": {
-            "link_status": "broken",
-            "graveyard_candidate": false,
-            "vitality_hot": false
-        }
-    },
-    "http://bluejalappeno.com/": {
-        "last_checked": "2026-04-20T12:37:20Z",
-        "liveness": {
-            "link_status_since": "2026-04-20T10:15:02Z"
-        },
-        "signals": {
-            "link_status": "ok",
-            "graveyard_candidate": false,
-            "vitality_hot": false
-        }
-    },
-    "https://www.customgento.com/extensions/": {
-        "last_checked": "2026-04-20T12:37:20Z",
-        "liveness": {
-            "link_status_since": "2026-04-20T10:15:02Z"
-        },
-        "signals": {
-            "link_status": "ok",
-            "graveyard_candidate": false,
-            "vitality_hot": false
-        }
-    },
-    "https://www.dotmailer.com/": {
-        "last_checked": "2026-04-20T12:37:20Z",
-        "liveness": {
-            "link_status_since": "2026-04-20T10:15:02Z"
-        },
-        "signals": {
-            "link_status": "ok",
-            "graveyard_candidate": false,
-            "vitality_hot": false
-        }
-    },
-    "https://www.integer-net.com/solr-magento/": {
-        "last_checked": "2026-04-20T12:37:20Z",
-        "liveness": {
-            "link_status_since": "2026-04-20T10:15:02Z"
-        },
-        "signals": {
-            "link_status": "ok",
-            "graveyard_candidate": false,
-            "vitality_hot": false
-        }
-    },
-    "https://genmato.com/": {
-        "last_checked": "2026-04-20T12:37:20Z",
-        "liveness": {
-            "link_status_since": "2026-04-20T10:15:02Z"
-        },
-        "signals": {
-            "link_status": "broken",
-            "graveyard_candidate": false,
-            "vitality_hot": false
-        }
-    },
-    "http://store.fooman.co.nz/": {
-        "last_checked": "2026-04-20T12:37:20Z",
-        "liveness": {
-            "link_status_since": "2026-04-20T10:15:02Z"
-        },
-        "signals": {
-            "link_status": "ok",
-            "graveyard_candidate": false,
-            "vitality_hot": false
-        }
-    },
-    "https://ebizmarts.com/": {
-        "last_checked": "2026-04-20T12:37:20Z",
-        "liveness": {
-            "link_status_since": "2026-04-20T10:15:02Z"
-        },
-        "signals": {
-            "link_status": "broken",
-            "graveyard_candidate": false,
-            "vitality_hot": false
-        }
-    },
-    "https://magemail.co/": {
-        "last_checked": "2026-04-20T12:37:20Z",
-        "liveness": {
-            "link_status_since": "2026-04-20T10:15:02Z"
-        },
-        "signals": {
-            "link_status": "ok",
-            "graveyard_candidate": false,
-            "vitality_hot": false
-        }
-    },
-    "https://packagist.org/packages/magepal/": {
-        "last_checked": "2026-04-20T12:37:20Z",
-        "liveness": {
-            "link_status_since": "2026-04-20T10:15:02Z"
-        },
-        "signals": {
-            "link_status": "ok",
-            "graveyard_candidate": false,
-            "vitality_hot": false
-        }
-    },
-    "https://www.modulwerft.com/": {
-        "last_checked": "2026-04-20T12:37:20Z",
-        "liveness": {
-            "link_status_since": "2026-04-20T10:15:02Z"
-        },
-        "signals": {
-            "link_status": "ok",
-            "graveyard_candidate": false,
-            "vitality_hot": false
-        }
-    },
-    "https://www.paradoxlabs.com/": {
-        "last_checked": "2026-04-20T12:37:20Z",
-        "liveness": {
-            "link_status_since": "2026-04-20T10:15:02Z"
-        },
-        "signals": {
-            "link_status": "ok",
-            "graveyard_candidate": false,
-            "vitality_hot": false
-        }
-    },
-    "https://github.com/theextensionlab/": {
-        "last_checked": "2026-04-20T12:37:20Z",
-        "liveness": {
-            "link_status_since": "2026-04-20T10:15:02Z"
-        },
-        "signals": {
-            "link_status": "ok",
-            "graveyard_candidate": false,
-            "vitality_hot": false
-        }
-    },
-    "https://www.sweettoothrewards.com/": {
-        "last_checked": "2026-04-20T12:37:20Z",
-        "liveness": {
-            "link_status_since": "2026-04-20T10:15:02Z"
-        },
-        "signals": {
-            "link_status": "ok",
-            "graveyard_candidate": false,
-            "vitality_hot": false
-        }
-    },
-    "http://rocketweb.com/": {
-        "last_checked": "2026-04-20T12:37:20Z",
-        "liveness": {
-            "link_status_since": "2026-04-20T10:15:02Z"
-        },
-        "signals": {
-            "link_status": "ok",
-            "graveyard_candidate": false,
-            "vitality_hot": false
-        }
-    },
-    "https://www.proxiblue.com.au/": {
-        "last_checked": "2026-04-20T12:37:20Z",
-        "liveness": {
-            "link_status_since": "2026-04-20T10:15:02Z"
-        },
-        "signals": {
-            "link_status": "broken",
-            "graveyard_candidate": false,
-            "vitality_hot": false
-        }
-    },
-    "http://www.unirgy.com/": {
-        "last_checked": "2026-04-20T12:37:20Z",
-        "liveness": {
-            "link_status_since": "2026-04-20T10:15:02Z"
-        },
-        "signals": {
-            "link_status": "broken",
-            "graveyard_candidate": false,
-            "vitality_hot": false
-        }
-    },
-    "http://webshopapps.com/eu/": {
-        "last_checked": "2026-04-20T12:37:20Z",
-        "liveness": {
-            "link_status_since": "2026-04-20T10:15:02Z"
-        },
-        "signals": {
-            "link_status": "broken",
-            "graveyard_candidate": false,
-            "vitality_hot": false
-        }
-    },
-    "https://www.yireo.com/": {
-        "last_checked": "2026-04-20T12:37:20Z",
-        "liveness": {
-            "link_status_since": "2026-04-20T10:15:02Z"
-        },
-        "signals": {
-            "link_status": "ok",
-            "graveyard_candidate": false,
-            "vitality_hot": false
-        }
-    },
-    "https://firebearstudio.com/": {
-        "last_checked": "2026-04-20T12:37:20Z",
-        "liveness": {
-            "link_status_since": "2026-04-20T10:15:02Z"
-        },
-        "signals": {
-            "link_status": "ok",
-            "graveyard_candidate": false,
-            "vitality_hot": false
-        }
-    },
-    "https://developer.adobe.com/commerce/frontend-core/guide/": {
-        "last_checked": "2026-04-20T12:37:20Z",
-        "liveness": {
-            "link_status_since": "2026-04-20T10:15:02Z"
-        },
-        "signals": {
-            "link_status": "ok",
-            "graveyard_candidate": false,
-            "vitality_hot": false
-        }
-    },
-    "https://developer.adobe.com/commerce/pwa-studio/": {
-        "last_checked": "2026-04-20T12:37:20Z",
-        "liveness": {
-            "link_status_since": "2026-04-20T10:15:02Z"
-        },
-        "signals": {
-            "link_status": "ok",
-            "graveyard_candidate": false,
-            "vitality_hot": false
-        }
-    },
-    "https://hyva.io/": {
-        "last_checked": "2026-04-20T12:37:20Z",
-        "liveness": {
-            "link_status_since": "2026-04-20T10:15:02Z"
-        },
-        "signals": {
-            "link_status": "ok",
-            "graveyard_candidate": false,
-            "vitality_hot": false
-        }
-    },
-    "https://github.com/vuestorefront/vue-storefront": {
-        "last_checked": "2026-04-20T12:37:20Z",
-        "github": {
-            "stars": 10927,
-            "last_commit": "2026-04-15T13:37:28Z",
-            "last_release": "2025-04-23T07:41:06Z",
-            "archived": false,
-            "fork": false
-        },
-        "signals": {
-            "actively_maintained": true,
-            "graveyard_candidate": false,
-            "vitality_hot": false
-        }
-    },
-    "https://github.com/scandipwa/scandipwa": {
-        "last_checked": "2026-04-20T12:37:20Z",
-        "github": {
-            "stars": 552,
-            "last_commit": "2024-07-15T13:53:56Z",
-            "last_release": "2024-07-31T05:29:34Z",
-            "archived": false,
-            "fork": false
-        },
-        "signals": {
-            "actively_maintained": false,
-            "graveyard_candidate": false,
-            "vitality_hot": false
-        }
-    },
-    "https://breezefront.com/themes": {
-        "last_checked": "2026-04-20T12:37:20Z",
-        "liveness": {
-            "link_status_since": "2026-04-20T10:15:02Z"
-        },
-        "signals": {
-            "link_status": "ok",
-            "graveyard_candidate": false,
-            "vitality_hot": false
-        }
-    },
-    "https://www.front-commerce.com/": {
-        "last_checked": "2026-04-20T12:37:20Z",
-        "liveness": {
-            "link_status_since": "2026-04-20T10:15:02Z"
-        },
-        "signals": {
-            "link_status": "broken",
-            "graveyard_candidate": false,
-            "vitality_hot": false
-        }
-    },
-    "https://www.mageunconference.org/": {
-        "last_checked": "2026-04-20T12:37:20Z",
-        "event": {
-            "latest_year_on_page": 2025
-        },
-        "signals": {
-            "actively_maintained": false,
-            "graveyard_candidate": false,
-            "vitality_hot": false
-        }
-    },
-    "https://mageunconference.nl/": {
-        "last_checked": "2026-04-20T12:37:20Z",
-        "event": {
-            "latest_year_on_page": 2026
-        },
-        "signals": {
-            "actively_maintained": true,
-            "graveyard_candidate": false,
-            "vitality_hot": false
-        }
-    },
-    "https://www.meetcommerce.com/": {
-        "last_checked": "2026-04-20T12:37:20Z",
-        "event": {
-            "latest_year_on_page": 2026
-        },
-        "signals": {
-            "actively_maintained": true,
-            "graveyard_candidate": false,
-            "vitality_hot": false
-        }
-    },
-    "https://meetmagentobaltics.com/": {
-        "last_checked": "2026-04-20T12:37:20Z",
-        "event": {
-            "latest_year_on_page": 2024
-        },
-        "signals": {
-            "actively_maintained": false,
-            "graveyard_candidate": false,
-            "vitality_hot": false
-        }
-    },
-    "https://meetmagentobrasil.org/": {
-        "last_checked": "2026-04-20T12:37:20Z",
-        "event": {
-            "latest_year_on_page": 2026
-        },
-        "signals": {
-            "actively_maintained": true,
-            "graveyard_candidate": false,
-            "vitality_hot": false
-        }
-    },
-    "https://meetmagentofl.com/": {
-        "last_checked": "2026-04-20T12:37:20Z",
-        "event": {
-            "latest_year_on_page": 2026
-        },
-        "signals": {
-            "actively_maintained": true,
-            "graveyard_candidate": false,
-            "vitality_hot": false
-        }
-    },
-    "https://www.meetmagento.in/": {
-        "last_checked": "2026-04-20T12:37:20Z",
-        "event": {
-            "latest_year_on_page": null
-        },
-        "signals": {
-            "actively_maintained": false,
-            "graveyard_candidate": true,
-            "vitality_hot": false
-        }
-    },
-    "https://www.meetmagento.asia/": {
-        "last_checked": "2026-04-20T12:37:20Z",
-        "event": {
-            "latest_year_on_page": 2024
-        },
-        "signals": {
-            "actively_maintained": false,
-            "graveyard_candidate": false,
-            "vitality_hot": false
-        }
-    },
-    "https://nl.meet-magento.com/": {
-        "last_checked": "2026-04-20T12:37:20Z",
-        "event": {
-            "latest_year_on_page": 2026
-        },
-        "signals": {
-            "actively_maintained": true,
-            "graveyard_candidate": false,
-            "vitality_hot": false
-        }
-    },
-    "https://meetmagentonyc.com/": {
-        "last_checked": "2026-04-20T12:37:20Z",
-        "event": {
-            "latest_year_on_page": 2026
-        },
-        "signals": {
-            "actively_maintained": true,
-            "graveyard_candidate": false,
-            "vitality_hot": false
-        }
-    },
-    "https://meetmagento.pl/": {
-        "last_checked": "2026-04-20T12:37:20Z",
-        "event": {
-            "latest_year_on_page": 2026
-        },
-        "signals": {
-            "actively_maintained": true,
-            "graveyard_candidate": false,
-            "vitality_hot": false
-        }
-    },
-    "https://ro.meet-magento.com/": {
-        "last_checked": "2026-04-20T12:37:20Z",
-        "event": {
-            "latest_year_on_page": 2025
-        },
-        "signals": {
-            "actively_maintained": false,
-            "graveyard_candidate": false,
-            "vitality_hot": false
-        }
-    },
-    "https://meetmagento.sg/": {
-        "last_checked": "2026-04-20T12:37:20Z",
-        "event": {
-            "latest_year_on_page": null
-        },
-        "signals": {
-            "actively_maintained": false,
-            "graveyard_candidate": true,
-            "vitality_hot": false
-        }
-    },
-    "https://meet-magento.co.uk/": {
-        "last_checked": "2026-04-20T12:37:20Z",
-        "event": {
-            "latest_year_on_page": 2026
-        },
-        "signals": {
-            "actively_maintained": true,
-            "graveyard_candidate": false,
-            "vitality_hot": false
-        }
-    },
-    "https://m.academy/": {
-        "last_checked": "2026-04-20T12:37:20Z",
-        "liveness": {
-            "link_status_since": "2026-04-20T10:15:02Z"
-        },
-        "signals": {
-            "link_status": "ok",
-            "graveyard_candidate": false,
-            "vitality_hot": false
-        }
-    },
-    "https://www.youtube.com/playlist?list=PLwB4Uz_0hoVP3Fm_c4HfNPK5JdRD6DIDl": {
-        "last_checked": "2026-04-20T12:37:20Z",
-        "youtube": {
-            "last_upload": "2017-03-09T17:51:15Z"
-        },
-        "signals": {
-            "actively_maintained": false,
-            "graveyard_candidate": true,
-            "vitality_hot": false
-        }
-    },
-    "https://www.youtube.com/playlist?list=PLwB4Uz_0hoVMOnBRS49ICbNWOU5jhNNWC": {
-        "last_checked": "2026-04-20T12:37:20Z",
-        "youtube": {
-            "last_upload": "2016-11-23T15:59:18Z"
-        },
-        "signals": {
-            "actively_maintained": false,
-            "graveyard_candidate": true,
-            "vitality_hot": false
-        }
-    },
-    "https://www.youtube.com/playlist?list=PLwB4Uz_0hoVOLU7LPRNL4lAmJeAv7HQ-b": {
-        "last_checked": "2026-04-20T12:37:20Z",
-        "youtube": {
-            "last_upload": "2016-10-04T08:06:47Z"
-        },
-        "signals": {
-            "actively_maintained": false,
-            "graveyard_candidate": true,
-            "vitality_hot": false
-        }
-    },
-    "https://www.youtube.com/watch?v=tHxebA-jOSo": {
-        "last_checked": "2026-04-20T12:37:20Z",
-        "liveness": {
-            "link_status_since": "2026-04-20T10:15:02Z"
-        },
-        "signals": {
-            "link_status": "ok",
-            "graveyard_candidate": false,
-            "vitality_hot": false
-        }
-    },
-    "https://www.youtube.com/channel/UCxbWGz6h6KNQsi2ughRUV2Q": {
-        "last_checked": "2026-04-20T12:37:20Z",
-        "youtube": {
-            "last_upload": "2026-04-14T09:00:08Z"
-        },
-        "signals": {
-            "actively_maintained": true,
-            "graveyard_candidate": false,
-            "vitality_hot": false
-        }
-    },
-    "https://www.youtube.com/playlist?list=PLtaXuX0nEZk9eL59JGE3ny-_GAU-z5X5D": {
-        "last_checked": "2026-04-20T12:37:20Z",
-        "youtube": {
-            "last_upload": "2017-01-31T13:09:08Z"
-        },
-        "signals": {
-            "actively_maintained": false,
-            "graveyard_candidate": true,
-            "vitality_hot": false
-        }
-    },
-    "https://www.youtube.com/channel/UCRFDWo7jTlrpEsJxzc7WyPw": {
-        "last_checked": "2026-04-20T12:37:20Z",
-        "youtube": {
-            "last_upload": "2018-09-06T09:51:02Z"
-        },
-        "signals": {
-            "actively_maintained": false,
-            "graveyard_candidate": true,
-            "vitality_hot": false
-        }
-    },
-    "https://www.mage2.tv": {
-        "last_checked": "2026-04-20T12:37:20Z",
-        "liveness": {
-            "link_status_since": "2026-04-20T10:15:02Z"
-        },
-        "signals": {
-            "link_status": "broken",
-            "graveyard_candidate": false,
-            "vitality_hot": false
-        }
-    },
-    "https://github.com/magento-notes/magento2-exam-notes": {
-        "last_checked": "2026-04-20T12:37:20Z",
-        "github": {
-            "stars": 701,
-            "last_commit": "2021-08-15T09:48:29Z",
-            "last_release": null,
-            "archived": false,
-            "fork": false
-        },
-        "signals": {
-            "actively_maintained": false,
-            "graveyard_candidate": true,
-            "vitality_hot": false
-        }
-    },
-    "https://github.com/magento-notes/magento2-cloud-developer-notes": {
-        "last_checked": "2026-04-20T12:37:20Z",
-        "github": {
-            "stars": 85,
-            "last_commit": "2019-04-10T16:56:01Z",
-            "last_release": null,
-            "archived": false,
-            "fork": false
-        },
-        "signals": {
-            "actively_maintained": false,
-            "graveyard_candidate": true,
-            "vitality_hot": false
-        }
-    },
-    "https://github.com/roma-glushko/magento2-dev-plus-exam": {
-        "last_checked": "2026-04-20T12:37:20Z",
-        "github": {
-            "stars": 77,
-            "last_commit": "2019-11-23T20:41:40Z",
-            "last_release": null,
-            "archived": false,
-            "fork": false
-        },
-        "signals": {
-            "actively_maintained": false,
-            "graveyard_candidate": true,
-            "vitality_hot": false
-        }
-    },
-    "https://github.com/fisheye-academy/m2cpfed-training": {
-        "last_checked": "2026-04-20T12:37:20Z",
-        "github": {
-            "stars": 114,
-            "last_commit": "2020-09-30T18:51:53Z",
-            "last_release": null,
-            "archived": false,
-            "fork": false
-        },
-        "signals": {
-            "actively_maintained": false,
-            "graveyard_candidate": true,
-            "vitality_hot": false
-        }
-    },
-    "https://www.yireo.com/training": {
-        "last_checked": "2026-04-20T12:37:20Z",
-        "liveness": {
-            "link_status_since": "2026-04-20T10:15:02Z"
-        },
-        "signals": {
-            "link_status": "ok",
-            "graveyard_candidate": false,
-            "vitality_hot": false
-        }
-    },
-    "https://www.magento.com": {
-        "last_checked": "2026-04-20T12:37:20Z",
-        "liveness": {
-            "link_status_since": "2026-04-20T10:15:02Z"
-        },
-        "signals": {
-            "link_status": "broken",
-            "graveyard_candidate": false,
-            "vitality_hot": false
-        }
-    },
-    "http://devdocs.magento.com/": {
-        "last_checked": "2026-04-20T12:37:20Z",
-        "liveness": {
-            "link_status_since": "2026-04-20T10:15:02Z"
-        },
-        "signals": {
-            "link_status": "ok",
-            "graveyard_candidate": false,
-            "vitality_hot": false
-        }
-    },
-    "https://community.magento.com/": {
-        "last_checked": "2026-04-20T12:37:20Z",
-        "liveness": {
-            "link_status_since": "2026-04-20T10:15:02Z"
-        },
-        "signals": {
-            "link_status": "broken",
-            "graveyard_candidate": false,
-            "vitality_hot": false
-        }
-    },
-    "https://github.com/magento/magento2": {
-        "last_checked": "2026-04-20T12:37:20Z",
-        "github": {
-            "stars": 12089,
-            "last_commit": "2026-04-14T19:26:06Z",
-            "last_release": "2026-03-10T14:04:22Z",
-            "archived": false,
-            "fork": false
-        },
-        "signals": {
-            "actively_maintained": true,
-            "graveyard_candidate": false,
-            "vitality_hot": false
-        }
-    },
-    "https://community.magento.com/t5/Magento-DevBlog/bg-p/devblog": {
-        "last_checked": "2026-04-20T12:37:20Z",
-        "liveness": {
-            "link_status_since": "2026-04-20T10:15:02Z"
-        },
-        "signals": {
-            "link_status": "broken",
-            "graveyard_candidate": false,
-            "vitality_hot": false
-        }
-    },
-    "https://github.com/magento/data-migration-tool": {
-        "last_checked": "2026-04-20T12:37:20Z",
-        "github": {
-            "stars": 339,
-            "last_commit": "2025-06-03T16:09:29Z",
-            "last_release": "2025-06-03T16:09:29Z",
-            "archived": false,
-            "fork": false
-        },
-        "signals": {
-            "actively_maintained": false,
-            "graveyard_candidate": false,
-            "vitality_hot": false
-        }
-    },
-    "https://github.com/magento/magento-coding-standard": {
-        "last_checked": "2026-04-20T12:37:20Z",
-        "github": {
-            "stars": 372,
-            "last_commit": "2026-03-06T07:13:38Z",
-            "last_release": "2026-03-06T07:13:39Z",
-            "archived": false,
-            "fork": false
-        },
-        "signals": {
-            "actively_maintained": true,
-            "graveyard_candidate": false,
-            "vitality_hot": false
-        }
-    },
-    "https://github.com/magento/architecture": {
-        "last_checked": "2026-04-20T12:37:20Z",
-        "github": {
-            "stars": 279,
-            "last_commit": "2025-01-21T19:23:53Z",
-            "last_release": null,
-            "archived": false,
-            "fork": false
-        },
-        "signals": {
-            "actively_maintained": false,
-            "graveyard_candidate": false,
-            "vitality_hot": false
-        }
-    },
     "https://www.atwix.com/blog/": {
-        "last_checked": "2026-04-20T12:37:20Z",
+        "last_checked": "2026-04-27T03:01:17Z",
         "blog": {
             "feed_url": "https://www.atwix.com/feed/",
-            "last_post": "2026-04-20T10:55:40Z"
+            "last_post": "2026-04-24T16:52:15Z"
         },
         "signals": {
             "actively_maintained": true,
@@ -756,7 +12,7 @@
         }
     },
     "https://www.classyllama.com/blog": {
-        "last_checked": "2026-04-20T12:37:20Z",
+        "last_checked": "2026-04-27T03:01:17Z",
         "blog": {
             "feed_url": "https://classyllama.com/feed/",
             "last_post": "2026-03-18T19:49:08Z"
@@ -768,7 +24,7 @@
         }
     },
     "https://dev98.de/": {
-        "last_checked": "2026-04-20T12:37:20Z",
+        "last_checked": "2026-04-27T03:01:17Z",
         "blog": {
             "feed_url": "https://dev98.de/feed/",
             "last_post": "2025-02-12T12:22:02Z"
@@ -780,10 +36,10 @@
         }
     },
     "https://firebearstudio.com/blog": {
-        "last_checked": "2026-04-20T12:37:20Z",
+        "last_checked": "2026-04-27T03:01:17Z",
         "blog": {
             "feed_url": "https://firebearstudio.com/blog/feed",
-            "last_post": "2026-04-20T08:36:40Z"
+            "last_post": "2026-04-23T09:00:59Z"
         },
         "signals": {
             "actively_maintained": true,
@@ -792,7 +48,7 @@
         }
     },
     "http://store.fooman.co.nz/blog": {
-        "last_checked": "2026-04-20T12:37:20Z",
+        "last_checked": "2026-04-27T03:01:17Z",
         "blog": {
             "feed_url": null,
             "last_post": null
@@ -804,7 +60,7 @@
         }
     },
     "http://inchoo.net/category/magento-2/": {
-        "last_checked": "2026-04-20T12:37:20Z",
+        "last_checked": "2026-04-27T03:01:17Z",
         "blog": {
             "feed_url": "https://inchoo.net/feed/",
             "last_post": "2026-04-09T12:05:51Z"
@@ -816,7 +72,7 @@
         }
     },
     "https://m.academy/blog/": {
-        "last_checked": "2026-04-20T12:37:20Z",
+        "last_checked": "2026-04-27T03:01:17Z",
         "blog": {
             "feed_url": "https://m.academy/feed",
             "last_post": "2025-09-14T00:00:00Z"
@@ -828,7 +84,7 @@
         }
     },
     "https://www.integer-net.com/blog/": {
-        "last_checked": "2026-04-20T12:37:20Z",
+        "last_checked": "2026-04-27T03:01:17Z",
         "blog": {
             "feed_url": null,
             "last_post": null
@@ -840,7 +96,7 @@
         }
     },
     "https://magecomp.com/blog/category/magento-2/": {
-        "last_checked": "2026-04-20T12:37:20Z",
+        "last_checked": "2026-04-27T03:01:17Z",
         "blog": {
             "feed_url": "https://magecomp.com/blog/web-stories/feed/",
             "last_post": null
@@ -852,7 +108,7 @@
         }
     },
     "https://blog.bitexpert.de/blog/tags/magento": {
-        "last_checked": "2026-04-20T12:37:20Z",
+        "last_checked": "2026-04-27T03:01:17Z",
         "blog": {
             "feed_url": null,
             "last_post": null
@@ -864,7 +120,7 @@
         }
     },
     "https://blog.onestepcheckout.com/": {
-        "last_checked": "2026-04-20T12:37:20Z",
+        "last_checked": "2026-04-27T03:01:17Z",
         "blog": {
             "feed_url": "https://blog.onestepcheckout.com/feed/",
             "last_post": null
@@ -876,13 +132,13 @@
         }
     },
     "http://magetalk.com/": {
-        "last_checked": "2026-04-20T12:37:20Z",
+        "last_checked": "2026-04-27T03:01:17Z",
         "signals": {
             "vitality_hot": false
         }
     },
     "http://alanstorm.com/category/magento-2/": {
-        "last_checked": "2026-04-20T12:37:20Z",
+        "last_checked": "2026-04-27T03:01:17Z",
         "blog": {
             "feed_url": "https://alanastorm.com/feed/feed.xml",
             "last_post": null
@@ -894,7 +150,7 @@
         }
     },
     "https://www.schmengler-se.de/": {
-        "last_checked": "2026-04-20T12:37:20Z",
+        "last_checked": "2026-04-27T03:01:17Z",
         "blog": {
             "feed_url": null,
             "last_post": null
@@ -906,70 +162,10 @@
         }
     },
     "https://jigarkarangiya.com/": {
-        "last_checked": "2026-04-20T12:37:20Z",
+        "last_checked": "2026-04-27T03:01:17Z",
         "blog": {
-            "feed_url": "https://jigarkarangiya.com/feed/",
-            "last_post": "2026-01-29T07:45:03Z"
-        },
-        "signals": {
-            "actively_maintained": false,
-            "graveyard_candidate": false,
-            "vitality_hot": false
-        }
-    },
-    "https://github.com/netz98/n98-magerun2": {
-        "last_checked": "2026-04-20T12:37:20Z",
-        "github": {
-            "stars": 925,
-            "last_commit": "2026-04-20T07:32:49Z",
-            "last_release": "2026-04-10T12:18:57Z",
-            "archived": false,
-            "fork": false
-        },
-        "signals": {
-            "actively_maintained": true,
-            "graveyard_candidate": false,
-            "vitality_hot": false
-        }
-    },
-    "https://github.com/run-as-root/magento2-message-queue-retry": {
-        "last_checked": "2026-04-20T12:37:20Z",
-        "github": {
-            "stars": 64,
-            "last_commit": "2025-10-15T09:06:26Z",
-            "last_release": "2025-10-15T09:06:26Z",
-            "archived": false,
-            "fork": false
-        },
-        "signals": {
-            "actively_maintained": false,
-            "graveyard_candidate": false,
-            "vitality_hot": false
-        }
-    },
-    "https://github.com/OpenForgeProject/mageforge": {
-        "last_checked": "2026-04-20T12:37:20Z",
-        "github": {
-            "stars": 18,
-            "last_commit": "2026-04-18T07:21:24Z",
-            "last_release": "2026-04-16T20:38:24Z",
-            "archived": false,
-            "fork": false
-        },
-        "signals": {
-            "actively_maintained": true,
-            "graveyard_candidate": false,
-            "vitality_hot": false
-        }
-    },
-    "https://github.com/DavidLambauer/Alfred-Workflow-Magento-2-DevDocs-Search": {
-        "last_checked": "2026-04-20T12:37:20Z",
-        "github": {
-            "stars": 10,
-            "last_commit": "2016-11-19T18:36:53Z",
-            "last_release": null,
-            "archived": false,
-            "fork": false
+            "feed_url": null,
+            "last_post": null
         },
         "signals": {
             "actively_maintained": false,
@@ -977,8 +173,30 @@
             "vitality_hot": false
         }
     },
-    "https://www.tableratesgenerator.com/": {
-        "last_checked": "2026-04-20T12:37:20Z",
+    "https://www.aheadworks.com/": {
+        "last_checked": "2026-04-27T03:01:17Z",
+        "liveness": {
+            "link_status_since": "2026-04-20T10:15:02Z"
+        },
+        "signals": {
+            "link_status": "broken",
+            "graveyard_candidate": false,
+            "vitality_hot": false
+        }
+    },
+    "https://shop.altima.net.au/": {
+        "last_checked": "2026-04-27T03:01:17Z",
+        "liveness": {
+            "link_status_since": "2026-04-20T10:15:02Z"
+        },
+        "signals": {
+            "link_status": "broken",
+            "graveyard_candidate": false,
+            "vitality_hot": false
+        }
+    },
+    "http://bluejalappeno.com/": {
+        "last_checked": "2026-04-27T03:01:17Z",
         "liveness": {
             "link_status_since": "2026-04-20T10:15:02Z"
         },
@@ -988,14 +206,241 @@
             "vitality_hot": false
         }
     },
-    "https://github.com/astorm/pestle": {
-        "last_checked": "2026-04-20T12:37:20Z",
-        "github": {
-            "stars": 532,
-            "last_commit": "2023-04-19T19:18:27Z",
-            "last_release": null,
-            "archived": false,
-            "fork": false
+    "https://www.customgento.com/extensions/": {
+        "last_checked": "2026-04-27T03:01:17Z",
+        "liveness": {
+            "link_status_since": "2026-04-20T10:15:02Z"
+        },
+        "signals": {
+            "link_status": "ok",
+            "graveyard_candidate": false,
+            "vitality_hot": false
+        }
+    },
+    "https://www.dotmailer.com/": {
+        "last_checked": "2026-04-27T03:01:17Z",
+        "liveness": {
+            "link_status_since": "2026-04-20T10:15:02Z"
+        },
+        "signals": {
+            "link_status": "ok",
+            "graveyard_candidate": false,
+            "vitality_hot": false
+        }
+    },
+    "https://www.integer-net.com/solr-magento/": {
+        "last_checked": "2026-04-27T03:01:17Z",
+        "liveness": {
+            "link_status_since": "2026-04-20T10:15:02Z"
+        },
+        "signals": {
+            "link_status": "ok",
+            "graveyard_candidate": false,
+            "vitality_hot": false
+        }
+    },
+    "https://genmato.com/": {
+        "last_checked": "2026-04-27T03:01:17Z",
+        "liveness": {
+            "link_status_since": "2026-04-20T10:15:02Z"
+        },
+        "signals": {
+            "link_status": "broken",
+            "graveyard_candidate": false,
+            "vitality_hot": false
+        }
+    },
+    "http://store.fooman.co.nz/": {
+        "last_checked": "2026-04-27T03:01:17Z",
+        "liveness": {
+            "link_status_since": "2026-04-20T10:15:02Z"
+        },
+        "signals": {
+            "link_status": "ok",
+            "graveyard_candidate": false,
+            "vitality_hot": false
+        }
+    },
+    "https://ebizmarts.com/": {
+        "last_checked": "2026-04-27T03:01:17Z",
+        "liveness": {
+            "link_status_since": "2026-04-20T10:15:02Z"
+        },
+        "signals": {
+            "link_status": "broken",
+            "graveyard_candidate": false,
+            "vitality_hot": false
+        }
+    },
+    "https://magemail.co/": {
+        "last_checked": "2026-04-27T03:01:17Z",
+        "liveness": {
+            "link_status_since": "2026-04-27T03:01:17Z"
+        },
+        "signals": {
+            "link_status": "broken",
+            "graveyard_candidate": false,
+            "vitality_hot": false
+        }
+    },
+    "https://packagist.org/packages/magepal/": {
+        "last_checked": "2026-04-27T03:01:17Z",
+        "liveness": {
+            "link_status_since": "2026-04-20T10:15:02Z"
+        },
+        "signals": {
+            "link_status": "ok",
+            "graveyard_candidate": false,
+            "vitality_hot": false
+        }
+    },
+    "https://www.modulwerft.com/": {
+        "last_checked": "2026-04-27T03:01:17Z",
+        "liveness": {
+            "link_status_since": "2026-04-20T10:15:02Z"
+        },
+        "signals": {
+            "link_status": "ok",
+            "graveyard_candidate": false,
+            "vitality_hot": false
+        }
+    },
+    "https://www.paradoxlabs.com/": {
+        "last_checked": "2026-04-27T03:01:17Z",
+        "liveness": {
+            "link_status_since": "2026-04-20T10:15:02Z"
+        },
+        "signals": {
+            "link_status": "ok",
+            "graveyard_candidate": false,
+            "vitality_hot": false
+        }
+    },
+    "https://github.com/theextensionlab/": {
+        "last_checked": "2026-04-27T03:01:17Z",
+        "liveness": {
+            "link_status_since": "2026-04-20T10:15:02Z"
+        },
+        "signals": {
+            "link_status": "ok",
+            "graveyard_candidate": false,
+            "vitality_hot": false
+        }
+    },
+    "https://www.sweettoothrewards.com/": {
+        "last_checked": "2026-04-27T03:01:17Z",
+        "liveness": {
+            "link_status_since": "2026-04-20T10:15:02Z"
+        },
+        "signals": {
+            "link_status": "ok",
+            "graveyard_candidate": false,
+            "vitality_hot": false
+        }
+    },
+    "http://rocketweb.com/": {
+        "last_checked": "2026-04-27T03:01:17Z",
+        "liveness": {
+            "link_status_since": "2026-04-20T10:15:02Z"
+        },
+        "signals": {
+            "link_status": "ok",
+            "graveyard_candidate": false,
+            "vitality_hot": false
+        }
+    },
+    "https://www.proxiblue.com.au/": {
+        "last_checked": "2026-04-27T03:01:17Z",
+        "liveness": {
+            "link_status_since": "2026-04-20T10:15:02Z"
+        },
+        "signals": {
+            "link_status": "broken",
+            "graveyard_candidate": false,
+            "vitality_hot": false
+        }
+    },
+    "http://www.unirgy.com/": {
+        "last_checked": "2026-04-27T03:01:17Z",
+        "liveness": {
+            "link_status_since": "2026-04-20T10:15:02Z"
+        },
+        "signals": {
+            "link_status": "broken",
+            "graveyard_candidate": false,
+            "vitality_hot": false
+        }
+    },
+    "http://webshopapps.com/eu/": {
+        "last_checked": "2026-04-27T03:01:17Z",
+        "liveness": {
+            "link_status_since": "2026-04-20T10:15:02Z"
+        },
+        "signals": {
+            "link_status": "broken",
+            "graveyard_candidate": false,
+            "vitality_hot": false
+        }
+    },
+    "https://www.yireo.com/": {
+        "last_checked": "2026-04-27T03:01:17Z",
+        "liveness": {
+            "link_status_since": "2026-04-20T10:15:02Z"
+        },
+        "signals": {
+            "link_status": "ok",
+            "graveyard_candidate": false,
+            "vitality_hot": false
+        }
+    },
+    "https://firebearstudio.com/": {
+        "last_checked": "2026-04-27T03:01:17Z",
+        "liveness": {
+            "link_status_since": "2026-04-20T10:15:02Z"
+        },
+        "signals": {
+            "link_status": "ok",
+            "graveyard_candidate": false,
+            "vitality_hot": false
+        }
+    },
+    "https://www.mageunconference.org/": {
+        "last_checked": "2026-04-27T03:01:17Z",
+        "event": {
+            "latest_year_on_page": 2025
+        },
+        "signals": {
+            "actively_maintained": false,
+            "graveyard_candidate": false,
+            "vitality_hot": false
+        }
+    },
+    "https://mageunconference.nl/": {
+        "last_checked": "2026-04-27T03:01:17Z",
+        "event": {
+            "latest_year_on_page": 2026
+        },
+        "signals": {
+            "actively_maintained": true,
+            "graveyard_candidate": false,
+            "vitality_hot": false
+        }
+    },
+    "https://www.meetcommerce.com/": {
+        "last_checked": "2026-04-27T03:01:17Z",
+        "event": {
+            "latest_year_on_page": 2026
+        },
+        "signals": {
+            "actively_maintained": true,
+            "graveyard_candidate": false,
+            "vitality_hot": false
+        }
+    },
+    "https://meetmagentobaltics.com/": {
+        "last_checked": "2026-04-27T03:01:17Z",
+        "event": {
+            "latest_year_on_page": null
         },
         "signals": {
             "actively_maintained": false,
@@ -1003,85 +448,10 @@
             "vitality_hot": false
         }
     },
-    "https://mage2gen.com/": {
-        "last_checked": "2026-04-20T12:37:20Z",
-        "liveness": {
-            "link_status_since": "2026-04-20T10:15:02Z"
-        },
-        "signals": {
-            "link_status": "ok",
-            "graveyard_candidate": false,
-            "vitality_hot": false
-        }
-    },
-    "https://github.com/magespecialist/mage-chrome-toolbar": {
-        "last_checked": "2026-04-20T12:37:20Z",
-        "github": {
-            "stars": 337,
-            "last_commit": "2024-04-22T16:30:32Z",
-            "last_release": "2017-09-29T08:36:28Z",
-            "archived": false,
-            "fork": false
-        },
-        "signals": {
-            "actively_maintained": false,
-            "graveyard_candidate": false,
-            "vitality_hot": false
-        }
-    },
-    "https://github.com/magespecialist/m2-MSP_DevTools": {
-        "last_checked": "2026-04-20T12:37:20Z",
-        "github": {
-            "stars": 222,
-            "last_commit": "2024-06-20T07:52:12Z",
-            "last_release": "2024-04-22T16:56:43Z",
-            "archived": false,
-            "fork": false
-        },
-        "signals": {
-            "actively_maintained": false,
-            "graveyard_candidate": false,
-            "vitality_hot": false
-        }
-    },
-    "https://github.com/aliuosio/magento2docker": {
-        "last_checked": "2026-04-20T12:37:20Z",
-        "github": {
-            "stars": 3,
-            "last_commit": "2025-03-31T12:04:18Z",
-            "last_release": "2023-02-10T07:52:39Z",
-            "archived": false,
-            "fork": false
-        },
-        "signals": {
-            "actively_maintained": false,
-            "graveyard_candidate": false,
-            "vitality_hot": false
-        }
-    },
-    "https://github.com/markshust/docker-magento": {
-        "last_checked": "2026-04-20T12:37:20Z",
-        "github": {
-            "stars": 2849,
-            "last_commit": "2026-03-25T12:29:03Z",
-            "last_release": null,
-            "archived": false,
-            "fork": false
-        },
-        "signals": {
-            "actively_maintained": false,
-            "graveyard_candidate": false,
-            "vitality_hot": false
-        }
-    },
-    "https://github.com/wardenenv/warden": {
-        "last_checked": "2026-04-20T12:37:20Z",
-        "github": {
-            "stars": 462,
-            "last_commit": "2026-04-14T14:02:40Z",
-            "last_release": "2026-04-14T13:58:07Z",
-            "archived": false,
-            "fork": false
+    "https://meetmagentobrasil.org/": {
+        "last_checked": "2026-04-27T03:01:17Z",
+        "event": {
+            "latest_year_on_page": 2026
         },
         "signals": {
             "actively_maintained": true,
@@ -1089,44 +459,10 @@
             "vitality_hot": false
         }
     },
-    "https://github.com/ddev/ddev": {
-        "last_checked": "2026-04-20T12:37:20Z",
-        "github": {
-            "stars": 3569,
-            "last_commit": "2026-04-20T12:20:17Z",
-            "last_release": "2026-02-23T11:38:14Z",
-            "archived": false,
-            "fork": false
-        },
-        "signals": {
-            "actively_maintained": true,
-            "graveyard_candidate": false,
-            "vitality_hot": true
-        }
-    },
-    "https://github.com/AmpersandHQ/ampersand-magento2-upgrade-patch-helper": {
-        "last_checked": "2026-04-20T12:37:20Z",
-        "github": {
-            "stars": 333,
-            "last_commit": "2024-11-11T08:33:25Z",
-            "last_release": "2024-11-11T08:33:26Z",
-            "archived": false,
-            "fork": false
-        },
-        "signals": {
-            "actively_maintained": false,
-            "graveyard_candidate": false,
-            "vitality_hot": false
-        }
-    },
-    "https://github.com/magento/magento2-phpstorm-plugin": {
-        "last_checked": "2026-04-20T12:37:20Z",
-        "github": {
-            "stars": 457,
-            "last_commit": "2026-04-19T10:06:39Z",
-            "last_release": "2026-04-18T08:39:21Z",
-            "archived": false,
-            "fork": false
+    "https://meetmagentofl.com/": {
+        "last_checked": "2026-04-27T03:01:17Z",
+        "event": {
+            "latest_year_on_page": 2026
         },
         "signals": {
             "actively_maintained": true,
@@ -1134,44 +470,10 @@
             "vitality_hot": false
         }
     },
-    "https://github.com/nunomaduro/phpinsights": {
-        "last_checked": "2026-04-20T12:37:20Z",
-        "github": {
-            "stars": 5591,
-            "last_commit": "2026-04-18T03:09:01Z",
-            "last_release": "2026-04-12T18:11:21Z",
-            "archived": false,
-            "fork": false
-        },
-        "signals": {
-            "actively_maintained": true,
-            "graveyard_candidate": false,
-            "vitality_hot": true
-        }
-    },
-    "https://github.com/roma-glushko/tango": {
-        "last_checked": "2026-04-20T12:37:20Z",
-        "github": {
-            "stars": 113,
-            "last_commit": "2026-02-24T22:36:07Z",
-            "last_release": "2026-02-17T18:38:02Z",
-            "archived": false,
-            "fork": false
-        },
-        "signals": {
-            "actively_maintained": true,
-            "graveyard_candidate": false,
-            "vitality_hot": false
-        }
-    },
-    "https://github.com/elgentos/masquerade": {
-        "last_checked": "2026-04-20T12:37:20Z",
-        "github": {
-            "stars": 232,
-            "last_commit": "2023-10-19T12:17:24Z",
-            "last_release": "2022-11-22T15:21:14Z",
-            "archived": true,
-            "fork": false
+    "https://www.meetmagento.in/": {
+        "last_checked": "2026-04-27T03:01:17Z",
+        "event": {
+            "latest_year_on_page": null
         },
         "signals": {
             "actively_maintained": false,
@@ -1179,25 +481,10 @@
             "vitality_hot": false
         }
     },
-    "https://chrome.google.com/webstore/detail/magento-2-composer-patche/gfndadbceejgfjahpfaijcacnmdloiad": {
-        "last_checked": "2026-04-20T12:37:20Z",
-        "liveness": {
-            "link_status_since": "2026-04-20T10:15:02Z"
-        },
-        "signals": {
-            "link_status": "ok",
-            "graveyard_candidate": false,
-            "vitality_hot": false
-        }
-    },
-    "https://github.com/opengento/magento2-downgrade-ee-ce": {
-        "last_checked": "2026-04-20T12:37:20Z",
-        "github": {
-            "stars": 89,
-            "last_commit": "2025-11-17T18:04:36Z",
-            "last_release": "2025-11-17T18:04:36Z",
-            "archived": false,
-            "fork": false
+    "https://www.meetmagento.asia/": {
+        "last_checked": "2026-04-27T03:01:17Z",
+        "event": {
+            "latest_year_on_page": 2024
         },
         "signals": {
             "actively_maintained": false,
@@ -1205,14 +492,10 @@
             "vitality_hot": false
         }
     },
-    "https://github.com/jellesiderius/mage-db-sync": {
-        "last_checked": "2026-04-20T12:37:20Z",
-        "github": {
-            "stars": 82,
-            "last_commit": "2026-01-28T10:09:55Z",
-            "last_release": "2026-01-28T10:09:55Z",
-            "archived": false,
-            "fork": false
+    "https://nl.meet-magento.com/": {
+        "last_checked": "2026-04-27T03:01:17Z",
+        "event": {
+            "latest_year_on_page": 2026
         },
         "signals": {
             "actively_maintained": true,
@@ -1220,14 +503,21 @@
             "vitality_hot": false
         }
     },
-    "https://github.com/subodha/magento-2-gulp": {
-        "last_checked": "2026-04-20T12:37:20Z",
-        "github": {
-            "stars": 74,
-            "last_commit": "2021-05-10T03:42:13Z",
-            "last_release": "2021-04-20T01:01:08Z",
-            "archived": false,
-            "fork": false
+    "https://meetmagentonyc.com/": {
+        "last_checked": "2026-04-27T03:01:17Z",
+        "event": {
+            "latest_year_on_page": 2026
+        },
+        "signals": {
+            "actively_maintained": true,
+            "graveyard_candidate": false,
+            "vitality_hot": false
+        }
+    },
+    "https://meetmagento.pl/": {
+        "last_checked": "2026-04-27T03:01:17Z",
+        "event": {
+            "latest_year_on_page": null
         },
         "signals": {
             "actively_maintained": false,
@@ -1235,29 +525,10 @@
             "vitality_hot": false
         }
     },
-    "https://github.com/baldwin-agency/magento2-module-url-data-integrity-checker": {
-        "last_checked": "2026-04-20T12:37:20Z",
-        "github": {
-            "stars": 281,
-            "last_commit": "2026-04-14T16:28:58Z",
-            "last_release": "2026-04-14T16:28:58Z",
-            "archived": false,
-            "fork": false
-        },
-        "signals": {
-            "actively_maintained": true,
-            "graveyard_candidate": false,
-            "vitality_hot": false
-        }
-    },
-    "https://github.com/clickAndMortar/mage-wizard": {
-        "last_checked": "2026-04-20T12:37:20Z",
-        "github": {
-            "stars": 20,
-            "last_commit": "2024-05-17T08:57:25Z",
-            "last_release": "2024-05-17T08:58:57Z",
-            "archived": false,
-            "fork": false
+    "https://ro.meet-magento.com/": {
+        "last_checked": "2026-04-27T03:01:17Z",
+        "event": {
+            "latest_year_on_page": 2025
         },
         "signals": {
             "actively_maintained": false,
@@ -1265,151 +536,10 @@
             "vitality_hot": false
         }
     },
-    "https://github.com/GrimLink/mage": {
-        "last_checked": "2026-04-20T12:37:20Z",
-        "github": {
-            "stars": 24,
-            "last_commit": "2026-03-29T20:09:09Z",
-            "last_release": "2026-03-08T15:48:17Z",
-            "archived": false,
-            "fork": false
-        },
-        "signals": {
-            "actively_maintained": true,
-            "graveyard_candidate": false,
-            "vitality_hot": false
-        }
-    },
-    "https://marketplace.visualstudio.com/items?itemName=MathiasElle.magento-log-viewer": {
-        "last_checked": "2026-04-20T12:37:20Z",
-        "liveness": {
-            "link_status_since": "2026-04-20T10:15:02Z"
-        },
-        "signals": {
-            "link_status": "ok",
-            "graveyard_candidate": false,
-            "vitality_hot": false
-        }
-    },
-    "https://twitter.com/benmarks": {
-        "last_checked": "2026-04-20T12:37:20Z",
-        "signals": {
-            "vitality_hot": false
-        }
-    },
-    "https://alanstorm.com/": {
-        "last_checked": "2026-04-20T12:37:20Z",
-        "signals": {
-            "vitality_hot": false
-        }
-    },
-    "https://github.com/Vinai": {
-        "last_checked": "2026-04-20T12:37:20Z",
-        "signals": {
-            "vitality_hot": false
-        }
-    },
-    "https://github.com/schmengler": {
-        "last_checked": "2026-04-20T12:37:20Z",
-        "signals": {
-            "vitality_hot": false
-        }
-    },
-    "https://github.com/aleron75": {
-        "last_checked": "2026-04-20T12:37:20Z",
-        "signals": {
-            "vitality_hot": false
-        }
-    },
-    "https://github.com/avoelkl": {
-        "last_checked": "2026-04-20T12:37:20Z",
-        "signals": {
-            "vitality_hot": false
-        }
-    },
-    "https://github.com/peterjaap": {
-        "last_checked": "2026-04-20T12:37:20Z",
-        "signals": {
-            "vitality_hot": false
-        }
-    },
-    "https://github.com/sandermangel": {
-        "last_checked": "2026-04-20T12:37:20Z",
-        "signals": {
-            "vitality_hot": false
-        }
-    },
-    "https://github.com/jreitsma": {
-        "last_checked": "2026-04-20T12:37:20Z",
-        "signals": {
-            "vitality_hot": false
-        }
-    },
-    "https://github.com/rpanarin": {
-        "last_checked": "2026-04-20T12:37:20Z",
-        "signals": {
-            "vitality_hot": false
-        }
-    },
-    "https://davidalger.com/": {
-        "last_checked": "2026-04-20T12:37:20Z",
-        "signals": {
-            "vitality_hot": false
-        }
-    },
-    "https://markshust.com/": {
-        "last_checked": "2026-04-20T12:37:20Z",
-        "signals": {
-            "vitality_hot": false
-        }
-    },
-    "https://github.com/maxpronko": {
-        "last_checked": "2026-04-20T12:37:20Z",
-        "signals": {
-            "vitality_hot": false
-        }
-    },
-    "https://github.com/EcomDev": {
-        "last_checked": "2026-04-20T12:37:20Z",
-        "signals": {
-            "vitality_hot": false
-        }
-    },
-    "https://github.com/roma-glushko": {
-        "last_checked": "2026-04-20T12:37:20Z",
-        "signals": {
-            "vitality_hot": false
-        }
-    },
-    "https://github.com/MathiasElle": {
-        "last_checked": "2026-04-20T12:37:20Z",
-        "signals": {
-            "vitality_hot": false
-        }
-    },
-    "https://github.com/PAYONE-GmbH/magento-2": {
-        "last_checked": "2026-04-20T12:37:20Z",
-        "github": {
-            "stars": 28,
-            "last_commit": "2026-04-20T11:22:05Z",
-            "last_release": "2026-02-16T10:15:48Z",
-            "archived": false,
-            "fork": false
-        },
-        "signals": {
-            "actively_maintained": true,
-            "graveyard_candidate": false,
-            "vitality_hot": false
-        }
-    },
-    "https://github.com/pmclain/module-stripe": {
-        "last_checked": "2026-04-20T12:37:20Z",
-        "github": {
-            "stars": 47,
-            "last_commit": "2018-12-18T12:07:29Z",
-            "last_release": "2018-08-11T13:21:10Z",
-            "archived": true,
-            "fork": false
+    "https://meetmagento.sg/": {
+        "last_checked": "2026-04-27T03:01:17Z",
+        "event": {
+            "latest_year_on_page": null
         },
         "signals": {
             "actively_maintained": false,
@@ -1417,33 +547,37 @@
             "vitality_hot": false
         }
     },
-    "https://marketplace.magento.com/paypal-module-braintree.html": {
-        "last_checked": "2026-04-20T12:37:20Z",
-        "liveness": {
-            "link_status_since": "2026-04-20T10:15:02Z"
+    "https://meet-magento.co.uk/": {
+        "last_checked": "2026-04-27T03:01:17Z",
+        "event": {
+            "latest_year_on_page": 2026
         },
         "signals": {
-            "link_status": "ok",
+            "actively_maintained": true,
             "graveyard_candidate": false,
             "vitality_hot": false
         }
     },
-    "https://experienceleague.adobe.com/tools/commerce-quality-patches/index.html": {
-        "last_checked": "2026-04-20T12:37:20Z",
-        "liveness": {
-            "link_status_since": "2026-04-20T10:15:02Z"
-        },
-        "signals": {
-            "link_status": "ok",
-            "graveyard_candidate": false,
-            "vitality_hot": false
-        }
-    },
-    "https://github.com/fastly/fastly-magento2": {
-        "last_checked": "2026-04-20T12:37:20Z",
+    "https://github.com/mage-os/mageos-magento2": {
+        "last_checked": "2026-04-27T03:01:17Z",
         "github": {
-            "stars": 156,
-            "last_commit": "2026-04-07T12:51:43Z",
+            "stars": 264,
+            "last_commit": "2026-04-24T02:32:46Z",
+            "last_release": "2026-03-11T03:35:33Z",
+            "archived": false,
+            "fork": false
+        },
+        "signals": {
+            "actively_maintained": true,
+            "graveyard_candidate": false,
+            "vitality_hot": false
+        }
+    },
+    "https://github.com/run-as-root/ACP-for-Magento-2": {
+        "last_checked": "2026-04-27T03:01:17Z",
+        "github": {
+            "stars": 13,
+            "last_commit": "2025-10-10T18:39:22Z",
             "last_release": null,
             "archived": false,
             "fork": false
@@ -1454,27 +588,12 @@
             "vitality_hot": false
         }
     },
-    "https://github.com/Ethan3600/magento2-CronjobManager": {
-        "last_checked": "2026-04-20T12:37:20Z",
+    "https://github.com/elgentos/magento2-regenerate-catalog-urls": {
+        "last_checked": "2026-04-27T03:01:17Z",
         "github": {
-            "stars": 363,
-            "last_commit": "2026-04-13T16:48:42Z",
-            "last_release": "2025-04-11T14:56:08Z",
-            "archived": false,
-            "fork": false
-        },
-        "signals": {
-            "actively_maintained": false,
-            "graveyard_candidate": false,
-            "vitality_hot": true
-        }
-    },
-    "https://github.com/shkoliar/magento-ngrok": {
-        "last_checked": "2026-04-20T12:37:20Z",
-        "github": {
-            "stars": 48,
-            "last_commit": "2023-05-29T15:05:00Z",
-            "last_release": null,
+            "stars": 284,
+            "last_commit": "2025-08-11T06:21:57Z",
+            "last_release": "2025-08-11T06:21:57Z",
             "archived": false,
             "fork": false
         },
@@ -1484,27 +603,12 @@
             "vitality_hot": false
         }
     },
-    "https://github.com/sivaschenko/magento2-clean-media": {
-        "last_checked": "2026-04-20T12:37:20Z",
+    "https://github.com/yireo/Yireo_Webp2": {
+        "last_checked": "2026-04-27T03:01:17Z",
         "github": {
-            "stars": 95,
-            "last_commit": "2024-02-07T08:38:14Z",
-            "last_release": "2021-07-04T18:49:07Z",
-            "archived": false,
-            "fork": false
-        },
-        "signals": {
-            "actively_maintained": false,
-            "graveyard_candidate": false,
-            "vitality_hot": false
-        }
-    },
-    "https://github.com/creatuity/magento2-interceptors": {
-        "last_checked": "2026-04-20T12:37:20Z",
-        "github": {
-            "stars": 136,
-            "last_commit": "2025-04-15T06:22:09Z",
-            "last_release": "2020-11-24T22:32:26Z",
+            "stars": 210,
+            "last_commit": "2026-02-16T08:41:27Z",
+            "last_release": "2024-10-24T12:32:40Z",
             "archived": false,
             "fork": false
         },
@@ -1515,7 +619,7 @@
         }
     },
     "https://github.com/bitExpert/magento2-force-login": {
-        "last_checked": "2026-04-20T12:37:20Z",
+        "last_checked": "2026-04-27T03:01:17Z",
         "github": {
             "stars": 168,
             "last_commit": "2024-05-01T17:52:29Z",
@@ -1530,9 +634,9 @@
         }
     },
     "https://github.com/yireo/Yireo_CheckoutTester2": {
-        "last_checked": "2026-04-20T12:37:20Z",
+        "last_checked": "2026-04-27T03:01:17Z",
         "github": {
-            "stars": 93,
+            "stars": 92,
             "last_commit": "2024-10-24T12:04:51Z",
             "last_release": "2024-10-24T12:04:51Z",
             "archived": false,
@@ -1545,7 +649,7 @@
         }
     },
     "https://github.com/magepal/magento2-preview-checkout-success-page": {
-        "last_checked": "2026-04-20T12:37:20Z",
+        "last_checked": "2026-04-27T03:01:17Z",
         "github": {
             "stars": 76,
             "last_commit": "2026-01-14T18:04:31Z",
@@ -1560,7 +664,7 @@
         }
     },
     "https://github.com/firegento/FireGento_FastSimpleImport2": {
-        "last_checked": "2026-04-20T12:37:20Z",
+        "last_checked": "2026-04-27T03:01:17Z",
         "github": {
             "stars": 136,
             "last_commit": "2025-01-29T09:50:16Z",
@@ -1575,7 +679,7 @@
         }
     },
     "https://github.com/techdivision/import": {
-        "last_checked": "2026-04-20T12:37:20Z",
+        "last_checked": "2026-04-27T03:01:17Z",
         "github": {
             "stars": 128,
             "last_commit": "2026-04-14T15:44:23Z",
@@ -1590,10 +694,10 @@
         }
     },
     "https://github.com/SnowdogApps/magento2-menu": {
-        "last_checked": "2026-04-20T12:37:20Z",
+        "last_checked": "2026-04-27T03:01:17Z",
         "github": {
             "stars": 327,
-            "last_commit": "2026-04-14T15:53:37Z",
+            "last_commit": "2026-04-24T18:04:46Z",
             "last_release": "2025-12-01T13:59:09Z",
             "archived": false,
             "fork": false
@@ -1605,7 +709,7 @@
         }
     },
     "https://github.com/experius/Magento-2-Module-PageNotFound": {
-        "last_checked": "2026-04-20T12:37:20Z",
+        "last_checked": "2026-04-27T03:01:17Z",
         "github": {
             "stars": 43,
             "last_commit": "2025-12-01T10:23:56Z",
@@ -1620,7 +724,7 @@
         }
     },
     "https://github.com/justbetter/magento2-sentry": {
-        "last_checked": "2026-04-20T12:37:20Z",
+        "last_checked": "2026-04-27T03:01:17Z",
         "github": {
             "stars": 185,
             "last_commit": "2026-04-17T10:48:30Z",
@@ -1635,7 +739,7 @@
         }
     },
     "https://github.com/magepal/magento2-gmail-smtp-app": {
-        "last_checked": "2026-04-20T12:37:20Z",
+        "last_checked": "2026-04-27T03:01:17Z",
         "github": {
             "stars": 327,
             "last_commit": "2026-03-12T19:35:14Z",
@@ -1650,7 +754,7 @@
         }
     },
     "https://github.com/Vinai/module-customer-password-command": {
-        "last_checked": "2026-04-20T12:37:20Z",
+        "last_checked": "2026-04-27T03:01:17Z",
         "github": {
             "stars": 27,
             "last_commit": "2022-06-15T09:11:55Z",
@@ -1665,7 +769,7 @@
         }
     },
     "https://github.com/magepal/magento2-guest-to-customer": {
-        "last_checked": "2026-04-20T12:37:20Z",
+        "last_checked": "2026-04-27T03:01:17Z",
         "github": {
             "stars": 68,
             "last_commit": "2026-02-17T21:32:19Z",
@@ -1680,7 +784,7 @@
         }
     },
     "https://github.com/magenizr/Magenizr_ResetUiBookmarks": {
-        "last_checked": "2026-04-20T12:37:20Z",
+        "last_checked": "2026-04-27T03:01:17Z",
         "github": {
             "stars": 38,
             "last_commit": "2024-07-17T03:40:25Z",
@@ -1695,7 +799,7 @@
         }
     },
     "https://github.com/redchamps/clean-admin-menu": {
-        "last_checked": "2026-04-20T12:37:20Z",
+        "last_checked": "2026-04-27T03:01:17Z",
         "github": {
             "stars": 164,
             "last_commit": "2025-04-16T16:51:08Z",
@@ -1710,7 +814,7 @@
         }
     },
     "https://github.com/shkoliar/magento-grid-colors": {
-        "last_checked": "2026-04-20T12:37:20Z",
+        "last_checked": "2026-04-27T03:01:17Z",
         "github": {
             "stars": 60,
             "last_commit": "2021-10-05T20:17:49Z",
@@ -1725,7 +829,7 @@
         }
     },
     "https://github.com/extdn/extension-dashboard-m2": {
-        "last_checked": "2026-04-20T12:37:20Z",
+        "last_checked": "2026-04-27T03:01:17Z",
         "github": {
             "stars": 38,
             "last_commit": "2022-03-23T10:19:03Z",
@@ -1740,7 +844,7 @@
         }
     },
     "https://github.com/hivecommerce/magento2-content-fuzzyfyr": {
-        "last_checked": "2026-04-20T12:37:20Z",
+        "last_checked": "2026-04-27T03:01:17Z",
         "github": {
             "stars": 14,
             "last_commit": "2024-09-02T04:29:07Z",
@@ -1755,7 +859,7 @@
         }
     },
     "https://github.com/AmpersandHQ/magento2-disable-stock-reservation": {
-        "last_checked": "2026-04-20T12:37:20Z",
+        "last_checked": "2026-04-27T03:01:17Z",
         "github": {
             "stars": 231,
             "last_commit": "2026-01-21T08:11:55Z",
@@ -1764,13 +868,13 @@
             "fork": false
         },
         "signals": {
-            "actively_maintained": true,
+            "actively_maintained": false,
             "graveyard_candidate": false,
             "vitality_hot": false
         }
     },
     "https://github.com/elninotech/ElNino_ProductLinksNavigator": {
-        "last_checked": "2026-04-20T12:37:20Z",
+        "last_checked": "2026-04-27T03:01:17Z",
         "github": {
             "stars": 17,
             "last_commit": "2025-02-27T13:55:00Z",
@@ -1784,439 +888,12 @@
             "vitality_hot": false
         }
     },
-    "https://github.com/splendidinternet/Magento2_German_LocalePack_de_DE": {
-        "last_checked": "2026-04-20T12:37:20Z",
+    "https://github.com/mage-os/theme-adminhtml-m137": {
+        "last_checked": "2026-04-27T03:01:17Z",
         "github": {
-            "stars": 85,
-            "last_commit": "2026-03-19T19:59:54Z",
-            "last_release": "2026-03-19T19:59:54Z",
-            "archived": false,
-            "fork": false
-        },
-        "signals": {
-            "actively_maintained": true,
-            "graveyard_candidate": false,
-            "vitality_hot": true
-        }
-    },
-    "https://github.com/staempfli/magento2-language-de-ch": {
-        "last_checked": "2026-04-20T12:37:20Z",
-        "github": {
-            "stars": 7,
-            "last_commit": "2022-04-08T10:30:11Z",
-            "last_release": null,
-            "archived": false,
-            "fork": false
-        },
-        "signals": {
-            "actively_maintained": false,
-            "graveyard_candidate": true,
-            "vitality_hot": false
-        }
-    },
-    "https://github.com/Imaginaerum/magento2-language-fr-fr": {
-        "last_checked": "2026-04-20T12:37:20Z",
-        "github": {
-            "stars": 41,
-            "last_commit": "2021-02-08T01:58:46Z",
-            "last_release": null,
-            "archived": false,
-            "fork": false
-        },
-        "signals": {
-            "actively_maintained": false,
-            "graveyard_candidate": true,
-            "vitality_hot": false
-        }
-    },
-    "https://magentodanmark.dk/": {
-        "last_checked": "2026-04-20T12:37:20Z",
-        "liveness": {
-            "link_status_since": "2026-04-20T10:15:02Z"
-        },
-        "signals": {
-            "link_status": "ok",
-            "graveyard_candidate": false,
-            "vitality_hot": false
-        }
-    },
-    "https://github.com/SemExpert/Magento2-language-es_ar": {
-        "last_checked": "2026-04-20T12:37:20Z",
-        "github": {
-            "stars": 2,
-            "last_commit": "2019-12-23T17:21:11Z",
-            "last_release": null,
-            "archived": false,
-            "fork": false
-        },
-        "signals": {
-            "actively_maintained": false,
-            "graveyard_candidate": true,
-            "vitality_hot": false
-        }
-    },
-    "https://github.com/eusonlito/magento2-language-es_es": {
-        "last_checked": "2026-04-20T12:37:20Z",
-        "github": {
-            "stars": 14,
-            "last_commit": "2020-08-07T20:54:18Z",
-            "last_release": "2018-01-16T18:46:29Z",
-            "archived": false,
-            "fork": false
-        },
-        "signals": {
-            "actively_maintained": false,
-            "graveyard_candidate": true,
-            "vitality_hot": false
-        }
-    },
-    "https://github.com/rafaelstz/traducao_magento2_pt_br": {
-        "last_checked": "2026-04-20T12:37:20Z",
-        "github": {
-            "stars": 73,
-            "last_commit": "2023-03-15T15:11:17Z",
-            "last_release": null,
-            "archived": false,
-            "fork": false
-        },
-        "signals": {
-            "actively_maintained": false,
-            "graveyard_candidate": true,
-            "vitality_hot": false
-        }
-    },
-    "https://github.com/mageplaza/magento-2-italian-language-pack": {
-        "last_checked": "2026-04-20T12:37:20Z",
-        "github": {
-            "stars": 15,
-            "last_commit": "2024-03-21T07:45:37Z",
-            "last_release": null,
-            "archived": false,
-            "fork": false
-        },
-        "signals": {
-            "actively_maintained": false,
-            "graveyard_candidate": false,
-            "vitality_hot": false
-        }
-    },
-    "https://github.com/magento-l10n/language-nl_NL": {
-        "last_checked": "2026-04-20T12:37:20Z",
-        "github": {
-            "stars": 8,
-            "last_commit": "2025-05-05T22:00:03Z",
-            "last_release": null,
-            "archived": false,
-            "fork": false
-        },
-        "signals": {
-            "actively_maintained": false,
-            "graveyard_candidate": false,
-            "vitality_hot": false
-        }
-    },
-    "https://github.com/SnowdogApps/magento2-pl_pl": {
-        "last_checked": "2026-04-20T12:37:20Z",
-        "github": {
-            "stars": 17,
-            "last_commit": "2024-10-15T14:06:22Z",
-            "last_release": null,
-            "archived": false,
-            "fork": false
-        },
-        "signals": {
-            "actively_maintained": false,
-            "graveyard_candidate": false,
-            "vitality_hot": false
-        }
-    },
-    "https://github.com/hidonet/magento2-language-tr_tr": {
-        "last_checked": "2026-04-20T12:37:20Z",
-        "github": {
-            "stars": 32,
-            "last_commit": "2019-08-04T00:16:00Z",
-            "last_release": "2019-08-03T21:38:13Z",
-            "archived": false,
-            "fork": false
-        },
-        "signals": {
-            "actively_maintained": false,
-            "graveyard_candidate": true,
-            "vitality_hot": false
-        }
-    },
-    "https://github.com/EaDesgin/magento2-romanian-language-pack": {
-        "last_checked": "2026-04-20T12:37:20Z",
-        "github": {
-            "stars": 8,
-            "last_commit": "2021-04-29T13:00:25Z",
-            "last_release": "2017-01-10T19:48:26Z",
-            "archived": false,
-            "fork": false
-        },
-        "signals": {
-            "actively_maintained": false,
-            "graveyard_candidate": true,
-            "vitality_hot": false
-        }
-    },
-    "https://github.com/mageplaza/magento-2-finnish-language-pack": {
-        "last_checked": "2026-04-20T12:37:20Z",
-        "github": {
-            "stars": 0,
-            "last_commit": "2023-10-31T10:38:14Z",
-            "last_release": null,
-            "archived": false,
-            "fork": false
-        },
-        "signals": {
-            "actively_maintained": false,
-            "graveyard_candidate": false,
-            "vitality_hot": false
-        }
-    },
-    "https://github.com/mageplaza/magento-2-korean-language-pack": {
-        "last_checked": "2026-04-20T12:37:20Z",
-        "github": {
-            "stars": 4,
-            "last_commit": "2022-02-22T09:04:44Z",
-            "last_release": null,
-            "archived": false,
-            "fork": false
-        },
-        "signals": {
-            "actively_maintained": false,
-            "graveyard_candidate": true,
-            "vitality_hot": false
-        }
-    },
-    "https://github.com/mageplaza/magento-2-slovak-language-pack": {
-        "last_checked": "2026-04-20T12:37:20Z",
-        "github": {
-            "stars": 0,
-            "last_commit": "2023-01-25T14:56:13Z",
-            "last_release": null,
-            "archived": false,
-            "fork": false
-        },
-        "signals": {
-            "actively_maintained": false,
-            "graveyard_candidate": true,
-            "vitality_hot": false
-        }
-    },
-    "https://github.com/symfony-si/magento2-sl-si": {
-        "last_checked": "2026-04-20T12:37:20Z",
-        "github": {
-            "stars": 12,
-            "last_commit": "2018-05-27T21:50:53Z",
-            "last_release": "2017-11-16T01:41:11Z",
-            "archived": false,
-            "fork": false
-        },
-        "signals": {
-            "actively_maintained": false,
-            "graveyard_candidate": true,
-            "vitality_hot": false
-        }
-    },
-    "https://github.com/cubewebsites/magento2-language-en-gb": {
-        "last_checked": "2026-04-20T12:37:20Z",
-        "github": {
-            "stars": 3,
-            "last_commit": "2021-04-28T14:43:01Z",
-            "last_release": "2021-04-28T14:44:12Z",
-            "archived": false,
-            "fork": true
-        },
-        "signals": {
-            "actively_maintained": false,
-            "graveyard_candidate": true,
-            "vitality_hot": false
-        }
-    },
-    "https://marketplace.magento.com/inchoo-language-hr-hr.html": {
-        "last_checked": "2026-04-20T12:37:20Z",
-        "liveness": {
-            "link_status_since": "2026-04-20T10:15:02Z"
-        },
-        "signals": {
-            "link_status": "ok",
-            "graveyard_candidate": false,
-            "vitality_hot": false
-        }
-    },
-    "https://github.com/elgentos/magento2-cypress-testing-suite/": {
-        "last_checked": "2026-04-20T12:37:20Z",
-        "github": {
-            "stars": 172,
-            "last_commit": "2024-03-28T10:51:50Z",
-            "last_release": "2024-03-28T10:51:50Z",
-            "archived": false,
-            "fork": false
-        },
-        "signals": {
-            "actively_maintained": false,
-            "graveyard_candidate": false,
-            "vitality_hot": false
-        }
-    },
-    "https://github.com/semaio/Magento2-ConfigImportExport": {
-        "last_checked": "2026-04-20T12:37:20Z",
-        "github": {
-            "stars": 164,
-            "last_commit": "2024-08-28T23:02:13Z",
-            "last_release": "2024-04-18T12:33:18Z",
-            "archived": false,
-            "fork": false
-        },
-        "signals": {
-            "actively_maintained": false,
-            "graveyard_candidate": false,
-            "vitality_hot": false
-        }
-    },
-    "https://github.com/yireo/Yireo_Whoops": {
-        "last_checked": "2026-04-20T12:37:20Z",
-        "github": {
-            "stars": 102,
-            "last_commit": "2026-01-28T05:54:09Z",
-            "last_release": "2025-04-17T09:32:00Z",
-            "archived": false,
-            "fork": false
-        },
-        "signals": {
-            "actively_maintained": false,
-            "graveyard_candidate": false,
-            "vitality_hot": false
-        }
-    },
-    "https://github.com/mage2tv/magento-cache-clean": {
-        "last_checked": "2026-04-20T12:37:20Z",
-        "github": {
-            "stars": 544,
-            "last_commit": "2025-07-11T13:46:45Z",
-            "last_release": "2025-07-11T13:46:45Z",
-            "archived": false,
-            "fork": false
-        },
-        "signals": {
-            "actively_maintained": false,
-            "graveyard_candidate": false,
-            "vitality_hot": true
-        }
-    },
-    "https://github.com/mgtcommerce/Mgt_Developertoolbar": {
-        "last_checked": "2026-04-20T12:37:20Z",
-        "github": {
-            "stars": 306,
-            "last_commit": "2023-12-11T14:08:58Z",
-            "last_release": null,
-            "archived": false,
-            "fork": false
-        },
-        "signals": {
-            "actively_maintained": false,
-            "graveyard_candidate": false,
-            "vitality_hot": false
-        }
-    },
-    "https://github.com/ho-nl/magento2-Ho_Templatehints": {
-        "last_checked": "2026-04-20T12:37:20Z",
-        "github": {
-            "stars": 287,
-            "last_commit": "2025-05-12T08:51:36Z",
-            "last_release": "2023-07-27T07:49:20Z",
-            "archived": false,
-            "fork": false
-        },
-        "signals": {
-            "actively_maintained": false,
-            "graveyard_candidate": false,
-            "vitality_hot": false
-        }
-    },
-    "https://github.com/avstudnitz/AvS_ScopeHint2": {
-        "last_checked": "2026-04-20T12:37:20Z",
-        "github": {
-            "stars": 167,
-            "last_commit": "2025-05-05T07:28:52Z",
-            "last_release": "2025-05-05T07:28:52Z",
-            "archived": false,
-            "fork": false
-        },
-        "signals": {
-            "actively_maintained": false,
-            "graveyard_candidate": false,
-            "vitality_hot": false
-        }
-    },
-    "https://github.com/ctidigital/magento2-configurator": {
-        "last_checked": "2026-04-20T12:37:20Z",
-        "github": {
-            "stars": 174,
-            "last_commit": "2026-03-20T08:58:06Z",
-            "last_release": "2023-08-25T14:39:25Z",
-            "archived": false,
-            "fork": false
-        },
-        "signals": {
-            "actively_maintained": false,
-            "graveyard_candidate": false,
-            "vitality_hot": false
-        }
-    },
-    "https://github.com/yireo/Yireo_AutoFlushCache": {
-        "last_checked": "2026-04-20T12:37:20Z",
-        "github": {
-            "stars": 28,
-            "last_commit": "2023-09-27T10:29:25Z",
-            "last_release": "2023-09-27T10:29:32Z",
-            "archived": false,
-            "fork": false
-        },
-        "signals": {
-            "actively_maintained": false,
-            "graveyard_candidate": false,
-            "vitality_hot": false
-        }
-    },
-    "https://github.com/lfolco/phpstorm-m2-filetemplates": {
-        "last_checked": "2026-04-20T12:37:20Z",
-        "github": {
-            "stars": 42,
-            "last_commit": "2022-12-21T18:56:04Z",
-            "last_release": null,
-            "archived": false,
-            "fork": false
-        },
-        "signals": {
-            "actively_maintained": false,
-            "graveyard_candidate": true,
-            "vitality_hot": false
-        }
-    },
-    "https://github.com/gwillem/magevulndb": {
-        "last_checked": "2026-04-20T12:37:20Z",
-        "github": {
-            "stars": 211,
-            "last_commit": "2026-01-23T15:07:15Z",
-            "last_release": null,
-            "archived": false,
-            "fork": false
-        },
-        "signals": {
-            "actively_maintained": false,
-            "graveyard_candidate": false,
-            "vitality_hot": false
-        }
-    },
-    "https://github.com/run-as-root/magento2-prometheus-exporter": {
-        "last_checked": "2026-04-20T12:37:20Z",
-        "github": {
-            "stars": 68,
-            "last_commit": "2026-04-20T11:55:47Z",
-            "last_release": "2025-12-28T12:14:51Z",
+            "stars": 36,
+            "last_commit": "2026-02-25T16:15:21Z",
+            "last_release": "2026-02-25T16:15:22Z",
             "archived": false,
             "fork": false
         },
@@ -2226,109 +903,12 @@
             "vitality_hot": false
         }
     },
-    "https://github.com/graycoreio/magento2-cors": {
-        "last_checked": "2026-04-20T12:37:20Z",
+    "https://github.com/hyva-themes/magento2-hyva-admin": {
+        "last_checked": "2026-04-27T03:01:17Z",
         "github": {
-            "stars": 100,
-            "last_commit": "2026-02-27T19:06:23Z",
-            "last_release": "2026-02-27T19:06:23Z",
-            "archived": false,
-            "fork": false
-        },
-        "signals": {
-            "actively_maintained": true,
-            "graveyard_candidate": false,
-            "vitality_hot": false
-        }
-    },
-    "https://github.com/bitExpert/phpstan-magento": {
-        "last_checked": "2026-04-20T12:37:20Z",
-        "github": {
-            "stars": 147,
-            "last_commit": "2025-09-27T08:02:40Z",
-            "last_release": "2025-05-17T06:17:45Z",
-            "archived": false,
-            "fork": false
-        },
-        "signals": {
-            "actively_maintained": false,
-            "graveyard_candidate": false,
-            "vitality_hot": false
-        }
-    },
-    "https://github.com/zepgram/magento-dotenv": {
-        "last_checked": "2026-04-20T12:37:20Z",
-        "github": {
-            "stars": 13,
-            "last_commit": "2024-02-12T12:24:23Z",
-            "last_release": "2024-02-12T12:24:23Z",
-            "archived": false,
-            "fork": false
-        },
-        "signals": {
-            "actively_maintained": false,
-            "graveyard_candidate": false,
-            "vitality_hot": false
-        }
-    },
-    "https://github.com/zepgram/module-rest": {
-        "last_checked": "2026-04-20T12:37:20Z",
-        "github": {
-            "stars": 12,
-            "last_commit": "2026-03-04T14:37:36Z",
-            "last_release": "2026-03-04T14:37:45Z",
-            "archived": false,
-            "fork": false
-        },
-        "signals": {
-            "actively_maintained": true,
-            "graveyard_candidate": false,
-            "vitality_hot": false
-        }
-    },
-    "https://www.model-generator.com/": {
-        "last_checked": "2026-04-20T12:37:20Z",
-        "liveness": {
-            "link_status_since": "2026-04-20T10:15:02Z"
-        },
-        "signals": {
-            "link_status": "ok",
-            "graveyard_candidate": false,
-            "vitality_hot": false
-        }
-    },
-    "https://gist.github.com/ProcessEight/000245eac361cbcfeb9daf6de3c1c2e4": {
-        "last_checked": "2026-04-20T12:37:20Z",
-        "liveness": {
-            "link_status_since": "2026-04-20T10:15:02Z"
-        },
-        "signals": {
-            "link_status": "ok",
-            "graveyard_candidate": false,
-            "vitality_hot": false
-        }
-    },
-    "https://github.com/magewirephp/magewire": {
-        "last_checked": "2026-04-20T12:37:20Z",
-        "github": {
-            "stars": 256,
-            "last_commit": "2026-04-20T09:28:27Z",
-            "last_release": "2026-01-09T13:28:55Z",
-            "archived": false,
-            "fork": false
-        },
-        "signals": {
-            "actively_maintained": true,
-            "graveyard_candidate": false,
-            "vitality_hot": false
-        }
-    },
-    "https://github.com/yireo/Yireo_LokiComponents": {
-        "last_checked": "2026-04-20T12:37:20Z",
-        "github": {
-            "stars": 9,
-            "last_commit": "2026-04-19T18:27:57Z",
-            "last_release": "2026-04-08T13:58:16Z",
+            "stars": 175,
+            "last_commit": "2026-03-17T16:08:29Z",
+            "last_release": "2025-10-23T20:04:54Z",
             "archived": false,
             "fork": false
         },
@@ -2339,7 +919,7 @@
         }
     },
     "https://github.com/mageplaza/magento-2-blog-extension": {
-        "last_checked": "2026-04-20T12:37:20Z",
+        "last_checked": "2026-04-27T03:01:17Z",
         "github": {
             "stars": 122,
             "last_commit": "2026-04-16T10:43:55Z",
@@ -2354,9 +934,9 @@
         }
     },
     "https://github.com/magefan/module-blog": {
-        "last_checked": "2026-04-20T12:37:20Z",
+        "last_checked": "2026-04-27T03:01:17Z",
         "github": {
-            "stars": 270,
+            "stars": 269,
             "last_commit": "2026-02-21T16:34:34Z",
             "last_release": "2025-06-23T09:53:49Z",
             "archived": false,
@@ -2365,11 +945,11 @@
         "signals": {
             "actively_maintained": true,
             "graveyard_candidate": false,
-            "vitality_hot": false
+            "vitality_hot": true
         }
     },
     "https://github.com/opengento/magento2-gdpr": {
-        "last_checked": "2026-04-20T12:37:20Z",
+        "last_checked": "2026-04-27T03:01:17Z",
         "github": {
             "stars": 143,
             "last_commit": "2025-07-23T14:36:16Z",
@@ -2383,12 +963,27 @@
             "vitality_hot": false
         }
     },
-    "https://github.com/scandipwa/base-theme": {
-        "last_checked": "2026-04-20T12:37:20Z",
+    "https://github.com/mage-os/module-page-builder-widget": {
+        "last_checked": "2026-04-27T03:01:17Z",
         "github": {
-            "stars": 552,
-            "last_commit": "2024-07-15T13:53:56Z",
-            "last_release": "2024-07-31T05:29:34Z",
+            "stars": 29,
+            "last_commit": "2026-04-19T20:46:05Z",
+            "last_release": "2026-04-19T20:46:05Z",
+            "archived": false,
+            "fork": false
+        },
+        "signals": {
+            "actively_maintained": true,
+            "graveyard_candidate": false,
+            "vitality_hot": false
+        }
+    },
+    "https://github.com/hyva-themes/hyva-ai-tools": {
+        "last_checked": "2026-04-27T03:01:17Z",
+        "github": {
+            "stars": 63,
+            "last_commit": "2026-04-11T13:49:47Z",
+            "last_release": null,
             "archived": false,
             "fork": false
         },
@@ -2399,11 +994,11 @@
         }
     },
     "https://github.com/deployphp/deployer/blob/master/recipe/magento2.php": {
-        "last_checked": "2026-04-20T12:37:20Z",
+        "last_checked": "2026-04-27T03:01:17Z",
         "github": {
-            "stars": 11023,
-            "last_commit": "2026-04-17T08:23:44Z",
-            "last_release": "2026-01-12T08:18:15Z",
+            "stars": 11026,
+            "last_commit": "2026-04-26T21:32:56Z",
+            "last_release": "2026-04-26T21:32:56Z",
             "archived": false,
             "fork": false
         },
@@ -2414,9 +1009,9 @@
         }
     },
     "https://github.com/jalogut/magento2-deployer-plus": {
-        "last_checked": "2026-04-20T12:37:20Z",
+        "last_checked": "2026-04-27T03:01:17Z",
         "github": {
-            "stars": 201,
+            "stars": 200,
             "last_commit": "2022-10-03T07:37:24Z",
             "last_release": "2020-05-04T10:08:29Z",
             "archived": false,
@@ -2429,10 +1024,10 @@
         }
     },
     "https://github.com/extdn/github-actions-m2": {
-        "last_checked": "2026-04-20T12:37:20Z",
+        "last_checked": "2026-04-27T03:01:17Z",
         "github": {
             "stars": 140,
-            "last_commit": "2026-04-08T14:11:23Z",
+            "last_commit": "2026-04-23T05:29:16Z",
             "last_release": "2022-02-08T12:48:03Z",
             "archived": false,
             "fork": false
@@ -2443,8 +1038,682 @@
             "vitality_hot": false
         }
     },
+    "https://github.com/crealoz/easyaudit-cli": {
+        "last_checked": "2026-04-27T03:01:17Z",
+        "github": {
+            "stars": 14,
+            "last_commit": "2026-04-23T06:51:37Z",
+            "last_release": "2026-04-16T13:02:00Z",
+            "archived": false,
+            "fork": false
+        },
+        "signals": {
+            "actively_maintained": true,
+            "graveyard_candidate": false,
+            "vitality_hot": false
+        }
+    },
+    "https://github.com/elgentos/magento2-cypress-testing-suite/": {
+        "last_checked": "2026-04-27T03:01:17Z",
+        "github": {
+            "stars": 172,
+            "last_commit": "2024-03-28T10:51:50Z",
+            "last_release": "2024-03-28T10:51:50Z",
+            "archived": false,
+            "fork": false
+        },
+        "signals": {
+            "actively_maintained": false,
+            "graveyard_candidate": false,
+            "vitality_hot": false
+        }
+    },
+    "https://github.com/semaio/Magento2-ConfigImportExport": {
+        "last_checked": "2026-04-27T03:01:17Z",
+        "github": {
+            "stars": 164,
+            "last_commit": "2024-08-28T23:02:13Z",
+            "last_release": "2024-04-18T12:33:18Z",
+            "archived": false,
+            "fork": false
+        },
+        "signals": {
+            "actively_maintained": false,
+            "graveyard_candidate": false,
+            "vitality_hot": false
+        }
+    },
+    "https://github.com/yireo/Yireo_Whoops": {
+        "last_checked": "2026-04-27T03:01:17Z",
+        "github": {
+            "stars": 102,
+            "last_commit": "2026-01-28T05:54:09Z",
+            "last_release": "2025-04-17T09:32:00Z",
+            "archived": false,
+            "fork": false
+        },
+        "signals": {
+            "actively_maintained": false,
+            "graveyard_candidate": false,
+            "vitality_hot": false
+        }
+    },
+    "https://github.com/mage2tv/magento-cache-clean": {
+        "last_checked": "2026-04-27T03:01:17Z",
+        "github": {
+            "stars": 544,
+            "last_commit": "2025-07-11T13:46:45Z",
+            "last_release": "2025-07-11T13:46:45Z",
+            "archived": false,
+            "fork": false
+        },
+        "signals": {
+            "actively_maintained": false,
+            "graveyard_candidate": false,
+            "vitality_hot": true
+        }
+    },
+    "https://github.com/mgtcommerce/Mgt_Developertoolbar": {
+        "last_checked": "2026-04-27T03:01:17Z",
+        "github": {
+            "stars": 305,
+            "last_commit": "2023-12-11T14:08:58Z",
+            "last_release": null,
+            "archived": false,
+            "fork": false
+        },
+        "signals": {
+            "actively_maintained": false,
+            "graveyard_candidate": false,
+            "vitality_hot": false
+        }
+    },
+    "https://github.com/ho-nl/magento2-Ho_Templatehints": {
+        "last_checked": "2026-04-27T03:01:17Z",
+        "github": {
+            "stars": 287,
+            "last_commit": "2025-05-12T08:51:36Z",
+            "last_release": "2023-07-27T07:49:20Z",
+            "archived": false,
+            "fork": false
+        },
+        "signals": {
+            "actively_maintained": false,
+            "graveyard_candidate": false,
+            "vitality_hot": false
+        }
+    },
+    "https://github.com/avstudnitz/AvS_ScopeHint2": {
+        "last_checked": "2026-04-27T03:01:17Z",
+        "github": {
+            "stars": 167,
+            "last_commit": "2025-05-05T07:28:52Z",
+            "last_release": "2025-05-05T07:28:52Z",
+            "archived": false,
+            "fork": false
+        },
+        "signals": {
+            "actively_maintained": false,
+            "graveyard_candidate": false,
+            "vitality_hot": false
+        }
+    },
+    "https://github.com/ctidigital/magento2-configurator": {
+        "last_checked": "2026-04-27T03:01:17Z",
+        "github": {
+            "stars": 174,
+            "last_commit": "2026-03-20T08:58:06Z",
+            "last_release": "2023-08-25T14:39:25Z",
+            "archived": false,
+            "fork": false
+        },
+        "signals": {
+            "actively_maintained": false,
+            "graveyard_candidate": false,
+            "vitality_hot": false
+        }
+    },
+    "https://github.com/yireo/Yireo_AutoFlushCache": {
+        "last_checked": "2026-04-27T03:01:17Z",
+        "github": {
+            "stars": 28,
+            "last_commit": "2023-09-27T10:29:25Z",
+            "last_release": "2023-09-27T10:29:32Z",
+            "archived": false,
+            "fork": false
+        },
+        "signals": {
+            "actively_maintained": false,
+            "graveyard_candidate": false,
+            "vitality_hot": false
+        }
+    },
+    "https://github.com/lfolco/phpstorm-m2-filetemplates": {
+        "last_checked": "2026-04-27T03:01:17Z",
+        "github": {
+            "stars": 42,
+            "last_commit": "2022-12-21T18:56:04Z",
+            "last_release": null,
+            "archived": false,
+            "fork": false
+        },
+        "signals": {
+            "actively_maintained": false,
+            "graveyard_candidate": true,
+            "vitality_hot": false
+        }
+    },
+    "https://github.com/gwillem/magevulndb": {
+        "last_checked": "2026-04-27T03:01:17Z",
+        "github": {
+            "stars": 211,
+            "last_commit": "2026-01-23T15:07:15Z",
+            "last_release": null,
+            "archived": false,
+            "fork": false
+        },
+        "signals": {
+            "actively_maintained": false,
+            "graveyard_candidate": false,
+            "vitality_hot": false
+        }
+    },
+    "https://github.com/run-as-root/magento2-prometheus-exporter": {
+        "last_checked": "2026-04-27T03:01:17Z",
+        "github": {
+            "stars": 68,
+            "last_commit": "2026-04-20T13:43:45Z",
+            "last_release": "2026-04-20T13:44:03Z",
+            "archived": false,
+            "fork": false
+        },
+        "signals": {
+            "actively_maintained": true,
+            "graveyard_candidate": false,
+            "vitality_hot": false
+        }
+    },
+    "https://github.com/graycoreio/magento2-cors": {
+        "last_checked": "2026-04-27T03:01:17Z",
+        "github": {
+            "stars": 100,
+            "last_commit": "2026-04-26T21:42:27Z",
+            "last_release": "2026-02-27T19:06:23Z",
+            "archived": false,
+            "fork": false
+        },
+        "signals": {
+            "actively_maintained": true,
+            "graveyard_candidate": false,
+            "vitality_hot": false
+        }
+    },
+    "https://github.com/bitExpert/phpstan-magento": {
+        "last_checked": "2026-04-27T03:01:17Z",
+        "github": {
+            "stars": 147,
+            "last_commit": "2025-09-27T08:02:40Z",
+            "last_release": "2025-05-17T06:17:45Z",
+            "archived": false,
+            "fork": false
+        },
+        "signals": {
+            "actively_maintained": false,
+            "graveyard_candidate": false,
+            "vitality_hot": false
+        }
+    },
+    "https://github.com/zepgram/magento-dotenv": {
+        "last_checked": "2026-04-27T03:01:17Z",
+        "github": {
+            "stars": 13,
+            "last_commit": "2024-02-12T12:24:23Z",
+            "last_release": "2024-02-12T12:24:23Z",
+            "archived": false,
+            "fork": false
+        },
+        "signals": {
+            "actively_maintained": false,
+            "graveyard_candidate": false,
+            "vitality_hot": false
+        }
+    },
+    "https://github.com/zepgram/module-rest": {
+        "last_checked": "2026-04-27T03:01:17Z",
+        "github": {
+            "stars": 12,
+            "last_commit": "2026-03-04T14:37:36Z",
+            "last_release": "2026-03-04T14:37:45Z",
+            "archived": false,
+            "fork": false
+        },
+        "signals": {
+            "actively_maintained": true,
+            "graveyard_candidate": false,
+            "vitality_hot": false
+        }
+    },
+    "https://www.model-generator.com/": {
+        "last_checked": "2026-04-27T03:01:17Z",
+        "liveness": {
+            "link_status_since": "2026-04-20T10:15:02Z"
+        },
+        "signals": {
+            "link_status": "ok",
+            "graveyard_candidate": false,
+            "vitality_hot": false
+        }
+    },
+    "https://gist.github.com/ProcessEight/000245eac361cbcfeb9daf6de3c1c2e4": {
+        "last_checked": "2026-04-27T03:01:17Z",
+        "liveness": {
+            "link_status_since": "2026-04-20T10:15:02Z"
+        },
+        "signals": {
+            "link_status": "ok",
+            "graveyard_candidate": false,
+            "vitality_hot": false
+        }
+    },
+    "https://github.com/magewirephp/magewire": {
+        "last_checked": "2026-04-27T03:01:17Z",
+        "github": {
+            "stars": 257,
+            "last_commit": "2026-04-27T02:22:57Z",
+            "last_release": "2026-04-25T21:31:09Z",
+            "archived": false,
+            "fork": false
+        },
+        "signals": {
+            "actively_maintained": true,
+            "graveyard_candidate": false,
+            "vitality_hot": false
+        }
+    },
+    "https://github.com/yireo/Yireo_LokiComponents": {
+        "last_checked": "2026-04-27T03:01:17Z",
+        "github": {
+            "stars": 9,
+            "last_commit": "2026-04-22T09:02:10Z",
+            "last_release": "2026-04-22T09:02:10Z",
+            "archived": false,
+            "fork": false
+        },
+        "signals": {
+            "actively_maintained": true,
+            "graveyard_candidate": false,
+            "vitality_hot": false
+        }
+    },
+    "https://github.com/fastly/fastly-magento2": {
+        "last_checked": "2026-04-27T03:01:17Z",
+        "github": {
+            "stars": 156,
+            "last_commit": "2026-04-27T00:31:00Z",
+            "last_release": null,
+            "archived": false,
+            "fork": false
+        },
+        "signals": {
+            "actively_maintained": false,
+            "graveyard_candidate": false,
+            "vitality_hot": false
+        }
+    },
+    "https://github.com/Ethan3600/magento2-CronjobManager": {
+        "last_checked": "2026-04-27T03:01:17Z",
+        "github": {
+            "stars": 363,
+            "last_commit": "2026-04-13T16:48:42Z",
+            "last_release": "2025-04-11T14:56:08Z",
+            "archived": false,
+            "fork": false
+        },
+        "signals": {
+            "actively_maintained": false,
+            "graveyard_candidate": false,
+            "vitality_hot": true
+        }
+    },
+    "https://github.com/shkoliar/magento-ngrok": {
+        "last_checked": "2026-04-27T03:01:17Z",
+        "github": {
+            "stars": 48,
+            "last_commit": "2023-05-29T15:05:00Z",
+            "last_release": null,
+            "archived": false,
+            "fork": false
+        },
+        "signals": {
+            "actively_maintained": false,
+            "graveyard_candidate": false,
+            "vitality_hot": false
+        }
+    },
+    "https://github.com/sivaschenko/magento2-clean-media": {
+        "last_checked": "2026-04-27T03:01:17Z",
+        "github": {
+            "stars": 95,
+            "last_commit": "2024-02-07T08:38:14Z",
+            "last_release": "2021-07-04T18:49:07Z",
+            "archived": false,
+            "fork": false
+        },
+        "signals": {
+            "actively_maintained": false,
+            "graveyard_candidate": false,
+            "vitality_hot": false
+        }
+    },
+    "https://github.com/creatuity/magento2-interceptors": {
+        "last_checked": "2026-04-27T03:01:17Z",
+        "github": {
+            "stars": 136,
+            "last_commit": "2025-04-15T06:22:09Z",
+            "last_release": "2020-11-24T22:32:26Z",
+            "archived": false,
+            "fork": false
+        },
+        "signals": {
+            "actively_maintained": false,
+            "graveyard_candidate": false,
+            "vitality_hot": false
+        }
+    },
+    "https://github.com/mage-os/module-theme-optimization": {
+        "last_checked": "2026-04-27T03:01:17Z",
+        "github": {
+            "stars": 41,
+            "last_commit": "2026-04-26T17:53:29Z",
+            "last_release": "2025-11-01T23:40:59Z",
+            "archived": false,
+            "fork": false
+        },
+        "signals": {
+            "actively_maintained": true,
+            "graveyard_candidate": false,
+            "vitality_hot": false
+        }
+    },
+    "https://github.com/mage-os/magento-cache-clean": {
+        "last_checked": "2026-04-27T03:01:17Z",
+        "github": {
+            "stars": 48,
+            "last_commit": "2025-10-28T14:40:36Z",
+            "last_release": "2025-10-07T15:09:05Z",
+            "archived": false,
+            "fork": false
+        },
+        "signals": {
+            "actively_maintained": false,
+            "graveyard_candidate": false,
+            "vitality_hot": false
+        }
+    },
+    "https://github.com/splendidinternet/Magento2_German_LocalePack_de_DE": {
+        "last_checked": "2026-04-27T03:01:17Z",
+        "github": {
+            "stars": 85,
+            "last_commit": "2026-03-19T19:59:54Z",
+            "last_release": "2026-03-19T19:59:54Z",
+            "archived": false,
+            "fork": false
+        },
+        "signals": {
+            "actively_maintained": true,
+            "graveyard_candidate": false,
+            "vitality_hot": true
+        }
+    },
+    "https://github.com/staempfli/magento2-language-de-ch": {
+        "last_checked": "2026-04-27T03:01:17Z",
+        "github": {
+            "stars": 7,
+            "last_commit": "2022-04-08T10:30:11Z",
+            "last_release": null,
+            "archived": false,
+            "fork": false
+        },
+        "signals": {
+            "actively_maintained": false,
+            "graveyard_candidate": true,
+            "vitality_hot": false
+        }
+    },
+    "https://github.com/Imaginaerum/magento2-language-fr-fr": {
+        "last_checked": "2026-04-27T03:01:17Z",
+        "github": {
+            "stars": 41,
+            "last_commit": "2021-02-08T01:58:46Z",
+            "last_release": null,
+            "archived": false,
+            "fork": false
+        },
+        "signals": {
+            "actively_maintained": false,
+            "graveyard_candidate": true,
+            "vitality_hot": false
+        }
+    },
+    "https://magentodanmark.dk/": {
+        "last_checked": "2026-04-27T03:01:17Z",
+        "liveness": {
+            "link_status_since": "2026-04-20T10:15:02Z"
+        },
+        "signals": {
+            "link_status": "ok",
+            "graveyard_candidate": false,
+            "vitality_hot": false
+        }
+    },
+    "https://github.com/SemExpert/Magento2-language-es_ar": {
+        "last_checked": "2026-04-27T03:01:17Z",
+        "github": {
+            "stars": 2,
+            "last_commit": "2019-12-23T17:21:11Z",
+            "last_release": null,
+            "archived": false,
+            "fork": false
+        },
+        "signals": {
+            "actively_maintained": false,
+            "graveyard_candidate": true,
+            "vitality_hot": false
+        }
+    },
+    "https://github.com/eusonlito/magento2-language-es_es": {
+        "last_checked": "2026-04-27T03:01:17Z",
+        "github": {
+            "stars": 14,
+            "last_commit": "2020-08-07T20:54:18Z",
+            "last_release": "2018-01-16T18:46:29Z",
+            "archived": false,
+            "fork": false
+        },
+        "signals": {
+            "actively_maintained": false,
+            "graveyard_candidate": true,
+            "vitality_hot": false
+        }
+    },
+    "https://github.com/rafaelstz/traducao_magento2_pt_br": {
+        "last_checked": "2026-04-27T03:01:17Z",
+        "github": {
+            "stars": 73,
+            "last_commit": "2023-03-15T15:11:17Z",
+            "last_release": null,
+            "archived": false,
+            "fork": false
+        },
+        "signals": {
+            "actively_maintained": false,
+            "graveyard_candidate": true,
+            "vitality_hot": false
+        }
+    },
+    "https://github.com/mageplaza/magento-2-italian-language-pack": {
+        "last_checked": "2026-04-27T03:01:17Z",
+        "github": {
+            "stars": 15,
+            "last_commit": "2024-03-21T07:45:37Z",
+            "last_release": null,
+            "archived": false,
+            "fork": false
+        },
+        "signals": {
+            "actively_maintained": false,
+            "graveyard_candidate": false,
+            "vitality_hot": false
+        }
+    },
+    "https://github.com/magento-l10n/language-nl_NL": {
+        "last_checked": "2026-04-27T03:01:17Z",
+        "github": {
+            "stars": 8,
+            "last_commit": "2025-05-05T22:00:03Z",
+            "last_release": null,
+            "archived": false,
+            "fork": false
+        },
+        "signals": {
+            "actively_maintained": false,
+            "graveyard_candidate": false,
+            "vitality_hot": false
+        }
+    },
+    "https://github.com/SnowdogApps/magento2-pl_pl": {
+        "last_checked": "2026-04-27T03:01:17Z",
+        "github": {
+            "stars": 17,
+            "last_commit": "2024-10-15T14:06:22Z",
+            "last_release": null,
+            "archived": false,
+            "fork": false
+        },
+        "signals": {
+            "actively_maintained": false,
+            "graveyard_candidate": false,
+            "vitality_hot": false
+        }
+    },
+    "https://github.com/hidonet/magento2-language-tr_tr": {
+        "last_checked": "2026-04-27T03:01:17Z",
+        "github": {
+            "stars": 32,
+            "last_commit": "2019-08-04T00:16:00Z",
+            "last_release": "2019-08-03T21:38:13Z",
+            "archived": false,
+            "fork": false
+        },
+        "signals": {
+            "actively_maintained": false,
+            "graveyard_candidate": true,
+            "vitality_hot": false
+        }
+    },
+    "https://github.com/EaDesgin/magento2-romanian-language-pack": {
+        "last_checked": "2026-04-27T03:01:17Z",
+        "github": {
+            "stars": 8,
+            "last_commit": "2021-04-29T13:00:25Z",
+            "last_release": "2017-01-10T19:48:26Z",
+            "archived": false,
+            "fork": false
+        },
+        "signals": {
+            "actively_maintained": false,
+            "graveyard_candidate": true,
+            "vitality_hot": false
+        }
+    },
+    "https://github.com/mageplaza/magento-2-finnish-language-pack": {
+        "last_checked": "2026-04-27T03:01:17Z",
+        "github": {
+            "stars": 0,
+            "last_commit": "2023-10-31T10:38:14Z",
+            "last_release": null,
+            "archived": false,
+            "fork": false
+        },
+        "signals": {
+            "actively_maintained": false,
+            "graveyard_candidate": false,
+            "vitality_hot": false
+        }
+    },
+    "https://github.com/mageplaza/magento-2-korean-language-pack": {
+        "last_checked": "2026-04-27T03:01:17Z",
+        "github": {
+            "stars": 4,
+            "last_commit": "2022-02-22T09:04:44Z",
+            "last_release": null,
+            "archived": false,
+            "fork": false
+        },
+        "signals": {
+            "actively_maintained": false,
+            "graveyard_candidate": true,
+            "vitality_hot": false
+        }
+    },
+    "https://github.com/mageplaza/magento-2-slovak-language-pack": {
+        "last_checked": "2026-04-27T03:01:17Z",
+        "github": {
+            "stars": 0,
+            "last_commit": "2023-01-25T14:56:13Z",
+            "last_release": null,
+            "archived": false,
+            "fork": false
+        },
+        "signals": {
+            "actively_maintained": false,
+            "graveyard_candidate": true,
+            "vitality_hot": false
+        }
+    },
+    "https://github.com/symfony-si/magento2-sl-si": {
+        "last_checked": "2026-04-27T03:01:17Z",
+        "github": {
+            "stars": 12,
+            "last_commit": "2018-05-27T21:50:53Z",
+            "last_release": "2017-11-16T01:41:11Z",
+            "archived": false,
+            "fork": false
+        },
+        "signals": {
+            "actively_maintained": false,
+            "graveyard_candidate": true,
+            "vitality_hot": false
+        }
+    },
+    "https://github.com/cubewebsites/magento2-language-en-gb": {
+        "last_checked": "2026-04-27T03:01:17Z",
+        "github": {
+            "stars": 3,
+            "last_commit": "2021-04-28T14:43:01Z",
+            "last_release": "2021-04-28T14:44:12Z",
+            "archived": false,
+            "fork": true
+        },
+        "signals": {
+            "actively_maintained": false,
+            "graveyard_candidate": true,
+            "vitality_hot": false
+        }
+    },
+    "https://marketplace.magento.com/inchoo-language-hr-hr.html": {
+        "last_checked": "2026-04-27T03:01:17Z",
+        "liveness": {
+            "link_status_since": "2026-04-27T03:01:17Z"
+        },
+        "signals": {
+            "link_status": "broken",
+            "graveyard_candidate": false,
+            "vitality_hot": false
+        }
+    },
     "https://github.com/mageplaza/magento-2-seo-extension": {
-        "last_checked": "2026-04-20T12:37:20Z",
+        "last_checked": "2026-04-27T03:01:17Z",
         "github": {
             "stars": 138,
             "last_commit": "2026-04-14T02:37:49Z",
@@ -2459,7 +1728,7 @@
         }
     },
     "https://github.com/staempfli/magento2-module-pdf": {
-        "last_checked": "2026-04-20T12:37:20Z",
+        "last_checked": "2026-04-27T03:01:17Z",
         "github": {
             "stars": 57,
             "last_commit": "2020-09-16T12:01:24Z",
@@ -2474,9 +1743,9 @@
         }
     },
     "https://github.com/magepal/magento2-google-tag-manager": {
-        "last_checked": "2026-04-20T12:37:20Z",
+        "last_checked": "2026-04-27T03:01:17Z",
         "github": {
-            "stars": 263,
+            "stars": 262,
             "last_commit": "2025-06-17T18:33:58Z",
             "last_release": "2025-04-16T20:40:43Z",
             "archived": false,
@@ -2488,11 +1757,134 @@
             "vitality_hot": false
         }
     },
+    "https://github.com/PAYONE-GmbH/magento-2": {
+        "last_checked": "2026-04-27T03:01:17Z",
+        "github": {
+            "stars": 28,
+            "last_commit": "2026-04-22T13:23:42Z",
+            "last_release": "2026-04-22T13:23:42Z",
+            "archived": false,
+            "fork": false
+        },
+        "signals": {
+            "actively_maintained": true,
+            "graveyard_candidate": false,
+            "vitality_hot": false
+        }
+    },
+    "https://github.com/pmclain/module-stripe": {
+        "last_checked": "2026-04-27T03:01:17Z",
+        "github": {
+            "stars": 47,
+            "last_commit": "2018-12-18T12:07:29Z",
+            "last_release": "2018-08-11T13:21:10Z",
+            "archived": true,
+            "fork": false
+        },
+        "signals": {
+            "actively_maintained": false,
+            "graveyard_candidate": true,
+            "vitality_hot": false
+        }
+    },
+    "https://marketplace.magento.com/paypal-module-braintree.html": {
+        "last_checked": "2026-04-27T03:01:17Z",
+        "liveness": {
+            "link_status_since": "2026-04-27T03:01:17Z"
+        },
+        "signals": {
+            "link_status": "broken",
+            "graveyard_candidate": false,
+            "vitality_hot": false
+        }
+    },
+    "http://store.pulsestorm.net/products/commerce-bug-3": {
+        "last_checked": "2026-04-27T03:01:17Z",
+        "liveness": {
+            "link_status_since": "2026-04-20T10:15:02Z"
+        },
+        "signals": {
+            "link_status": "broken",
+            "graveyard_candidate": false,
+            "vitality_hot": false
+        }
+    },
+    "http://magicento.com/": {
+        "last_checked": "2026-04-27T03:01:17Z",
+        "liveness": {
+            "link_status_since": "2026-04-20T10:15:02Z"
+        },
+        "signals": {
+            "link_status": "ok",
+            "graveyard_candidate": false,
+            "vitality_hot": false
+        }
+    },
+    "https://github.com/scandipwa/base-theme": {
+        "last_checked": "2026-04-27T03:01:17Z",
+        "github": {
+            "stars": 549,
+            "last_commit": "2024-07-15T13:53:56Z",
+            "last_release": "2024-07-31T05:29:34Z",
+            "archived": false,
+            "fork": false
+        },
+        "signals": {
+            "actively_maintained": false,
+            "graveyard_candidate": false,
+            "vitality_hot": false
+        }
+    },
+    "https://github.com/hyva-themes/magento2-default-theme-csp": {
+        "last_checked": "2026-04-27T03:01:17Z",
+        "github": {
+            "stars": 15,
+            "last_commit": "2026-04-09T16:42:11Z",
+            "last_release": null,
+            "archived": false,
+            "fork": false
+        },
+        "signals": {
+            "actively_maintained": false,
+            "graveyard_candidate": false,
+            "vitality_hot": false
+        }
+    },
+    "https://github.com/hyva-themes/magento2-default-theme": {
+        "last_checked": "2026-04-27T03:01:17Z",
+        "github": {
+            "stars": 75,
+            "last_commit": "2026-03-29T19:17:21Z",
+            "last_release": null,
+            "archived": false,
+            "fork": false
+        },
+        "signals": {
+            "actively_maintained": false,
+            "graveyard_candidate": false,
+            "vitality_hot": false
+        }
+    },
+    "https://github.com/hyva-themes/magento2-theme-module": {
+        "last_checked": "2026-04-27T03:01:17Z",
+        "github": {
+            "stars": 22,
+            "last_commit": "2026-04-09T17:08:00Z",
+            "last_release": null,
+            "archived": false,
+            "fork": false
+        },
+        "signals": {
+            "actively_maintained": false,
+            "graveyard_candidate": false,
+            "vitality_hot": false
+        }
+    },
     "https://github.com/algolia/algoliasearch-magento-2": {
-        "last_checked": "2026-04-20T12:37:20Z",
+        "last_checked": "2026-04-27T03:01:17Z",
         "github": {
             "stars": 188,
-            "last_commit": "2026-04-16T05:28:18Z",
+            "last_commit": "2026-04-24T14:26:51Z",
             "last_release": "2026-03-06T16:52:49Z",
             "archived": false,
             "fork": false
@@ -2504,10 +1896,10 @@
         }
     },
     "https://github.com/Smile-SA/elasticsuite/": {
-        "last_checked": "2026-04-20T12:37:20Z",
+        "last_checked": "2026-04-27T03:01:17Z",
         "github": {
-            "stars": 805,
-            "last_commit": "2026-04-17T12:43:18Z",
+            "stars": 804,
+            "last_commit": "2026-04-24T11:53:18Z",
             "last_release": "2026-03-26T07:45:00Z",
             "archived": false,
             "fork": false
@@ -2519,7 +1911,7 @@
         }
     },
     "https://github.com/zepgram/module-disable-search-engine": {
-        "last_checked": "2026-04-20T12:37:20Z",
+        "last_checked": "2026-04-27T03:01:17Z",
         "github": {
             "stars": 87,
             "last_commit": "2025-05-16T19:00:34Z",
@@ -2533,8 +1925,93 @@
             "vitality_hot": false
         }
     },
-    "http://store.pulsestorm.net/products/commerce-bug-3": {
-        "last_checked": "2026-04-20T12:37:20Z",
+    "https://experienceleague.adobe.com/tools/commerce-quality-patches/index.html": {
+        "last_checked": "2026-04-27T03:01:17Z",
+        "liveness": {
+            "link_status_since": "2026-04-20T10:15:02Z"
+        },
+        "signals": {
+            "link_status": "ok",
+            "graveyard_candidate": false,
+            "vitality_hot": false
+        }
+    },
+    "https://developer.adobe.com/commerce/frontend-core/guide/": {
+        "last_checked": "2026-04-27T03:01:17Z",
+        "liveness": {
+            "link_status_since": "2026-04-20T10:15:02Z"
+        },
+        "signals": {
+            "link_status": "ok",
+            "graveyard_candidate": false,
+            "vitality_hot": false
+        }
+    },
+    "https://developer.adobe.com/commerce/pwa-studio/": {
+        "last_checked": "2026-04-27T03:01:17Z",
+        "liveness": {
+            "link_status_since": "2026-04-20T10:15:02Z"
+        },
+        "signals": {
+            "link_status": "ok",
+            "graveyard_candidate": false,
+            "vitality_hot": false
+        }
+    },
+    "https://hyva.io/": {
+        "last_checked": "2026-04-27T03:01:17Z",
+        "liveness": {
+            "link_status_since": "2026-04-20T10:15:02Z"
+        },
+        "signals": {
+            "link_status": "ok",
+            "graveyard_candidate": false,
+            "vitality_hot": false
+        }
+    },
+    "https://github.com/vuestorefront/vue-storefront": {
+        "last_checked": "2026-04-27T03:01:17Z",
+        "github": {
+            "stars": 10928,
+            "last_commit": "2026-04-15T13:37:28Z",
+            "last_release": "2025-04-23T07:41:06Z",
+            "archived": false,
+            "fork": false
+        },
+        "signals": {
+            "actively_maintained": false,
+            "graveyard_candidate": false,
+            "vitality_hot": false
+        }
+    },
+    "https://github.com/scandipwa/scandipwa": {
+        "last_checked": "2026-04-27T03:01:17Z",
+        "github": {
+            "stars": 549,
+            "last_commit": "2024-07-15T13:53:56Z",
+            "last_release": "2024-07-31T05:29:34Z",
+            "archived": false,
+            "fork": false
+        },
+        "signals": {
+            "actively_maintained": false,
+            "graveyard_candidate": false,
+            "vitality_hot": false
+        }
+    },
+    "https://breezefront.com/themes": {
+        "last_checked": "2026-04-27T03:01:17Z",
+        "liveness": {
+            "link_status_since": "2026-04-20T10:15:02Z"
+        },
+        "signals": {
+            "link_status": "ok",
+            "graveyard_candidate": false,
+            "vitality_hot": false
+        }
+    },
+    "https://www.front-commerce.com/": {
+        "last_checked": "2026-04-27T03:01:17Z",
         "liveness": {
             "link_status_since": "2026-04-20T10:15:02Z"
         },
@@ -2544,8 +2021,104 @@
             "vitality_hot": false
         }
     },
-    "http://magicento.com/": {
-        "last_checked": "2026-04-20T12:37:20Z",
+    "https://twitter.com/benmarks": {
+        "last_checked": "2026-04-27T03:01:17Z",
+        "signals": {
+            "vitality_hot": false
+        }
+    },
+    "https://alanstorm.com/": {
+        "last_checked": "2026-04-27T03:01:17Z",
+        "signals": {
+            "vitality_hot": false
+        }
+    },
+    "https://github.com/Vinai": {
+        "last_checked": "2026-04-27T03:01:17Z",
+        "signals": {
+            "vitality_hot": false
+        }
+    },
+    "https://github.com/schmengler": {
+        "last_checked": "2026-04-27T03:01:17Z",
+        "signals": {
+            "vitality_hot": false
+        }
+    },
+    "https://github.com/aleron75": {
+        "last_checked": "2026-04-27T03:01:17Z",
+        "signals": {
+            "vitality_hot": false
+        }
+    },
+    "https://github.com/avoelkl": {
+        "last_checked": "2026-04-27T03:01:17Z",
+        "signals": {
+            "vitality_hot": false
+        }
+    },
+    "https://github.com/peterjaap": {
+        "last_checked": "2026-04-27T03:01:17Z",
+        "signals": {
+            "vitality_hot": false
+        }
+    },
+    "https://github.com/sandermangel": {
+        "last_checked": "2026-04-27T03:01:17Z",
+        "signals": {
+            "vitality_hot": false
+        }
+    },
+    "https://github.com/jreitsma": {
+        "last_checked": "2026-04-27T03:01:17Z",
+        "signals": {
+            "vitality_hot": false
+        }
+    },
+    "https://github.com/rpanarin": {
+        "last_checked": "2026-04-27T03:01:17Z",
+        "signals": {
+            "vitality_hot": false
+        }
+    },
+    "https://davidalger.com/": {
+        "last_checked": "2026-04-27T03:01:17Z",
+        "signals": {
+            "vitality_hot": false
+        }
+    },
+    "https://markshust.com/": {
+        "last_checked": "2026-04-27T03:01:17Z",
+        "signals": {
+            "vitality_hot": false
+        }
+    },
+    "https://github.com/maxpronko": {
+        "last_checked": "2026-04-27T03:01:17Z",
+        "signals": {
+            "vitality_hot": false
+        }
+    },
+    "https://github.com/EcomDev": {
+        "last_checked": "2026-04-27T03:01:17Z",
+        "signals": {
+            "vitality_hot": false
+        }
+    },
+    "https://github.com/roma-glushko": {
+        "last_checked": "2026-04-27T03:01:17Z",
+        "signals": {
+            "vitality_hot": false
+        }
+    },
+    "https://github.com/MathiasElle": {
+        "last_checked": "2026-04-27T03:01:17Z",
+        "signals": {
+            "vitality_hot": false
+        }
+    },
+    "https://m.academy/": {
+        "last_checked": "2026-04-27T03:01:17Z",
         "liveness": {
             "link_status_since": "2026-04-20T10:15:02Z"
         },
@@ -2555,22 +2128,274 @@
             "vitality_hot": false
         }
     },
-    "http://magento.stackexchange.com/": {
-        "last_checked": "2026-04-20T12:37:20Z",
+    "https://www.youtube.com/playlist?list=PLwB4Uz_0hoVP3Fm_c4HfNPK5JdRD6DIDl": {
+        "last_checked": "2026-04-27T03:01:17Z",
+        "youtube": {
+            "last_upload": "2017-03-09T17:51:15Z"
+        },
+        "signals": {
+            "actively_maintained": false,
+            "graveyard_candidate": true,
+            "vitality_hot": false
+        }
+    },
+    "https://www.youtube.com/playlist?list=PLwB4Uz_0hoVMOnBRS49ICbNWOU5jhNNWC": {
+        "last_checked": "2026-04-27T03:01:17Z",
+        "youtube": {
+            "last_upload": "2016-11-23T15:59:18Z"
+        },
+        "signals": {
+            "actively_maintained": false,
+            "graveyard_candidate": true,
+            "vitality_hot": false
+        }
+    },
+    "https://www.youtube.com/playlist?list=PLwB4Uz_0hoVOLU7LPRNL4lAmJeAv7HQ-b": {
+        "last_checked": "2026-04-27T03:01:17Z",
+        "youtube": {
+            "last_upload": "2016-10-04T08:06:47Z"
+        },
+        "signals": {
+            "actively_maintained": false,
+            "graveyard_candidate": true,
+            "vitality_hot": false
+        }
+    },
+    "https://www.youtube.com/watch?v=tHxebA-jOSo": {
+        "last_checked": "2026-04-27T03:01:17Z",
         "liveness": {
             "link_status_since": "2026-04-20T10:15:02Z"
         },
         "signals": {
             "link_status": "ok",
+            "graveyard_candidate": false,
+            "vitality_hot": false
+        }
+    },
+    "https://www.youtube.com/channel/UCxbWGz6h6KNQsi2ughRUV2Q": {
+        "last_checked": "2026-04-27T03:01:17Z",
+        "youtube": {
+            "last_upload": "2026-04-14T09:00:08Z"
+        },
+        "signals": {
+            "actively_maintained": true,
+            "graveyard_candidate": false,
+            "vitality_hot": false
+        }
+    },
+    "https://www.youtube.com/playlist?list=PLtaXuX0nEZk9eL59JGE3ny-_GAU-z5X5D": {
+        "last_checked": "2026-04-27T03:01:17Z",
+        "youtube": {
+            "last_upload": "2017-01-31T13:09:08Z"
+        },
+        "signals": {
+            "actively_maintained": false,
+            "graveyard_candidate": true,
+            "vitality_hot": false
+        }
+    },
+    "https://www.youtube.com/channel/UCRFDWo7jTlrpEsJxzc7WyPw": {
+        "last_checked": "2026-04-27T03:01:17Z",
+        "youtube": {
+            "last_upload": "2018-09-06T09:51:02Z"
+        },
+        "signals": {
+            "actively_maintained": false,
+            "graveyard_candidate": true,
+            "vitality_hot": false
+        }
+    },
+    "https://www.mage2.tv": {
+        "last_checked": "2026-04-27T03:01:17Z",
+        "liveness": {
+            "link_status_since": "2026-04-20T10:15:02Z"
+        },
+        "signals": {
+            "link_status": "broken",
+            "graveyard_candidate": false,
+            "vitality_hot": false
+        }
+    },
+    "https://github.com/magento-notes/magento2-exam-notes": {
+        "last_checked": "2026-04-27T03:01:17Z",
+        "github": {
+            "stars": 701,
+            "last_commit": "2021-08-15T09:48:29Z",
+            "last_release": null,
+            "archived": false,
+            "fork": false
+        },
+        "signals": {
+            "actively_maintained": false,
+            "graveyard_candidate": true,
+            "vitality_hot": false
+        }
+    },
+    "https://github.com/magento-notes/magento2-cloud-developer-notes": {
+        "last_checked": "2026-04-27T03:01:17Z",
+        "github": {
+            "stars": 85,
+            "last_commit": "2019-04-10T16:56:01Z",
+            "last_release": null,
+            "archived": false,
+            "fork": false
+        },
+        "signals": {
+            "actively_maintained": false,
+            "graveyard_candidate": true,
+            "vitality_hot": false
+        }
+    },
+    "https://github.com/roma-glushko/magento2-dev-plus-exam": {
+        "last_checked": "2026-04-27T03:01:17Z",
+        "github": {
+            "stars": 77,
+            "last_commit": "2019-11-23T20:41:40Z",
+            "last_release": null,
+            "archived": false,
+            "fork": false
+        },
+        "signals": {
+            "actively_maintained": false,
+            "graveyard_candidate": true,
+            "vitality_hot": false
+        }
+    },
+    "https://github.com/fisheye-academy/m2cpfed-training": {
+        "last_checked": "2026-04-27T03:01:17Z",
+        "github": {
+            "stars": 114,
+            "last_commit": "2020-09-30T18:51:53Z",
+            "last_release": null,
+            "archived": false,
+            "fork": false
+        },
+        "signals": {
+            "actively_maintained": false,
+            "graveyard_candidate": true,
+            "vitality_hot": false
+        }
+    },
+    "https://www.yireo.com/training": {
+        "last_checked": "2026-04-27T03:01:17Z",
+        "liveness": {
+            "link_status_since": "2026-04-20T10:15:02Z"
+        },
+        "signals": {
+            "link_status": "ok",
+            "graveyard_candidate": false,
+            "vitality_hot": false
+        }
+    },
+    "https://www.magento.com": {
+        "last_checked": "2026-04-27T03:01:17Z",
+        "liveness": {
+            "link_status_since": "2026-04-20T10:15:02Z"
+        },
+        "signals": {
+            "link_status": "broken",
+            "graveyard_candidate": false,
+            "vitality_hot": false
+        }
+    },
+    "http://devdocs.magento.com/": {
+        "last_checked": "2026-04-27T03:01:17Z",
+        "liveness": {
+            "link_status_since": "2026-04-20T10:15:02Z"
+        },
+        "signals": {
+            "link_status": "ok",
+            "graveyard_candidate": false,
+            "vitality_hot": false
+        }
+    },
+    "https://community.magento.com/": {
+        "last_checked": "2026-04-27T03:01:17Z",
+        "liveness": {
+            "link_status_since": "2026-04-20T10:15:02Z"
+        },
+        "signals": {
+            "link_status": "broken",
+            "graveyard_candidate": false,
+            "vitality_hot": false
+        }
+    },
+    "https://github.com/magento/magento2": {
+        "last_checked": "2026-04-27T03:01:17Z",
+        "github": {
+            "stars": 12095,
+            "last_commit": "2026-04-21T19:00:39Z",
+            "last_release": "2026-03-10T14:04:22Z",
+            "archived": false,
+            "fork": false
+        },
+        "signals": {
+            "actively_maintained": true,
+            "graveyard_candidate": false,
+            "vitality_hot": false
+        }
+    },
+    "https://community.magento.com/t5/Magento-DevBlog/bg-p/devblog": {
+        "last_checked": "2026-04-27T03:01:17Z",
+        "liveness": {
+            "link_status_since": "2026-04-20T10:15:02Z"
+        },
+        "signals": {
+            "link_status": "broken",
+            "graveyard_candidate": false,
+            "vitality_hot": false
+        }
+    },
+    "https://github.com/magento/data-migration-tool": {
+        "last_checked": "2026-04-27T03:01:17Z",
+        "github": {
+            "stars": 339,
+            "last_commit": "2025-06-03T16:09:29Z",
+            "last_release": "2025-06-03T16:09:29Z",
+            "archived": false,
+            "fork": false
+        },
+        "signals": {
+            "actively_maintained": false,
+            "graveyard_candidate": false,
+            "vitality_hot": false
+        }
+    },
+    "https://github.com/magento/magento-coding-standard": {
+        "last_checked": "2026-04-27T03:01:17Z",
+        "github": {
+            "stars": 372,
+            "last_commit": "2026-03-06T07:13:38Z",
+            "last_release": "2026-03-06T07:13:39Z",
+            "archived": false,
+            "fork": false
+        },
+        "signals": {
+            "actively_maintained": true,
+            "graveyard_candidate": false,
+            "vitality_hot": false
+        }
+    },
+    "https://github.com/magento/architecture": {
+        "last_checked": "2026-04-27T03:01:17Z",
+        "github": {
+            "stars": 279,
+            "last_commit": "2025-01-21T19:23:53Z",
+            "last_release": null,
+            "archived": false,
+            "fork": false
+        },
+        "signals": {
+            "actively_maintained": false,
             "graveyard_candidate": false,
             "vitality_hot": false
         }
     },
     "https://github.com/aleron75/mageres": {
-        "last_checked": "2026-04-20T12:37:20Z",
+        "last_checked": "2026-04-27T03:01:17Z",
         "github": {
-            "stars": 1010,
-            "last_commit": "2026-04-08T04:49:38Z",
+            "stars": 1011,
+            "last_commit": "2026-04-21T15:47:17Z",
             "last_release": null,
             "archived": false,
             "fork": false
@@ -2582,10 +2407,10 @@
         }
     },
     "https://github.com/ziadoz/awesome-php": {
-        "last_checked": "2026-04-20T12:37:20Z",
+        "last_checked": "2026-04-27T03:01:17Z",
         "github": {
-            "stars": 32492,
-            "last_commit": "2026-04-06T18:47:47Z",
+            "stars": 32505,
+            "last_commit": "2026-04-23T15:42:25Z",
             "last_release": null,
             "archived": false,
             "fork": false
@@ -2597,7 +2422,7 @@
         }
     },
     "https://github.com/sunel/awesome-magento": {
-        "last_checked": "2026-04-20T12:37:20Z",
+        "last_checked": "2026-04-27T03:01:17Z",
         "github": {
             "stars": 89,
             "last_commit": "2021-07-06T07:20:20Z",
@@ -2608,6 +2433,391 @@
         "signals": {
             "actively_maintained": false,
             "graveyard_candidate": true,
+            "vitality_hot": false
+        }
+    },
+    "http://magento.stackexchange.com/": {
+        "last_checked": "2026-04-27T03:01:17Z",
+        "liveness": {
+            "link_status_since": "2026-04-20T10:15:02Z"
+        },
+        "signals": {
+            "link_status": "ok",
+            "graveyard_candidate": false,
+            "vitality_hot": false
+        }
+    },
+    "https://github.com/netz98/n98-magerun2": {
+        "last_checked": "2026-04-27T03:01:17Z",
+        "github": {
+            "stars": 925,
+            "last_commit": "2026-04-22T16:43:04Z",
+            "last_release": "2026-04-10T12:18:57Z",
+            "archived": false,
+            "fork": false
+        },
+        "signals": {
+            "actively_maintained": true,
+            "graveyard_candidate": false,
+            "vitality_hot": false
+        }
+    },
+    "https://github.com/run-as-root/magento2-message-queue-retry": {
+        "last_checked": "2026-04-27T03:01:17Z",
+        "github": {
+            "stars": 64,
+            "last_commit": "2025-10-15T09:06:26Z",
+            "last_release": "2025-10-15T09:06:26Z",
+            "archived": false,
+            "fork": false
+        },
+        "signals": {
+            "actively_maintained": false,
+            "graveyard_candidate": false,
+            "vitality_hot": false
+        }
+    },
+    "https://github.com/OpenForgeProject/mageforge": {
+        "last_checked": "2026-04-27T03:01:17Z",
+        "github": {
+            "stars": 18,
+            "last_commit": "2026-04-26T13:37:20Z",
+            "last_release": "2026-04-22T09:58:46Z",
+            "archived": false,
+            "fork": false
+        },
+        "signals": {
+            "actively_maintained": true,
+            "graveyard_candidate": false,
+            "vitality_hot": false
+        }
+    },
+    "https://github.com/DavidLambauer/Alfred-Workflow-Magento-2-DevDocs-Search": {
+        "last_checked": "2026-04-27T03:01:17Z",
+        "github": {
+            "stars": 10,
+            "last_commit": "2016-11-19T18:36:53Z",
+            "last_release": null,
+            "archived": false,
+            "fork": false
+        },
+        "signals": {
+            "actively_maintained": false,
+            "graveyard_candidate": true,
+            "vitality_hot": false
+        }
+    },
+    "https://www.tableratesgenerator.com/": {
+        "last_checked": "2026-04-27T03:01:17Z",
+        "liveness": {
+            "link_status_since": "2026-04-20T10:15:02Z"
+        },
+        "signals": {
+            "link_status": "ok",
+            "graveyard_candidate": false,
+            "vitality_hot": false
+        }
+    },
+    "https://github.com/astorm/pestle": {
+        "last_checked": "2026-04-27T03:01:17Z",
+        "github": {
+            "stars": 532,
+            "last_commit": "2023-04-19T19:18:27Z",
+            "last_release": null,
+            "archived": false,
+            "fork": false
+        },
+        "signals": {
+            "actively_maintained": false,
+            "graveyard_candidate": true,
+            "vitality_hot": false
+        }
+    },
+    "https://mage2gen.com/": {
+        "last_checked": "2026-04-27T03:01:17Z",
+        "liveness": {
+            "link_status_since": "2026-04-20T10:15:02Z"
+        },
+        "signals": {
+            "link_status": "ok",
+            "graveyard_candidate": false,
+            "vitality_hot": false
+        }
+    },
+    "https://github.com/magespecialist/mage-chrome-toolbar": {
+        "last_checked": "2026-04-27T03:01:17Z",
+        "github": {
+            "stars": 337,
+            "last_commit": "2024-04-22T16:30:32Z",
+            "last_release": "2017-09-29T08:36:28Z",
+            "archived": false,
+            "fork": false
+        },
+        "signals": {
+            "actively_maintained": false,
+            "graveyard_candidate": false,
+            "vitality_hot": false
+        }
+    },
+    "https://github.com/magespecialist/m2-MSP_DevTools": {
+        "last_checked": "2026-04-27T03:01:17Z",
+        "github": {
+            "stars": 222,
+            "last_commit": "2024-06-20T07:52:12Z",
+            "last_release": "2024-04-22T16:56:43Z",
+            "archived": false,
+            "fork": false
+        },
+        "signals": {
+            "actively_maintained": false,
+            "graveyard_candidate": false,
+            "vitality_hot": false
+        }
+    },
+    "https://github.com/aliuosio/magento2docker": {
+        "last_checked": "2026-04-27T03:01:17Z",
+        "github": {
+            "stars": 3,
+            "last_commit": "2025-03-31T12:04:18Z",
+            "last_release": "2023-02-10T07:52:39Z",
+            "archived": false,
+            "fork": false
+        },
+        "signals": {
+            "actively_maintained": false,
+            "graveyard_candidate": false,
+            "vitality_hot": false
+        }
+    },
+    "https://github.com/markshust/docker-magento": {
+        "last_checked": "2026-04-27T03:01:17Z",
+        "github": {
+            "stars": 2851,
+            "last_commit": "2026-03-25T12:29:03Z",
+            "last_release": null,
+            "archived": false,
+            "fork": false
+        },
+        "signals": {
+            "actively_maintained": false,
+            "graveyard_candidate": false,
+            "vitality_hot": false
+        }
+    },
+    "https://github.com/wardenenv/warden": {
+        "last_checked": "2026-04-27T03:01:17Z",
+        "github": {
+            "stars": 462,
+            "last_commit": "2026-04-14T14:02:40Z",
+            "last_release": "2026-04-14T13:58:07Z",
+            "archived": false,
+            "fork": false
+        },
+        "signals": {
+            "actively_maintained": true,
+            "graveyard_candidate": false,
+            "vitality_hot": false
+        }
+    },
+    "https://github.com/ddev/ddev": {
+        "last_checked": "2026-04-27T03:01:17Z",
+        "github": {
+            "stars": 3575,
+            "last_commit": "2026-04-27T02:52:15Z",
+            "last_release": "2026-04-22T11:14:57Z",
+            "archived": false,
+            "fork": false
+        },
+        "signals": {
+            "actively_maintained": true,
+            "graveyard_candidate": false,
+            "vitality_hot": true
+        }
+    },
+    "https://github.com/AmpersandHQ/ampersand-magento2-upgrade-patch-helper": {
+        "last_checked": "2026-04-27T03:01:17Z",
+        "github": {
+            "stars": 334,
+            "last_commit": "2024-11-11T08:33:25Z",
+            "last_release": "2024-11-11T08:33:26Z",
+            "archived": false,
+            "fork": false
+        },
+        "signals": {
+            "actively_maintained": false,
+            "graveyard_candidate": false,
+            "vitality_hot": false
+        }
+    },
+    "https://github.com/magento/magento2-phpstorm-plugin": {
+        "last_checked": "2026-04-27T03:01:17Z",
+        "github": {
+            "stars": 458,
+            "last_commit": "2026-04-19T10:06:39Z",
+            "last_release": "2026-04-18T08:39:21Z",
+            "archived": false,
+            "fork": false
+        },
+        "signals": {
+            "actively_maintained": true,
+            "graveyard_candidate": false,
+            "vitality_hot": false
+        }
+    },
+    "https://github.com/nunomaduro/phpinsights": {
+        "last_checked": "2026-04-27T03:01:17Z",
+        "github": {
+            "stars": 5594,
+            "last_commit": "2026-04-18T03:09:01Z",
+            "last_release": "2026-04-12T18:11:21Z",
+            "archived": false,
+            "fork": false
+        },
+        "signals": {
+            "actively_maintained": true,
+            "graveyard_candidate": false,
+            "vitality_hot": true
+        }
+    },
+    "https://github.com/roma-glushko/tango": {
+        "last_checked": "2026-04-27T03:01:17Z",
+        "github": {
+            "stars": 113,
+            "last_commit": "2026-02-24T22:36:07Z",
+            "last_release": "2026-02-17T18:38:02Z",
+            "archived": false,
+            "fork": false
+        },
+        "signals": {
+            "actively_maintained": true,
+            "graveyard_candidate": false,
+            "vitality_hot": false
+        }
+    },
+    "https://github.com/elgentos/masquerade": {
+        "last_checked": "2026-04-27T03:01:17Z",
+        "github": {
+            "stars": 232,
+            "last_commit": "2023-10-19T12:17:24Z",
+            "last_release": "2022-11-22T15:21:14Z",
+            "archived": true,
+            "fork": false
+        },
+        "signals": {
+            "actively_maintained": false,
+            "graveyard_candidate": true,
+            "vitality_hot": false
+        }
+    },
+    "https://chrome.google.com/webstore/detail/magento-2-composer-patche/gfndadbceejgfjahpfaijcacnmdloiad": {
+        "last_checked": "2026-04-27T03:01:17Z",
+        "liveness": {
+            "link_status_since": "2026-04-20T10:15:02Z"
+        },
+        "signals": {
+            "link_status": "ok",
+            "graveyard_candidate": false,
+            "vitality_hot": false
+        }
+    },
+    "https://github.com/opengento/magento2-downgrade-ee-ce": {
+        "last_checked": "2026-04-27T03:01:17Z",
+        "github": {
+            "stars": 89,
+            "last_commit": "2025-11-17T18:04:36Z",
+            "last_release": "2025-11-17T18:04:36Z",
+            "archived": false,
+            "fork": false
+        },
+        "signals": {
+            "actively_maintained": false,
+            "graveyard_candidate": false,
+            "vitality_hot": false
+        }
+    },
+    "https://github.com/jellesiderius/mage-db-sync": {
+        "last_checked": "2026-04-27T03:01:17Z",
+        "github": {
+            "stars": 81,
+            "last_commit": "2026-01-28T10:09:55Z",
+            "last_release": "2026-01-28T10:09:55Z",
+            "archived": false,
+            "fork": false
+        },
+        "signals": {
+            "actively_maintained": true,
+            "graveyard_candidate": false,
+            "vitality_hot": false
+        }
+    },
+    "https://github.com/subodha/magento-2-gulp": {
+        "last_checked": "2026-04-27T03:01:17Z",
+        "github": {
+            "stars": 73,
+            "last_commit": "2021-05-10T03:42:13Z",
+            "last_release": "2021-04-20T01:01:08Z",
+            "archived": false,
+            "fork": false
+        },
+        "signals": {
+            "actively_maintained": false,
+            "graveyard_candidate": true,
+            "vitality_hot": false
+        }
+    },
+    "https://github.com/baldwin-agency/magento2-module-url-data-integrity-checker": {
+        "last_checked": "2026-04-27T03:01:17Z",
+        "github": {
+            "stars": 281,
+            "last_commit": "2026-04-14T16:28:58Z",
+            "last_release": "2026-04-14T16:28:58Z",
+            "archived": false,
+            "fork": false
+        },
+        "signals": {
+            "actively_maintained": true,
+            "graveyard_candidate": false,
+            "vitality_hot": false
+        }
+    },
+    "https://github.com/clickAndMortar/mage-wizard": {
+        "last_checked": "2026-04-27T03:01:17Z",
+        "github": {
+            "stars": 20,
+            "last_commit": "2024-05-17T08:57:25Z",
+            "last_release": "2024-05-17T08:58:57Z",
+            "archived": false,
+            "fork": false
+        },
+        "signals": {
+            "actively_maintained": false,
+            "graveyard_candidate": false,
+            "vitality_hot": false
+        }
+    },
+    "https://github.com/GrimLink/mage": {
+        "last_checked": "2026-04-27T03:01:17Z",
+        "github": {
+            "stars": 24,
+            "last_commit": "2026-03-29T20:09:09Z",
+            "last_release": "2026-03-08T15:48:17Z",
+            "archived": false,
+            "fork": false
+        },
+        "signals": {
+            "actively_maintained": true,
+            "graveyard_candidate": false,
+            "vitality_hot": false
+        }
+    },
+    "https://marketplace.visualstudio.com/items?itemName=MathiasElle.magento-log-viewer": {
+        "last_checked": "2026-04-27T03:01:17Z",
+        "liveness": {
+            "link_status_since": "2026-04-20T10:15:02Z"
+        },
+        "signals": {
+            "link_status": "ok",
+            "graveyard_candidate": false,
             "vitality_hot": false
         }
     }
