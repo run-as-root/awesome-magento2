@@ -138,7 +138,7 @@
         "suggested_yaml": "extensions/adminhtml.yml",
         "discovered_at": "2026-04-27T06:59:25Z",
         "full_name": "RubenJ01/magento2-module-log-viewer",
-        "description": "View Magento 2 logs from the backend",
+        "description": "Manage Magento 2 logs in the backend",
         "stars": 12
     },
     "https://github.com/run-as-root/magento-2-seeder": {
@@ -147,7 +147,7 @@
         "discovered_at": "2026-04-27T06:59:25Z",
         "full_name": "run-as-root/magento-2-seeder",
         "description": "Laravel-style database seeder for Magento 2 / Mage-OS. Generate realistic products (all types), categories, customers, orders (all states), CMS pages, and reviews via bin/magento db:seed.",
-        "stars": 30
+        "stars": 35
     },
     "https://github.com/magento/inventory": {
         "status": "pending",
@@ -156,5 +156,13 @@
         "full_name": "magento/inventory",
         "description": "Magento Inventory Project (a.k.a MSI)",
         "stars": 353
+    },
+    "https://github.com/LBannenberg/magento2-composer-dashboard": {
+        "status": "pending",
+        "suggested_yaml": "extensions/_triage.yml",
+        "discovered_at": "2026-05-04T07:08:23Z",
+        "full_name": "LBannenberg/magento2-composer-dashboard",
+        "description": null,
+        "stars": 12
     }
 }
