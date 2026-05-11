@@ -18,3 +18,8 @@
   description: Magento Tailwind Theme companion module
   type: github_repo
   added: "2026-04-20"
+- name: graphcommerce
+  url: https://github.com/graphcommerce-org/graphcommerce
+  description:  GraphCommerce® is a headless storefront replacement for Magento 2 (PWA), that delivers a faster, better user experience. Fully customizable (React, Next.js) and open-source.
+  type: github_repo
+  added: "2026-05-11"
