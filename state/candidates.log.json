@@ -164,5 +164,13 @@
         "full_name": "LBannenberg/magento2-composer-dashboard",
         "description": null,
         "stars": 12
+    },
+    "https://github.com/mage-os/module-rma": {
+        "status": "pending",
+        "suggested_yaml": "extensions/_triage.yml",
+        "discovered_at": "2026-05-11T07:19:40Z",
+        "full_name": "mage-os/module-rma",
+        "description": null,
+        "stars": 15
     }
 }
