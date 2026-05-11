@@ -22,7 +22,7 @@
 
 > A curated list of awesome Magento 2 Extensions & Resources.
 
-> Tracking **222** projects · **48** actively maintained · **7** 🔥 hot · **42** 🪦 on the graveyard shelf.
+> Tracking **222** projects · **50** actively maintained · **7** 🔥 hot · **42** 🪦 on the graveyard shelf.
 
 - [What is an awesome list?](https://github.com/sindresorhus/awesome/blob/master/awesome.md)
 - [Contribution guide](contributing.md) [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/DavidLambauer/awesome-magento2/issues)
@@ -160,6 +160,7 @@ The storefront of Magento 2 can be styled in numerous ways:
 
 - [Magento Cache Clean](https://github.com/mage2tv/magento-cache-clean) 🔥 - A faster drop-in replacement for bin/magento cache:clean with file watcher by Vinai Kopp.
 - [Magewire PHP](https://github.com/magewirephp/magewire) 🫡 - A Laravel Livewire port for building complex AJAX-based components with ease. Used by the Hyvä Checkout.
+- [bitExpert/phpstan-magento](https://github.com/bitExpert/phpstan-magento) 🫡 - Magento-specific extension for PHPStan.
 - [graycoreio/magento2-cors](https://github.com/graycoreio/magento2-cors) 🫡 - Enables configurable CORS headers on the Magento GraphQL API.
 - [Magento 2 Prometheus Exporter](https://github.com/run-as-root/magento2-prometheus-exporter) 🫡 - Prometheus Exporter for common Magento data.
 - [Rest Client](https://github.com/zepgram/module-rest) 🫡 - Technical Magento 2 module providing simple development pattern, configurations and optimizations to make REST API requests toward external services based on Guzzle Client.
@@ -171,7 +172,6 @@ The storefront of Magento 2 can be styled in numerous ways:
 - [Cypress Testing Suite](https://github.com/elgentos/magento2-cypress-testing-suite/) - A community-driven Cypress testing suite for Magento 2.
 - [Scope Hints](https://github.com/avstudnitz/AvS_ScopeHint2) - Displays additional information in the Store Configuration by Andreas von Studnitz.
 - [Config ImportExport](https://github.com/semaio/Magento2-ConfigImportExport) - CLI-based config management.
-- [bitExpert/phpstan-magento](https://github.com/bitExpert/phpstan-magento) - Magento-specific extension for PHPStan.
 - [Whoops Exceptions](https://github.com/yireo/Yireo_Whoops) - PHP Exceptions for Cool Kids in Magento 2.
 - [Auto Cache Flush](https://github.com/yireo/Yireo_AutoFlushCache) - Magento 2 module to automatically flush the cache.
 - [Dot Env](https://github.com/zepgram/magento-dotenv) - Magento 2 Environment Variable Component implementing Symfony Dotenv.
@@ -300,12 +300,12 @@ The storefront of Magento 2 can be styled in numerous ways:
 ### Infrastructure
 
 - [Ethan3600/magento2-CronjobManager](https://github.com/Ethan3600/magento2-CronjobManager) 🔥 - Cron Job Manager for Magento 2.
+- [magento-cache-clean](https://github.com/mage-os/magento-cache-clean) 🫡 - A faster drop in replacement for bin/magento cache:clean with file watcher
 - [module-theme-optimization](https://github.com/mage-os/module-theme-optimization) 🫡 - bfcache, speculative loading, and view transitions for Magento
 - [Fastly Extension](https://github.com/fastly/fastly-magento2) - Magento 2 Fastly integration.
 - [Interceptor Optimization](https://github.com/creatuity/magento2-interceptors) - New interceptors approach for Magento 2.
 - [Clean Media](https://github.com/sivaschenko/magento2-clean-media) - A module that provides information about media files and potential removal options.
 - [Magento 2 Ngrok](https://github.com/shkoliar/magento-ngrok) - Magento 2 Ngrok Integration.
-- [magento-cache-clean](https://github.com/mage-os/magento-cache-clean) - A faster drop in replacement for bin/magento cache:clean with file watcher
 
 ### Proprietary Extensions
 
