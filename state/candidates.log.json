@@ -126,12 +126,13 @@
         "decided_at": "2026-04-22T08:34:50Z"
     },
     "https://github.com/graphcommerce-org/graphcommerce": {
-        "status": "pending",
+        "status": "accepted",
         "suggested_yaml": "extensions/pwa.yml",
         "discovered_at": "2026-04-27T06:59:25Z",
         "full_name": "graphcommerce-org/graphcommerce",
         "description": " GraphCommerce\u00ae is a headless storefront replacement for Magento 2 (PWA), that delivers a faster, better user experience. Fully customizable (React, Next.js) and open-source.",
-        "stars": 358
+        "stars": 358,
+        "decided_at": "2026-05-11T14:05:41Z"
     },
     "https://github.com/RubenJ01/magento2-module-log-viewer": {
         "status": "pending",
@@ -158,12 +159,13 @@
         "stars": 353
     },
     "https://github.com/LBannenberg/magento2-composer-dashboard": {
-        "status": "pending",
+        "status": "accepted",
         "suggested_yaml": "extensions/_triage.yml",
         "discovered_at": "2026-05-04T07:08:23Z",
         "full_name": "LBannenberg/magento2-composer-dashboard",
         "description": null,
-        "stars": 12
+        "stars": 12,
+        "decided_at": "2026-05-11T14:05:41Z"
     },
     "https://github.com/mage-os/module-rma": {
         "status": "pending",
