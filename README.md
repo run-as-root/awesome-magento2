@@ -22,7 +22,7 @@
 
 > A curated list of awesome Magento 2 Extensions & Resources.
 
-> Tracking **222** projects · **50** actively maintained · **7** 🔥 hot · **42** 🪦 on the graveyard shelf.
+> Tracking **223** projects · **50** actively maintained · **7** 🔥 hot · **42** 🪦 on the graveyard shelf.
 
 - [What is an awesome list?](https://github.com/sindresorhus/awesome/blob/master/awesome.md)
 - [Contribution guide](contributing.md) [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/DavidLambauer/awesome-magento2/issues)
@@ -318,6 +318,7 @@ The storefront of Magento 2 can be styled in numerous ways:
 - [magento2-default-theme](https://github.com/hyva-themes/magento2-default-theme) - A Magento theme built with Tailwind
 - [magento2-theme-module](https://github.com/hyva-themes/magento2-theme-module) - Magento Tailwind Theme companion module
 - [magento2-default-theme-csp](https://github.com/hyva-themes/magento2-default-theme-csp) - A strict CSP compatible Magento theme built with Tailwind and Alpine.js
+- [graphcommerce](https://github.com/graphcommerce-org/graphcommerce) - GraphCommerce® is a headless storefront replacement for Magento 2 (PWA), that delivers a faster, better user experience. Fully customizable (React, Next.js) and open-source.
 
 ---
 
