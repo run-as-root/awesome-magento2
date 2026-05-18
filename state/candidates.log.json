@@ -156,7 +156,7 @@
         "discovered_at": "2026-04-27T06:59:25Z",
         "full_name": "magento/inventory",
         "description": "Magento Inventory Project (a.k.a MSI)",
-        "stars": 353
+        "stars": 352
     },
     "https://github.com/LBannenberg/magento2-composer-dashboard": {
         "status": "pending",
@@ -171,7 +171,7 @@
         "suggested_yaml": "extensions/_triage.yml",
         "discovered_at": "2026-05-11T07:19:40Z",
         "full_name": "mage-os/module-rma",
-        "description": null,
+        "description": "Return Merchandise Authorization (RMA) for Mage-OS / Magento",
         "stars": 15
     }
 }
