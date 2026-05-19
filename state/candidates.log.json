@@ -143,20 +143,22 @@
         "stars": 12
     },
     "https://github.com/run-as-root/magento-2-seeder": {
-        "status": "pending",
+        "status": "accepted",
         "suggested_yaml": "extensions/cms.yml",
         "discovered_at": "2026-04-27T06:59:25Z",
         "full_name": "run-as-root/magento-2-seeder",
         "description": "Laravel-style database seeder for Magento 2 / Mage-OS. Generate realistic products (all types), categories, customers, orders (all states), CMS pages, and reviews via bin/magento db:seed.",
-        "stars": 35
+        "stars": 35,
+        "decided_at": "2026-05-19T10:06:27Z"
     },
     "https://github.com/magento/inventory": {
-        "status": "pending",
+        "status": "accepted",
         "suggested_yaml": "extensions/_triage.yml",
         "discovered_at": "2026-04-27T06:59:25Z",
         "full_name": "magento/inventory",
         "description": "Magento Inventory Project (a.k.a MSI)",
-        "stars": 352
+        "stars": 352,
+        "decided_at": "2026-05-19T10:06:26Z"
     },
     "https://github.com/LBannenberg/magento2-composer-dashboard": {
         "status": "pending",
@@ -167,11 +169,12 @@
         "stars": 12
     },
     "https://github.com/mage-os/module-rma": {
-        "status": "pending",
+        "status": "accepted",
         "suggested_yaml": "extensions/_triage.yml",
         "discovered_at": "2026-05-11T07:19:40Z",
         "full_name": "mage-os/module-rma",
         "description": "Return Merchandise Authorization (RMA) for Mage-OS / Magento",
-        "stars": 15
+        "stars": 15,
+        "decided_at": "2026-05-19T10:06:27Z"
     }
 }
