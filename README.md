@@ -367,6 +367,7 @@ The storefront of Magento 2 can be styled in numerous ways:
 - [M.academy](https://m.academy/) - Video lessons and courses for Magento 2 and Adobe Commerce.
 - [Mage2.tv](https://www.mage2.tv) - Magento 2 developer screencasts by Vinai Kopp.
 - [Max Bucknell — Magento 2 JavaScript](https://www.youtube.com/watch?v=tHxebA-jOSo) - Max Bucknell's talk on Magento 2's JavaScript stack.
+- [TutorialSearch](https://tutorialsearch.io/) - Free cross-platform search engine indexing 50,000+ tutorials from Udemy, Skillshare, Pluralsight, and other major learning platforms across 45+ categories.
 - [Yireo Training](https://www.yireo.com/training) - Magento 2 backend and frontend development courses.
 
 <details>
