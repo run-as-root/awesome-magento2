@@ -175,5 +175,21 @@
         "full_name": "mage-os/module-rma",
         "description": "Return Merchandise Authorization (RMA) for Mage-OS / Magento",
         "stars": 15
+    },
+    "https://github.com/mageplaza/magento-2-smtp": {
+        "status": "pending",
+        "suggested_yaml": "extensions/_triage.yml",
+        "discovered_at": "2026-05-25T07:41:02Z",
+        "full_name": "mageplaza/magento-2-smtp",
+        "description": "Magento 2 SMTP Extension helps the owner of store simply install SMTP (Simple Mail Transfer Protocol) server which transmits the messages into codes or numbers.",
+        "stars": 302
+    },
+    "https://github.com/graycoreio/magento2-devcontainer": {
+        "status": "pending",
+        "suggested_yaml": "extensions/_triage.yml",
+        "discovered_at": "2026-05-25T07:41:02Z",
+        "full_name": "graycoreio/magento2-devcontainer",
+        "description": "A devcontainer for Magento 2",
+        "stars": 14
     }
 }
