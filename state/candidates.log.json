@@ -191,5 +191,21 @@
         "full_name": "graycoreio/magento2-devcontainer",
         "description": "A devcontainer for Magento 2",
         "stars": 14
+    },
+    "https://github.com/magebitcom/magento2-mcp-module": {
+        "status": "pending",
+        "suggested_yaml": "extensions/_triage.yml",
+        "discovered_at": "2026-06-01T07:53:27Z",
+        "full_name": "magebitcom/magento2-mcp-module",
+        "description": "Extensible MCP module for Magento2 - Interact with your store through any MCP-compatible AI agent",
+        "stars": 12
+    },
+    "https://github.com/walkwizus/magento2-module-meilisearch": {
+        "status": "pending",
+        "suggested_yaml": "extensions/search.yml",
+        "discovered_at": "2026-06-01T07:53:27Z",
+        "full_name": "walkwizus/magento2-module-meilisearch",
+        "description": "The Meilisearch extension for Magento 2 enables replacing Magento's default search engine (OpenSearch) with Meilisearch.",
+        "stars": 53
     }
 }
