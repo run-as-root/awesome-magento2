@@ -174,7 +174,7 @@
         "discovered_at": "2026-05-11T07:19:40Z",
         "full_name": "mage-os/module-rma",
         "description": "Return Merchandise Authorization (RMA) for Mage-OS / Magento",
-        "stars": 15
+        "stars": 16
     },
     "https://github.com/mageplaza/magento-2-smtp": {
         "status": "pending",
@@ -190,7 +190,7 @@
         "discovered_at": "2026-05-25T07:41:02Z",
         "full_name": "graycoreio/magento2-devcontainer",
         "description": "A devcontainer for Magento 2",
-        "stars": 14
+        "stars": 16
     },
     "https://github.com/magebitcom/magento2-mcp-module": {
         "status": "pending",
@@ -198,7 +198,7 @@
         "discovered_at": "2026-06-01T07:53:27Z",
         "full_name": "magebitcom/magento2-mcp-module",
         "description": "Extensible MCP module for Magento2 - Interact with your store through any MCP-compatible AI agent",
-        "stars": 12
+        "stars": 14
     },
     "https://github.com/walkwizus/magento2-module-meilisearch": {
         "status": "pending",
@@ -207,5 +207,21 @@
         "full_name": "walkwizus/magento2-module-meilisearch",
         "description": "The Meilisearch extension for Magento 2 enables replacing Magento's default search engine (OpenSearch) with Meilisearch.",
         "stars": 53
+    },
+    "https://github.com/Zwernemann/magento2-withdrawl": {
+        "status": "pending",
+        "suggested_yaml": "extensions/marketing.yml",
+        "discovered_at": "2026-06-08T07:49:40Z",
+        "full_name": "Zwernemann/magento2-withdrawl",
+        "description": "Magento 2 module providing a compliant EU withdrawal button required from June 19, 2026 (\u00a7356a BGB / Directive (EU) 2023/2673). Enables customers and guests to revoke orders via a simple form (name, order number, email), sends automatic confirmation emails, and allows admin management in the backend.",
+        "stars": 13
+    },
+    "https://github.com/ddtcorex/govard": {
+        "status": "pending",
+        "suggested_yaml": "extensions/infrastructure.yml",
+        "discovered_at": "2026-06-08T07:49:40Z",
+        "full_name": "ddtcorex/govard",
+        "description": "Go-based local development orchestrator for Magento, Laravel, Symfony, Next.js, WordPress, and more. Docker stacks, SSL, Xdebug, and a desktop dashboard.",
+        "stars": 10
     }
 }
