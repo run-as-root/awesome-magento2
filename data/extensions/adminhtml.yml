@@ -98,3 +98,8 @@
   description: This module aims to make creating grids and forms in the Magento 2 adminhtml area joyful and fast.
   type: github_repo
   added: "2026-04-20"
+- name: Social Login
+  url: https://toweringmedia.com/social-media-login-for-magento-2
+  description: Social media login (Google, Facebook, Apple) for Magento 2 with Hyvä and React Checkout Pro support.
+  type: vendor_site
+  added: "2026-06-12"

@@ -13,3 +13,8 @@
   description: Google Tag Manager (GTM) with Data Layer for Magento 2.
   type: github_repo
   added: "2018-01-01"
+- name: Search Intelligence Core
+  url: https://toweringmedia.com/search-intelligence-core-for-magento-2
+  description: AI-driven SEO optimization suite for Magento 2 with approval-gated change proposals.
+  type: vendor_site
+  added: "2026-06-12"

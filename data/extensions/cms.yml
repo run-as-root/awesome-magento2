@@ -28,3 +28,8 @@
   description: "Laravel-style database seeder for Magento 2 / Mage-OS. Generate realistic products (all types), categories, customers, orders (all states), CMS pages, and reviews via bin/magento db:seed."
   type: github_repo
   added: "2026-05-19"
+- name: Nora AI
+  url: https://toweringmedia.com/nora-ai-for-magento-2
+  description: AI-powered Magento 2 customer service and order assistant with storefront chat and voice support.
+  type: vendor_site
+  added: "2026-06-12"

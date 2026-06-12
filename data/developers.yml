@@ -103,3 +103,8 @@
   description: Magento extension vendor.
   type: vendor_site
   added: "2018-01-01"
+- name: Toweringmedia
+  url: https://toweringmedia.com/magento-2-extensions
+  description: Magento extension vendor (AI, SEO, checkout, shipping, Hyvä) since 2008.
+  type: vendor_site
+  added: "2026-06-12"

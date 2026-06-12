@@ -23,3 +23,8 @@
   description:  GraphCommerce® is a headless storefront replacement for Magento 2 (PWA), that delivers a faster, better user experience. Fully customizable (React, Next.js) and open-source.
   type: github_repo
   added: "2026-05-11"
+- name: React Checkout Pro
+  url: https://toweringmedia.com/magento-2-react-checkout-pro
+  description: Custom React-based Magento 2 checkout with Hyvä support and a one-page Shopify-style flow.
+  type: vendor_site
+  added: "2026-06-12"
