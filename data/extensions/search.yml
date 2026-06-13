@@ -18,3 +18,8 @@
   description: Disable Elasticsearch and fulltext indexing for category search.
   type: github_repo
   added: "2018-01-01"
+- name: Search Intelligence Core
+  url: https://toweringmedia.com/search-intelligence-core-for-magento-2
+  description: AI-powered search extension.
+  type: vendor_site
+  added: "2026-06-12"

@@ -37,3 +37,8 @@
   description: "French PWA front-end solution for Magento."
   type: vendor_site
   added: "2019-06-01"
+- name: React Checkout Pro
+  url: https://toweringmedia.com/magento-2-react-checkout-pro
+  description: Headless React checkout for Magento 2 / Hyvä.
+  type: vendor_site
+  added: "2026-06-12"
