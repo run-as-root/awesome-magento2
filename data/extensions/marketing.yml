@@ -13,8 +13,3 @@
   description: Google Tag Manager (GTM) with Data Layer for Magento 2.
   type: github_repo
   added: "2018-01-01"
-- name: Nora AI
-  url: https://toweringmedia.com/nora-ai-for-magento-2
-  description: AI assistant for Magento 2.
-  type: vendor_site
-  added: "2026-06-12"

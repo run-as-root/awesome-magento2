@@ -13,8 +13,3 @@
   description: Official Braintree Integration for Magento 2.
   type: vendor_site
   added: "2018-01-01"
-- name: Moneris Payment Gateway
-  url: https://toweringmedia.com/moneris-payment-gateway-for-magento-2-hyva-react-checkout
-  description: Moneris for Magento 2 + Hyvä.
-  type: vendor_site
-  added: "2026-06-12"

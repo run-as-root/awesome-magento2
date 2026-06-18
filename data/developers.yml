@@ -73,11 +73,6 @@
   description: Loyalty and rewards platform with Magento integration.
   type: vendor_site
   added: "2018-01-01"
-- name: Towering Media
-  url: https://toweringmedia.com
-  description: Chicago-based Magento 2 / Adobe Commerce agency, Hyvä Bronze Partner.
-  type: vendor_site
-  added: "2026-06-12"
 - name: Rocket Web
   url: http://rocketweb.com/
   description: Magento extension vendor.

@@ -8,13 +8,3 @@
   description: PHPStorm plugin to add Magento 2 related functionality.
   type: vendor_site
   added: "2018-01-01"
-- name: FedEx REST API
-  url: https://toweringmedia.com/magento2-fedex-rest-api
-  description: FedEx OAuth 2.0 shipping.
-  type: vendor_site
-  added: "2026-06-12"
-- name: USPS OAuth Shipping
-  url: https://toweringmedia.com/magento-2-usps-oauth-shipping-extension-real-time-usps-rates-via-rest-api-v3
-  description: USPS REST API v3 shipping.
-  type: vendor_site
-  added: "2026-06-12"
