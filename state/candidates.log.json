@@ -166,7 +166,7 @@
         "discovered_at": "2026-05-04T07:08:23Z",
         "full_name": "LBannenberg/magento2-composer-dashboard",
         "description": null,
-        "stars": 12
+        "stars": 14
     },
     "https://github.com/mage-os/module-rma": {
         "status": "pending",
@@ -174,7 +174,7 @@
         "discovered_at": "2026-05-11T07:19:40Z",
         "full_name": "mage-os/module-rma",
         "description": "Return Merchandise Authorization (RMA) for Mage-OS / Magento",
-        "stars": 17
+        "stars": 19
     },
     "https://github.com/mageplaza/magento-2-smtp": {
         "status": "pending",
@@ -214,7 +214,7 @@
         "discovered_at": "2026-06-08T07:49:40Z",
         "full_name": "Zwernemann/magento2-withdrawl",
         "description": "Magento 2 module providing a compliant EU withdrawal button required from June 19, 2026 (\u00a7356a BGB / Directive (EU) 2023/2673). Enables customers and guests to revoke orders via a simple form (name, order number, email), sends automatic confirmation emails, and allows admin management in the backend.",
-        "stars": 18
+        "stars": 22
     },
     "https://github.com/ddtcorex/govard": {
         "status": "pending",
@@ -222,7 +222,7 @@
         "discovered_at": "2026-06-08T07:49:40Z",
         "full_name": "ddtcorex/govard",
         "description": "Go-based local development orchestrator for Magento, Laravel, Symfony, Next.js, WordPress, and more. Docker stacks, SSL, Xdebug, and a desktop dashboard.",
-        "stars": 10
+        "stars": 12
     },
     "https://github.com/mage-os-lab/module-blog": {
         "status": "pending",
@@ -231,5 +231,21 @@
         "full_name": "mage-os-lab/module-blog",
         "description": "Blog module for Mage-OS / Magento 2 with posts, categories, tags, authors, scheduled publishing, SEO, RSS, sitemap, 6 widgets, and a full GraphQL API. Luma + Hyv\u00e4.",
         "stars": 13
+    },
+    "https://github.com/mageme/module-eu-withdrawal": {
+        "status": "pending",
+        "suggested_yaml": "extensions/_triage.yml",
+        "discovered_at": "2026-06-22T08:14:40Z",
+        "full_name": "mageme/module-eu-withdrawal",
+        "description": "EU withdrawal button for Magento 2 (Widerrufsbutton) \u2014 consumer right-of-withdrawal flow required by 19 June 2026 under Directive (EU) 2023/2673. Compliant returns workflow, audit trail, durable-medium receipt. Free edition, Hyv\u00e4-compatible.",
+        "stars": 11
+    },
+    "https://github.com/angeo-dev/module-aeo-audit": {
+        "status": "pending",
+        "suggested_yaml": "extensions/adminhtml.yml",
+        "discovered_at": "2026-06-22T08:14:40Z",
+        "full_name": "angeo-dev/module-aeo-audit",
+        "description": "Audit whether your Magento 2 store is visible to ChatGPT, Gemini & Perplexity. One CLI command scores every core AEO signal \u2014 robots.txt bot access, llms.txt/llms.jsonl, Product & FAQ schema, sitemap, AI product feed, OG tags, canonical \u2014 0\u2013100 with exact fix commands. Score-trend dashboard, admin UI, cron, --fail-on CI gate. Free, MIT.",
+        "stars": 10
     }
 }
