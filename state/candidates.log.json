@@ -233,12 +233,13 @@
         "stars": 13
     },
     "https://github.com/mageme/module-eu-withdrawal": {
-        "status": "pending",
+        "status": "accepted",
         "suggested_yaml": "extensions/_triage.yml",
         "discovered_at": "2026-06-22T08:14:40Z",
         "full_name": "mageme/module-eu-withdrawal",
         "description": "EU withdrawal button for Magento 2 (Widerrufsbutton) \u2014 consumer right-of-withdrawal flow required by 19 June 2026 under Directive (EU) 2023/2673. Compliant returns workflow, audit trail, durable-medium receipt. Free edition, Hyv\u00e4-compatible.",
-        "stars": 11
+        "stars": 11,
+        "decided_at": "2026-06-24T08:17:28Z"
     },
     "https://github.com/angeo-dev/module-aeo-audit": {
         "status": "pending",
