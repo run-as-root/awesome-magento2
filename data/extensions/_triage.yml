@@ -23,3 +23,8 @@
   description: Magento Inventory Project (a.k.a MSI)
   type: github_repo
   added: "2026-05-19"
+- name: module-eu-withdrawal
+  url: https://github.com/mageme/module-eu-withdrawal
+  description: EU withdrawal button for Magento 2 (Widerrufsbutton) — consumer right-of-withdrawal flow required by 19 June 2026 under Directive (EU) 2023/2673. Compliant returns workflow, audit trail, durable-medium receipt. Free edition, Hyvä-compatible.
+  type: github_repo
+  added: "2026-06-24"
