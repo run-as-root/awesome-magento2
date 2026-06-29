@@ -161,20 +161,22 @@
         "decided_at": "2026-05-19T10:06:01Z"
     },
     "https://github.com/LBannenberg/magento2-composer-dashboard": {
-        "status": "pending",
+        "status": "accepted",
         "suggested_yaml": "extensions/_triage.yml",
         "discovered_at": "2026-05-04T07:08:23Z",
         "full_name": "LBannenberg/magento2-composer-dashboard",
         "description": null,
-        "stars": 14
+        "stars": 14,
+        "decided_at": "2026-06-24T08:17:56Z"
     },
     "https://github.com/mage-os/module-rma": {
-        "status": "pending",
+        "status": "accepted",
         "suggested_yaml": "extensions/_triage.yml",
         "discovered_at": "2026-05-11T07:19:40Z",
         "full_name": "mage-os/module-rma",
         "description": "Return Merchandise Authorization (RMA) for Mage-OS / Magento",
-        "stars": 20
+        "stars": 20,
+        "decided_at": "2026-06-24T08:17:56Z"
     },
     "https://github.com/mageplaza/magento-2-smtp": {
         "status": "pending",
@@ -191,7 +193,7 @@
         "full_name": "graycoreio/magento2-devcontainer",
         "description": "A devcontainer for Magento 2",
         "stars": 17,
-        "decided_at": "2026-06-29T10:52:15Z"
+        "decided_at": "2026-06-24T08:17:56Z"
     },
     "https://github.com/magebitcom/magento2-mcp-module": {
         "status": "pending",
@@ -211,12 +213,13 @@
         "decided_at": "2026-06-29T10:52:15Z"
     },
     "https://github.com/Zwernemann/magento2-withdrawl": {
-        "status": "pending",
+        "status": "accepted",
         "suggested_yaml": "extensions/marketing.yml",
         "discovered_at": "2026-06-08T07:49:40Z",
         "full_name": "Zwernemann/magento2-withdrawl",
         "description": "Magento 2 module providing a compliant EU withdrawal button required from June 19, 2026 (\u00a7356a BGB / Directive (EU) 2023/2673). Enables customers and guests to revoke orders via a simple form (name, order number, email), sends automatic confirmation emails, and allows admin management in the backend.",
-        "stars": 22
+        "stars": 22,
+        "decided_at": "2026-06-24T08:17:56Z"
     },
     "https://github.com/ddtcorex/govard": {
         "status": "pending",
@@ -233,7 +236,7 @@
         "full_name": "mage-os-lab/module-blog",
         "description": "Blog module for Mage-OS / Magento 2 with posts, categories, tags, authors, scheduled publishing, SEO, RSS, sitemap, 6 widgets, and a full GraphQL API. Luma + Hyv\u00e4.",
         "stars": 13,
-        "decided_at": "2026-06-29T10:52:16Z"
+        "decided_at": "2026-06-24T08:17:57Z"
     },
     "https://github.com/mageme/module-eu-withdrawal": {
         "status": "accepted",
