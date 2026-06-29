@@ -185,12 +185,13 @@
         "stars": 302
     },
     "https://github.com/graycoreio/magento2-devcontainer": {
-        "status": "pending",
+        "status": "accepted",
         "suggested_yaml": "extensions/_triage.yml",
         "discovered_at": "2026-05-25T07:41:02Z",
         "full_name": "graycoreio/magento2-devcontainer",
         "description": "A devcontainer for Magento 2",
-        "stars": 17
+        "stars": 17,
+        "decided_at": "2026-06-29T10:52:15Z"
     },
     "https://github.com/magebitcom/magento2-mcp-module": {
         "status": "pending",
@@ -201,12 +202,13 @@
         "stars": 15
     },
     "https://github.com/walkwizus/magento2-module-meilisearch": {
-        "status": "pending",
+        "status": "accepted",
         "suggested_yaml": "extensions/search.yml",
         "discovered_at": "2026-06-01T07:53:27Z",
         "full_name": "walkwizus/magento2-module-meilisearch",
         "description": "The Meilisearch extension for Magento 2 enables replacing Magento's default search engine (OpenSearch) with Meilisearch.",
-        "stars": 53
+        "stars": 53,
+        "decided_at": "2026-06-29T10:52:15Z"
     },
     "https://github.com/Zwernemann/magento2-withdrawl": {
         "status": "pending",
@@ -225,12 +227,13 @@
         "stars": 12
     },
     "https://github.com/mage-os-lab/module-blog": {
-        "status": "pending",
+        "status": "accepted",
         "suggested_yaml": "extensions/marketing.yml",
         "discovered_at": "2026-06-15T08:07:57Z",
         "full_name": "mage-os-lab/module-blog",
         "description": "Blog module for Mage-OS / Magento 2 with posts, categories, tags, authors, scheduled publishing, SEO, RSS, sitemap, 6 widgets, and a full GraphQL API. Luma + Hyv\u00e4.",
-        "stars": 13
+        "stars": 13,
+        "decided_at": "2026-06-29T10:52:16Z"
     },
     "https://github.com/mageme/module-eu-withdrawal": {
         "status": "accepted",

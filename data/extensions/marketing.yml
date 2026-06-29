@@ -13,3 +13,8 @@
   description: Google Tag Manager (GTM) with Data Layer for Magento 2.
   type: github_repo
   added: "2018-01-01"
+- name: module-blog
+  url: https://github.com/mage-os-lab/module-blog
+  description: Blog module for Mage-OS / Magento 2 with posts, categories, tags, authors, scheduled publishing, SEO, RSS, sitemap, 6 widgets, and a full GraphQL API. Luma + Hyvä.
+  type: github_repo
+  added: "2026-06-29"
