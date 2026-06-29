@@ -18,3 +18,8 @@
   description: Disable Elasticsearch and fulltext indexing for category search.
   type: github_repo
   added: "2018-01-01"
+- name: magento2-module-meilisearch
+  url: https://github.com/walkwizus/magento2-module-meilisearch
+  description: "The Meilisearch extension for Magento 2 enables replacing Magento's default search engine (OpenSearch) with Meilisearch."
+  type: github_repo
+  added: "2026-06-29"

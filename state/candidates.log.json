@@ -204,12 +204,13 @@
         "stars": 15
     },
     "https://github.com/walkwizus/magento2-module-meilisearch": {
-        "status": "pending",
+        "status": "accepted",
         "suggested_yaml": "extensions/search.yml",
         "discovered_at": "2026-06-01T07:53:27Z",
         "full_name": "walkwizus/magento2-module-meilisearch",
         "description": "The Meilisearch extension for Magento 2 enables replacing Magento's default search engine (OpenSearch) with Meilisearch.",
-        "stars": 53
+        "stars": 53,
+        "decided_at": "2026-06-29T10:52:15Z"
     },
     "https://github.com/Zwernemann/magento2-withdrawl": {
         "status": "accepted",
