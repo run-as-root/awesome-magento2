@@ -174,7 +174,7 @@
         "discovered_at": "2026-05-11T07:19:40Z",
         "full_name": "mage-os/module-rma",
         "description": "Return Merchandise Authorization (RMA) for Mage-OS / Magento",
-        "stars": 19
+        "stars": 20
     },
     "https://github.com/mageplaza/magento-2-smtp": {
         "status": "pending",
