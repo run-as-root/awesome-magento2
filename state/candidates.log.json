@@ -185,12 +185,13 @@
         "stars": 302
     },
     "https://github.com/graycoreio/magento2-devcontainer": {
-        "status": "pending",
+        "status": "accepted",
         "suggested_yaml": "extensions/_triage.yml",
         "discovered_at": "2026-05-25T07:41:02Z",
         "full_name": "graycoreio/magento2-devcontainer",
         "description": "A devcontainer for Magento 2",
-        "stars": 17
+        "stars": 17,
+        "decided_at": "2026-06-29T10:51:56Z"
     },
     "https://github.com/magebitcom/magento2-mcp-module": {
         "status": "pending",
