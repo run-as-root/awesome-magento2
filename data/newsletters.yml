@@ -1,0 +1,20 @@
+- name: Mage Dispatch
+  url: https://www.magedispatch.com/
+  description: Community-driven newsletter collecting links the Magento community should know about.
+  type: blog
+  added: "2026-06-30"
+- name: The Devletter
+  url: https://www.maxpronko.com/the-devletter/
+  description: Free weekly email digest by Max Pronko covering Magento 2 development tips and news.
+  type: blog
+  added: "2026-06-30"
+- name: M Bytes Newsletter
+  url: https://m.academy/newsletter/
+  description: Weekly developer newsletter from M.academy delivering three free Magento video lessons every Thursday.
+  type: blog
+  added: "2026-06-30"
+- name: Mageres Monthly Digest
+  url: https://mailchi.mp/6a498018d9ef/mageres
+  description: Hand-curated monthly newsletter by Alessandro Ronchi collecting useful Magento resources.
+  type: canonical
+  added: "2026-06-30"
