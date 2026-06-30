@@ -1,55 +1,70 @@
+- name: David Lambauer
+  url: https://www.davidlambauer.de
+  description: Vice President of Mage-OS; Adobe Certified Master Architect; creator of Mage-OS DevDocs; founder of run-as-root GmbH.
+  type: canonical
+  added: "2026-06-30"
 - name: Jisse Reitsma
   url: https://www.yireo.com/blog
-  description: Founder of Yireo; 3x Magento Master; trainer and speaker on PHP 8+, GraphQL, Hyva, Magewire, and CSP.
-  type: blog
-  added: "2026-06-30"
-- name: Max Pronko
-  url: https://www.magemastery.net/
-  description: Founder of Mage Mastery; runs the DevChannel YouTube series (11k+ subscribers) and weekly Magento tech digests.
-  type: blog
-  added: "2026-06-30"
-- name: Mark Shust
-  url: https://markshust.com/
-  description: Creator of markshust/docker-magento (most-starred Magento-specific GitHub repo); educator at M.academy.
+  description: Vice President of the Magento Association; 3x Magento Master; founder of Yireo; trainer on Hyva, GraphQL, and Loki Checkout; Mage-OS Open Source Task Force member.
   type: blog
   added: "2026-06-30"
 - name: Vinai Kopp
   url: https://mage2.tv/
-  description: President of Mage-OS; Technical Director at Hyva Themes; creator of Mage2Katas and mage2.tv screencasts.
-  type: canonical
-  added: "2026-06-30"
-- name: Peter Jaap Blaakmeer
-  url: https://github.com/peterjaap
-  description: CTO at elgentos; Mage-OS founding signatory; prolific open-source contributor and conference speaker.
+  description: President of Mage-OS; Technical Director at Hyva Themes; 3x Magento Master; creator of Mage2Katas; lead of the Mage-OS Technical Working Group.
   type: canonical
   added: "2026-06-30"
 - name: Willem Wigman
   url: https://www.hyva.io/blog/author/willemwigman
-  description: Creator of the Hyva Theme; co-author of the Mage-OS founding letter; executive at Hyva Themes.
+  description: Founder and CEO of Hyva Themes; creator of the Hyva frontend framework for Magento 2; released Hyva as open source in November 2025.
+  type: canonical
+  added: "2026-06-30"
+- name: Sanne Bolkenstein
+  url: https://www.hyva.io/about
+  description: Commercial Director and Partner at Hyva Themes; chairs Mage-OS Netherlands.
+  type: canonical
+  added: "2026-06-30"
+- name: Willem Poortman
+  url: https://wpoortman.nl
+  description: Senior Developer at Hyva Themes; creator of the Magewire framework for server-side Magento 2 components.
   type: canonical
   added: "2026-06-30"
 - name: Ryan Hoerr
   url: https://github.com/rhoerr
-  description: Mage-OS board member and highest-volume code contributor; credited on every Mage-OS release; ParadoxLabs.
+  description: Mage-OS board member and Technical Working Group contributor; primary release engineer for Mage-OS distributions throughout 2025–2026; ParadoxLabs.
   type: canonical
   added: "2026-06-30"
-- name: Joseph Maxwell
-  url: https://swiftotter.com/
-  description: Founder of SwiftOtter; runs the leading Adobe Commerce certification prep platform; helped write the Adobe Commerce Associate Developer exam.
+- name: Fabrizio Balliano
+  url: https://fabrizioballiano.com
+  description: Mage-OS Technical Working Group member; release manager for the Mage-OS 2.0 distribution; 5x Magento certified freelance engineer.
   type: canonical
   added: "2026-06-30"
 - name: Alessandro Ronchi
   url: https://github.com/aleron75
-  description: Maintainer of Mageres; co-founder of ExtDN; Mage-OS documentation working group member and brand ambassador.
+  description: Mage-OS Documentation Working Group member; maintainer of Mageres; co-founder of ExtDN; Engineering Manager at Hyva Themes.
   type: canonical
   added: "2026-06-30"
 - name: Andreas von Studnitz
   url: https://github.com/avstudnitz
-  description: integer_net co-owner; Mage-OS technical contributor; regular conference speaker including Meet Magento Poland 2024.
+  description: Mage-OS Technical Working Group member; Magento architect at Hyva Themes; 2x Magento Master; formerly co-owner of integer_net.
   type: canonical
   added: "2026-06-30"
-- name: Fabian Schmengler
-  url: https://github.com/schmengler
-  description: integer_net; regular conference speaker on Magento 2 architecture and testing practices.
+- name: Noah Oken-Berg
+  url: https://www.abovethefray.com
+  description: Chair of the Magento Association Board of Directors; CEO of Above The Fray; focused on community governance and sustainable ecosystem growth.
   type: canonical
+  added: "2026-06-30"
+- name: Sergej Derzap
+  url: https://amasty.com
+  description: Treasurer of the Magento Association; CEO and CPO of Amasty, one of the largest Magento 2 extension vendors; 18+ years in the ecosystem.
+  type: canonical
+  added: "2026-06-30"
+- name: Peter Jaap Blaakmeer
+  url: https://github.com/peterjaap
+  description: CTO at elgentos; Mage-OS founding signatory; prolific open-source contributor to Magento 2 and Mage-OS.
+  type: canonical
+  added: "2026-06-30"
+- name: Mark Shust
+  url: https://markshust.com/
+  description: Creator of markshust/docker-magento (the most-starred Magento-specific GitHub repo); educator at M.academy with 600+ video lessons.
+  type: blog
   added: "2026-06-30"

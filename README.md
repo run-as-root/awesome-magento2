@@ -22,7 +22,7 @@
 
 > A curated list of awesome Magento 2 Extensions & Resources.
 
-> Tracking **233** projects · **57** actively maintained · **9** 🔥 hot · **43** 🪦 on the graveyard shelf.
+> Tracking **236** projects · **57** actively maintained · **9** 🔥 hot · **43** 🪦 on the graveyard shelf.
 
 - [What is an awesome list?](https://github.com/sindresorhus/awesome/blob/master/awesome.md)
 - [Contribution guide](contributing.md) [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/DavidLambauer/awesome-magento2/issues)
@@ -466,17 +466,20 @@ by [Fooman](http://store.fooman.co.nz/blog/how-to-find-trustworthy-information-a
 
 Community members worth following — talks, blog posts, open-source maintenance, and training material.
 
-- [Alessandro Ronchi](https://github.com/aleron75) - Maintainer of Mageres; co-founder of ExtDN; Mage-OS documentation working group member and brand ambassador.
-- [Andreas von Studnitz](https://github.com/avstudnitz) - integer_net co-owner; Mage-OS technical contributor; regular conference speaker including Meet Magento Poland 2024.
-- [Fabian Schmengler](https://github.com/schmengler) - integer_net; regular conference speaker on Magento 2 architecture and testing practices.
-- [Jisse Reitsma](https://www.yireo.com/blog) - Founder of Yireo; 3x Magento Master; trainer and speaker on PHP 8+, GraphQL, Hyva, Magewire, and CSP.
-- [Joseph Maxwell](https://swiftotter.com/) - Founder of SwiftOtter; runs the leading Adobe Commerce certification prep platform; helped write the Adobe Commerce Associate Developer exam.
-- [Mark Shust](https://markshust.com/) - Creator of markshust/docker-magento (most-starred Magento-specific GitHub repo); educator at M.academy.
-- [Max Pronko](https://www.magemastery.net/) - Founder of Mage Mastery; runs the DevChannel YouTube series (11k+ subscribers) and weekly Magento tech digests.
-- [Peter Jaap Blaakmeer](https://github.com/peterjaap) - CTO at elgentos; Mage-OS founding signatory; prolific open-source contributor and conference speaker.
-- [Ryan Hoerr](https://github.com/rhoerr) - Mage-OS board member and highest-volume code contributor; credited on every Mage-OS release; ParadoxLabs.
-- [Vinai Kopp](https://mage2.tv/) - President of Mage-OS; Technical Director at Hyva Themes; creator of Mage2Katas and mage2.tv screencasts.
-- [Willem Wigman](https://www.hyva.io/blog/author/willemwigman) - Creator of the Hyva Theme; co-author of the Mage-OS founding letter; executive at Hyva Themes.
+- [Alessandro Ronchi](https://github.com/aleron75) - Mage-OS Documentation Working Group member; maintainer of Mageres; co-founder of ExtDN; Engineering Manager at Hyva Themes.
+- [Andreas von Studnitz](https://github.com/avstudnitz) - Mage-OS Technical Working Group member; Magento architect at Hyva Themes; 2x Magento Master; formerly co-owner of integer_net.
+- [David Lambauer](https://www.davidlambauer.de) - Vice President of Mage-OS; Adobe Certified Master Architect; creator of Mage-OS DevDocs; founder of run-as-root GmbH.
+- [Fabrizio Balliano](https://fabrizioballiano.com) - Mage-OS Technical Working Group member; release manager for the Mage-OS 2.0 distribution; 5x Magento certified freelance engineer.
+- [Jisse Reitsma](https://www.yireo.com/blog) - Vice President of the Magento Association; 3x Magento Master; founder of Yireo; trainer on Hyva, GraphQL, and Loki Checkout; Mage-OS Open Source Task Force member.
+- [Mark Shust](https://markshust.com/) - Creator of markshust/docker-magento (the most-starred Magento-specific GitHub repo); educator at M.academy with 600+ video lessons.
+- [Noah Oken-Berg](https://www.abovethefray.com) - Chair of the Magento Association Board of Directors; CEO of Above The Fray; focused on community governance and sustainable ecosystem growth.
+- [Peter Jaap Blaakmeer](https://github.com/peterjaap) - CTO at elgentos; Mage-OS founding signatory; prolific open-source contributor to Magento 2 and Mage-OS.
+- [Ryan Hoerr](https://github.com/rhoerr) - Mage-OS board member and Technical Working Group contributor; primary release engineer for Mage-OS distributions throughout 2025–2026; ParadoxLabs.
+- [Sanne Bolkenstein](https://www.hyva.io/about) - Commercial Director and Partner at Hyva Themes; chairs Mage-OS Netherlands.
+- [Sergej Derzap](https://amasty.com) - Treasurer of the Magento Association; CEO and CPO of Amasty, one of the largest Magento 2 extension vendors; 18+ years in the ecosystem.
+- [Vinai Kopp](https://mage2.tv/) - President of Mage-OS; Technical Director at Hyva Themes; 3x Magento Master; creator of Mage2Katas; lead of the Mage-OS Technical Working Group.
+- [Willem Poortman](https://wpoortman.nl) - Senior Developer at Hyva Themes; creator of the Magewire framework for server-side Magento 2 components.
+- [Willem Wigman](https://www.hyva.io/blog/author/willemwigman) - Founder and CEO of Hyva Themes; creator of the Hyva frontend framework for Magento 2; released Hyva as open source in November 2025.
 
 ---
 
