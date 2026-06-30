@@ -1,0 +1,40 @@
+- name: Magento Stack Exchange
+  url: https://magento.stackexchange.com/
+  description: Q&A site for users and developers of the Magento e-Commerce platform.
+  type: canonical
+  added: "2026-06-30"
+- name: Reddit r/Magento
+  url: https://www.reddit.com/r/Magento/
+  description: Magento community on Reddit — questions, news, and discussion.
+  type: canonical
+  added: "2026-06-30"
+- name: ExtDN
+  url: https://extdn.org/
+  description: A network of leading Magento extension developers committed to quality and best practices.
+  type: canonical
+  added: "2026-06-30"
+- name: Mage-OS Association
+  url: https://mage-os.org/
+  description: The community alliance ensuring the accessibility, longevity, and success of Magento Open Source.
+  type: canonical
+  added: "2026-06-30"
+- name: Magento Association
+  url: https://www.magentoassociation.org/home
+  description: The open and powerful Magento ecosystem association.
+  type: canonical
+  added: "2026-06-30"
+- name: Firegento
+  url: https://firegento.com/
+  description: A group of Magento enthusiasts developing open-source modules and organizing hackathons.
+  type: canonical
+  added: "2026-06-30"
+- name: Dutchento
+  url: https://www.dutchento.org/
+  description: The Magento community in the Netherlands.
+  type: canonical
+  added: "2026-06-30"
+- name: OpenGento
+  url: https://opengento.fr/
+  description: The Magento community in France.
+  type: canonical
+  added: "2026-06-30"
