@@ -1,105 +1,70 @@
 - name: Aheadworks
   url: https://www.aheadworks.com/
-  description: Magento extension vendor.
+  description: Broad catalog of Magento 2 extensions covering B2B, marketing, customer experience, and checkout.
   type: vendor_site
   added: "2018-01-01"
-- name: Altima
-  url: https://shop.altima.net.au/
-  description: Magento extension vendor.
+- name: Amasty
+  url: https://amasty.com/
+  description: One of the largest Magento 2 extension catalogs; SEO, search, promotions, B2B, and store management.
   type: vendor_site
-  added: "2018-01-01"
-- name: Blue Jalappeno
-  url: http://bluejalappeno.com/
-  description: Magento extension vendor.
-  type: vendor_site
-  added: "2018-01-01"
+  added: "2026-06-30"
 - name: CustomGento
   url: https://www.customgento.com/extensions/
-  description: Magento extension vendor.
+  description: Quality-focused Magento 2 extension vendor; member of ExtDN.
   type: vendor_site
   added: "2019-01-01"
-- name: Dotmailer
-  url: https://www.dotmailer.com/
-  description: Email marketing platform with Magento integration.
-  type: vendor_site
-  added: "2018-01-01"
-- name: Integer-net
-  url: https://www.integer-net.com/solr-magento/
-  description: Magento extension vendor (Solr integration and more).
-  type: vendor_site
-  added: "2018-01-01"
-- name: Genmato
-  url: https://genmato.com/
-  description: Magento extension vendor.
-  type: vendor_site
-  added: "2018-01-01"
-- name: Fooman
-  url: http://store.fooman.co.nz/
-  description: Magento extension vendor.
-  type: vendor_site
-  added: "2018-01-01"
-- name: Ebizmarts
-  url: https://ebizmarts.com/
-  description: Magento extension vendor.
-  type: vendor_site
-  added: "2018-01-01"
-- name: Magemail
-  url: https://magemail.co/
-  description: Email marketing for Magento.
-  type: vendor_site
-  added: "2018-01-01"
-- name: MagePal
-  url: https://packagist.org/packages/magepal/
-  description: MagePal's Magento extensions on Packagist.
-  type: vendor_site
-  added: "2018-01-01"
-- name: Modulwerft
-  url: https://www.modulwerft.com/
-  description: Magento extension vendor.
-  type: vendor_site
-  added: "2018-01-01"
-- name: Paradox Labs
-  url: https://www.paradoxlabs.com/
-  description: Magento extension vendor.
-  type: vendor_site
-  added: "2018-01-01"
-- name: The Extension Lab
-  url: https://github.com/theextensionlab/
-  description: The Extension Lab on GitHub.
-  type: vendor_site
-  added: "2018-01-01"
-- name: Sweet Tooth
-  url: https://www.sweettoothrewards.com/
-  description: Loyalty and rewards platform with Magento integration.
-  type: vendor_site
-  added: "2018-01-01"
-- name: Rocket Web
-  url: http://rocketweb.com/
-  description: Magento extension vendor.
-  type: vendor_site
-  added: "2018-01-01"
-- name: ProxiBlue
-  url: https://www.proxiblue.com.au/
-  description: Magento extension vendor.
-  type: vendor_site
-  added: "2018-01-01"
-- name: Unirgy
-  url: http://www.unirgy.com/
-  description: Magento extension vendor.
-  type: vendor_site
-  added: "2018-01-01"
-- name: WebShopApps
-  url: http://webshopapps.com/eu/
-  description: Magento extension vendor.
-  type: vendor_site
-  added: "2018-01-01"
-- name: Yireo
-  url: https://www.yireo.com/
-  description: Magento extension vendor and training provider.
+- name: Dotdigital
+  url: https://www.dotdigital.com/
+  description: Email and cross-channel marketing automation platform with official Magento 2 integration (formerly Dotmailer).
   type: vendor_site
   added: "2018-01-01"
 - name: FireBear Studio
   url: https://firebearstudio.com/
-  description: Magento extension vendor.
+  description: Magento 2 extensions specializing in import/export, feed management, and integrations.
+  type: vendor_site
+  added: "2018-01-01"
+- name: integer_net
+  url: https://www.integer-net.com/
+  description: German Magento agency and extension vendor; ExtDN member; known for Solr search and code quality tooling.
+  type: vendor_site
+  added: "2018-01-01"
+- name: Mageplaza
+  url: https://www.mageplaza.com/
+  description: Large catalog of free and paid Magento 2 extensions; SEO, checkout, social login, and marketing modules.
+  type: vendor_site
+  added: "2026-06-30"
+- name: MageWorx
+  url: https://www.mageworx.com/
+  description: Magento 2 extensions for SEO, advanced shipping, pricing rules, and product management.
+  type: vendor_site
+  added: "2026-06-30"
+- name: Mirasvit
+  url: https://mirasvit.com/
+  description: Magento 2 extensions for search, helpdesk, B2B, loyalty programs, and store management.
+  type: vendor_site
+  added: "2026-06-30"
+- name: Modulwerft
+  url: https://www.modulwerft.com/
+  description: German Magento 2 extension vendor.
+  type: vendor_site
+  added: "2018-01-01"
+- name: Paradox Labs
+  url: https://www.paradoxlabs.com/
+  description: Magento 2 extensions for subscriptions, tokenized payments, and customer account management.
+  type: vendor_site
+  added: "2018-01-01"
+- name: ProxiBlue
+  url: https://www.proxiblue.com.au/
+  description: Australian Magento 2 extension vendor specializing in promotions and dynamic categories.
+  type: vendor_site
+  added: "2018-01-01"
+- name: Smile.io
+  url: https://smile.io/
+  description: Loyalty and rewards platform with Magento 2 integration (formerly Sweet Tooth).
+  type: vendor_site
+  added: "2018-01-01"
+- name: Yireo
+  url: https://www.yireo.com/
+  description: Dutch Magento 2 extension vendor and training provider; Hyva and GraphQL specialist; ExtDN member.
   type: vendor_site
   added: "2018-01-01"

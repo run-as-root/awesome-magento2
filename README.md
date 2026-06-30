@@ -22,7 +22,7 @@
 
 > A curated list of awesome Magento 2 Extensions & Resources.
 
-> Tracking **247** projects · **57** actively maintained · **9** 🔥 hot · **43** 🪦 on the graveyard shelf.
+> Tracking **233** projects · **57** actively maintained · **9** 🔥 hot · **43** 🪦 on the graveyard shelf.
 
 - [What is an awesome list?](https://github.com/sindresorhus/awesome/blob/master/awesome.md)
 - [Contribution guide](contributing.md) [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/DavidLambauer/awesome-magento2/issues)
@@ -437,27 +437,20 @@ The storefront of Magento 2 can be styled in numerous ways:
 
 ## List of trustworthy Extension Developers
 
-- [Aheadworks](https://www.aheadworks.com/) - Magento extension vendor.
-- [Altima](https://shop.altima.net.au/) - Magento extension vendor.
-- [Blue Jalappeno](http://bluejalappeno.com/) - Magento extension vendor.
-- [CustomGento](https://www.customgento.com/extensions/) - Magento extension vendor.
-- [Dotmailer](https://www.dotmailer.com/) - Email marketing platform with Magento integration.
-- [Ebizmarts](https://ebizmarts.com/) - Magento extension vendor.
-- [FireBear Studio](https://firebearstudio.com/) - Magento extension vendor.
-- [Fooman](http://store.fooman.co.nz/) - Magento extension vendor.
-- [Genmato](https://genmato.com/) - Magento extension vendor.
-- [Integer-net](https://www.integer-net.com/solr-magento/) - Magento extension vendor (Solr integration and more).
-- [Magemail](https://magemail.co/) - Email marketing for Magento.
-- [MagePal](https://packagist.org/packages/magepal/) - MagePal's Magento extensions on Packagist.
-- [Modulwerft](https://www.modulwerft.com/) - Magento extension vendor.
-- [Paradox Labs](https://www.paradoxlabs.com/) - Magento extension vendor.
-- [ProxiBlue](https://www.proxiblue.com.au/) - Magento extension vendor.
-- [Rocket Web](http://rocketweb.com/) - Magento extension vendor.
-- [Sweet Tooth](https://www.sweettoothrewards.com/) - Loyalty and rewards platform with Magento integration.
-- [The Extension Lab](https://github.com/theextensionlab/) - The Extension Lab on GitHub.
-- [Unirgy](http://www.unirgy.com/) - Magento extension vendor.
-- [WebShopApps](http://webshopapps.com/eu/) - Magento extension vendor.
-- [Yireo](https://www.yireo.com/) - Magento extension vendor and training provider.
+- [Aheadworks](https://www.aheadworks.com/) - Broad catalog of Magento 2 extensions covering B2B, marketing, customer experience, and checkout.
+- [Amasty](https://amasty.com/) - One of the largest Magento 2 extension catalogs; SEO, search, promotions, B2B, and store management.
+- [CustomGento](https://www.customgento.com/extensions/) - Quality-focused Magento 2 extension vendor; member of ExtDN.
+- [Dotdigital](https://www.dotdigital.com/) - Email and cross-channel marketing automation platform with official Magento 2 integration (formerly Dotmailer).
+- [FireBear Studio](https://firebearstudio.com/) - Magento 2 extensions specializing in import/export, feed management, and integrations.
+- [integer_net](https://www.integer-net.com/) - German Magento agency and extension vendor; ExtDN member; known for Solr search and code quality tooling.
+- [Mageplaza](https://www.mageplaza.com/) - Large catalog of free and paid Magento 2 extensions; SEO, checkout, social login, and marketing modules.
+- [MageWorx](https://www.mageworx.com/) - Magento 2 extensions for SEO, advanced shipping, pricing rules, and product management.
+- [Mirasvit](https://mirasvit.com/) - Magento 2 extensions for search, helpdesk, B2B, loyalty programs, and store management.
+- [Modulwerft](https://www.modulwerft.com/) - German Magento 2 extension vendor.
+- [Paradox Labs](https://www.paradoxlabs.com/) - Magento 2 extensions for subscriptions, tokenized payments, and customer account management.
+- [ProxiBlue](https://www.proxiblue.com.au/) - Australian Magento 2 extension vendor specializing in promotions and dynamic categories.
+- [Smile.io](https://smile.io/) - Loyalty and rewards platform with Magento 2 integration (formerly Sweet Tooth).
+- [Yireo](https://www.yireo.com/) - Dutch Magento 2 extension vendor and training provider; Hyva and GraphQL specialist; ExtDN member.
 
 > **Magento Extension Developers Network (ExtDN)**
 > The Magento Extension Developers Network (ExtDN) is a vetted network of extension developers whose core business is to
@@ -473,24 +466,17 @@ by [Fooman](http://store.fooman.co.nz/blog/how-to-find-trustworthy-information-a
 
 Community members worth following — talks, blog posts, open-source maintenance, and training material.
 
-- [Alan Storm](https://alanstorm.com/) - Prolific Magento tech writer and creator of Pestle.
-- [Alessandro Ronchi](https://github.com/aleron75) - Co-founder of ExtDN; maintainer of Mageres.
-- [Anna Völkl](https://github.com/avoelkl) - integer_net; regular speaker and language-pack contributor.
-- [Ben Marks](https://twitter.com/benmarks) - Former Magento Evangelist; long-time community advocate.
-- [David Alger](https://davidalger.com/) - Creator of Warden; long-time Magento infrastructure voice.
-- [Fabian Schmengler](https://github.com/schmengler) - integer_net; frequent conference speaker on Magento 2 architecture.
-- [Ivan Chepurnyi](https://github.com/EcomDev) - Long-time core contributor; speaker.
-- [Jisse Reitsma](https://github.com/jreitsma) - Founder of Yireo; trainer and book author.
-- [Kalen Jordan](http://magetalk.com/) - Co-host of MageTalk podcast.
-- [Mark Shust](https://markshust.com/) - Creator of markshust/docker-magento; educator on YouTube.
-- [Mathias Elle](https://github.com/MathiasElle) - Author of the Magento Log Viewer VS Code extension.
-- [Max Pronko](https://github.com/maxpronko) - Trainer; runs the DevChannel YouTube series.
-- [Peter Jaap Blaakmeer](https://github.com/peterjaap) - CTO at elgentos; open-source contributor.
-- [Phillip Jackson](http://magetalk.com/) - Co-host of MageTalk podcast.
-- [Riccardo Tempesta](https://github.com/rpanarin) - MageSpecialist; creator of MSP_DevTools.
-- [Roma Glushko](https://github.com/roma-glushko) - Maintains magento2-dev-plus-exam notes and the Tango CLI.
-- [Sander Mangel](https://github.com/sandermangel) - Organiser of MageUnconference NL; language-pack co-maintainer.
-- [Vinai Kopp](https://github.com/Vinai) - Trainer and author of Mage2Katas; deep Magento 2 internals expertise.
+- [Alessandro Ronchi](https://github.com/aleron75) - Maintainer of Mageres; co-founder of ExtDN; Mage-OS documentation working group member and brand ambassador.
+- [Andreas von Studnitz](https://github.com/avstudnitz) - integer_net co-owner; Mage-OS technical contributor; regular conference speaker including Meet Magento Poland 2024.
+- [Fabian Schmengler](https://github.com/schmengler) - integer_net; regular conference speaker on Magento 2 architecture and testing practices.
+- [Jisse Reitsma](https://www.yireo.com/blog) - Founder of Yireo; 3x Magento Master; trainer and speaker on PHP 8+, GraphQL, Hyva, Magewire, and CSP.
+- [Joseph Maxwell](https://swiftotter.com/) - Founder of SwiftOtter; runs the leading Adobe Commerce certification prep platform; helped write the Adobe Commerce Associate Developer exam.
+- [Mark Shust](https://markshust.com/) - Creator of markshust/docker-magento (most-starred Magento-specific GitHub repo); educator at M.academy.
+- [Max Pronko](https://www.magemastery.net/) - Founder of Mage Mastery; runs the DevChannel YouTube series (11k+ subscribers) and weekly Magento tech digests.
+- [Peter Jaap Blaakmeer](https://github.com/peterjaap) - CTO at elgentos; Mage-OS founding signatory; prolific open-source contributor and conference speaker.
+- [Ryan Hoerr](https://github.com/rhoerr) - Mage-OS board member and highest-volume code contributor; credited on every Mage-OS release; ParadoxLabs.
+- [Vinai Kopp](https://mage2.tv/) - President of Mage-OS; Technical Director at Hyva Themes; creator of Mage2Katas and mage2.tv screencasts.
+- [Willem Wigman](https://www.hyva.io/blog/author/willemwigman) - Creator of the Hyva Theme; co-author of the Mage-OS founding letter; executive at Hyva Themes.
 
 ---
 
