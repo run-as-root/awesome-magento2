@@ -12,4 +12,5 @@ enum EntryType: string
     case VendorSite      = 'vendor_site';
     case Archive         = 'archive';
     case Canonical       = 'canonical';
+    case Podcast         = 'podcast';
 }
