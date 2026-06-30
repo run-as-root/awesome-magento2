@@ -1,0 +1,15 @@
+- name: MageTalk
+  url: https://magetalk.com/
+  description: Weekly Magento podcast hosted by Phillip Jackson and Kalen Jordan covering Magento news, interviews, and community topics.
+  type: podcast
+  added: "2026-06-30"
+- name: Talk Commerce
+  url: https://talk-commerce.com/podcasts/
+  description: Brent Peterson's interviews with digital commerce practitioners, merchants, and platform experts.
+  type: podcast
+  added: "2026-06-30"
+- name: The JetRails Podcast
+  url: https://jetrails.com/podcast/
+  description: Ecommerce-focused podcast from JetRails covering hosting, performance, and platform strategy.
+  type: podcast
+  added: "2026-06-30"
