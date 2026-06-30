@@ -5,6 +5,7 @@ require_once __DIR__ . '/../vendor/autoload.php';
 use AwesomeList\Enrichment\AdapterFactory;
 use AwesomeList\Enrichment\ArchiveAdapter;
 use AwesomeList\Enrichment\BlogAdapter;
+use AwesomeList\Enrichment\PodcastAdapter;
 use AwesomeList\Enrichment\Enricher;
 use AwesomeList\Enrichment\EventAdapter;
 use AwesomeList\Enrichment\GithubRepoAdapter;
@@ -51,6 +52,7 @@ $enricher = new Enricher(
         new ArchiveAdapter($now),
         new PackagistAdapter($genericHttp, $now),
         new BlogAdapter($genericHttp, $now),
+        new PodcastAdapter($genericHttp, $now),
         new EventAdapter($genericHttp, $now),
         new LivenessAdapter($genericHttp, $now, 'vendor_site'),
         new LivenessAdapter($genericHttp, $now, 'course'),
