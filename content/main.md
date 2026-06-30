@@ -152,6 +152,18 @@ The storefront of Magento 2 can be styled in numerous ways:
 
 {% file=data/blogs/other.yml parser="AwesomeList\Parser\YamlEntryList" %}
 
+## Podcasts
+
+{% file=data/podcasts.yml parser="AwesomeList\Parser\YamlEntryList" %}
+
+## Newsletters
+
+{% file=data/newsletters.yml parser="AwesomeList\Parser\YamlEntryList" %}
+
+## Community
+
+{% file=data/community.yml parser="AwesomeList\Parser\YamlEntryList" %}
+
 ## Learning
 
 {% file=data/learning.yml parser="AwesomeList\Parser\YamlEntryList" %}

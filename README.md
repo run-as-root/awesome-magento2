@@ -22,7 +22,7 @@
 
 > A curated list of awesome Magento 2 Extensions & Resources.
 
-> Tracking **231** projects · **57** actively maintained · **9** 🔥 hot · **43** 🪦 on the graveyard shelf.
+> Tracking **247** projects · **57** actively maintained · **9** 🔥 hot · **43** 🪦 on the graveyard shelf.
 
 - [What is an awesome list?](https://github.com/sindresorhus/awesome/blob/master/awesome.md)
 - [Contribution guide](contributing.md) [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/DavidLambauer/awesome-magento2/issues)
@@ -38,6 +38,9 @@
 - [Tools](#tools)
 - [Open Source Extensions](#open-source-extensions)
 - [Blogs](#blogs)
+- [Podcasts](#podcasts)
+- [Newsletters](#newsletters)
+- [Community](#community)
 - [Learning](#learning)
 - [Platforms](#platforms)
 - [Official Resources](#official-resources)
@@ -231,6 +234,7 @@ The storefront of Magento 2 can be styled in numerous ways:
 - [Algolia Search Integration](https://github.com/algolia/algoliasearch-magento-2) 🫡 - Algolia Search (SaaS) Integration.
 - [FastSimpleImport2](https://github.com/firegento/FireGento_FastSimpleImport2) 🫡 - Wrapper for Magento 2 ImportExport functionality, which imports products and customers from arrays.
 - [Disable Search Engine](https://github.com/zepgram/module-disable-search-engine) - Disable Elasticsearch and fulltext indexing for category search.
+- [magento2-module-meilisearch](https://github.com/walkwizus/magento2-module-meilisearch) - The Meilisearch extension for Magento 2 enables replacing Magento's default search engine (OpenSearch) with Meilisearch.
 
 ### CMS
 
@@ -362,6 +366,30 @@ The storefront of Magento 2 can be styled in numerous ways:
 ### Other
 
 - [MageTalk](http://magetalk.com/) - Community podcast by Kalen Jordan and Phillip Jackson.
+
+## Podcasts
+
+- [MageTalk](https://magetalk.com/) - Weekly Magento podcast hosted by Phillip Jackson and Kalen Jordan covering Magento news, interviews, and community topics.
+- [Talk Commerce](https://talk-commerce.com/podcasts/) - Brent Peterson's interviews with digital commerce practitioners, merchants, and platform experts.
+- [The JetRails Podcast](https://jetrails.com/podcast/) - Ecommerce-focused podcast from JetRails covering hosting, performance, and platform strategy.
+
+## Newsletters
+
+- [M Bytes Newsletter](https://m.academy/newsletter/) - Weekly developer newsletter from M.academy delivering three free Magento video lessons every Thursday.
+- [Mage Dispatch](https://www.magedispatch.com/) - Community-driven newsletter collecting links the Magento community should know about.
+- [Mageres Monthly Digest](https://mailchi.mp/6a498018d9ef/mageres) - Hand-curated monthly newsletter by Alessandro Ronchi collecting useful Magento resources.
+- [The Devletter](https://www.maxpronko.com/the-devletter/) - Free weekly email digest by Max Pronko covering Magento 2 development tips and news.
+
+## Community
+
+- [Dutchento](https://www.dutchento.org/) - The Magento community in the Netherlands.
+- [ExtDN](https://extdn.org/) - A network of leading Magento extension developers committed to quality and best practices.
+- [Firegento](https://firegento.com/) - A group of Magento enthusiasts developing open-source modules and organizing hackathons.
+- [Mage-OS Association](https://mage-os.org/) - The community alliance ensuring the accessibility, longevity, and success of Magento Open Source.
+- [Magento Association](https://www.magentoassociation.org/home) - The open and powerful Magento ecosystem association.
+- [Magento Stack Exchange](https://magento.stackexchange.com/) - Q&A site for users and developers of the Magento e-Commerce platform.
+- [OpenGento](https://opengento.fr/) - The Magento community in France.
+- [Reddit r/Magento](https://www.reddit.com/r/Magento/) - Magento community on Reddit — questions, news, and discussion.
 
 ## Learning
 
