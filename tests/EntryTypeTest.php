@@ -13,8 +13,8 @@ final class EntryTypeTest extends TestCase
         $this->assertSame(EntryType::Event, EntryType::from('event'));
     }
 
-    public function test_covers_all_nine_types(): void
+    public function test_covers_all_ten_types(): void
     {
-        $this->assertCount(9, EntryType::cases());
+        $this->assertCount(10, EntryType::cases());
     }
 }
