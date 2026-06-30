@@ -1,48 +1,18 @@
-- name: Aheadworks
-  url: https://www.aheadworks.com/
-  description: Broad catalog of Magento 2 extensions covering B2B, marketing, customer experience, and checkout.
-  type: vendor_site
-  added: "2018-01-01"
-- name: Amasty
-  url: https://amasty.com/
-  description: One of the largest Magento 2 extension catalogs; SEO, search, promotions, B2B, and store management.
-  type: vendor_site
-  added: "2026-06-30"
 - name: CustomGento
   url: https://www.customgento.com/extensions/
   description: Quality-focused Magento 2 extension vendor; member of ExtDN.
   type: vendor_site
   added: "2019-01-01"
-- name: Dotdigital
-  url: https://www.dotdigital.com/
-  description: Email and cross-channel marketing automation platform with official Magento 2 integration (formerly Dotmailer).
+- name: Hyva Themes
+  url: https://www.hyva.io/
+  description: Creators of the Hyva frontend framework for Magento 2; open-sourced in November 2025.
   type: vendor_site
-  added: "2018-01-01"
-- name: FireBear Studio
-  url: https://firebearstudio.com/
-  description: Magento 2 extensions specializing in import/export, feed management, and integrations.
-  type: vendor_site
-  added: "2018-01-01"
+  added: "2026-06-30"
 - name: integer_net
   url: https://www.integer-net.com/
   description: German Magento agency and extension vendor; ExtDN member; known for Solr search and code quality tooling.
   type: vendor_site
   added: "2018-01-01"
-- name: Mageplaza
-  url: https://www.mageplaza.com/
-  description: Large catalog of free and paid Magento 2 extensions; SEO, checkout, social login, and marketing modules.
-  type: vendor_site
-  added: "2026-06-30"
-- name: MageWorx
-  url: https://www.mageworx.com/
-  description: Magento 2 extensions for SEO, advanced shipping, pricing rules, and product management.
-  type: vendor_site
-  added: "2026-06-30"
-- name: Mirasvit
-  url: https://mirasvit.com/
-  description: Magento 2 extensions for search, helpdesk, B2B, loyalty programs, and store management.
-  type: vendor_site
-  added: "2026-06-30"
 - name: Modulwerft
   url: https://www.modulwerft.com/
   description: German Magento 2 extension vendor.
@@ -58,6 +28,11 @@
   description: Australian Magento 2 extension vendor specializing in promotions and dynamic categories.
   type: vendor_site
   added: "2018-01-01"
+- name: run-as-root
+  url: https://www.run-as-root.sh/
+  description: German Magento agency and open-source contributor; maintainer of awesome-magento2 and multiple community extensions.
+  type: vendor_site
+  added: "2026-06-30"
 - name: Smile.io
   url: https://smile.io/
   description: Loyalty and rewards platform with Magento 2 integration (formerly Sweet Tooth).

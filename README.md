@@ -22,7 +22,7 @@
 
 > A curated list of awesome Magento 2 Extensions & Resources.
 
-> Tracking **236** projects · **57** actively maintained · **9** 🔥 hot · **43** 🪦 on the graveyard shelf.
+> Tracking **231** projects · **57** actively maintained · **9** 🔥 hot · **43** 🪦 on the graveyard shelf.
 
 - [What is an awesome list?](https://github.com/sindresorhus/awesome/blob/master/awesome.md)
 - [Contribution guide](contributing.md) [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/DavidLambauer/awesome-magento2/issues)
@@ -437,18 +437,13 @@ The storefront of Magento 2 can be styled in numerous ways:
 
 ## List of trustworthy Extension Developers
 
-- [Aheadworks](https://www.aheadworks.com/) - Broad catalog of Magento 2 extensions covering B2B, marketing, customer experience, and checkout.
-- [Amasty](https://amasty.com/) - One of the largest Magento 2 extension catalogs; SEO, search, promotions, B2B, and store management.
 - [CustomGento](https://www.customgento.com/extensions/) - Quality-focused Magento 2 extension vendor; member of ExtDN.
-- [Dotdigital](https://www.dotdigital.com/) - Email and cross-channel marketing automation platform with official Magento 2 integration (formerly Dotmailer).
-- [FireBear Studio](https://firebearstudio.com/) - Magento 2 extensions specializing in import/export, feed management, and integrations.
+- [Hyva Themes](https://www.hyva.io/) - Creators of the Hyva frontend framework for Magento 2; open-sourced in November 2025.
 - [integer_net](https://www.integer-net.com/) - German Magento agency and extension vendor; ExtDN member; known for Solr search and code quality tooling.
-- [Mageplaza](https://www.mageplaza.com/) - Large catalog of free and paid Magento 2 extensions; SEO, checkout, social login, and marketing modules.
-- [MageWorx](https://www.mageworx.com/) - Magento 2 extensions for SEO, advanced shipping, pricing rules, and product management.
-- [Mirasvit](https://mirasvit.com/) - Magento 2 extensions for search, helpdesk, B2B, loyalty programs, and store management.
 - [Modulwerft](https://www.modulwerft.com/) - German Magento 2 extension vendor.
 - [Paradox Labs](https://www.paradoxlabs.com/) - Magento 2 extensions for subscriptions, tokenized payments, and customer account management.
 - [ProxiBlue](https://www.proxiblue.com.au/) - Australian Magento 2 extension vendor specializing in promotions and dynamic categories.
+- [run-as-root](https://www.run-as-root.sh/) - German Magento agency and open-source contributor; maintainer of awesome-magento2 and multiple community extensions.
 - [Smile.io](https://smile.io/) - Loyalty and rewards platform with Magento 2 integration (formerly Sweet Tooth).
 - [Yireo](https://www.yireo.com/) - Dutch Magento 2 extension vendor and training provider; Hyva and GraphQL specialist; ExtDN member.
 
