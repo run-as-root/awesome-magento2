@@ -37,3 +37,8 @@
   description: "French PWA front-end solution for Magento."
   type: vendor_site
   added: "2019-06-01"
+- name: MageObsidian
+  url: https://github.com/mage-obsidian/module-modern-frontend
+  description: "Open-source Luma replacement using Vite, Vue 3 islands and TailwindCSS 4 on top of native layouts/blocks/templates. Native ESM, HMR, optional Twig engine."
+  type: github_repo
+  added: "2026-07-05"
