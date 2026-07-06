@@ -22,7 +22,7 @@
 
 > A curated list of awesome Magento 2 Extensions & Resources.
 
-> Tracking **231** projects · **57** actively maintained · **9** 🔥 hot · **43** 🪦 on the graveyard shelf.
+> Tracking **231** projects · **65** actively maintained · **11** 🔥 hot · **46** 🪦 on the graveyard shelf.
 
 - [What is an awesome list?](https://github.com/sindresorhus/awesome/blob/master/awesome.md)
 - [Contribution guide](contributing.md) [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/DavidLambauer/awesome-magento2/issues)
@@ -230,7 +230,7 @@ The storefront of Magento 2 can be styled in numerous ways:
 
 ### Search
 
-- [Elastic Suite Integration](https://github.com/Smile-SA/elasticsuite/) 🫡 - Elastic Suite Integration.
+- [Elastic Suite Integration](https://github.com/Smile-SA/elasticsuite/) 🔥 🫡 - Elastic Suite Integration.
 - [Algolia Search Integration](https://github.com/algolia/algoliasearch-magento-2) 🫡 - Algolia Search (SaaS) Integration.
 - [FastSimpleImport2](https://github.com/firegento/FireGento_FastSimpleImport2) 🫡 - Wrapper for Magento 2 ImportExport functionality, which imports products and customers from arrays.
 - [Disable Search Engine](https://github.com/zepgram/module-disable-search-engine) - Disable Elasticsearch and fulltext indexing for category search.
@@ -247,10 +247,10 @@ The storefront of Magento 2 can be styled in numerous ways:
 
 ### Marketing
 
-- [Google Tag Manager](https://github.com/magepal/magento2-google-tag-manager) 🫡 - Google Tag Manager (GTM) with Data Layer for Magento 2.
+- [Google Tag Manager](https://github.com/magepal/magento2-google-tag-manager) 🔥 🫡 - Google Tag Manager (GTM) with Data Layer for Magento 2.
 - [MagePlaza Seo](https://github.com/mageplaza/magento-2-seo-extension) 🫡 - Well-documented multi-purpose SEO Extension.
-- [magento2-withdrawl](https://github.com/Zwernemann/magento2-withdrawl) - Magento 2 module providing a compliant EU withdrawal button required from June 19, 2026 (§356a BGB / Directive (EU) 2023/2673). Enables customers and guests to revoke orders via a simple form (name, order number, email), sends automatic confirmation emails, and allows admin management in the backend.
-- [module-blog](https://github.com/mage-os-lab/module-blog) - Blog module for Mage-OS / Magento 2 with posts, categories, tags, authors, scheduled publishing, SEO, RSS, sitemap, 6 widgets, and a full GraphQL API. Luma + Hyvä.
+- [magento2-withdrawl](https://github.com/Zwernemann/magento2-withdrawl) 🫡 - Magento 2 module providing a compliant EU withdrawal button required from June 19, 2026 (§356a BGB / Directive (EU) 2023/2673). Enables customers and guests to revoke orders via a simple form (name, order number, email), sends automatic confirmation emails, and allows admin management in the backend.
+- [module-blog](https://github.com/mage-os-lab/module-blog) 🫡 - Blog module for Mage-OS / Magento 2 with posts, categories, tags, authors, scheduled publishing, SEO, RSS, sitemap, 6 widgets, and a full GraphQL API. Luma + Hyvä.
 
 <details>
 <summary>🪦 Graveyard — projects no longer recommended</summary>
@@ -365,20 +365,33 @@ The storefront of Magento 2 can be styled in numerous ways:
 
 ### Other
 
+
+
+<details>
+<summary>🪦 Graveyard — projects no longer recommended</summary>
+
 - [MageTalk](http://magetalk.com/) - Community podcast by Kalen Jordan and Phillip Jackson.
+
+</details>
 
 ## Podcasts
 
+- [Talk Commerce](https://talk-commerce.com/podcasts/) 🫡 - Brent Peterson's interviews with digital commerce practitioners, merchants, and platform experts.
+- [The JetRails Podcast](https://jetrails.com/podcast/) 🫡 - Ecommerce-focused podcast from JetRails covering hosting, performance, and platform strategy.
+
+<details>
+<summary>🪦 Graveyard — projects no longer recommended</summary>
+
 - [MageTalk](https://magetalk.com/) - Weekly Magento podcast hosted by Phillip Jackson and Kalen Jordan covering Magento news, interviews, and community topics.
-- [Talk Commerce](https://talk-commerce.com/podcasts/) - Brent Peterson's interviews with digital commerce practitioners, merchants, and platform experts.
-- [The JetRails Podcast](https://jetrails.com/podcast/) - Ecommerce-focused podcast from JetRails covering hosting, performance, and platform strategy.
+
+</details>
 
 ## Newsletters
 
+- [Mage Dispatch](https://www.magedispatch.com/) 🫡 - Community-driven newsletter collecting links the Magento community should know about.
+- [The Devletter](https://www.maxpronko.com/the-devletter/) 🫡 - Free weekly email digest by Max Pronko covering Magento 2 development tips and news.
 - [M Bytes Newsletter](https://m.academy/newsletter/) - Weekly developer newsletter from M.academy delivering three free Magento video lessons every Thursday.
-- [Mage Dispatch](https://www.magedispatch.com/) - Community-driven newsletter collecting links the Magento community should know about.
 - [Mageres Monthly Digest](https://mailchi.mp/6a498018d9ef/mageres) - Hand-curated monthly newsletter by Alessandro Ronchi collecting useful Magento resources.
-- [The Devletter](https://www.maxpronko.com/the-devletter/) - Free weekly email digest by Max Pronko covering Magento 2 development tips and news.
 
 ## Community
 
@@ -466,7 +479,6 @@ Community members worth following — talks, blog posts, open-source maintenance
 - [David Lambauer](https://www.davidlambauer.de) - Vice President of Mage-OS; Adobe Certified Master Architect; creator of Mage-OS DevDocs; founder of run-as-root GmbH.
 - [Fabrizio Balliano](https://fabrizioballiano.com) - Mage-OS Technical Working Group member; release manager for the Mage-OS 2.0 distribution; 5x Magento certified freelance engineer.
 - [Jisse Reitsma](https://www.yireo.com/blog) - Vice President of the Magento Association; 3x Magento Master; founder of Yireo; trainer on Hyva, GraphQL, and Loki Checkout; Mage-OS Open Source Task Force member.
-- [Mark Shust](https://markshust.com/) - Creator of markshust/docker-magento (the most-starred Magento-specific GitHub repo); educator at M.academy with 600+ video lessons.
 - [Noah Oken-Berg](https://www.abovethefray.com) - Chair of the Magento Association Board of Directors; CEO of Above The Fray; focused on community governance and sustainable ecosystem growth.
 - [Peter Jaap Blaakmeer](https://github.com/peterjaap) - CTO at elgentos; Mage-OS founding signatory; prolific open-source contributor to Magento 2 and Mage-OS.
 - [Ryan Hoerr](https://github.com/rhoerr) - Mage-OS board member and Technical Working Group contributor; primary release engineer for Mage-OS distributions throughout 2025–2026; ParadoxLabs.
@@ -475,6 +487,13 @@ Community members worth following — talks, blog posts, open-source maintenance
 - [Vinai Kopp](https://mage2.tv/) - President of Mage-OS; Technical Director at Hyva Themes; 3x Magento Master; creator of Mage2Katas; lead of the Mage-OS Technical Working Group.
 - [Willem Poortman](https://wpoortman.nl) - Senior Developer at Hyva Themes; creator of the Magewire framework for server-side Magento 2 components.
 - [Willem Wigman](https://www.hyva.io/blog/author/willemwigman) - Founder and CEO of Hyva Themes; creator of the Hyva frontend framework for Magento 2; released Hyva as open source in November 2025.
+
+<details>
+<summary>🪦 Graveyard — projects no longer recommended</summary>
+
+- [Mark Shust](https://markshust.com/) - Creator of markshust/docker-magento (the most-starred Magento-specific GitHub repo); educator at M.academy with 600+ video lessons.
+
+</details>
 
 ---
 
