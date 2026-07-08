@@ -98,3 +98,8 @@
   description: This module aims to make creating grids and forms in the Magento 2 adminhtml area joyful and fast.
   type: github_repo
   added: "2026-04-20"
+- name: module-aeo-audit
+  url: https://github.com/angeo-dev/module-aeo-audit
+  description: "Audit whether your Magento 2 store is visible to ChatGPT, Gemini & Perplexity. One CLI command scores every core AEO signal — robots.txt bot access, llms.txt/llms.jsonl, Product & FAQ schema, sitemap, AI product feed, OG tags, canonical — 0–100 with exact fix commands. Score-trend dashboard, admin UI, cron, --fail-on CI gate. Free, MIT."
+  type: github_repo
+  added: "2026-07-08"

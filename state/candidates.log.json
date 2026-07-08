@@ -248,11 +248,12 @@
         "decided_at": "2026-06-24T08:17:28Z"
     },
     "https://github.com/angeo-dev/module-aeo-audit": {
-        "status": "pending",
+        "status": "accepted",
         "suggested_yaml": "extensions/adminhtml.yml",
         "discovered_at": "2026-06-22T08:14:40Z",
         "full_name": "angeo-dev/module-aeo-audit",
         "description": "Audit whether your Magento 2 store is visible to ChatGPT, Gemini & Perplexity. One CLI command scores every core AEO signal \u2014 robots.txt bot access, llms.txt/llms.jsonl, Product & FAQ schema, sitemap, AI product feed, OG tags, canonical \u2014 0\u2013100 with exact fix commands. Score-trend dashboard, admin UI, cron, --fail-on CI gate. Free, MIT.",
-        "stars": 10
+        "stars": 10,
+        "decided_at": "2026-07-08T05:13:10Z"
     }
 }
