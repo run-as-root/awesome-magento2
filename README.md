@@ -502,6 +502,7 @@ Community members worth following — talks, blog posts, open-source maintenance
 
 - [Awesome PHP](https://github.com/ziadoz/awesome-php) - A curated list of awesome PHP resources.
 - [Mageres](https://github.com/aleron75/mageres) - Alessandro Ronchi's list of resources for Magento 1 and Magento 2.
+- [Awesome Agentic Commerce](https://github.com/MentionNetwork/awesome-agentic-commerce) - Agentic commerce resources across platforms including Adobe Commerce / Magento: UCP, ACP, AP2 and MCP protocols, agent readiness testing and AI-visibility tools.
 
 <details>
 <summary>🪦 Graveyard — projects no longer recommended</summary>
