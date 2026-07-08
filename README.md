@@ -22,7 +22,7 @@
 
 > A curated list of awesome Magento 2 Extensions & Resources.
 
-> Tracking **231** projects · **65** actively maintained · **11** 🔥 hot · **46** 🪦 on the graveyard shelf.
+> Tracking **232** projects · **65** actively maintained · **11** 🔥 hot · **46** 🪦 on the graveyard shelf.
 
 - [What is an awesome list?](https://github.com/sindresorhus/awesome/blob/master/awesome.md)
 - [Contribution guide](contributing.md) [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/DavidLambauer/awesome-magento2/issues)
@@ -121,6 +121,7 @@ The storefront of Magento 2 can be styled in numerous ways:
 - [Breeze Evolution](https://breezefront.com/themes) - Lightweight Luma-compatible theme targeting 100 PageSpeed.
 - [Front-Commerce](https://www.front-commerce.com/) - French PWA front-end solution for Magento.
 - [Hyvä](https://hyva.io/) - Luma replacement using TailwindCSS and AlpineJS. Commercial license. Active compatibility-module ecosystem.
+- [MageObsidian](https://github.com/mage-obsidian/module-modern-frontend) - Open-source Luma replacement using Vite, Vue 3 islands and TailwindCSS 4 on top of native layouts/blocks/templates. Native ESM, HMR, optional Twig engine.
 
 ## Tools
 
