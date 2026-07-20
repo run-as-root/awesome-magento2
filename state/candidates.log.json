@@ -201,7 +201,7 @@
         "discovered_at": "2026-06-01T07:53:27Z",
         "full_name": "magebitcom/magento2-mcp-module",
         "description": "Extensible MCP module for Magento2 - Interact with your store through any MCP-compatible AI agent",
-        "stars": 15
+        "stars": 18
     },
     "https://github.com/walkwizus/magento2-module-meilisearch": {
         "status": "accepted",
@@ -254,5 +254,13 @@
         "full_name": "angeo-dev/module-aeo-audit",
         "description": "Audit whether your Magento 2 store is visible to ChatGPT, Gemini & Perplexity. One CLI command scores every core AEO signal \u2014 robots.txt bot access, llms.txt/llms.jsonl, Product & FAQ schema, sitemap, AI product feed, OG tags, canonical \u2014 0\u2013100 with exact fix commands. Score-trend dashboard, admin UI, cron, --fail-on CI gate. Free, MIT.",
         "stars": 10
+    },
+    "https://github.com/run-as-root/Typesense-Magento-2": {
+        "status": "pending",
+        "suggested_yaml": "extensions/search.yml",
+        "discovered_at": "2026-07-20T07:10:01Z",
+        "full_name": "run-as-root/Typesense-Magento-2",
+        "description": "Open-source Typesense search integration for Magento 2 and Mage-OS. Instant search, autocomplete, faceted filtering, visual category merchandising, query merchandising, and zero-downtime reindexing \u2014 all Hyva-native and CSP-compatible.",
+        "stars": 11
     }
 }
