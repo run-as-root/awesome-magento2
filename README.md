@@ -452,6 +452,7 @@ The storefront of Magento 2 can be styled in numerous ways:
 ## List of trustworthy Extension Developers
 
 - [CustomGento](https://www.customgento.com/extensions/) - Quality-focused Magento 2 extension vendor; member of ExtDN.
+- [GEISSWEB](https://geissweb.com/) - Extension vendor since 2011 (Magento 1 and 2) from Germany.
 - [Hyva Themes](https://www.hyva.io/) - Creators of the Hyva frontend framework for Magento 2; open-sourced in November 2025.
 - [integer_net](https://www.integer-net.com/) - German Magento agency and extension vendor; ExtDN member; known for Solr search and code quality tooling.
 - [Modulwerft](https://www.modulwerft.com/) - German Magento 2 extension vendor.
