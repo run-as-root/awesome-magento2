@@ -2,7 +2,7 @@
   "require": {
     "php": "^8.3",
     "symfony/yaml": "^6",
-    "guzzlehttp/guzzle": "^7"
+    "guzzlehttp/guzzle": "^8"
   },
   "autoload": {
     "psr-4": {
