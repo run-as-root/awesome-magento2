@@ -43,3 +43,8 @@
   description: "https://github.com/LBannenberg/magento2-composer-dashboard"
   type: github_repo
   added: "2026-06-24"
+- name: magento2-mcp-module
+  url: https://github.com/magebitcom/magento2-mcp-module
+  description: Extensible MCP module for Magento2 - Interact with your store through any MCP-compatible AI agent
+  type: github_repo
+  added: "2026-07-28"

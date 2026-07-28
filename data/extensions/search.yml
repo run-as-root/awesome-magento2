@@ -23,3 +23,8 @@
   description: "The Meilisearch extension for Magento 2 enables replacing Magento's default search engine (OpenSearch) with Meilisearch."
   type: github_repo
   added: "2026-06-29"
+- name: Typesense-Magento-2
+  url: https://github.com/run-as-root/Typesense-Magento-2
+  description: Open-source Typesense search integration for Magento 2 and Mage-OS. Instant search, autocomplete, faceted filtering, visual category merchandising, query merchandising, and zero-downtime reindexing — all Hyva-native and CSP-compatible.
+  type: github_repo
+  added: "2026-07-28"
