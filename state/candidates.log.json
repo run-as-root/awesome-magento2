@@ -256,11 +256,12 @@
         "stars": 11
     },
     "https://github.com/run-as-root/Typesense-Magento-2": {
-        "status": "pending",
+        "status": "accepted",
         "suggested_yaml": "extensions/search.yml",
         "discovered_at": "2026-07-20T07:10:01Z",
         "full_name": "run-as-root/Typesense-Magento-2",
         "description": "Open-source Typesense search integration for Magento 2 and Mage-OS. Instant search, autocomplete, faceted filtering, visual category merchandising, query merchandising, and zero-downtime reindexing \u2014 all Hyva-native and CSP-compatible.",
-        "stars": 11
+        "stars": 11,
+        "decided_at": "2026-07-28T10:44:37Z"
     }
 }
