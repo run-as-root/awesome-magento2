@@ -196,12 +196,13 @@
         "decided_at": "2026-06-24T08:17:56Z"
     },
     "https://github.com/magebitcom/magento2-mcp-module": {
-        "status": "pending",
+        "status": "accepted",
         "suggested_yaml": "extensions/_triage.yml",
         "discovered_at": "2026-06-01T07:53:27Z",
         "full_name": "magebitcom/magento2-mcp-module",
         "description": "Extensible MCP module for Magento2 - Interact with your store through any MCP-compatible AI agent",
-        "stars": 18
+        "stars": 18,
+        "decided_at": "2026-07-28T10:45:05Z"
     },
     "https://github.com/walkwizus/magento2-module-meilisearch": {
         "status": "accepted",
@@ -256,11 +257,12 @@
         "stars": 11
     },
     "https://github.com/run-as-root/Typesense-Magento-2": {
-        "status": "pending",
+        "status": "accepted",
         "suggested_yaml": "extensions/search.yml",
         "discovered_at": "2026-07-20T07:10:01Z",
         "full_name": "run-as-root/Typesense-Magento-2",
         "description": "Open-source Typesense search integration for Magento 2 and Mage-OS. Instant search, autocomplete, faceted filtering, visual category merchandising, query merchandising, and zero-downtime reindexing \u2014 all Hyva-native and CSP-compatible.",
-        "stars": 11
+        "stars": 11,
+        "decided_at": "2026-07-28T10:45:05Z"
     }
 }
