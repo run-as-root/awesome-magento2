@@ -38,11 +38,6 @@
   description: Vinai Kopp's Mage2Katas YouTube channel.
   type: youtube_playlist
   added: "2018-01-01"
-- name: Mage2.tv
-  url: https://www.mage2.tv
-  description: Magento 2 developer screencasts by Vinai Kopp.
-  type: course
-  added: "2018-01-01"
 - name: magento-notes/magento2-exam-notes
   url: https://github.com/magento-notes/magento2-exam-notes
   description: Preparation notes for the Magento 2 Certified Professional Developer exam.
