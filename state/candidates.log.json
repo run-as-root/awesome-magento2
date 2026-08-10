@@ -271,5 +271,13 @@
         "full_name": "magenx/Magento-nginx-config",
         "description": "Default Nginx config for Magento 2",
         "stars": 504
+    },
+    "https://github.com/olegkoval/magento2-regenerate_url_rewrites": {
+        "status": "pending",
+        "suggested_yaml": "extensions/_triage.yml",
+        "discovered_at": "2026-08-10T06:32:16Z",
+        "full_name": "olegkoval/magento2-regenerate_url_rewrites",
+        "description": "Magento 2 extension which add feature of regenerating a url rewrites of products/categories",
+        "stars": 444
     }
 }
