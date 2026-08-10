@@ -22,7 +22,7 @@
 
 > A curated list of awesome Magento 2 Extensions & Resources.
 
-> Tracking **233** projects · **63** actively maintained · **11** 🔥 hot · **50** 🪦 on the graveyard shelf.
+> Tracking **233** projects · **65** actively maintained · **11** 🔥 hot · **50** 🪦 on the graveyard shelf.
 
 - [What is an awesome list?](https://github.com/sindresorhus/awesome/blob/master/awesome.md)
 - [Contribution guide](contributing.md) [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/DavidLambauer/awesome-magento2/issues)
@@ -276,14 +276,14 @@ The storefront of Magento 2 can be styled in numerous ways:
 - [FireGento Fast Simple Import](https://github.com/firegento/FireGento_FastSimpleImport2) 🫡 - Wrapper for Magento 2 ImportExport functionality, which imports products and customers from arrays.
 - [Preview Checkout Success Page](https://github.com/magepal/magento2-preview-checkout-success-page) 🫡 - Quickly and easily preview and test your order confirmation page, without the need to place a new order each time.
 - [Guest to Customer](https://github.com/magepal/magento2-guest-to-customer) 🫡 - Quickly and easily convert existing guest checkout customers to registered customers.
-- [theme-adminhtml-m137](https://github.com/mage-os/theme-adminhtml-m137) 🫡 - M137 Admin Theme for Magento/Mage-OS
+- [Reset UI Bookmarks](https://github.com/magenizr/Magenizr_ResetUiBookmarks) 🫡 - Allows admin users to reset their own UI bookmarks such as filter state, column positions and applied sorting (e.g. Sales > Orders).
 - [Disable Stock Reservation](https://github.com/AmpersandHQ/magento2-disable-stock-reservation) - Disables the inventory reservation logic introduced as part of MSI in Magento 2.3.3.
 - [Customer Force Login](https://github.com/bitExpert/magento2-force-login) - Forces customers to log in before accessing certain pages.
 - [Clean Admin Menu](https://github.com/redchamps/clean-admin-menu) - Merges 3rd-party extensions into a single menu.
 - [Magento 2 Import Framework](https://github.com/techdivision/import) - A library supporting generic Magento 2 import functionality.
 - [Checkout Tester](https://github.com/yireo/Yireo_CheckoutTester2) - Extension to quickly test Checkout changes.
 - [PageNotFound](https://github.com/experius/Magento-2-Module-PageNotFound) - Saves upcoming 404s in your database with the possibility to create a redirect.
-- [Reset UI Bookmarks](https://github.com/magenizr/Magenizr_ResetUiBookmarks) - Allows admin users to reset their own UI bookmarks such as filter state, column positions and applied sorting (e.g. Sales > Orders).
+- [theme-adminhtml-m137](https://github.com/mage-os/theme-adminhtml-m137) - M137 Admin Theme for Magento/Mage-OS
 - [Product Links Navigator](https://github.com/elninotech/ElNino_ProductLinksNavigator) - Enhances admin product-to-product navigation. Adds direct frontend/backend links to products in grids and modals, and a "Parent Products" tab.
 
 <details>
@@ -362,7 +362,6 @@ The storefront of Magento 2 can be styled in numerous ways:
 - [Atwix](https://www.atwix.com/blog/) 🫡 - Magento development agency blog.
 - [Classy Llama](https://www.classyllama.com/blog) 🫡 - Magento agency blog.
 - [inchoo](http://inchoo.net/category/magento-2/) 🫡 - Inchoo's Magento development blog.
-- [dev98](https://dev98.de/) - German Magento agency blog.
 - [FireBear Studio](https://firebearstudio.com/blog) - FireBear Studio's Magento development blog.
 - [M.academy](https://m.academy/blog/) - Blog from the M.academy team.
 
@@ -370,6 +369,7 @@ The storefront of Magento 2 can be styled in numerous ways:
 <summary>🪦 Graveyard — projects no longer recommended</summary>
 
 - [bitExpert AG](https://blog.bitexpert.de/blog/tags/magento) - bitExpert's Magento-tagged blog posts.
+- [dev98](https://dev98.de/) - German Magento agency blog.
 - [Fooman](http://store.fooman.co.nz/blog) - Fooman's Magento extension and development blog.
 - [integer_net blog](https://www.integer-net.com/blog/) - integer_net's technical Magento blog.
 - [MageComp](https://magecomp.com/blog/category/magento-2/) - MageComp's Magento 2 tutorials and tips.
@@ -391,12 +391,12 @@ The storefront of Magento 2 can be styled in numerous ways:
 ## Podcasts
 
 - [Talk Commerce](https://talk-commerce.com/podcasts/) 🫡 - Brent Peterson's interviews with digital commerce practitioners, merchants, and platform experts.
+- [The JetRails Podcast](https://jetrails.com/podcast/) 🫡 - Ecommerce-focused podcast from JetRails covering hosting, performance, and platform strategy.
 
 <details>
 <summary>🪦 Graveyard — projects no longer recommended</summary>
 
 - [MageTalk](https://magetalk.com/) - Weekly Magento podcast hosted by Phillip Jackson and Kalen Jordan covering Magento news, interviews, and community topics.
-- [The JetRails Podcast](https://jetrails.com/podcast/) - Ecommerce-focused podcast from JetRails covering hosting, performance, and platform strategy.
 
 </details>
 
@@ -420,9 +420,9 @@ The storefront of Magento 2 can be styled in numerous ways:
 
 ## Learning
 
+- [Max Pronko DevChannel](https://www.youtube.com/channel/UCxbWGz6h6KNQsi2ughRUV2Q) 🫡 - Max Pronko's YouTube channel for Magento 2 development.
 - [M.academy](https://m.academy/) - Video lessons and courses for Magento 2 and Adobe Commerce.
 - [Max Bucknell — Magento 2 JavaScript](https://www.youtube.com/watch?v=tHxebA-jOSo) - Max Bucknell's talk on Magento 2's JavaScript stack.
-- [Max Pronko DevChannel](https://www.youtube.com/channel/UCxbWGz6h6KNQsi2ughRUV2Q) - Max Pronko's YouTube channel for Magento 2 development.
 - [Yireo Training](https://www.yireo.com/training) - Magento 2 backend and frontend development courses.
 
 <details>
