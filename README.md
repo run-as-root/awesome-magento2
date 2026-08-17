@@ -22,7 +22,7 @@
 
 > A curated list of awesome Magento 2 Extensions & Resources.
 
-> Tracking **233** projects · **65** actively maintained · **11** 🔥 hot · **50** 🪦 on the graveyard shelf.
+> Tracking **233** projects · **62** actively maintained · **11** 🔥 hot · **50** 🪦 on the graveyard shelf.
 
 - [What is an awesome list?](https://github.com/sindresorhus/awesome/blob/master/awesome.md)
 - [Contribution guide](contributing.md) [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/DavidLambauer/awesome-magento2/issues)
@@ -255,7 +255,7 @@ The storefront of Magento 2 can be styled in numerous ways:
 
 ### Marketing
 
-- [Google Tag Manager](https://github.com/magepal/magento2-google-tag-manager) 🔥 🫡 - Google Tag Manager (GTM) with Data Layer for Magento 2.
+- [Google Tag Manager](https://github.com/magepal/magento2-google-tag-manager) 🔥 - Google Tag Manager (GTM) with Data Layer for Magento 2.
 - [MagePlaza Seo](https://github.com/mageplaza/magento-2-seo-extension) 🫡 - Well-documented multi-purpose SEO Extension.
 - [magento2-withdrawl](https://github.com/Zwernemann/magento2-withdrawl) 🫡 - Magento 2 module providing a compliant EU withdrawal button required from June 19, 2026 (§356a BGB / Directive (EU) 2023/2673). Enables customers and guests to revoke orders via a simple form (name, order number, email), sends automatic confirmation emails, and allows admin management in the backend.
 - [module-blog](https://github.com/mage-os-lab/module-blog) 🫡 - Blog module for Mage-OS / Magento 2 with posts, categories, tags, authors, scheduled publishing, SEO, RSS, sitemap, 6 widgets, and a full GraphQL API. Luma + Hyvä.
@@ -270,20 +270,20 @@ The storefront of Magento 2 can be styled in numerous ways:
 ### Adminhtml / Backend
 
 - [Menu Editor](https://github.com/SnowdogApps/magento2-menu) 🔥 🫡 - Provides a powerful menu editor to replace category-based menus in Magento 2.
-- [Custom SMTP](https://github.com/magepal/magento2-gmail-smtp-app) 🫡 - Configure Magento 2 to send all transactional email using Google App, Gmail, Amazon SES, Microsoft Office 365 and other SMTP servers.
 - [Sentry.io](https://github.com/justbetter/magento2-sentry) 🫡 - Application monitoring and error tracking software for Magento 2.
 - [magento2-hyva-admin](https://github.com/hyva-themes/magento2-hyva-admin) 🫡 - This module aims to make creating grids and forms in the Magento 2 adminhtml area joyful and fast.
 - [FireGento Fast Simple Import](https://github.com/firegento/FireGento_FastSimpleImport2) 🫡 - Wrapper for Magento 2 ImportExport functionality, which imports products and customers from arrays.
-- [Preview Checkout Success Page](https://github.com/magepal/magento2-preview-checkout-success-page) 🫡 - Quickly and easily preview and test your order confirmation page, without the need to place a new order each time.
-- [Guest to Customer](https://github.com/magepal/magento2-guest-to-customer) 🫡 - Quickly and easily convert existing guest checkout customers to registered customers.
 - [Reset UI Bookmarks](https://github.com/magenizr/Magenizr_ResetUiBookmarks) 🫡 - Allows admin users to reset their own UI bookmarks such as filter state, column positions and applied sorting (e.g. Sales > Orders).
+- [theme-adminhtml-m137](https://github.com/mage-os/theme-adminhtml-m137) 🫡 - M137 Admin Theme for Magento/Mage-OS
+- [Custom SMTP](https://github.com/magepal/magento2-gmail-smtp-app) - Configure Magento 2 to send all transactional email using Google App, Gmail, Amazon SES, Microsoft Office 365 and other SMTP servers.
 - [Disable Stock Reservation](https://github.com/AmpersandHQ/magento2-disable-stock-reservation) - Disables the inventory reservation logic introduced as part of MSI in Magento 2.3.3.
 - [Customer Force Login](https://github.com/bitExpert/magento2-force-login) - Forces customers to log in before accessing certain pages.
 - [Clean Admin Menu](https://github.com/redchamps/clean-admin-menu) - Merges 3rd-party extensions into a single menu.
 - [Magento 2 Import Framework](https://github.com/techdivision/import) - A library supporting generic Magento 2 import functionality.
 - [Checkout Tester](https://github.com/yireo/Yireo_CheckoutTester2) - Extension to quickly test Checkout changes.
+- [Preview Checkout Success Page](https://github.com/magepal/magento2-preview-checkout-success-page) - Quickly and easily preview and test your order confirmation page, without the need to place a new order each time.
+- [Guest to Customer](https://github.com/magepal/magento2-guest-to-customer) - Quickly and easily convert existing guest checkout customers to registered customers.
 - [PageNotFound](https://github.com/experius/Magento-2-Module-PageNotFound) - Saves upcoming 404s in your database with the possibility to create a redirect.
-- [theme-adminhtml-m137](https://github.com/mage-os/theme-adminhtml-m137) - M137 Admin Theme for Magento/Mage-OS
 - [Product Links Navigator](https://github.com/elninotech/ElNino_ProductLinksNavigator) - Enhances admin product-to-product navigation. Adds direct frontend/backend links to products in grids and modals, and a "Parent Products" tab.
 
 <details>
@@ -360,9 +360,9 @@ The storefront of Magento 2 can be styled in numerous ways:
 ### Company Blogs
 
 - [Atwix](https://www.atwix.com/blog/) 🫡 - Magento development agency blog.
-- [Classy Llama](https://www.classyllama.com/blog) 🫡 - Magento agency blog.
+- [FireBear Studio](https://firebearstudio.com/blog) 🫡 - FireBear Studio's Magento development blog.
 - [inchoo](http://inchoo.net/category/magento-2/) 🫡 - Inchoo's Magento development blog.
-- [FireBear Studio](https://firebearstudio.com/blog) - FireBear Studio's Magento development blog.
+- [Classy Llama](https://www.classyllama.com/blog) - Magento agency blog.
 - [M.academy](https://m.academy/blog/) - Blog from the M.academy team.
 
 <details>
