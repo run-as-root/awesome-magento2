@@ -201,7 +201,7 @@
         "discovered_at": "2026-06-01T07:53:27Z",
         "full_name": "magebitcom/magento2-mcp-module",
         "description": "Extensible MCP module for Magento2 - Interact with your store through any MCP-compatible AI agent",
-        "stars": 18
+        "stars": 19
     },
     "https://github.com/walkwizus/magento2-module-meilisearch": {
         "status": "accepted",
@@ -279,5 +279,13 @@
         "full_name": "olegkoval/magento2-regenerate_url_rewrites",
         "description": "Magento 2 extension which add feature of regenerating a url rewrites of products/categories",
         "stars": 444
+    },
+    "https://github.com/MagePsycho/awesome-magento-ai": {
+        "status": "pending",
+        "suggested_yaml": "extensions/development-utilities.yml",
+        "discovered_at": "2026-08-17T06:13:39Z",
+        "full_name": "MagePsycho/awesome-magento-ai",
+        "description": "Curated list of AI tools for Magento 2, Adobe Commerce & Mage-OS \u2014 agent skills, MCP servers, modules, CLIs, starter kits",
+        "stars": 10
     }
 }
