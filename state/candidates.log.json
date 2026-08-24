@@ -184,7 +184,7 @@
         "discovered_at": "2026-05-25T07:41:02Z",
         "full_name": "mageplaza/magento-2-smtp",
         "description": "Magento 2 SMTP Extension helps the owner of store simply install SMTP (Simple Mail Transfer Protocol) server which transmits the messages into codes or numbers.",
-        "stars": 302
+        "stars": 303
     },
     "https://github.com/graycoreio/magento2-devcontainer": {
         "status": "accepted",
@@ -201,7 +201,7 @@
         "discovered_at": "2026-06-01T07:53:27Z",
         "full_name": "magebitcom/magento2-mcp-module",
         "description": "Extensible MCP module for Magento2 - Interact with your store through any MCP-compatible AI agent",
-        "stars": 18
+        "stars": 19
     },
     "https://github.com/walkwizus/magento2-module-meilisearch": {
         "status": "accepted",
@@ -263,5 +263,37 @@
         "description": "Open-source Typesense search integration for Magento 2 and Mage-OS. Instant search, autocomplete, faceted filtering, visual category merchandising, query merchandising, and zero-downtime reindexing \u2014 all Hyva-native and CSP-compatible.",
         "stars": 11,
         "decided_at": "2026-07-28T10:44:37Z"
+    },
+    "https://github.com/magenx/Magento-nginx-config": {
+        "status": "pending",
+        "suggested_yaml": "extensions/_triage.yml",
+        "discovered_at": "2026-08-03T07:13:03Z",
+        "full_name": "magenx/Magento-nginx-config",
+        "description": "Default Nginx config for Magento 2",
+        "stars": 504
+    },
+    "https://github.com/olegkoval/magento2-regenerate_url_rewrites": {
+        "status": "pending",
+        "suggested_yaml": "extensions/_triage.yml",
+        "discovered_at": "2026-08-10T06:32:16Z",
+        "full_name": "olegkoval/magento2-regenerate_url_rewrites",
+        "description": "Magento 2 extension which add feature of regenerating a url rewrites of products/categories",
+        "stars": 444
+    },
+    "https://github.com/MagePsycho/awesome-magento-ai": {
+        "status": "pending",
+        "suggested_yaml": "extensions/development-utilities.yml",
+        "discovered_at": "2026-08-17T06:13:39Z",
+        "full_name": "MagePsycho/awesome-magento-ai",
+        "description": "Curated list of AI tools for Magento 2, Adobe Commerce & Mage-OS \u2014 agent skills, MCP servers, modules, CLIs, starter kits",
+        "stars": 10
+    },
+    "https://github.com/marsbos/flynt.js": {
+        "status": "pending",
+        "suggested_yaml": "extensions/pwa.yml",
+        "discovered_at": "2026-08-24T06:16:17Z",
+        "full_name": "marsbos/flynt.js",
+        "description": "JS ultra-lightweight reactive micro-engine for MPA's",
+        "stars": 11
     }
 }
