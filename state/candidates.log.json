@@ -184,7 +184,7 @@
         "discovered_at": "2026-05-25T07:41:02Z",
         "full_name": "mageplaza/magento-2-smtp",
         "description": "Magento 2 SMTP Extension helps the owner of store simply install SMTP (Simple Mail Transfer Protocol) server which transmits the messages into codes or numbers.",
-        "stars": 302
+        "stars": 303
     },
     "https://github.com/graycoreio/magento2-devcontainer": {
         "status": "accepted",
@@ -287,5 +287,13 @@
         "full_name": "MagePsycho/awesome-magento-ai",
         "description": "Curated list of AI tools for Magento 2, Adobe Commerce & Mage-OS \u2014 agent skills, MCP servers, modules, CLIs, starter kits",
         "stars": 10
+    },
+    "https://github.com/marsbos/flynt.js": {
+        "status": "pending",
+        "suggested_yaml": "extensions/pwa.yml",
+        "discovered_at": "2026-08-24T06:16:17Z",
+        "full_name": "marsbos/flynt.js",
+        "description": "JS ultra-lightweight reactive micro-engine for MPA's",
+        "stars": 11
     }
 }
