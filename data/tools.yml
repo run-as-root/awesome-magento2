@@ -128,3 +128,8 @@
   description: VS Code extension to view, watch and manage Magento log files and reports directly in your workspace.
   type: vendor_site
   added: "2024-01-01"
+- name: Toolkit Labs Invoice
+  url: https://ytinumoc.github.io/toolkitlabs-invoice/
+  description: Browser invoice and receipt PDF generator for Magento merchants; free tier. Commercial EUR 249 one-time (https://buy.stripe.com/bJeeVea187TScZwb095Ne0k?client_reference_id=awesome-magento2-v1) — white-label PDFs, 6 templates, CSV batch CLI.
+  type: vendor_site
+  added: "2026-08-26"
