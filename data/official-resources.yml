@@ -1,20 +1,6 @@
-- name: Magento Official Website
-  url: https://www.magento.com
-  description: Magento's official website.
-  type: canonical
-  added: "2016-01-01"
-  pinned: true
-  pin_reason: Canonical Adobe resource
 - name: Magento Developer Documentation
   url: http://devdocs.magento.com/
   description: Official developer documentation.
-  type: canonical
-  added: "2016-01-01"
-  pinned: true
-  pin_reason: Canonical Adobe resource
-- name: Magento Forum
-  url: https://community.magento.com/
-  description: Community forum run by Magento.
   type: canonical
   added: "2016-01-01"
   pinned: true
@@ -23,13 +9,6 @@
   url: https://github.com/magento/magento2
   description: Magento 2 GitHub repository.
   type: github_repo
-  added: "2016-01-01"
-  pinned: true
-  pin_reason: Canonical Adobe resource
-- name: Magento Developer Blog
-  url: https://community.magento.com/t5/Magento-DevBlog/bg-p/devblog
-  description: Developer blog run by Magento.
-  type: canonical
   added: "2016-01-01"
   pinned: true
   pin_reason: Canonical Adobe resource
