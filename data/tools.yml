@@ -128,3 +128,8 @@
   description: VS Code extension to view, watch and manage Magento log files and reports directly in your workspace.
   type: vendor_site
   added: "2024-01-01"
+- name: magento.watch
+  url: https://magento.watch
+  description: Release dates, end-of-life dates and system requirements for every Magento, Adobe Commerce and Mage-OS version, with a free JSON API.
+  type: vendor_site
+  added: "2026-08-20"
