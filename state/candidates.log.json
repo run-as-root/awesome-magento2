@@ -295,5 +295,13 @@
         "full_name": "marsbos/flynt.js",
         "description": "JS ultra-lightweight reactive micro-engine for MPA's",
         "stars": 11
+    },
+    "https://github.com/disrex-group/stylesmuggler-mitigation": {
+        "status": "pending",
+        "suggested_yaml": "extensions/development-utilities.yml",
+        "discovered_at": "2026-09-07T06:26:33Z",
+        "full_name": "disrex-group/stylesmuggler-mitigation",
+        "description": "Emergency mitigation for StyleSmuggler, the unpatched Magento/Adobe Commerce RCE (Sansec, 2026-09-05). Web-server rules + CLI guard + compromise scanner.",
+        "stars": 14
     }
 }
