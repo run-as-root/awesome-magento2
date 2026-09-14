@@ -302,6 +302,22 @@
         "discovered_at": "2026-09-07T06:26:33Z",
         "full_name": "disrex-group/stylesmuggler-mitigation",
         "description": "Emergency mitigation for StyleSmuggler, the unpatched Magento/Adobe Commerce RCE (Sansec, 2026-09-05). Web-server rules + CLI guard + compromise scanner.",
+        "stars": 23
+    },
+    "https://github.com/SamJUK/m2-meta-security-patches": {
+        "status": "pending",
+        "suggested_yaml": "extensions/security.yml",
+        "discovered_at": "2026-09-14T06:27:22Z",
+        "full_name": "SamJUK/m2-meta-security-patches",
+        "description": "Composer meta-package that automatically applies critical and isolated security patches for Magento 2 / Adobe Commerce, released by Adobe",
+        "stars": 16
+    },
+    "https://github.com/angeo-dev/module-llms-txt": {
+        "status": "pending",
+        "suggested_yaml": "extensions/cms.yml",
+        "discovered_at": "2026-09-14T06:27:22Z",
+        "full_name": "angeo-dev/module-llms-txt",
+        "description": "Make your Magento 2 catalog readable to AI. Generates spec-compliant llms.txt, llms-full.txt, llms.jsonl and on-the-fly Markdown page mirrors so ChatGPT, Claude, Gemini & Perplexity can ingest your store efficiently. Multi-store, Page Builder-aware, large-catalog safe. CLI, cron, admin. Free & MIT.",
         "stars": 14
     }
 }
