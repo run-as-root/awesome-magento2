@@ -22,7 +22,7 @@
 
 > A curated list of awesome Magento 2 Extensions & Resources.
 
-> Tracking **233** projects · **66** actively maintained · **11** 🔥 hot · **51** 🪦 on the graveyard shelf.
+> Tracking **229** projects · **66** actively maintained · **11** 🔥 hot · **48** 🪦 on the graveyard shelf.
 
 - [What is an awesome list?](https://github.com/sindresorhus/awesome/blob/master/awesome.md)
 - [Contribution guide](contributing.md) [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/DavidLambauer/awesome-magento2/issues)
@@ -121,13 +121,6 @@ The storefront of Magento 2 can be styled in numerous ways:
 - [ScandiPWA](https://github.com/scandipwa/scandipwa) - React/Redux PWA theme for Magento 2.3+.
 - [Breeze Evolution](https://breezefront.com/themes) - Lightweight Luma-compatible theme targeting 100 PageSpeed.
 - [Hyvä](https://hyva.io/) - Luma replacement using TailwindCSS and AlpineJS. Commercial license. Active compatibility-module ecosystem.
-
-<details>
-<summary>🪦 Graveyard — projects no longer recommended</summary>
-
-- [Front-Commerce](https://www.front-commerce.com/) - French PWA front-end solution for Magento.
-
-</details>
 
 ## Tools
 
@@ -326,13 +319,6 @@ The storefront of Magento 2 can be styled in numerous ways:
 
 - [Magicento](http://magicento.com/) - PHPStorm plugin to add Magento 2 related functionality.
 
-<details>
-<summary>🪦 Graveyard — projects no longer recommended</summary>
-
-- [Commercebug Debugging Extension](http://store.pulsestorm.net/products/commerce-bug-3) - A Magento 2 Debug Extension.
-
-</details>
-
 ### Progressive Web Application
 
 - [ScandiPWA Theme](https://github.com/scandipwa/base-theme) 🔥 - Magento 2.3+ PWA theme based on React and Redux.
@@ -432,7 +418,6 @@ The storefront of Magento 2 can be styled in numerous ways:
 - [fisheye-academy/m2cpfed-training](https://github.com/fisheye-academy/m2cpfed-training) - Resources for the Magento 2 Certified Professional Front End Developer exam.
 - [magento-notes/magento2-cloud-developer-notes](https://github.com/magento-notes/magento2-cloud-developer-notes) - Preparation notes for the Magento 2 Certified Professional Cloud Developer exam.
 - [roma-glushko/magento2-dev-plus-exam](https://github.com/roma-glushko/magento2-dev-plus-exam) - Preparation notes for the Magento 2 Certified Professional Developer Plus exam.
-- [Mage2.tv](https://www.mage2.tv) - Magento 2 developer screencasts by Vinai Kopp.
 - [MageTitans Italia 2016](https://www.youtube.com/playlist?list=PLwB4Uz_0hoVP3Fm_c4HfNPK5JdRD6DIDl) - MageTitans Italia 2016 conference recordings.
 - [MageTitans MCR 2016](https://www.youtube.com/playlist?list=PLwB4Uz_0hoVMOnBRS49ICbNWOU5jhNNWC) - MageTitans Manchester 2016 conference recordings.
 - [MageTitans USA/Texas 2016](https://www.youtube.com/playlist?list=PLwB4Uz_0hoVOLU7LPRNL4lAmJeAv7HQ-b) - MageTitans USA/Texas 2016 conference recordings.
@@ -458,7 +443,6 @@ The storefront of Magento 2 can be styled in numerous ways:
 - [Magento Developer Blog](https://community.magento.com/t5/Magento-DevBlog/bg-p/devblog) - Developer blog run by Magento.
 - [Magento Developer Documentation](http://devdocs.magento.com/) - Official developer documentation.
 - [Magento Forum](https://community.magento.com/) - Community forum run by Magento.
-- [Magento Official Website](https://www.magento.com) - Magento's official website.
 
 ---
 
