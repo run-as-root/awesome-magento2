@@ -22,7 +22,7 @@
 
 > A curated list of awesome Magento 2 Extensions & Resources.
 
-> Tracking **229** projects · **66** actively maintained · **11** 🔥 hot · **48** 🪦 on the graveyard shelf.
+> Tracking **230** projects · **66** actively maintained · **11** 🔥 hot · **48** 🪦 on the graveyard shelf.
 
 - [What is an awesome list?](https://github.com/sindresorhus/awesome/blob/master/awesome.md)
 - [Contribution guide](contributing.md) [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/DavidLambauer/awesome-magento2/issues)
@@ -145,6 +145,7 @@ The storefront of Magento 2 can be styled in numerous ways:
 - [Mage2Gen](https://mage2gen.com/) - Online module creator.
 - [Magento 2 Composer patches helper](https://chrome.google.com/webstore/detail/magento-2-composer-patche/gfndadbceejgfjahpfaijcacnmdloiad) - Chrome extension to create copy-pastable composer patch definitions for vaimo/composer-patches.
 - [Magento Log Viewer (VS Code extension)](https://marketplace.visualstudio.com/items?itemName=MathiasElle.magento-log-viewer) - VS Code extension to view, watch and manage Magento log files and reports directly in your workspace.
+- [magento.watch](https://magento.watch) - Release dates, end-of-life dates and system requirements for every Magento, Adobe Commerce and Mage-OS version, with a free JSON API.
 - [Tablerates Generator](https://www.tableratesgenerator.com/) - Generate tablerates online.
 
 <details>
