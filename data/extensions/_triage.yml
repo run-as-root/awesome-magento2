@@ -43,3 +43,13 @@
   description: "https://github.com/LBannenberg/magento2-composer-dashboard"
   type: github_repo
   added: "2026-06-24"
+- name: Magento-nginx-config
+  url: https://github.com/magenx/Magento-nginx-config
+  description: Default Nginx config for Magento 2
+  type: github_repo
+  added: "2026-09-18"
+- name: magento2-regenerate_url_rewrites
+  url: https://github.com/olegkoval/magento2-regenerate_url_rewrites
+  description: Magento 2 extension which add feature of regenerating a url rewrites of products/categories
+  type: github_repo
+  added: "2026-09-18"
