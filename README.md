@@ -22,7 +22,7 @@
 
 > A curated list of awesome Magento 2 Extensions & Resources.
 
-> Tracking **230** projects · **66** actively maintained · **11** 🔥 hot · **48** 🪦 on the graveyard shelf.
+> Tracking **228** projects · **66** actively maintained · **11** 🔥 hot · **48** 🪦 on the graveyard shelf.
 
 - [What is an awesome list?](https://github.com/sindresorhus/awesome/blob/master/awesome.md)
 - [Contribution guide](contributing.md) [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/DavidLambauer/awesome-magento2/issues)
@@ -443,9 +443,7 @@ The storefront of Magento 2 can be styled in numerous ways:
 - [Magento Coding Standards](https://github.com/magento/magento-coding-standard) 🫡 - Official Magento 2 advanced ruleset for PHP_CodeSniffer.
 - [Magento 2 data migration tool](https://github.com/magento/data-migration-tool) - Official Magento 1 → Magento 2 migration tool.
 - [Magento 2 Architecture](https://github.com/magento/architecture) - Architectural discussions about Magento 2.
-- [Magento Developer Blog](https://community.magento.com/t5/Magento-DevBlog/bg-p/devblog) - Developer blog run by Magento.
 - [Magento Developer Documentation](http://devdocs.magento.com/) - Official developer documentation.
-- [Magento Forum](https://community.magento.com/) - Community forum run by Magento.
 
 ---
 
