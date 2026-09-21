@@ -43,3 +43,8 @@
   description: "https://github.com/LBannenberg/magento2-composer-dashboard"
   type: github_repo
   added: "2026-06-24"
+- name: Magento-nginx-config
+  url: https://github.com/magenx/Magento-nginx-config
+  description: Default Nginx config for Magento 2
+  type: github_repo
+  added: "2026-09-18"
