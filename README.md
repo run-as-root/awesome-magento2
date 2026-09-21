@@ -306,6 +306,10 @@ The storefront of Magento 2 can be styled in numerous ways:
 
 </details>
 
+### Marketplaces
+
+- [Exantrix Marketplace Connector](https://github.com/tony-dev-web/exantrix-marketplace-magento) - Lists products on Exantrix (French marketplace for 3D printing, DTF transfers and custom textile): catalogue and stock synchronisation, paid orders received as signed webhooks.
+
 ### Infrastructure
 
 - [Ethan3600/magento2-CronjobManager](https://github.com/Ethan3600/magento2-CronjobManager) 🔥 🫡 - Cron Job Manager for Magento 2.
