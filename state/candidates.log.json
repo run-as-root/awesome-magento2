@@ -310,7 +310,7 @@
         "discovered_at": "2026-09-14T06:27:22Z",
         "full_name": "SamJUK/m2-meta-security-patches",
         "description": "Composer meta-package that automatically applies critical and isolated security patches for Magento 2 / Adobe Commerce, released by Adobe",
-        "stars": 16
+        "stars": 17
     },
     "https://github.com/angeo-dev/module-llms-txt": {
         "status": "pending",
@@ -319,5 +319,21 @@
         "full_name": "angeo-dev/module-llms-txt",
         "description": "Make your Magento 2 catalog readable to AI. Generates spec-compliant llms.txt, llms-full.txt, llms.jsonl and on-the-fly Markdown page mirrors so ChatGPT, Claude, Gemini & Perplexity can ingest your store efficiently. Multi-store, Page Builder-aware, large-catalog safe. CLI, cron, admin. Free & MIT.",
         "stars": 14
+    },
+    "https://github.com/vuestorefront/magento2": {
+        "status": "pending",
+        "suggested_yaml": "extensions/pwa.yml",
+        "discovered_at": "2026-09-21T06:27:33Z",
+        "full_name": "vuestorefront/magento2",
+        "description": "Vue Storefront 2 integration for Magento 2",
+        "stars": 173
+    },
+    "https://github.com/scandiweb/satoshi-hyva": {
+        "status": "pending",
+        "suggested_yaml": "extensions/pwa.yml",
+        "discovered_at": "2026-09-21T06:27:33Z",
+        "full_name": "scandiweb/satoshi-hyva",
+        "description": "Satoshi for Hyv\u00e4 is the first original & open-source theme built on top of Hyva frontend.",
+        "stars": 292
     }
 }
