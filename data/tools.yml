@@ -133,3 +133,8 @@
   description: Release dates, end-of-life dates and system requirements for every Magento, Adobe Commerce and Mage-OS version, with a free JSON API.
   type: vendor_site
   added: "2026-08-20"
+- name: Hyvä Compatibility Checker
+  url: https://kishansavaliya.com/hyva-compatibility-checker
+  description: Free online checker that reports whether a Magento 2 extension works on Hyvä, ships a Hyvä compatibility module, or blocks a migration.
+  type: vendor_site
+  added: "2026-09-26"
