@@ -23,3 +23,8 @@
   description:  GraphCommerce® is a headless storefront replacement for Magento 2 (PWA), that delivers a faster, better user experience. Fully customizable (React, Next.js) and open-source.
   type: github_repo
   added: "2026-05-11"
+- name: satoshi-hyva
+  url: https://github.com/scandiweb/satoshi-hyva
+  description: "Satoshi for Hyvä is the first original & open-source theme built on top of Hyva frontend."
+  type: github_repo
+  added: "2026-09-28"

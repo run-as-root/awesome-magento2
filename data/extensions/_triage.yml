@@ -53,3 +53,8 @@
   description: Magento 2 extension which add feature of regenerating a url rewrites of products/categories
   type: github_repo
   added: "2026-09-18"
+- name: magento-2-smtp
+  url: https://github.com/mageplaza/magento-2-smtp
+  description: Magento 2 SMTP Extension helps the owner of store simply install SMTP (Simple Mail Transfer Protocol) server which transmits the messages into codes or numbers.
+  type: github_repo
+  added: "2026-09-28"
