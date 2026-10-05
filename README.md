@@ -22,7 +22,7 @@
 
 > A curated list of awesome Magento 2 Extensions & Resources.
 
-> Tracking **230** projects · **62** actively maintained · **11** 🔥 hot · **49** 🪦 on the graveyard shelf.
+> Tracking **230** projects · **66** actively maintained · **11** 🔥 hot · **48** 🪦 on the graveyard shelf.
 
 - [What is an awesome list?](https://github.com/sindresorhus/awesome/blob/master/awesome.md)
 - [Contribution guide](contributing.md) [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/DavidLambauer/awesome-magento2/issues)
@@ -130,15 +130,15 @@ The storefront of Magento 2 can be styled in numerous ways:
 - [n98-magerun2](https://github.com/netz98/n98-magerun2) 🫡 - The CLI Swiss Army Knife for Magento 2.
 - [Warden](https://github.com/wardenenv/warden) 🫡 - CLI utility for working with docker-compose environments by David Alger.
 - [PhpStorm Magento2 Extension](https://github.com/magento/magento2-phpstorm-plugin) 🫡 - Official PhpStorm Magento 2 extension.
+- [Magento 2 Url Data Integrity Checker](https://github.com/baldwin-agency/magento2-module-url-data-integrity-checker) 🫡 - Magento 2 module that finds potential URL-related problems in your catalog data.
+- [Migrate DB Magento 2 Commerce to Magento 2 Open-Source](https://github.com/opengento/magento2-downgrade-ee-ce) 🫡 - Migrate a Magento 2 Commerce database to Magento 2 Open Source.
 - [Magento 2 Database Synchronizer](https://github.com/jellesiderius/mage-db-sync) 🫡 - Database synchronizer for Magento 2 (and WordPress), based on Magerun2. Keeps development, staging and production in sync.
 - [Mage](https://github.com/GrimLink/mage) 🫡 - Simplifies bin/magento commands with shortcuts and productivity helpers.
 - [MageForge](https://github.com/OpenForgeProject/mageforge) 🫡 - Magento 2 CLI automatic theme builder (Hyvä ready).
 - [Mage Chrome Toolbar](https://github.com/magespecialist/mage-chrome-toolbar) - Chrome extension for Magento 2 development by MageSpecialist.
 - [AmpersandHQ/ampersand-magento2-upgrade-patch-helper](https://github.com/AmpersandHQ/ampersand-magento2-upgrade-patch-helper) - Helper script to aid upgrading Magento 2 websites by detecting overrides.
-- [Magento 2 Url Data Integrity Checker](https://github.com/baldwin-agency/magento2-module-url-data-integrity-checker) - Magento 2 module that finds potential URL-related problems in your catalog data.
 - [MageSpecialist DevTools for Magento 2](https://github.com/magespecialist/m2-MSP_DevTools) - Developer toolbar for Magento 2.
 - [Tango](https://github.com/roma-glushko/tango) - CLI for analyzing access logs.
-- [Migrate DB Magento 2 Commerce to Magento 2 Open-Source](https://github.com/opengento/magento2-downgrade-ee-ce) - Migrate a Magento 2 Commerce database to Magento 2 Open Source.
 - [RabbitMQ Retry Mechanism](https://github.com/run-as-root/magento2-message-queue-retry) - Magento 2 extension that brings possibility to retry RabbitMQ failed messages.
 - [Mage Wizard](https://github.com/clickAndMortar/mage-wizard) - Local web UI to view and create modules, plugins, configs, observers, commands, crontabs directly in a Magento 2 codebase.
 - [magento2docker](https://github.com/aliuosio/magento2docker) - MariaDB, PHP, Redis, ElasticSearch in one Dockerfile for fast demo/development environments.
@@ -378,12 +378,12 @@ The storefront of Magento 2 can be styled in numerous ways:
 ## Podcasts
 
 - [Talk Commerce](https://talk-commerce.com/podcasts/) 🫡 - Brent Peterson's interviews with digital commerce practitioners, merchants, and platform experts.
+- [The JetRails Podcast](https://jetrails.com/podcast/) 🫡 - Ecommerce-focused podcast from JetRails covering hosting, performance, and platform strategy.
 
 <details>
 <summary>🪦 Graveyard — projects no longer recommended</summary>
 
 - [MageTalk](https://magetalk.com/) - Weekly Magento podcast hosted by Phillip Jackson and Kalen Jordan covering Magento news, interviews, and community topics.
-- [The JetRails Podcast](https://jetrails.com/podcast/) - Ecommerce-focused podcast from JetRails covering hosting, performance, and platform strategy.
 
 </details>
 
