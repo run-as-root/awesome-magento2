@@ -145,7 +145,7 @@ The storefront of Magento 2 can be styled in numerous ways:
 - [Mage2Gen](https://mage2gen.com/) - Online module creator.
 - [Magento 2 Composer patches helper](https://chrome.google.com/webstore/detail/magento-2-composer-patche/gfndadbceejgfjahpfaijcacnmdloiad) - Chrome extension to create copy-pastable composer patch definitions for vaimo/composer-patches.
 - [Magento Log Viewer (VS Code extension)](https://marketplace.visualstudio.com/items?itemName=MathiasElle.magento-log-viewer) - VS Code extension to view, watch and manage Magento log files and reports directly in your workspace.
-- [magento.watch](https://magento.watch) - Release dates, end-of-life dates and system requirements for every Magento, Adobe Commerce and Mage-OS version, with a free JSON API.
+- [magento.watch](https://magento.watch) - Release dates, end-of-life dates and system requirements for every Magento, Adobe Commerce and Mage-OS version, plus security bulletins with fixed-in versions, Quality Patches and upstream fixes per release. Free JSON API and MCP server.
 - [Tablerates Generator](https://www.tableratesgenerator.com/) - Generate tablerates online.
 
 <details>
