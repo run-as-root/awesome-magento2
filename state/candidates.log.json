@@ -201,7 +201,7 @@
         "discovered_at": "2026-06-01T07:53:27Z",
         "full_name": "magebitcom/magento2-mcp-module",
         "description": "Extensible MCP module for Magento2 - Interact with your store through any MCP-compatible AI agent",
-        "stars": 19
+        "stars": 23
     },
     "https://github.com/walkwizus/magento2-module-meilisearch": {
         "status": "accepted",
@@ -312,7 +312,7 @@
         "discovered_at": "2026-09-14T06:27:22Z",
         "full_name": "SamJUK/m2-meta-security-patches",
         "description": "Composer meta-package that automatically applies critical and isolated security patches for Magento 2 / Adobe Commerce, released by Adobe",
-        "stars": 17
+        "stars": 18
     },
     "https://github.com/angeo-dev/module-llms-txt": {
         "status": "pending",
