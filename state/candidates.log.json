@@ -312,7 +312,7 @@
         "discovered_at": "2026-09-14T06:27:22Z",
         "full_name": "SamJUK/m2-meta-security-patches",
         "description": "Composer meta-package that automatically applies critical and isolated security patches for Magento 2 / Adobe Commerce, released by Adobe",
-        "stars": 18
+        "stars": 23
     },
     "https://github.com/angeo-dev/module-llms-txt": {
         "status": "pending",
@@ -337,5 +337,13 @@
         "full_name": "scandiweb/satoshi-hyva",
         "description": "Satoshi for Hyv\u00e4 is the first original & open-source theme built on top of Hyva frontend.",
         "stars": 292
+    },
+    "https://github.com/mago-assistant/mago": {
+        "status": "pending",
+        "suggested_yaml": "extensions/adminhtml.yml",
+        "discovered_at": "2026-10-19T06:27:04Z",
+        "full_name": "mago-assistant/mago",
+        "description": "Mago: open source AI admin assistant for Magento 2 and Mage-OS",
+        "stars": 10
     }
 }
