@@ -48,16 +48,6 @@
   description: Mage-OS Technical Working Group member; Magento architect at Hyva Themes; 2x Magento Master; formerly co-owner of integer_net.
   type: canonical
   added: "2026-06-30"
-- name: Noah Oken-Berg
-  url: https://www.abovethefray.com
-  description: Chair of the Magento Association Board of Directors; CEO of Above The Fray; focused on community governance and sustainable ecosystem growth.
-  type: canonical
-  added: "2026-06-30"
-- name: Sergej Derzap
-  url: https://amasty.com
-  description: Treasurer of the Magento Association; CEO and CPO of Amasty, one of the largest Magento 2 extension vendors; 18+ years in the ecosystem.
-  type: canonical
-  added: "2026-06-30"
 - name: Peter Jaap Blaakmeer
   url: https://github.com/peterjaap
   description: CTO at elgentos; Mage-OS founding signatory; prolific open-source contributor to Magento 2 and Mage-OS.
