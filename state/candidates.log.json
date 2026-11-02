@@ -344,6 +344,14 @@
         "discovered_at": "2026-10-19T06:27:04Z",
         "full_name": "mago-assistant/mago",
         "description": "Mago: open source AI admin assistant for Magento 2 and Mage-OS",
-        "stars": 12
+        "stars": 20
+    },
+    "https://github.com/mage-os/module-shopping-feed": {
+        "status": "pending",
+        "suggested_yaml": "extensions/_triage.yml",
+        "discovered_at": "2026-11-02T06:17:26Z",
+        "full_name": "mage-os/module-shopping-feed",
+        "description": "Product feed generation for Mage-OS and Magento Open Source. Includes Google Shopping, Local Inventory, Promotions, Meta, Microsoft, TikTok, and Pinterest presets, custom mappings, filters, scheduling, FTP/SFTP delivery, and an optional migration companion for Rocket Shopping Feeds.",
+        "stars": 13
     }
 }
