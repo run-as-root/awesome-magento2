@@ -22,7 +22,7 @@
 
 > A curated list of awesome Magento 2 Extensions & Resources.
 
-> Tracking **230** projects · **65** actively maintained · **11** 🔥 hot · **52** 🪦 on the graveyard shelf.
+> Tracking **230** projects · **68** actively maintained · **11** 🔥 hot · **52** 🪦 on the graveyard shelf.
 
 - [What is an awesome list?](https://github.com/sindresorhus/awesome/blob/master/awesome.md)
 - [Contribution guide](contributing.md) [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/DavidLambauer/awesome-magento2/issues)
@@ -94,11 +94,11 @@ Also see:
 
 - [Meet Magento Florida](https://meetmagentofl.com/) 🫡 - Meet Magento event series — Florida.
 - [Meet Magento India](https://www.meetmagento.in/) 🫡 - Meet Magento event series — India.
+- [Meet Magento Malaysia](https://www.meetmagento.asia/) 🫡 - Meet Magento event series — Malaysia.
 - [Meet Magento Netherlands](https://nl.meet-magento.com/) 🫡 - Meet Magento event series — Netherlands.
 - [Meet Magento New York City](https://meetmagentonyc.com/) 🫡 - Meet Magento event series — NYC.
 - [Meet Magento Poland](https://meetmagento.pl/) 🫡 - Meet Magento event series — Poland.
 - [Meet Magento UK](https://meet-magento.co.uk/) 🫡 - Meet Magento event series — UK.
-- [Meet Magento Malaysia](https://www.meetmagento.asia/) - Meet Magento event series — Malaysia.
 - [Meet Magento Romania](https://ro.meet-magento.com/) - Meet Magento event series — Romania.
 
 <details>
@@ -167,8 +167,8 @@ The storefront of Magento 2 can be styled in numerous ways:
 - [Scope Hints](https://github.com/avstudnitz/AvS_ScopeHint2) 🫡 - Displays additional information in the Store Configuration by Andreas von Studnitz.
 - [Config ImportExport](https://github.com/semaio/Magento2-ConfigImportExport) 🫡 - CLI-based config management.
 - [bitExpert/phpstan-magento](https://github.com/bitExpert/phpstan-magento) 🫡 - Magento-specific extension for PHPStan.
-- [Whoops Exceptions](https://github.com/yireo/Yireo_Whoops) 🫡 - PHP Exceptions for Cool Kids in Magento 2.
 - [graycoreio/magento2-cors](https://github.com/graycoreio/magento2-cors) 🫡 - Enables configurable CORS headers on the Magento GraphQL API.
+- [Whoops Exceptions](https://github.com/yireo/Yireo_Whoops) 🫡 - PHP Exceptions for Cool Kids in Magento 2.
 - [Magento 2 Prometheus Exporter](https://github.com/run-as-root/magento2-prometheus-exporter) 🫡 - Prometheus Exporter for common Magento data.
 - [Yireo LokiComponents](https://github.com/yireo/Yireo_LokiComponents) 🫡 - A library for building AJAX-driven form components with ease. Used by the Yireo Loki Checkout.
 - [Developer Toolbar](https://github.com/mgtcommerce/Mgt_Developertoolbar) - Magento 2 Developer Toolbar.
@@ -204,12 +204,12 @@ The storefront of Magento 2 can be styled in numerous ways:
 
 ### Localization
 
-- [de_DE](https://github.com/splendidinternet/Magento2_German_LocalePack_de_DE) 🔥 - German Language Package.
+- [de_DE](https://github.com/splendidinternet/Magento2_German_LocalePack_de_DE) 🔥 🫡 - German Language Package.
+- [tr_TR](https://github.com/hidonet/magento2-language-tr_tr) 🫡 - Turkish Language Package.
 - [pl_PL](https://github.com/SnowdogApps/magento2-pl_pl) - Polish Language Package.
 - [it_IT](https://github.com/mageplaza/magento-2-italian-language-pack) - Italian Language Package.
 - [nl_NL](https://github.com/magento-l10n/language-nl_NL) - Dutch Language Package.
 - [da_DK](https://magentodanmark.dk/) - Danish Language Package.
-- [fi_FL](https://github.com/mageplaza/magento-2-finnish-language-pack) - Finnish Language Package.
 - [hr_HR](https://marketplace.magento.com/inchoo-language-hr-hr.html) - Croatian Language Package.
 
 <details>
@@ -217,7 +217,6 @@ The storefront of Magento 2 can be styled in numerous ways:
 
 - [pt_BR](https://github.com/rafaelstz/traducao_magento2_pt_br) - Portuguese Brazil Language Package.
 - [fr_FR](https://github.com/Imaginaerum/magento2-language-fr-fr) - French Language Package.
-- [tr_TR](https://github.com/hidonet/magento2-language-tr_tr) - Turkish Language Package.
 - [es_ES](https://github.com/eusonlito/magento2-language-es_es) - Spanish Language Package.
 - [sl_SI](https://github.com/symfony-si/magento2-sl-si) - Slovenian Language Package.
 - [ro_RO](https://github.com/EaDesgin/magento2-romanian-language-pack) - Romanian Language Package.
@@ -225,6 +224,7 @@ The storefront of Magento 2 can be styled in numerous ways:
 - [ko_KR](https://github.com/mageplaza/magento-2-korean-language-pack) - Korean Language Package.
 - [en_GB](https://github.com/cubewebsites/magento2-language-en-gb) - British Language Package.
 - [es_AR](https://github.com/SemExpert/Magento2-language-es_ar) - Spanish (Argentina) Language Package.
+- [fi_FL](https://github.com/mageplaza/magento-2-finnish-language-pack) - Finnish Language Package.
 - [sk_SK](https://github.com/mageplaza/magento-2-slovak-language-pack) - Slovakian Language Package.
 
 </details>
