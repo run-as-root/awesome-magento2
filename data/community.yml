@@ -3,11 +3,6 @@
   description: Q&A site for users and developers of the Magento e-Commerce platform.
   type: canonical
   added: "2026-06-30"
-- name: Reddit r/Magento
-  url: https://www.reddit.com/r/Magento/
-  description: Magento community on Reddit — questions, news, and discussion.
-  type: canonical
-  added: "2026-06-30"
 - name: ExtDN
   url: https://extdn.org/
   description: A network of leading Magento extension developers committed to quality and best practices.
