@@ -1,7 +1,7 @@
 {
   "require": {
     "php": "^8.3",
-    "symfony/yaml": "^6",
+    "symfony/yaml": "^8",
     "guzzlehttp/guzzle": "^8"
   },
   "autoload": {
