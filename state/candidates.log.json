@@ -312,7 +312,7 @@
         "discovered_at": "2026-09-14T06:27:22Z",
         "full_name": "SamJUK/m2-meta-security-patches",
         "description": "Composer meta-package that automatically applies critical and isolated security patches for Magento 2 / Adobe Commerce, released by Adobe",
-        "stars": 23
+        "stars": 26
     },
     "https://github.com/angeo-dev/module-llms-txt": {
         "status": "pending",
@@ -344,7 +344,7 @@
         "discovered_at": "2026-10-19T06:27:04Z",
         "full_name": "mago-assistant/mago",
         "description": "Mago: open source AI admin assistant for Magento 2 and Mage-OS",
-        "stars": 20
+        "stars": 23
     },
     "https://github.com/mage-os/module-shopping-feed": {
         "status": "pending",
