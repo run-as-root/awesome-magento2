@@ -3,3 +3,8 @@
   description: PHPStorm plugin to add Magento 2 related functionality.
   type: vendor_site
   added: "2018-01-01"
+- name: magento2-hero-banner-slider
+  url: https://github.com/CoullWorks/magento2-hero-banner-slider
+  description: Hero banners and sliders managed in the admin and placed with Page Builder content types or widgets, with responsive WebP images. Proprietary licence.
+  type: github_repo
+  added: "2026-10-08"
