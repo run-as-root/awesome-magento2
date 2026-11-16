@@ -201,7 +201,7 @@
         "discovered_at": "2026-06-01T07:53:27Z",
         "full_name": "magebitcom/magento2-mcp-module",
         "description": "Extensible MCP module for Magento2 - Interact with your store through any MCP-compatible AI agent",
-        "stars": 23
+        "stars": 25
     },
     "https://github.com/walkwizus/magento2-module-meilisearch": {
         "status": "accepted",
@@ -288,7 +288,7 @@
         "discovered_at": "2026-08-17T06:13:39Z",
         "full_name": "MagePsycho/awesome-magento-ai",
         "description": "Curated list of AI tools for Magento 2, Adobe Commerce & Mage-OS \u2014 agent skills, MCP servers, modules, CLIs, starter kits",
-        "stars": 11
+        "stars": 18
     },
     "https://github.com/marsbos/flynt.js": {
         "status": "pending",
@@ -352,6 +352,14 @@
         "discovered_at": "2026-11-02T06:17:26Z",
         "full_name": "mage-os/module-shopping-feed",
         "description": "Product feed generation for Mage-OS and Magento Open Source. Includes Google Shopping, Local Inventory, Promotions, Meta, Microsoft, TikTok, and Pinterest presets, custom mappings, filters, scheduling, FTP/SFTP delivery, and an optional migration companion for Rocket Shopping Feeds.",
-        "stars": 13
+        "stars": 15
+    },
+    "https://github.com/MageLens/MageLens": {
+        "status": "pending",
+        "suggested_yaml": "extensions/infrastructure.yml",
+        "discovered_at": "2026-11-16T06:20:08Z",
+        "full_name": "MageLens/MageLens",
+        "description": "Docker-based Magento 2 development environment with PHP, JavaScript and HTML/PHTML template coverage from Cypress or Playwright E2E tests. Supports Luma and Hyva.",
+        "stars": 10
     }
 }
