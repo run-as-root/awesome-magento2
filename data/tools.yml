@@ -130,6 +130,6 @@
   added: "2024-01-01"
 - name: magento.watch
   url: https://magento.watch
-  description: Release dates, end-of-life dates and system requirements for every Magento, Adobe Commerce and Mage-OS version, with a free JSON API.
+  description: Release dates, end-of-life dates and system requirements for every Magento, Adobe Commerce and Mage-OS version, plus security bulletins with fixed-in versions, Quality Patches and upstream fixes per release. Free JSON API and MCP server.
   type: vendor_site
   added: "2026-08-20"
