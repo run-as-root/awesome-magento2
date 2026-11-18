@@ -133,3 +133,8 @@
   description: Release dates, end-of-life dates and system requirements for every Magento, Adobe Commerce and Mage-OS version, with a free JSON API.
   type: vendor_site
   added: "2026-08-20"
+- name: madock
+  url: https://github.com/faradey/madock
+  description: Go CLI for Docker-based Magento 2 development environments — several projects side by side, database import/export, Xdebug, Varnish, snapshots and sync with a remote dev site.
+  type: github_repo
+  added: "2026-10-13"
