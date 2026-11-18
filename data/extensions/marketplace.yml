@@ -1,0 +1,5 @@
+- name: Mercur Magento 2 Connector
+  url: https://github.com/mercurjs/magento2-connector
+  description: Adds third-party seller offers to a Magento 2 or Adobe Commerce store, next to your own products, using a Mercur marketplace backend for sellers, per-seller orders, commissions and payouts.
+  type: github_repo
+  added: "2026-11-02"

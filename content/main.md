@@ -124,6 +124,10 @@ The storefront of Magento 2 can be styled in numerous ways:
 
 {% file=data/extensions/payment.yml parser="AwesomeList\Parser\YamlEntryList" %}
 
+### Marketplace
+
+{% file=data/extensions/marketplace.yml parser="AwesomeList\Parser\YamlEntryList" %}
+
 ### Infrastructure
 
 {% file=data/extensions/infrastructure.yml parser="AwesomeList\Parser\YamlEntryList" %}
