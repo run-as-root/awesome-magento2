@@ -298,6 +298,7 @@ The storefront of Magento 2 can be styled in numerous ways:
 
 - [PAYONE](https://github.com/PAYONE-GmbH/magento-2) 🫡 - PAYONE Payment Integration.
 - [Braintree Payments](https://marketplace.magento.com/paypal-module-braintree.html) - Official Braintree Integration for Magento 2.
+- [Blokbay](https://github.com/blokbay/magento2-crypto-payments) - Non-custodial crypto payments (BTC, USDT, USDC, ETH) paid straight to the merchant's wallet.
 
 <details>
 <summary>🪦 Graveyard — projects no longer recommended</summary>
