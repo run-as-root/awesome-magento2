@@ -320,7 +320,7 @@
         "discovered_at": "2026-09-14T06:27:22Z",
         "full_name": "angeo-dev/module-llms-txt",
         "description": "Make your Magento 2 catalog readable to AI. Generates spec-compliant llms.txt, llms-full.txt, llms.jsonl and on-the-fly Markdown page mirrors so ChatGPT, Claude, Gemini & Perplexity can ingest your store efficiently. Multi-store, Page Builder-aware, large-catalog safe. CLI, cron, admin. Free & MIT.",
-        "stars": 14
+        "stars": 18
     },
     "https://github.com/vuestorefront/magento2": {
         "status": "pending",
@@ -352,7 +352,7 @@
         "discovered_at": "2026-11-02T06:17:26Z",
         "full_name": "mage-os/module-shopping-feed",
         "description": "Product feed generation for Mage-OS and Magento Open Source. Includes Google Shopping, Local Inventory, Promotions, Meta, Microsoft, TikTok, and Pinterest presets, custom mappings, filters, scheduling, FTP/SFTP delivery, and an optional migration companion for Rocket Shopping Feeds.",
-        "stars": 15
+        "stars": 16
     },
     "https://github.com/MageLens/MageLens": {
         "status": "pending",
@@ -360,6 +360,6 @@
         "discovered_at": "2026-11-16T06:20:08Z",
         "full_name": "MageLens/MageLens",
         "description": "Docker-based Magento 2 development environment with PHP, JavaScript and HTML/PHTML template coverage from Cypress or Playwright E2E tests. Supports Luma and Hyva.",
-        "stars": 10
+        "stars": 11
     }
 }
