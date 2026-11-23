@@ -481,6 +481,9 @@ Community members worth following — talks, blog posts, open-source maintenance
 - [Andreas von Studnitz](https://github.com/avstudnitz) - Mage-OS Technical Working Group member; Magento architect at Hyva Themes; 2x Magento Master; formerly co-owner of integer_net.
 - [David Lambauer](https://www.davidlambauer.de) - Vice President of Mage-OS; Adobe Certified Master Architect; creator of Mage-OS DevDocs; founder of run-as-root GmbH.
 - [Fabrizio Balliano](https://fabrizioballiano.com) - Mage-OS Technical Working Group member; release manager for the Mage-OS 2.0 distribution; 5x Magento certified freelance engineer.
+- [Jisse Reitsma](https://www.yireo.com/blog) - Vice President of the Magento Association; 3x Magento Master; founder of Yireo; trainer on Hyva, GraphQL, and Loki Checkout; Mage-OS Open Source Task Force member.
+- [Mark Shust](https://markshust.com/) - Creator of markshust/docker-magento (the most-starred Magento-specific GitHub repo); educator at M.academy with 600+ video lessons.
+- [Noah Oken-Berg](https://www.abovethefray.com) - Chair of the Magento Association Board of Directors; CEO of Above The Fray; focused on community governance and sustainable ecosystem growth.
 - [Peter Jaap Blaakmeer](https://github.com/peterjaap) - CTO at elgentos; Mage-OS founding signatory; prolific open-source contributor to Magento 2 and Mage-OS.
 - [Ryan Hoerr](https://github.com/rhoerr) - Mage-OS board member and Technical Working Group contributor; primary release engineer for Mage-OS distributions throughout 2025–2026; ParadoxLabs.
 - [Sanne Bolkenstein](https://www.hyva.io/about) - Commercial Director and Partner at Hyva Themes; chairs Mage-OS Netherlands.
@@ -491,11 +494,6 @@ Community members worth following — talks, blog posts, open-source maintenance
 
 <details>
 <summary>🪦 Graveyard — projects no longer recommended</summary>
-
-- [Jisse Reitsma](https://www.yireo.com/blog) - Vice President of the Magento Association; 3x Magento Master; founder of Yireo; trainer on Hyva, GraphQL, and Loki Checkout; Mage-OS Open Source Task Force member.
-- [Mark Shust](https://markshust.com/) - Creator of markshust/docker-magento (the most-starred Magento-specific GitHub repo); educator at M.academy with 600+ video lessons.
-- [Noah Oken-Berg](https://www.abovethefray.com) - Chair of the Magento Association Board of Directors; CEO of Above The Fray; focused on community governance and sustainable ecosystem growth.
-
 </details>
 
 ---
