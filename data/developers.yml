@@ -38,6 +38,11 @@
   description: Loyalty and rewards platform with Magento 2 integration (formerly Sweet Tooth).
   type: vendor_site
   added: "2018-01-01"
+- name: Storetown Media
+  url: https://www.storetown-media.de/
+  description: German Magento 2 extension vendor for checkout, B2B, layered navigation and SEO (Luma and Hyva).
+  type: vendor_site
+  added: "2026-11-25"
 - name: Yireo
   url: https://www.yireo.com/
   description: Dutch Magento 2 extension vendor and training provider; Hyva and GraphQL specialist; ExtDN member.

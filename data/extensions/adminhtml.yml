@@ -98,3 +98,8 @@
   description: This module aims to make creating grids and forms in the Magento 2 adminhtml area joyful and fast.
   type: github_repo
   added: "2026-04-20"
+- name: EU Tax Rate Sync
+  url: https://github.com/storetown-media/stm-magento-2-eu-tax-rate-sync
+  description: Keeps EU VAT rates (plus CH, GB, NO) up to date and creates the matching tax rules; rates changed by hand are kept.
+  type: github_repo
+  added: "2026-11-25"
