@@ -3,8 +3,3 @@
   description: Every Magento / Adobe Commerce patch you need all in one place.
   type: vendor_site
   added: "2018-01-01"
-- name: Shop Security Guard
-  url: https://github.com/storetown-media/stm-magento-2-shop-guard
-  description: Blocks StyleSmuggler, PolyShell and TrojanOrder requests, bans attacking IPs and bots, and scans pub/ and the code base for backdoors.
-  type: github_repo
-  added: "2026-11-25"
