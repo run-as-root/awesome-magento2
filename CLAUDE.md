@@ -42,8 +42,9 @@ Extension submissions must meet the quality gates in `contributing.md`: the upst
 
 ## CI
 
-Two pipelines run:
+These pipelines run:
 
+- `.github/workflows/validate.yml` — on every pull request: fails if `README.md` / `events.*` were edited by hand, then runs `composer validate-data`, PHPUnit and `php generate.php`, and writes the rendered README diff to the job summary. PRs opened by the bots with `GITHUB_TOKEN` (candidates, prune) do not trigger it; close and reopen them to get a run.
 - `.github/workflows/regenerate.yml` — regenerates `README.md` from `content/` + `data/` on push to `master`.
 - `.gitlab-ci.yml` — pulls two remote jobs from `run-as-root/gitlab-pipeline-templates`: a markdown spellcheck and `awesome-bot` (link checker).
 

@@ -1,0 +1,66 @@
+name: Validate
+
+on:
+  pull_request:
+    branches: [master]
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+concurrency:
+  group: validate-${{ github.event.pull_request.number || github.ref }}
+  cancel-in-progress: true
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      # On pull_request this checks out the merge commit; HEAD^1 is the base branch tip.
+      - uses: actions/checkout@v7
+        with:
+          fetch-depth: 2
+          persist-credentials: false
+
+      - name: Generated files are not edited by hand
+        if: github.event_name == 'pull_request'
+        run: |
+          edited=$(git diff --name-only HEAD^1 HEAD -- README.md events.ical events.json)
+          for f in $edited; do
+            echo "::error file=$f::$f is generated and overwritten on merge. Add or change the entry in data/**/*.yml instead (see contributing.md)."
+          done
+          test -z "$edited"
+
+      - uses: shivammathur/setup-php@v2
+        with:
+          php-version: '8.3'
+          coverage: none
+          tools: composer:v2
+
+      - run: composer install --no-interaction --no-progress
+
+      - run: composer validate-data
+
+      - run: vendor/bin/phpunit
+
+      - name: Regenerate README + event feeds
+        run: php generate.php
+
+      - name: Preview rendered README changes
+        if: github.event_name == 'pull_request'
+        continue-on-error: true
+        run: |
+          git worktree add -q "$RUNNER_TEMP/base" HEAD^1
+          cp -a vendor "$RUNNER_TEMP/base/"
+          (cd "$RUNNER_TEMP/base" && php generate.php)
+          changes=$(diff -u "$RUNNER_TEMP/base/README.md" README.md | tail -n +3 || true)
+          {
+            echo '### README.md after merge'
+            if [ -z "$changes" ]; then
+              echo 'No rendered changes.'
+            else
+              echo '```diff'
+              echo "$changes"
+              echo '```'
+            fi
+          } >> "$GITHUB_STEP_SUMMARY"
