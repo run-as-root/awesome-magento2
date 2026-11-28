@@ -93,8 +93,8 @@
   description: A Laravel Livewire port for building complex AJAX-based components with ease. Used by the Hyvä Checkout.
   type: github_repo
   added: "2018-01-01"
-- name: Yireo LokiComponents
-  url: https://github.com/yireo/Yireo_LokiComponents
-  description: A library for building AJAX-driven form components with ease. Used by the Yireo Loki Checkout.
+- name: Loki Components
+  url: https://github.com/LokiExtensions/Loki_Components
+  description: A library for building AJAX-driven form components with ease. Used by the Loki Checkout.
   type: github_repo
   added: "2018-01-01"

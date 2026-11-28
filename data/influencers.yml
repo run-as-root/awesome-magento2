@@ -6,7 +6,7 @@
 - name: Jisse Reitsma
   url: https://www.yireo.com/blog
   description: Vice President of the Magento Association; 3x Magento Master; founder of Yireo; trainer on Hyva, GraphQL, and Loki Checkout; Mage-OS Open Source Task Force member.
-  type: blog
+  type: canonical
   added: "2026-06-30"
 - name: Vinai Kopp
   url: https://mage2.tv/
@@ -66,5 +66,5 @@
 - name: Mark Shust
   url: https://markshust.com/
   description: Creator of markshust/docker-magento (the most-starred Magento-specific GitHub repo); educator at M.academy with 600+ video lessons.
-  type: blog
+  type: canonical
   added: "2026-06-30"
